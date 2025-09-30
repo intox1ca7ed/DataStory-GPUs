@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project Title",
+    "section": "",
+    "text": "Code\n# These are the packages used in the report\nlibrary(tidyverse)\nThis slide deck presents the main insights:\nPresentation in standalone browser tab.\nDetailed project report\nThe following headlines are suggestions only."
+  },
+  {
+    "objectID": "index.html#outline",
+    "href": "index.html#outline",
+    "title": "Project Title",
+    "section": "1 Outline",
+    "text": "1 Outline\nWhat questions will the report address and why?\nHow can data be accessed. Code for loading.\nInformation how data is collected. Who collects data.\nBe very brief here, if necessary provide and refer to an appendix. You can also use footnotes.1\nYour report shall follow an “inverted pyramid” story format (see Dykes 2019) .\nRemove all this text and put you content.2\n\n\n\n\n\n\nNote\n\n\n\nIf the final report has sufficient quality, it can be published to the web directly from here. If you plan that, check for licences of usage for figures you use and potential data privacy violations when you have data in the repository before."
+  },
+  {
+    "objectID": "index.html#main-insight",
+    "href": "index.html#main-insight",
+    "title": "Project Title",
+    "section": "2 Main Insight",
+    "text": "2 Main Insight\nBetter give a more substantial title!\nThis should present your main point visually with one (or more) figures.\n\n\nCode\nmpg |&gt; ggplot(aes(displ, hwy)) + geom_point()\n\n\n\n\n\n\n\n\nFigure 1: The figure shows this … (but is just a placeholder).\n\n\n\n\n\nFigure 1 shows the insight.\nRefer here to\n\nAdditional visualizations and analysis below\nInteractive Visualization / Dashboard below"
+  },
+  {
+    "objectID": "index.html#additional-insights",
+    "href": "index.html#additional-insights",
+    "title": "Project Title",
+    "section": "3 Additional insights",
+    "text": "3 Additional insights\nBetter give a more substantial title.\n\n3.1 You may have subsections here or elsewhere\n\n\n3.2 However, subsections usually make sense when there is more than one"
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "Project Title",
+    "section": "4 Conclusion",
+    "text": "4 Conclusion\nTopics like: What have we learned? How does it fit in or help in broader contexts? Any actions recommended? What remains open? What are next steps? Which of these questions are most relevant depends on the type of your project."
+  },
+  {
+    "objectID": "index.html#interactive-visualization-data-dashboard",
+    "href": "index.html#interactive-visualization-data-dashboard",
+    "title": "Project Title",
+    "section": "5 Interactive Visualization / Data Dashboard",
+    "text": "5 Interactive Visualization / Data Dashboard\n\nEither have this here or on another webpage (new quarto file).\nInteractive visualizations may also appear above.\nThe focus here is to provide the reader with sensible ways to explore the data independently. You have to think about what could be of interest."
+  },
+  {
+    "objectID": "index.html#data-source",
+    "href": "index.html#data-source",
+    "title": "Project Title",
+    "section": "6 Data Source",
+    "text": "6 Data Source\n\nIf specific information and details about the data source would be too long in the “Outline” section, put it in an appendix section."
+  },
+  {
+    "objectID": "index.html#other-appendix-sections",
+    "href": "index.html#other-appendix-sections",
+    "title": "Project Title",
+    "section": "7 Other appendix sections",
+    "text": "7 Other appendix sections\n\nDo the same with other text which distracts the reading of the main text."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Project Title",
+    "section": "References",
+    "text": "References\n\n\n\nDykes, Brent. 2019. Effective Data Storytelling: How to Drive Change with Data, Narrative and Visuals. John Wiley & Sons. https://books.google.com?id=rHDDDwAAQBAJ."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Project Title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a footnote, which can be used for more information which maybe a reader.↩︎\nUsing this template is not mandatory.↩︎"
+  },
+  {
+    "objectID": "presentation.html#slide-deck-for-your-presentation",
+    "href": "presentation.html#slide-deck-for-your-presentation",
+    "title": "Data Story Title",
+    "section": "Slide deck for your presentation",
+    "text": "Slide deck for your presentation\nChange this file to become your presentation slide deck.\nThe slide deck which tells the data story with visuals in a narrative structure1.\nSee Effective Data Storytelling, Brent Dykes (2020), Figure 4.3."
+  },
+  {
+    "objectID": "presentation.html#this-deck-is-made-with-quarto-revealjs",
+    "href": "presentation.html#this-deck-is-made-with-quarto-revealjs",
+    "title": "Data Story Title",
+    "section": "This deck is made with quarto revealjs",
+    "text": "This deck is made with quarto revealjs\n\nYou find documentation of how to make revealjs presentations with quarto here: https://quarto.org/docs/presentations/revealjs/\nSkip through the demo presentation and learn from there."
+  },
+  {
+    "objectID": "presentation.html#remove-all-this-content",
+    "href": "presentation.html#remove-all-this-content",
+    "title": "Data Story Title",
+    "section": "Remove all this content …",
+    "text": "Remove all this content …\n… and put your content."
+  }
+]
