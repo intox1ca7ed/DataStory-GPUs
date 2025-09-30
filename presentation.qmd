@@ -1,0 +1,25 @@
+---
+title: "Data Story Title"
+format: 
+  revealjs:
+    slide-number: true
+---
+
+## Slide deck for your presentation
+
+Change this file to become your presentation slide deck. 
+
+The slide deck which tells the data story with visuals in a *narrative structure*^[See *Effective Data Storytelling*, Brent Dykes (2020), Figure 4.3.]. 
+
+
+## This deck is made with quarto revealjs
+
+- You find documentation of how to make revealjs presentations with quarto here:
+<https://quarto.org/docs/presentations/revealjs/>
+- Skip through the demo presentation and learn from there. 
+
+
+## Remove all this content ...
+
+... and put your content. 
+ 

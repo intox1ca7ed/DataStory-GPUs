@@ -1,0 +1,108 @@
+---
+title: "Project Title"
+author: "Your Names"
+format: 
+  html:
+    toc: true                   # This creates the table of context menu
+    toc-depth: 2                # Increase if you want to have subsections in the table of context menu
+    number-sections: true
+    code-fold: true
+    code-tools: true
+bibliography: references.bib
+---
+
+```{r}
+#| label: packages
+#| message: false
+
+# These are the packages used in the report
+library(tidyverse)
+```
+
+
+This slide deck presents the main insights:
+
+```{=html}
+<iframe class="slide-deck" style="border:1px solid lightgray;" width="100%" height="500" src="presentation.html"></iframe>
+```
+
+[Presentation in standalone browser tab.](presentation.html){.internal target="_blank"}
+
+Detailed project report
+
+*The following headlines are suggestions only.*
+
+## Outline
+
+*What questions will the report address and why?*
+
+*How can data be accessed. Code for loading.*
+
+*Information how data is collected. Who collects data.*
+
+*Be very brief here, if necessary provide and refer to an appendix. You can also use footnotes.^[This is a footnote, which can be used for more information which maybe a reader.]*
+
+Your report shall follow an "inverted pyramid" story format [see @Dykes2019EffectiveDataStorytelling] .
+
+Remove all this text and put you content.^[Using this template is not mandatory.]
+
+:::{.callout-note}
+If the final report has sufficient quality, it can be published to the web directly from here. 
+If you plan that, check for licences of usage for figures you use and potential data privacy violations when you have data in the repository before.
+:::
+
+
+## Main Insight
+
+*Better give a more substantial title!*
+
+This should present your main point visually with one (or more) figures.
+
+```{r}
+#| label: fig-mainvisualization
+#| fig-cap: "The figure shows this ... (but is just a placeholder)."
+mpg |> ggplot(aes(displ, hwy)) + geom_point()
+```
+
+@fig-mainvisualization shows the insight.
+
+*Refer here to*
+
+- *Additional visualizations and analysis below*
+- *Interactive Visualization / Dashboard below*
+
+## Additional insights
+
+*Better give a more substantial title.*
+
+### You may have subsections here or elsewhere
+
+### However, subsections usually make sense when there is more than one
+
+## Conclusion
+
+*Topics like: What have we learned? How does it fit in or help in broader contexts? Any actions recommended? What remains open? What are next steps? Which of these questions are most relevant depends on the type of your project.*
+
+## Interactive Visualization / Data Dashboard {.appendix}
+
+*Either have this here or on another webpage (new quarto file).*
+
+*Interactive visualizations may also appear above.* 
+
+*The focus here is to provide the reader with sensible ways to explore the data independently. You have to think about what could be of interest.*
+
+
+
+
+## Data Source {.appendix}
+
+*If specific information and details about the data source would be too long in the "Outline" section, put it in an appendix section.* 
+
+## Other appendix sections {.appendix}
+
+*Do the same with other text which distracts the reading of the main text. *
+
+## References {.unnumbered .appendix}
+
+::: {#refs}
+:::
