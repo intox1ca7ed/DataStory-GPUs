@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "presentation.html#slide-deck-for-your-presentation",
+    "href": "presentation.html#slide-deck-for-your-presentation",
+    "title": "Data Story Title",
+    "section": "Slide deck for your presentation",
+    "text": "Slide deck for your presentation\nChange this file to become your presentation slide deck.\nThe slide deck which tells the data story with visuals in a narrative structure1.\nSee Effective Data Storytelling, Brent Dykes (2020), Figure 4.3."
+  },
+  {
+    "objectID": "presentation.html#this-deck-is-made-with-quarto-revealjs",
+    "href": "presentation.html#this-deck-is-made-with-quarto-revealjs",
+    "title": "Data Story Title",
+    "section": "This deck is made with quarto revealjs",
+    "text": "This deck is made with quarto revealjs\n\nYou find documentation of how to make revealjs presentations with quarto here: https://quarto.org/docs/presentations/revealjs/\nSkip through the demo presentation and learn from there."
+  },
+  {
+    "objectID": "presentation.html#remove-all-this-content",
+    "href": "presentation.html#remove-all-this-content",
+    "title": "Data Story Title",
+    "section": "Remove all this content …",
+    "text": "Remove all this content …\n… and put your content."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Project Title",
@@ -68,26 +89,5 @@
     "title": "Project Title",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThis is a footnote, which can be used for more information which maybe a reader.↩︎\nUsing this template is not mandatory.↩︎"
-  },
-  {
-    "objectID": "presentation.html#slide-deck-for-your-presentation",
-    "href": "presentation.html#slide-deck-for-your-presentation",
-    "title": "Data Story Title",
-    "section": "Slide deck for your presentation",
-    "text": "Slide deck for your presentation\nChange this file to become your presentation slide deck.\nThe slide deck which tells the data story with visuals in a narrative structure1.\nSee Effective Data Storytelling, Brent Dykes (2020), Figure 4.3."
-  },
-  {
-    "objectID": "presentation.html#this-deck-is-made-with-quarto-revealjs",
-    "href": "presentation.html#this-deck-is-made-with-quarto-revealjs",
-    "title": "Data Story Title",
-    "section": "This deck is made with quarto revealjs",
-    "text": "This deck is made with quarto revealjs\n\nYou find documentation of how to make revealjs presentations with quarto here: https://quarto.org/docs/presentations/revealjs/\nSkip through the demo presentation and learn from there."
-  },
-  {
-    "objectID": "presentation.html#remove-all-this-content",
-    "href": "presentation.html#remove-all-this-content",
-    "title": "Data Story Title",
-    "section": "Remove all this content …",
-    "text": "Remove all this content …\n… and put your content."
   }
 ]
