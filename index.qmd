@@ -19,12 +19,11 @@ bibliography: references.bib
 library(tidyverse)
 ```
 
-
 This slide deck presents the main insights:
 
-```{=html}
-<iframe class="slide-deck" style="border:1px solid lightgray;" width="100%" height="500" src="presentation.html"></iframe>
-```
+<iframe class="slide-deck" style="border:1px solid lightgray;" width="100%" height="500" src="presentation.html">
+
+</iframe>
 
 [Presentation in standalone browser tab.](presentation.html){.internal target="_blank"}
 
@@ -40,17 +39,19 @@ Detailed project report
 
 *Information how data is collected. Who collects data.*
 
-*Be very brief here, if necessary provide and refer to an appendix. You can also use footnotes.^[This is a footnote, which can be used for more information which maybe a reader.]*
+*Be very brief here, if necessary provide and refer to an appendix. You can also use footnotes.*[^1]
+
+[^1]: *This is a footnote, which can be used for more information which maybe a reader.*
 
 Your report shall follow an "inverted pyramid" story format [see @Dykes2019EffectiveDataStorytelling] .
 
-Remove all this text and put you content.^[Using this template is not mandatory.]
+Remove all this text and put you content.[^2]
 
-:::{.callout-note}
-If the final report has sufficient quality, it can be published to the web directly from here. 
-If you plan that, check for licences of usage for figures you use and potential data privacy violations when you have data in the repository before.
+[^2]: Using this template is not mandatory.
+
+::: callout-note
+If the final report has sufficient quality, it can be published to the web directly from here. If you plan that, check for licences of usage for figures you use and potential data privacy violations when you have data in the repository before.
 :::
-
 
 ## Main Insight
 
@@ -68,8 +69,8 @@ mpg |> ggplot(aes(displ, hwy)) + geom_point()
 
 *Refer here to*
 
-- *Additional visualizations and analysis below*
-- *Interactive Visualization / Dashboard below*
+-   *Additional visualizations and analysis below*
+-   *Interactive Visualization / Dashboard below*
 
 ## Additional insights
 
@@ -87,20 +88,17 @@ mpg |> ggplot(aes(displ, hwy)) + geom_point()
 
 *Either have this here or on another webpage (new quarto file).*
 
-*Interactive visualizations may also appear above.* 
+*Interactive visualizations may also appear above.*
 
 *The focus here is to provide the reader with sensible ways to explore the data independently. You have to think about what could be of interest.*
 
-
-
-
 ## Data Source {.appendix}
 
-*If specific information and details about the data source would be too long in the "Outline" section, put it in an appendix section.* 
+*If specific information and details about the data source would be too long in the "Outline" section, put it in an appendix section.*
 
 ## Other appendix sections {.appendix}
 
-*Do the same with other text which distracts the reading of the main text. *
+*Do the same with other text which distracts the reading of the main text.*
 
 ## References {.unnumbered .appendix}
 
