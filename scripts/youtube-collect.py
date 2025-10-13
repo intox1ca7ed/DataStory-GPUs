@@ -126,54 +126,89 @@ def build_queries(model, query_terms, synonyms_str):
     return [q for q in queries[:2] if q]
 
 
-def collect_for_model(model, launch_date, query_terms, synonyms="", k=10):
-    after = f"{pd.to_datetime(launch_date) - pd.Timedelta(days=30):%Y-%m-%dT00:00:00Z}"
-    before = f"{pd.to_datetime(launch_date) + pd.Timedelta(days=90):%Y-%m-%dT00:00:00Z}"
+def _time_windows(launch_date):
+    launch = pd.to_datetime(launch_date, errors="coerce")
+    if pd.isna(launch):
+        return [(None, None)]
+    return [
+        (launch - pd.Timedelta(days=30), launch + pd.Timedelta(days=150)),
+        (launch - pd.Timedelta(days=365), launch + pd.Timedelta(days=365)),
+        (None, None),
+    ]
 
-    queries = build_queries(model, query_terms, synonyms or "")
-    rows, seen_vids, channel_counts = [], set(), {}
 
-    candidate_ids = []
-    for idx, q in enumerate(queries):
-        if idx == 1 and len(candidate_ids) >= k * 2:
-            break
-        items = search_videos(q, published_after=after, published_before=before, max_results=50)
-        for it in items:
-            vid = (it.get("id") or {}).get("videoId")
-            if vid:
-                candidate_ids.append(vid)
-        if len(candidate_ids) >= 200:
-            break
+def _format_window(ts):
+    if ts is None:
+        return None
+    return f"{ts:%Y-%m-%dT00:00:00Z}"
 
-    unique_ids = list(dict.fromkeys(candidate_ids))
-    meta = enrich_stats(unique_ids)
 
+def _select_videos(model, meta, k):
+    rows = []
+    channel_counts = {}
+    seen_vids = set()
     for vid, m in sorted(meta.items(), key=lambda kv: -kv[1]["viewCount"]):
         if vid in seen_vids:
             continue
-        text = (m["title"] + " " + m.get("description", ""))[:5000]
+        text = (m.get("title", "") + " " + m.get("description", ""))[:5000]
         try:
-            if detect(text) != "en":
+            if text.strip() and detect(text) != "en":
                 continue
         except Exception:
+            # If detection fails, fall back to accepting the video.
             pass
-        cc = channel_counts.get(m["channelId"], 0)
+        cc = channel_counts.get(m.get("channelId"), 0)
         if cc >= (2 if len(rows) < k else 1):
             continue
 
         rows.append({
             "model": model,
             "video_id": vid,
-            "title": m["title"],
-            "channel_id": m["channelId"],
-            "channel_title": m["channelTitle"],
-            "published_at": m["publishedAt"],
-            "views": m["viewCount"],
+            "title": m.get("title", ""),
+            "channel_id": m.get("channelId", ""),
+            "channel_title": m.get("channelTitle", ""),
+            "published_at": m.get("publishedAt", ""),
+            "views": m.get("viewCount", 0),
         })
-        channel_counts[m["channelId"]] = cc + 1
+        channel_counts[m.get("channelId")] = cc + 1
         seen_vids.add(vid)
         if len(rows) >= k:
             break
+    return rows
+
+
+def collect_for_model(model, launch_date, query_terms, synonyms="", k=10):
+    queries = build_queries(model, query_terms, synonyms or "")
+    candidate_ids = []
+    rows = []
+
+    windows = _time_windows(launch_date)
+    for window_idx, (start_ts, end_ts) in enumerate(windows):
+        published_after = _format_window(start_ts)
+        published_before = _format_window(end_ts)
+
+        for q in queries:
+            items = search_videos(
+                q,
+                published_after=published_after,
+                published_before=published_before,
+                max_results=50,
+            )
+            for it in items:
+                vid = (it.get("id") or {}).get("videoId")
+                if vid:
+                    candidate_ids.append(vid)
+            if len(candidate_ids) >= k * 8:
+                break
+        unique_ids = list(dict.fromkeys(candidate_ids))
+        meta = enrich_stats(unique_ids)
+        rows = _select_videos(model, meta, k)
+
+        if len(rows) >= k or window_idx == len(windows) - 1 or len(candidate_ids) >= k * 8:
+            break
+        # Brief pause before widening window to respect API rate limits slightly.
+        time.sleep(0.1)
+
     return rows
 
 
