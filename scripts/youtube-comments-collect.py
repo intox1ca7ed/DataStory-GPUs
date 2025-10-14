@@ -1,13 +1,3 @@
-"""
-Collect raw YouTube comments for every video currently listed in
-`data-raw/youtube_videos.csv`.
-
-The script relies on `yt-dlp` so no YouTube Data API key is required. Comments
-are written to individual JSONL files under `data-raw/youtube-comments/`, one
-file per video. Each row contains the GPU model together with comment metadata,
-making downstream processing deterministic.
-"""
-
 from __future__ import annotations
 
 import argparse
