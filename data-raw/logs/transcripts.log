@@ -1806,3 +1806,36 @@ ERROR: Did not get any data blocks
 2025-11-04 18:30:49,807 INFO yt-dlp transcripts attempt 1 for zAWY1LjlYPc
 2025-11-04 18:30:52,227 INFO yt-dlp transcripts succeeded for zAWY1LjlYPc on attempt 1
 2025-11-04 18:30:52,228 INFO END transcripts zAWY1LjlYPc status=none duration=2.42s
+2025-11-04 19:46:50,691 INFO START transcripts a5-vCnUC7bM (NVIDIA RTX 2070 Super & 2060 Super Review: Killing Radeon VII)
+2025-11-04 19:46:50,708 INFO yt-dlp transcripts attempt 1 for a5-vCnUC7bM
+2025-11-04 19:46:54,610 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 1)
+2025-11-04 19:46:54,610 INFO Sleeping 5s before retrying a5-vCnUC7bM
+2025-11-04 19:58:31,532 INFO START transcripts a5-vCnUC7bM (NVIDIA RTX 2070 Super & 2060 Super Review: Killing Radeon VII)
+2025-11-04 19:58:31,533 INFO yt-dlp transcripts attempt 1 for a5-vCnUC7bM
+2025-11-04 19:58:34,588 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 1)
+2025-11-04 19:58:34,589 INFO Sleeping 5s before retrying a5-vCnUC7bM
+2025-11-04 19:58:39,591 INFO yt-dlp transcripts attempt 2 for a5-vCnUC7bM
+2025-11-04 19:58:42,914 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 2)
+2025-11-04 19:58:42,914 INFO Sleeping 15s before retrying a5-vCnUC7bM
+2025-11-04 19:58:57,929 INFO yt-dlp transcripts attempt 3 for a5-vCnUC7bM
+2025-11-04 19:59:01,446 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 3)
+2025-11-04 19:59:01,446 INFO Final fallback: auto-subs only for a5-vCnUC7bM
+2025-11-04 19:59:04,728 WARNING yt-dlp transcripts exhausted retries for a5-vCnUC7bM
+2025-11-04 19:59:04,728 INFO END transcripts a5-vCnUC7bM status=error duration=33.20s
+2025-11-04 19:59:14,514 INFO START transcripts bnEPBcCkM2Y (Nvidia’s New SUPER Cards! - RTX 2060 & 2070 SUPER Review)
+2025-11-04 19:59:14,514 INFO yt-dlp transcripts attempt 1 for bnEPBcCkM2Y
+2025-11-04 19:59:17,755 INFO yt-dlp transcripts succeeded for bnEPBcCkM2Y on attempt 1
+2025-11-04 19:59:17,756 INFO END transcripts bnEPBcCkM2Y status=none duration=3.24s
+2025-11-04 19:59:26,015 INFO START transcripts ThfeEjogy4Y (PLEASE Don't Waste Your Money! - Nvidia RTX 3070 Review & Overclocking! (Gameplay Benchmarks))
+2025-11-04 19:59:26,017 INFO yt-dlp transcripts attempt 1 for ThfeEjogy4Y
+2025-11-04 19:59:28,758 INFO yt-dlp transcripts succeeded for ThfeEjogy4Y on attempt 1
+2025-11-04 19:59:28,758 INFO END transcripts ThfeEjogy4Y status=none duration=2.74s
+2025-11-04 19:59:35,353 INFO START transcripts Rnc7uHs1tnw (RX 9070 XT vs RTX 5070 Ti - Big Comparison with New Drivers | 1440p & 4K)
+2025-11-04 19:59:35,354 INFO yt-dlp transcripts attempt 1 for Rnc7uHs1tnw
+2025-11-04 19:59:38,286 INFO yt-dlp transcripts succeeded for Rnc7uHs1tnw on attempt 1
+2025-11-04 19:59:38,286 INFO END transcripts Rnc7uHs1tnw status=none duration=2.93s
+2025-11-04 19:59:45,754 INFO START transcripts zAWY1LjlYPc (Intel ARC A310 vs RX 6400 - Test in 7 Games)
+2025-11-04 19:59:45,755 INFO yt-dlp transcripts attempt 1 for zAWY1LjlYPc
+2025-11-04 19:59:48,178 INFO yt-dlp transcripts succeeded for zAWY1LjlYPc on attempt 1
+2025-11-04 19:59:48,179 INFO END transcripts zAWY1LjlYPc status=none duration=2.42s
+2025-11-04 19:59:48,220 INFO Summary: total=5, transcripts_ok=0, transcripts_none=4, transcripts_error=1
