@@ -1,0 +1,1029 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:03.450
+- Allow me to put on my
+shill hat for a moment.
+
+00:00:03.450 --> 00:00:05.160
+Everyone else is gonna tell you
+
+00:00:05.160 --> 00:00:08.820
+what's wrong with Intel's Arc A700 GPUs.
+
+00:00:08.820 --> 00:00:11.670
+And, we're gonna need
+to talk about that too
+
+00:00:11.670 --> 00:00:15.180
+because it's a pretty sizable list.
+
+00:00:15.180 --> 00:00:18.750
+I mean, we've got the A770 losing
+
+00:00:18.750 --> 00:00:22.410
+to a card from almost
+10 years ago in CS:GO?
+
+00:00:22.410 --> 00:00:24.240
+How embarrassing.
+
+00:00:24.240 --> 00:00:26.460
+But what's this?
+
+00:00:26.460 --> 00:00:30.300
+It beats and NVIDIA's 3060 in Fortnite.
+
+00:00:30.300 --> 00:00:35.070
+It absolutely murders the
+Radeon 6600 in Ray Trace games,
+
+00:00:35.070 --> 00:00:39.417
+and is available starting at
+just around its $289 msrp.
+
+00:00:41.490 --> 00:00:44.580
+Something I will never
+take for granted again.
+
+00:00:44.580 --> 00:00:46.170
+So it's with that in mind
+
+00:00:46.170 --> 00:00:49.353
+that I want to explore
+a different perspective.
+
+00:00:50.670 --> 00:00:53.430
+One where the benefits of competition
+
+00:00:53.430 --> 00:00:55.890
+may outweigh the risk of buying
+
+00:00:55.890 --> 00:00:58.860
+into a first generation product.
+
+00:00:58.860 --> 00:01:02.370
+That's right. It is
+time to get blue pilled
+
+00:01:02.370 --> 00:01:05.070
+with me folks. Or not that one.
+
+00:01:05.070 --> 00:01:07.140
+I meant like Intel Blue.
+
+00:01:07.140 --> 00:01:11.250
+Though I am pretty excited right now.
+
+00:01:11.250 --> 00:01:13.710
+Excited to tell you about our sponsor.
+
+00:01:13.710 --> 00:01:17.040
+- Ridge. Ridge Wallet has
+redefined the traditional wallet
+
+00:01:17.040 --> 00:01:20.310
+with its compact frame and
+R-F-I-D blocking plates.
+
+00:01:20.310 --> 00:01:21.690
+Because the bulge in your pants,
+
+00:01:21.690 --> 00:01:23.310
+shouldn't be from your wallet.
+
+00:01:23.310 --> 00:01:25.410
+Use offer code Linus to save 10%
+
+00:01:25.410 --> 00:01:27.676
+and get free worldwide shipping.
+
+00:01:27.676 --> 00:01:29.934
+(machine beeping)
+
+00:01:29.934 --> 00:01:32.517
+(upbeat music)
+
+00:01:36.480 --> 00:01:40.740
+- Intel's A750 and A770
+GPUs are designed for gaming
+
+00:01:40.740 --> 00:01:45.330
+at either 1440p with medium
+details or 1080p Ultra.
+
+00:01:45.330 --> 00:01:48.660
+And they've got NVIDIA'S RTX 3060 directly
+
+00:01:48.660 --> 00:01:52.860
+in their crosshairs, or
+at least now they do.
+
+00:01:52.860 --> 00:01:54.990
+Their transistor count
+and power consumption
+
+00:01:54.990 --> 00:01:58.440
+are both more comparable to the RTX 3070
+
+00:01:58.440 --> 00:02:01.560
+which would indicate that
+Intel fell well short
+
+00:02:01.560 --> 00:02:03.540
+of their original performance targets,
+
+00:02:03.540 --> 00:02:07.260
+and is now trying to make
+lemonade out of these lemons.
+
+00:02:07.260 --> 00:02:09.330
+But that's not our problem.
+
+00:02:09.330 --> 00:02:12.690
+And from a consumer
+standpoint, they kind of did.
+
+00:02:12.690 --> 00:02:16.500
+Because at $289, the A750
+
+00:02:16.500 --> 00:02:21.500
+may just be the most silicon
+per dollar ever in a GPU.
+
+00:02:21.750 --> 00:02:24.630
+And there are situations
+where it really shows.
+
+00:02:24.630 --> 00:02:27.570
+Check out this performance
+in Direct X12 games.
+
+00:02:27.570 --> 00:02:31.020
+1080p High has NVIDIA's 3060 taking nearly
+
+00:02:31.020 --> 00:02:32.910
+every game by a thin margin.
+
+00:02:32.910 --> 00:02:35.066
+But when the resolution gets cranked 1440p
+
+00:02:35.066 --> 00:02:39.087
+at medium details, it's
+Intel racking up small wins
+
+00:02:39.087 --> 00:02:41.310
+nearly across the board.
+
+00:02:41.310 --> 00:02:46.260
+And this is against a card
+that costs $50 to $100 more.
+
+00:02:46.260 --> 00:02:49.740
+Even looking closer, the Arc
+cards continue to impress.
+
+00:02:49.740 --> 00:02:54.330
+5% and 1% lows are very
+comparable to the RTX 3060
+
+00:02:54.330 --> 00:02:57.360
+which means you won't
+feel any extra hitching
+
+00:02:57.360 --> 00:02:59.790
+or stuttering in heavy firefights.
+
+00:02:59.790 --> 00:03:03.420
+And while I was concerned
+that Arc might fall flat
+
+00:03:03.420 --> 00:03:05.340
+on its face in a Horizon system,
+
+00:03:05.340 --> 00:03:07.080
+that wasn't the case at all.
+
+00:03:07.080 --> 00:03:08.970
+Oh, and as an extra bonus,
+
+00:03:08.970 --> 00:03:13.350
+Arc murders the more
+price comparable RTX 3050.
+
+00:03:13.350 --> 00:03:14.883
+Isn't competition great?
+
+00:03:16.770 --> 00:03:18.990
+This is the point in the
+video where Intel's employees
+
+00:03:18.990 --> 00:03:21.810
+and shareholders might
+wanna stop watching.
+
+00:03:21.810 --> 00:03:23.310
+Because we're about to look at some games
+
+00:03:23.310 --> 00:03:26.400
+that aren't Direct X12 or Vulcan.
+
+00:03:26.400 --> 00:03:27.930
+In Shadow of the Tomb Raider,
+
+00:03:27.930 --> 00:03:32.930
+Arc's performance falls to
+nearly half in DirectX 11. Ouch!
+
+00:03:33.270 --> 00:03:36.810
+And CS:GO, a DirectX 9
+title where Arc feels
+
+00:03:36.810 --> 00:03:40.500
+like a totally different card
+every time you start it up.
+
+00:03:40.500 --> 00:03:44.670
+With the A750 beating the A770 sometimes,
+
+00:03:44.670 --> 00:03:48.480
+1440p results being
+higher than 1080p results
+
+00:03:48.480 --> 00:03:51.960
+and, oh by the way, no matter
+which card you're looking at
+
+00:03:51.960 --> 00:03:54.540
+they get absolutely wrecked in performance
+
+00:03:54.540 --> 00:03:59.340
+by the 3050 flagship
+GPU from nine years ago.
+
+00:03:59.340 --> 00:04:02.580
+And probably a competitive Abacus user.
+
+00:04:02.580 --> 00:04:05.700
+I mean, what happened to
+crush Intel's performance
+
+00:04:05.700 --> 00:04:07.590
+in these older titles?
+
+00:04:07.590 --> 00:04:09.300
+Well in a nutshell,
+
+00:04:09.300 --> 00:04:14.300
+Arc isn't actually running
+DirectX 9 games in DirectX 9.
+
+00:04:14.640 --> 00:04:17.158
+Instead, they're using a DirectX 9
+
+00:04:17.158 --> 00:04:20.010
+to DirectX 12 translation layer.
+
+00:04:20.010 --> 00:04:22.680
+This works because you can turn basically
+
+00:04:22.680 --> 00:04:26.760
+any DX9 command into a
+string of DX12 commands
+
+00:04:26.760 --> 00:04:29.760
+which is great for compatibility.
+
+00:04:29.760 --> 00:04:34.760
+But in the process you are
+adding a buttload of CPU overhead
+
+00:04:34.800 --> 00:04:38.070
+so much that any small background task
+
+00:04:38.070 --> 00:04:41.040
+can significantly affect your frame rates.
+
+00:04:41.040 --> 00:04:44.250
+Now, because of the extremely limited time
+
+00:04:44.250 --> 00:04:45.870
+that we were given to benchmark Arc
+
+00:04:45.870 --> 00:04:47.070
+before the embargo lift,
+
+00:04:47.070 --> 00:04:50.250
+we weren't able to test a
+wide variety of older games.
+
+00:04:50.250 --> 00:04:52.860
+This is actually a strategy
+that we've seen often
+
+00:04:52.860 --> 00:04:56.640
+when a manufacturer doesn't
+want you to look too closely.
+
+00:04:56.640 --> 00:04:58.650
+Fortunately, we have a solution to that.
+
+00:04:58.650 --> 00:05:02.400
+Tomorrow we are gonna be live
+for hours taking requests
+
+00:05:02.400 --> 00:05:04.950
+from our community and gaming side by side
+
+00:05:04.950 --> 00:05:08.040
+on the Arc A770 and RTX 3060.
+
+00:05:08.040 --> 00:05:10.680
+So you can see how your
+favorite games run,
+
+00:05:10.680 --> 00:05:12.930
+or if they run at all.
+
+00:05:12.930 --> 00:05:15.480
+Because nothing at this
+point is a guarantee.
+
+00:05:15.480 --> 00:05:18.390
+Intel told us point blank that they knew
+
+00:05:18.390 --> 00:05:21.360
+about the performance challenges
+of Arc in older games.
+
+00:05:21.360 --> 00:05:22.770
+And they had a strategy
+
+00:05:22.770 --> 00:05:25.440
+where they were gonna price
+this generation of cards
+
+00:05:25.440 --> 00:05:28.920
+according to Hollywood perform
+in a worst case scenario
+
+00:05:28.920 --> 00:05:31.710
+or in Tier 3 games.
+
+00:05:31.710 --> 00:05:35.220
+And I'm not gonna go as far
+as to say that Intel lied
+
+00:05:35.220 --> 00:05:38.910
+which would imply premeditated
+intention to deceive.
+
+00:05:38.910 --> 00:05:42.720
+But what I do have to say is
+that these CS:GO results show
+
+00:05:42.720 --> 00:05:45.930
+that they did not follow through on this.
+
+00:05:45.930 --> 00:05:48.030
+I mean, charitably, we could say
+
+00:05:48.030 --> 00:05:51.773
+that the Arc gets half of the
+performance of an RTX 3060
+
+00:05:51.773 --> 00:05:54.720
+though at 10 UDP it's more like a third.
+
+00:05:54.720 --> 00:05:59.400
+So even if we're looking
+at a $400 RTX 3060,
+
+00:05:59.400 --> 00:06:04.400
+these A700 series GPUs
+should be at most 200 bucks.
+
+00:06:04.890 --> 00:06:07.680
+But if we go back to that
+dye size conversation,
+
+00:06:07.680 --> 00:06:12.030
+I mean remember this is a GPU
+that is larger than a 3070
+
+00:06:12.030 --> 00:06:15.300
+and built on TSMCs
+cutting edge and six node
+
+00:06:15.300 --> 00:06:17.280
+rather than an Intel's own fab.
+
+00:06:17.280 --> 00:06:20.940
+So they can't exactly
+give themselves a friends
+
+00:06:20.940 --> 00:06:22.710
+and neighbors discount on the fabbing.
+
+00:06:22.710 --> 00:06:24.060
+So if they went any lower,
+
+00:06:24.060 --> 00:06:27.870
+they'd likely be losing money
+on every card they sold.
+
+00:06:27.870 --> 00:06:29.940
+And it gets even worse.
+
+00:06:29.940 --> 00:06:32.880
+Unfortunately for Intel, who's
+trying to position themselves
+
+00:06:32.880 --> 00:06:36.510
+as the scrappy underdog
+undercutting videos
+
+00:06:36.510 --> 00:06:38.700
+monopolistic pricing,
+
+00:06:38.700 --> 00:06:41.310
+we already have scrappy underdog at home.
+
+00:06:41.310 --> 00:06:46.310
+It's AMD and their Radeon
+6600 goes for about 250 bucks
+
+00:06:46.560 --> 00:06:50.610
+and is able to truly trade
+blows with the RTX 3060
+
+00:06:50.610 --> 00:06:55.610
+without the in specific
+DirectX 12 titles fine print.
+
+00:06:55.920 --> 00:06:59.340
+And although AMDs software
+hasn't always been fantastic
+
+00:06:59.340 --> 00:07:01.650
+if our community feedback
+has anything to go by,
+
+00:07:01.650 --> 00:07:04.320
+the last couple of years have
+been a real turning point.
+
+00:07:04.320 --> 00:07:07.800
+And their RDNA 2 cards
+have aged like fine wine,
+
+00:07:07.800 --> 00:07:10.800
+getting better with
+each new driver update.
+
+00:07:10.800 --> 00:07:13.710
+I would hope that the
+same will happen for Arc.
+
+00:07:13.710 --> 00:07:16.290
+And we actually have
+seen a lot of improvement
+
+00:07:16.290 --> 00:07:17.640
+since its first outing.
+
+00:07:17.640 --> 00:07:20.130
+Arc was actually impressively stable
+
+00:07:20.130 --> 00:07:22.800
+for our first gen product
+throughout our testing.
+
+00:07:22.800 --> 00:07:25.200
+But when it comes to raw performance,
+
+00:07:25.200 --> 00:07:27.510
+there are clearly some problems here
+
+00:07:27.510 --> 00:07:30.090
+that can't be fixed without new silicon.
+
+00:07:30.090 --> 00:07:33.180
+Like Intel's reliance on Resizable BAR.
+
+00:07:33.180 --> 00:07:35.130
+ReBAR, as we've started calling it,
+
+00:07:35.130 --> 00:07:37.560
+is a feature that allows for much larger,
+
+00:07:37.560 --> 00:07:40.110
+more efficient data dumps between the GPU
+
+00:07:40.110 --> 00:07:41.550
+and the system memory.
+
+00:07:41.550 --> 00:07:44.400
+It's only available on systems
+from the last few years
+
+00:07:44.400 --> 00:07:47.160
+but for most people that's
+not really a huge deal.
+
+00:07:47.160 --> 00:07:50.730
+Because performance on AMD
+and NVIDIA cards only improves
+
+00:07:50.730 --> 00:07:55.730
+by anywhere from 1% to at most about 10%.
+
+00:07:55.798 --> 00:07:57.390
+For Intel, on the other hand,
+
+00:07:57.390 --> 00:08:00.540
+ReBAR is basically a necessity.
+
+00:08:00.540 --> 00:08:02.910
+Performance can end up so bad without it
+
+00:08:02.910 --> 00:08:05.700
+that Intel said in
+their own press briefing
+
+00:08:05.700 --> 00:08:10.050
+that if you don't have it
+you might as well get a 3060.
+
+00:08:10.050 --> 00:08:12.810
+With this in mind then, we
+point blank asked Intel,
+
+00:08:12.810 --> 00:08:17.810
+why the heck would anybody buy
+an Arc GPU over the RX 6600?
+
+00:08:18.270 --> 00:08:19.290
+To which they replied,
+
+00:08:19.290 --> 00:08:24.270
+that the RX 6600 doesn't have
+feature parity with the A750.
+
+00:08:24.270 --> 00:08:27.360
+When compared to Radeon
+6000, Intel claimed,
+
+00:08:27.360 --> 00:08:30.690
+Arc has much better rate
+tracing, AI acceleration,
+
+00:08:30.690 --> 00:08:33.480
+and media encoders that make
+it a much closer competitor
+
+00:08:33.480 --> 00:08:35.290
+to the RTX 3060.
+
+00:08:35.290 --> 00:08:39.030
+And okay, yeah. If you
+care about those things,
+
+00:08:39.030 --> 00:08:41.670
+they actually have a pretty good point.
+
+00:08:41.670 --> 00:08:42.900
+In Ray Tracing titles
+
+00:08:42.900 --> 00:08:46.860
+The A770 is a tiny bit
+behind the RTX 3060.
+
+00:08:46.860 --> 00:08:48.240
+And in Shadow of the Tomb Raider,
+
+00:08:48.240 --> 00:08:52.170
+Intel's Xe Super Sampling
+or XeSS ended up performing
+
+00:08:52.170 --> 00:08:55.230
+very similarly to NVIDIA's DLSS 2.
+
+00:08:55.230 --> 00:08:58.770
+So yes, Intel. You do
+very much have a leg up
+
+00:08:58.770 --> 00:09:02.580
+on AMD in 100% of the Strand
+type games on the market
+
+00:09:02.580 --> 00:09:07.140
+along with the other 20 games
+that actually support XeSS.
+
+00:09:07.140 --> 00:09:09.240
+But it's clear you'll
+need to pull some tricks
+
+00:09:09.240 --> 00:09:10.950
+out of your sleeves to get game developers
+
+00:09:10.950 --> 00:09:13.440
+to adopt XeSS more broadly.
+
+00:09:13.440 --> 00:09:14.640
+That sleeve trick, by the way,
+
+00:09:14.640 --> 00:09:18.330
+is easy on our Short Circuit
+hoodie, ltt store.com.
+
+00:09:18.330 --> 00:09:20.310
+It's not just game super sampling either.
+
+00:09:20.310 --> 00:09:22.830
+If you care about AI
+performance more generally,
+
+00:09:22.830 --> 00:09:26.190
+Arc is kind of excellent and here's why.
+
+00:09:26.190 --> 00:09:29.130
+Traditionally, matrix
+operations are done using a MAC,
+
+00:09:29.130 --> 00:09:31.650
+or a multiply, accumulate, combine.
+
+00:09:31.650 --> 00:09:34.050
+Which is okay at traditional workloads,
+
+00:09:34.050 --> 00:09:36.150
+but can be pretty slow for AI.
+
+00:09:36.150 --> 00:09:38.580
+On integrated graphics,
+Intel has a fancier way
+
+00:09:38.580 --> 00:09:42.630
+to MAC called DP4A where
+it takes a 32-bit register
+
+00:09:42.630 --> 00:09:45.090
+and splits it into 8-bit chunks,
+
+00:09:45.090 --> 00:09:47.250
+allowing for four parallel operations
+
+00:09:47.250 --> 00:09:48.690
+to be performed at once,
+
+00:09:48.690 --> 00:09:51.750
+improving throughput by about four times.
+
+00:09:51.750 --> 00:09:55.140
+The full-fat Arc cards like the A750,
+
+00:09:55.140 --> 00:09:58.170
+take that to the next level with XMX
+
+00:09:58.170 --> 00:10:01.290
+which allows you to do
+multiple multiply accumulates
+
+00:10:01.290 --> 00:10:03.450
+in parallel, which can improve throughput
+
+00:10:03.450 --> 00:10:07.290
+by up to 16 times in theory.
+
+00:10:07.290 --> 00:10:11.760
+And in practice where the
+A770 absolutely slaughtered
+
+00:10:11.760 --> 00:10:14.280
+the competition in Topaz Video Enhanced AI
+
+00:10:14.280 --> 00:10:16.920
+without running into any of
+the issues that we experienced
+
+00:10:16.920 --> 00:10:19.290
+in our A370 M review.
+
+00:10:19.290 --> 00:10:23.550
+Intel Arc also supports NextGen
+AV1 encoding and decoding,
+
+00:10:23.550 --> 00:10:25.980
+which is particularly
+beneficial for streamers
+
+00:10:25.980 --> 00:10:27.960
+due to its much higher image quality
+
+00:10:27.960 --> 00:10:30.840
+at low bit rates compared to H.264.
+
+00:10:30.840 --> 00:10:32.430
+We actually have a video coming up
+
+00:10:32.430 --> 00:10:35.370
+that discusses using a low end Arc GPU
+
+00:10:35.370 --> 00:10:38.220
+as kind of an encoding co-processor.
+
+00:10:38.220 --> 00:10:42.058
+If you don't wanna
+spend $900 on an RTX 47,
+
+00:10:42.058 --> 00:10:43.650
+excuse me, sorry.
+
+00:10:43.650 --> 00:10:46.620
+I mean 4080 12 gig.
+
+00:10:46.620 --> 00:10:51.480
+Unfortunately, in more traditional
+H.264 and H.265 encoding,
+
+00:10:51.480 --> 00:10:55.110
+the RTX 3060 is able to handily embarrass,
+
+00:10:55.110 --> 00:10:57.300
+even the top tier A770.
+
+00:10:57.300 --> 00:10:59.940
+And the same goes for Blender rendering.
+
+00:10:59.940 --> 00:11:01.980
+Though as a consolation prize,
+
+00:11:01.980 --> 00:11:05.400
+Intel was at least able to
+beat the 3050 in Blender
+
+00:11:05.400 --> 00:11:08.790
+while AMD continued to make
+its usual excellent case
+
+00:11:08.790 --> 00:11:12.480
+for never using AMD if
+you're a Blender artist.
+
+00:11:12.480 --> 00:11:15.600
+Intel also made a good case
+for not using Arc on Linux
+
+00:11:15.600 --> 00:11:16.980
+for the foreseeable future.
+
+00:11:16.980 --> 00:11:19.440
+Sorry guys. I know that
+you had high hopes,
+
+00:11:19.440 --> 00:11:23.340
+but currently Arc only
+supports Kernel Version 6.
+
+00:11:23.340 --> 00:11:25.500
+And Intel has said that they do not plan
+
+00:11:25.500 --> 00:11:27.210
+on supporting Version 5.
+
+00:11:27.210 --> 00:11:30.210
+Meaning that every stable version of Linux
+
+00:11:30.210 --> 00:11:31.980
+is currently not supported.
+
+00:11:31.980 --> 00:11:33.090
+To put this in perspective
+
+00:11:33.090 --> 00:11:34.890
+for the non Linux folks out there,
+
+00:11:34.890 --> 00:11:37.410
+this is basically like
+Intel launching a product
+
+00:11:37.410 --> 00:11:40.293
+but only having drivers for Windows 12.
+
+00:11:41.490 --> 00:11:43.500
+Oh, one thing I haven't mentioned yet
+
+00:11:43.500 --> 00:11:45.390
+is that there are both 16 gig
+
+00:11:45.390 --> 00:11:47.640
+and 8 gig versions of the A770.
+
+00:11:47.640 --> 00:11:49.590
+But the reason I didn't mention that
+
+00:11:49.590 --> 00:11:53.190
+is that Intel's only doing
+a small run of 16 gig cards
+
+00:11:53.190 --> 00:11:57.120
+and the A750 is the far more
+compelling option anyway
+
+00:11:57.120 --> 00:12:01.260
+at $289 for nearly the same performance.
+
+00:12:01.260 --> 00:12:02.910
+Now, thank you for that.
+
+00:12:02.910 --> 00:12:05.550
+I'm going to do something
+that might surprise you.
+
+00:12:05.550 --> 00:12:09.480
+I'm gonna ask you, you fine
+viewer of Linus Tech Tips.
+
+00:12:09.480 --> 00:12:13.290
+You savvy source of tech support
+for your friends and family
+
+00:12:13.290 --> 00:12:17.340
+to seriously consider
+Arc for your next GPU.
+
+00:12:17.340 --> 00:12:19.830
+Because somebody needs to do it,
+
+00:12:19.830 --> 00:12:21.120
+and it can't be your friend
+
+00:12:21.120 --> 00:12:23.310
+who's shopping for prebuilt right now.
+
+00:12:23.310 --> 00:12:26.670
+You do not wanna help them
+troubleshoot random edge cases
+
+00:12:26.670 --> 00:12:30.270
+on this thing, but somebody has to do it.
+
+00:12:30.270 --> 00:12:32.790
+Because the last few
+years have made it clear
+
+00:12:32.790 --> 00:12:35.760
+that NVIDIA has no qualms
+about gouging their customers
+
+00:12:35.760 --> 00:12:39.330
+when there's a shortage or no shortage.
+
+00:12:39.330 --> 00:12:40.980
+And the thing is that,
+
+00:12:40.980 --> 00:12:43.290
+everyone says they want more competition.
+
+00:12:43.290 --> 00:12:46.770
+But then they go ahead and
+just buy the NVIDIA GPU
+
+00:12:46.770 --> 00:12:49.980
+and hey thanks AMD for
+keeping Team Green Honest.
+
+00:12:49.980 --> 00:12:53.310
+Glad you exist, except when you
+don't keep Team Green Honest
+
+00:12:53.310 --> 00:12:56.400
+because you also like
+to jack up your prices
+
+00:12:56.400 --> 00:12:58.080
+and sell the crypto miners.
+
+00:12:58.080 --> 00:13:00.300
+So there it is.
+
+00:13:00.300 --> 00:13:01.950
+If you're the technical type
+
+00:13:01.950 --> 00:13:04.500
+and don't mind rolling
+the dice once in a while,
+
+00:13:04.500 --> 00:13:07.290
+I'm asking you to give Intel Arc a shot.
+
+00:13:07.290 --> 00:13:09.360
+You might not get as many FPS,
+
+00:13:09.360 --> 00:13:10.770
+but I think it's safe to say
+
+00:13:10.770 --> 00:13:13.230
+you'll have a more interesting
+hardware experience
+
+00:13:13.230 --> 00:13:14.940
+than a 3060 owner will.
+
+00:13:14.940 --> 00:13:16.980
+You can even over clock the thing
+
+00:13:16.980 --> 00:13:19.530
+or you could just ignore my plea
+
+00:13:19.530 --> 00:13:21.660
+and wait for AMD's RDNA three to drop.
+
+00:13:21.660 --> 00:13:23.640
+So you can pick up a GPU that was designed
+
+00:13:23.640 --> 00:13:26.310
+to take on NVIDIA's 4000 series
+
+00:13:26.310 --> 00:13:29.373
+instead of one that failed
+to take on the 3070.
+
+00:13:30.210 --> 00:13:32.370
+Just like I failed to
+segue to our sponsor.
+
+00:13:32.370 --> 00:13:33.270
+Nexigo.
+
+00:13:33.270 --> 00:13:34.260
+If you're working from home
+
+00:13:34.260 --> 00:13:35.520
+and are in need of a new webcam,
+
+00:13:35.520 --> 00:13:37.680
+Nexigo has a wide variety to choose from
+
+00:13:37.680 --> 00:13:39.900
+to keep you looking sharp
+on your conference calls.
+
+00:13:39.900 --> 00:13:42.330
+Whether you're on a budget
+and need high quality video
+
+00:13:42.330 --> 00:13:44.550
+or you just want the best possible webcam
+
+00:13:44.550 --> 00:13:45.510
+regardless of the price,
+
+00:13:45.510 --> 00:13:47.580
+their selection of webcams
+and webcam accessories
+
+00:13:47.580 --> 00:13:49.440
+will help you look and sound your best.
+
+00:13:49.440 --> 00:13:51.210
+Even if you're looking for
+something more in the middle.
+
+00:13:51.210 --> 00:13:52.530
+Nexigo has you covered.
+
+00:13:52.530 --> 00:13:54.600
+So take your webcam set
+up to the next level
+
+00:13:54.600 --> 00:13:57.630
+and get in Nexigo webcam
+using the link down below.
+
+00:13:57.630 --> 00:13:58.740
+If you guys enjoyed this video,
+
+00:13:58.740 --> 00:14:01.170
+you're gonna wanna check
+out our unboxing of the A770
+
+00:14:01.170 --> 00:14:02.220
+over on the Short Circuit channel.
+
+00:14:02.220 --> 00:14:03.330
+We get into a little bit more depth
+
+00:14:03.330 --> 00:14:05.520
+about the different
+kinds of connectors on it
+
+00:14:05.520 --> 00:14:06.570
+and all that kind of good stuff.
+
+00:14:06.570 --> 00:14:07.820
+Show the RGB lighting up.
+

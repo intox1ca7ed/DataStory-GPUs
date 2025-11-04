@@ -1,0 +1,24 @@
+video_id,url,gpu_model,brand,video_title,status_comments,status_transcripts,comments_path,transcripts_dir,info_path,error_message,started_at,finished_at,elapsed_sec,num_transcript_files
+a5-vCnUC7bM,https://www.youtube.com/watch?v=a5-vCnUC7bM,RTX 2060 Super,NVIDIA,NVIDIA RTX 2070 Super & 2060 Super Review: Killing Radeon VII,ok,error,C:\PythonProjects\DataStory-GPUs\data-raw\comments\a5-vCnUC7bM.comments.json,C:\PythonProjects\DataStory-GPUs\data-raw\transcripts,C:\PythonProjects\DataStory-GPUs\data-raw\info\a5-vCnUC7bM.info.json,"transcripts: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] a5-vCnUC7bM: nsig extraction failed: Some formats may be missing
+         n = U9Zu-Yz6Ol7NXv9BLkq ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] a5-vCnUC7bM: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] a5-vCnUC7bM: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WA | transcripts: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+WARNING: [youtube] a5-vCnUC7bM: nsig extraction failed: Some formats may be missing
+         n = kHtIdRoLtS_uQ7LqsV5 ; player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+WARNING: [youtube] a5-vCnUC7bM: nsig extraction failed: Some formats may be missing
+         n = on5XGT3kBXSyhzztUJa ; player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+WARNING: [youtube] a5-vCnUC7bM: nsig extraction failed: Some formats may be missing
+         n = 73ebV02o6sa3Gt5HX6G ; player = https://w",2025-11-04T10:30:11.531642+00:00,2025-11-04T10:30:11.540849+00:00,0.01,0
+bnEPBcCkM2Y,https://www.youtube.com/watch?v=bnEPBcCkM2Y,RTX 2070 Super,NVIDIA,Nvidia’s New SUPER Cards! - RTX 2060 & 2070 SUPER Review,ok,none,C:\PythonProjects\DataStory-GPUs\data-raw\comments\bnEPBcCkM2Y.comments.json,C:\PythonProjects\DataStory-GPUs\data-raw\transcripts,C:\PythonProjects\DataStory-GPUs\data-raw\info\bnEPBcCkM2Y.info.json,,2025-11-04T10:30:26.563443+00:00,2025-11-04T10:30:26.593080+00:00,0.03,0
+ThfeEjogy4Y,https://www.youtube.com/watch?v=ThfeEjogy4Y,RTX 3070 Ti,NVIDIA,PLEASE Don't Waste Your Money! - Nvidia RTX 3070 Review & Overclocking! (Gameplay Benchmarks),ok,none,C:\PythonProjects\DataStory-GPUs\data-raw\comments\ThfeEjogy4Y.comments.json,C:\PythonProjects\DataStory-GPUs\data-raw\transcripts,C:\PythonProjects\DataStory-GPUs\data-raw\info\ThfeEjogy4Y.info.json,,2025-11-04T10:31:37.923642+00:00,2025-11-04T10:31:37.929048+00:00,0.01,0
+Rnc7uHs1tnw,https://www.youtube.com/watch?v=Rnc7uHs1tnw,Radeon RX 9070 XT,AMD,RX 9070 XT vs RTX 5070 Ti - Big Comparison with New Drivers | 1440p & 4K,ok,none,C:\PythonProjects\DataStory-GPUs\data-raw\comments\Rnc7uHs1tnw.comments.json,C:\PythonProjects\DataStory-GPUs\data-raw\transcripts,C:\PythonProjects\DataStory-GPUs\data-raw\info\Rnc7uHs1tnw.info.json,,2025-11-04T10:39:08.774428+00:00,2025-11-04T10:39:08.780983+00:00,0.01,0
+zAWY1LjlYPc,https://www.youtube.com/watch?v=zAWY1LjlYPc,Arc A310,INTEL,Intel ARC A310 vs RX 6400 - Test in 7 Games,ok,none,C:\PythonProjects\DataStory-GPUs\data-raw\comments\zAWY1LjlYPc.comments.json,C:\PythonProjects\DataStory-GPUs\data-raw\transcripts,C:\PythonProjects\DataStory-GPUs\data-raw\info\zAWY1LjlYPc.info.json,,2025-11-04T10:39:21.674485+00:00,2025-11-04T10:39:21.675509+00:00,0.0,0

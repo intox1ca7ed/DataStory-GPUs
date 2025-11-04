@@ -1,0 +1,956 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.210 --> 00:00:03.690
+- I want to help you, AMD, free of charge.
+
+00:00:03.690 --> 00:00:05.850
+Just drop by the lab and I'm gonna have
+
+00:00:05.850 --> 00:00:08.820
+the team show you how to benchmark a GPU
+
+00:00:08.820 --> 00:00:11.940
+so then you can choose a price
+that reflects its performance
+
+00:00:11.940 --> 00:00:16.170
+because, frankly, you guys
+are all over the road here.
+
+00:00:16.170 --> 00:00:17.850
+The RX 7600,
+
+00:00:17.850 --> 00:00:21.060
+the card you're launching
+today manages to get handily
+
+00:00:21.060 --> 00:00:22.943
+outclassed by your own products.
+
+00:00:22.943 --> 00:00:23.776
+(record scratching)
+
+00:00:23.776 --> 00:00:26.040
+Is what I was going to say.
+
+00:00:26.040 --> 00:00:31.040
+Then, on Monday afternoon,
+just 39 hours from launch,
+
+00:00:31.770 --> 00:00:33.570
+AMD dropped the price!
+
+00:00:33.570 --> 00:00:35.040
+Let's go, gamers!
+
+00:00:35.040 --> 00:00:36.270
+We're gonna have a rough cut
+
+00:00:36.270 --> 00:00:39.210
+of our original review
+on floatplane.com/ltt
+
+00:00:39.210 --> 00:00:40.500
+if you're curious, by the way,
+
+00:00:40.500 --> 00:00:42.000
+but the gist of it is this:
+
+00:00:42.000 --> 00:00:45.360
+we liked the card, but
+didn't like the price.
+
+00:00:45.360 --> 00:00:46.200
+Well, now,
+
+00:00:46.200 --> 00:00:48.960
+it is $60 less than the launch price
+
+00:00:48.960 --> 00:00:53.850
+of its predecessor and it's
+within $10 of our suggestion
+
+00:00:53.850 --> 00:00:57.450
+that we thought would make it
+competitive, which is nice,
+
+00:00:57.450 --> 00:00:59.820
+but then they also dropped the price
+
+00:00:59.820 --> 00:01:01.740
+on some of their last gen products,
+
+00:01:01.740 --> 00:01:04.950
+making those even more attractiver.
+
+00:01:04.950 --> 00:01:06.810
+There is a lot to unpack here,
+
+00:01:06.810 --> 00:01:10.320
+but one thing we know for
+sure is that thanks to AMD,
+
+00:01:10.320 --> 00:01:13.200
+there are finally some, not one,
+
+00:01:13.200 --> 00:01:16.170
+some decent mainstream cards
+
+00:01:16.170 --> 00:01:18.827
+that gamers can actually afford.
+
+00:01:18.827 --> 00:01:22.320
+Let's start with the new kid on the block.
+
+00:01:22.320 --> 00:01:26.640
+The all-new Navi 33 GPU at
+the heart of the 7600 is built
+
+00:01:26.640 --> 00:01:29.040
+on AMD's latest RDNA 3 architecture,
+
+00:01:29.040 --> 00:01:31.260
+which comes with some key benefits,
+
+00:01:31.260 --> 00:01:34.110
+like the addition of AI cores that, well,
+
+00:01:34.110 --> 00:01:37.560
+don't seem to do much right
+now, but in the future,
+
+00:01:37.560 --> 00:01:39.000
+we're expecting that to change.
+
+00:01:39.000 --> 00:01:41.850
+You know, fine wine driver
+development and all of that.
+
+00:01:41.850 --> 00:01:43.320
+And right out of the gate,
+
+00:01:43.320 --> 00:01:45.840
+RDNA 3 also comes with substantially
+
+00:01:45.840 --> 00:01:48.090
+improved ray-tracing performance,
+
+00:01:48.090 --> 00:01:50.190
+but then so does the competition.
+
+00:01:50.190 --> 00:01:53.520
+And AMD has only made things
+more difficult for themselves.
+
+00:01:53.520 --> 00:01:55.260
+Just last month ,
+
+00:01:55.260 --> 00:01:56.850
+they were over there throwing rocks
+
+00:01:56.850 --> 00:01:59.010
+at NVIDIA over the lack of memory
+
+00:01:59.010 --> 00:02:00.930
+on their more affordable cards.
+
+00:02:00.930 --> 00:02:03.517
+I guess they forgot about
+their own glass house here.
+
+00:02:03.517 --> 00:02:06.060
+"But this card is for 1080P
+
+00:02:06.060 --> 00:02:08.790
+where eight gigs is enough," says AMD.
+
+00:02:08.790 --> 00:02:12.060
+Unfortunately, that's not entirely true.
+
+00:02:12.060 --> 00:02:13.380
+Have a look.
+
+00:02:13.380 --> 00:02:18.380
+In "F1 22," AMD pulls off both
+a big win and an own goal.
+
+00:02:19.860 --> 00:02:23.730
+Their last gen 6700 XT
+leads the entire field,
+
+00:02:23.730 --> 00:02:27.270
+beating even the 4070 that
+costs almost twice as much,
+
+00:02:27.270 --> 00:02:30.570
+but then their shiny
+new 7600 falls squarely
+
+00:02:30.570 --> 00:02:35.570
+in the middle of the pack
+and behind their own 6650 XT,
+
+00:02:35.760 --> 00:02:38.490
+a last gen card that at
+press time costs anywhere
+
+00:02:38.490 --> 00:02:41.910
+from 10 to $30 less.
+
+00:02:41.910 --> 00:02:44.520
+Rough start and definitive proof
+
+00:02:44.520 --> 00:02:46.920
+that you should completely
+ignore performance rumors
+
+00:02:46.920 --> 00:02:48.660
+for upcoming products.
+
+00:02:48.660 --> 00:02:49.650
+In "Far Cry 6,"
+
+00:02:49.650 --> 00:02:51.600
+AMD manages to avoid beating themselves
+
+00:02:51.600 --> 00:02:52.890
+at their own game by keeping ahead
+
+00:02:52.890 --> 00:02:56.370
+of their own lower priced
+cards, albeit barely.
+
+00:02:56.370 --> 00:02:57.900
+And the same goes for "Hitman 3"
+
+00:02:57.900 --> 00:03:01.470
+where the most interesting
+result is actually the Arc A770.
+
+00:03:01.470 --> 00:03:03.330
+Intel's software team has clearly
+
+00:03:03.330 --> 00:03:04.950
+been working their butts
+off to the point where
+
+00:03:04.950 --> 00:03:08.130
+they now kind of sort of have
+a card that manages to keep
+
+00:03:08.130 --> 00:03:10.890
+up with the competition, or it did anyway.
+
+00:03:10.890 --> 00:03:13.440
+But can you keep up with this
+message from our sponsor?
+
+00:03:13.440 --> 00:03:14.280
+- The Ridge!
+
+00:03:14.280 --> 00:03:15.720
+Father's Day is coming up.
+
+00:03:15.720 --> 00:03:16.553
+Luckily,
+
+00:03:16.553 --> 00:03:18.840
+Ridge is having one of their
+biggest sales of the year.
+
+00:03:18.840 --> 00:03:20.520
+Give the dads in your life a unique
+
+00:03:20.520 --> 00:03:22.680
+and functional Ridge wallet or key case
+
+00:03:22.680 --> 00:03:23.880
+so they can do dad things,
+
+00:03:23.880 --> 00:03:25.830
+like brag about their wallet and keys.
+
+00:03:25.830 --> 00:03:28.680
+Check The Ridge out at the
+link below and make dad proud.
+
+00:03:28.680 --> 00:03:30.480
+- As we tested more and more games,
+
+00:03:30.480 --> 00:03:32.580
+we realized that the main takeaway
+
+00:03:32.580 --> 00:03:34.530
+is that for 1080P gaming,
+
+00:03:34.530 --> 00:03:37.770
+you really don't need to spend
+more than a few hundred bucks
+
+00:03:37.770 --> 00:03:40.680
+on a replacement for
+your aging mid-tier GPU.
+
+00:03:40.680 --> 00:03:42.300
+Even in "Returnal" and "Cyberpunk,"
+
+00:03:42.300 --> 00:03:43.770
+we saw average frame rates
+
+00:03:43.770 --> 00:03:48.570
+above 60 fps across our
+entire stable of modern cards,
+
+00:03:48.570 --> 00:03:51.360
+even if the 1% lows are a bit lower.
+
+00:03:51.360 --> 00:03:54.450
+With that said, there
+is a big asterisk here.
+
+00:03:54.450 --> 00:03:57.210
+Look at the results for
+"The Last of Us Part 1."
+
+00:03:57.210 --> 00:04:00.690
+The 3060 has been quietly
+getting its butt handed
+
+00:04:00.690 --> 00:04:02.730
+to it the whole time, and then, boom!
+
+00:04:02.730 --> 00:04:05.430
+It's out in front of the 7600.
+
+00:04:05.430 --> 00:04:06.450
+Interesting.
+
+00:04:06.450 --> 00:04:08.160
+We're gonna talk about that in a moment.
+
+00:04:08.160 --> 00:04:10.530
+First, if you're a 1080P gamer,
+
+00:04:10.530 --> 00:04:13.740
+AMD's new card seems to slot
+into their lineup very nicely,
+
+00:04:13.740 --> 00:04:17.250
+falling behind its bigger,
+older brother, the 6700 XT,
+
+00:04:17.250 --> 00:04:20.430
+by about 20% in both
+price and performance.
+
+00:04:20.430 --> 00:04:23.490
+While it's little, though
+still older brother,
+
+00:04:23.490 --> 00:04:27.090
+the 6650 XT gives up just 5% performance
+
+00:04:27.090 --> 00:04:31.020
+on average and doesn't net you
+much in the way of savings.
+
+00:04:31.020 --> 00:04:33.540
+Given that this is a
+newer GPU that will likely
+
+00:04:33.540 --> 00:04:35.310
+receive driver support for longer,
+
+00:04:35.310 --> 00:04:39.270
+the 7600 is getting very close
+to a recommendation here,
+
+00:04:39.270 --> 00:04:41.490
+kinda like how we'd recommend
+an insulated water bottle
+
+00:04:41.490 --> 00:04:43.110
+from lttstore.com.
+
+00:04:43.110 --> 00:04:46.500
+But, first, we need to talk about VRAM.
+
+00:04:46.500 --> 00:04:49.500
+Both Team Green and Team Red are adamant
+
+00:04:49.500 --> 00:04:53.790
+that eight gigs of GDDR
+6 is enough for 1080P.
+
+00:04:53.790 --> 00:04:56.160
+And yet we found real world examples
+
+00:04:56.160 --> 00:04:58.050
+of games that did struggle,
+
+00:04:58.050 --> 00:05:00.900
+especially those pesky PlayStation ports.
+
+00:05:00.900 --> 00:05:04.260
+This was very apparent
+when we saw the 3060 12 gig
+
+00:05:04.260 --> 00:05:09.000
+suddenly outperforming the
+supposedly faster RX 7600.
+
+00:05:09.000 --> 00:05:10.470
+And whether you like it or not,
+
+00:05:10.470 --> 00:05:12.390
+this is gonna be a trend, gamers.
+
+00:05:12.390 --> 00:05:13.740
+For over a decade now,
+
+00:05:13.740 --> 00:05:15.870
+consoles have been what dictates the rate
+
+00:05:15.870 --> 00:05:17.820
+of growth for hardware requirements.
+
+00:05:17.820 --> 00:05:19.527
+It's no coincidence that the PS5
+
+00:05:19.527 --> 00:05:22.920
+and the Xbox Series X both
+feature a shared memory
+
+00:05:22.920 --> 00:05:26.250
+architecture of 16 gigs
+and 10 gigs respectively,
+
+00:05:26.250 --> 00:05:27.630
+and now all of a sudden,
+
+00:05:27.630 --> 00:05:29.730
+we're seeing games
+developed for these consoles
+
+00:05:29.730 --> 00:05:32.550
+that can demand significantly more VRAM
+
+00:05:32.550 --> 00:05:34.890
+than an eight gig GPU can provide.
+
+00:05:34.890 --> 00:05:37.620
+And with the potential for
+a mid-generation refresh
+
+00:05:37.620 --> 00:05:38.850
+to these consoles,
+
+00:05:38.850 --> 00:05:41.400
+it's not entirely unrealistic to expect
+
+00:05:41.400 --> 00:05:43.470
+that VRAM requirements
+could increase further
+
+00:05:43.470 --> 00:05:44.640
+in the coming years.
+
+00:05:44.640 --> 00:05:47.280
+Take it with a grain of salt,
+rumors, and all of that.
+
+00:05:47.280 --> 00:05:48.900
+The issue on top of that, though,
+
+00:05:48.900 --> 00:05:51.270
+is all of this is just for 1080P.
+
+00:05:51.270 --> 00:05:53.580
+If you own a 1440P display,
+
+00:05:53.580 --> 00:05:57.300
+you might desire that extra
+VRAM today, right now.
+
+00:05:57.300 --> 00:05:59.670
+Across our suite of games in 1440P,
+
+00:05:59.670 --> 00:06:03.180
+our rankings remained largely
+similar to the 1080P results,
+
+00:06:03.180 --> 00:06:05.220
+but it should be noted that the cards
+
+00:06:05.220 --> 00:06:08.970
+with the extra VRAM tend to
+hold their positions better.
+
+00:06:08.970 --> 00:06:11.490
+Intel in particular starts to pull ahead
+
+00:06:11.490 --> 00:06:15.000
+and even managed some small
+victories where it lost before.
+
+00:06:15.000 --> 00:06:17.610
+And the 3060 12 gig holds its position
+
+00:06:17.610 --> 00:06:19.980
+despite its much weaker GPU.
+
+00:06:19.980 --> 00:06:20.813
+Of course,
+
+00:06:20.813 --> 00:06:22.770
+we were a lot more upset about all of this
+
+00:06:22.770 --> 00:06:25.470
+before the 7600 got a new price point
+
+00:06:25.470 --> 00:06:29.520
+and NVIDIA is clearly
+still the worst offender.
+
+00:06:29.520 --> 00:06:30.353
+Moving on.
+
+00:06:30.353 --> 00:06:33.090
+We know these are obviously not 4K cards,
+
+00:06:33.090 --> 00:06:34.500
+at least not without the help
+
+00:06:34.500 --> 00:06:36.780
+of their respective
+super sampling solutions,
+
+00:06:36.780 --> 00:06:38.280
+but our pattern continues
+
+00:06:38.280 --> 00:06:41.130
+with the 3060 12 gig
+closing its performance gap
+
+00:06:41.130 --> 00:06:44.850
+versus the 7600 while
+Intel extends its own.
+
+00:06:44.850 --> 00:06:45.683
+To be clear,
+
+00:06:45.683 --> 00:06:47.070
+we wouldn't recommend any of these cards
+
+00:06:47.070 --> 00:06:50.130
+for 4K ultra gaming, say, for the 4070,
+
+00:06:50.130 --> 00:06:52.320
+but what's cool is that
+we no longer have to
+
+00:06:52.320 --> 00:06:54.300
+say the same thing about ray tracing.
+
+00:06:54.300 --> 00:06:57.300
+7600 isn't exactly a ray tracing monster,
+
+00:06:57.300 --> 00:07:00.690
+but it did better than we
+expected at 1080P native.
+
+00:07:00.690 --> 00:07:01.800
+And looking at our results
+
+00:07:01.800 --> 00:07:03.870
+with FidelityFX Super Resolution,
+
+00:07:03.870 --> 00:07:05.820
+which has massively improved,
+
+00:07:05.820 --> 00:07:09.030
+even if it does still
+lag behind NVIDIA's DLSS,
+
+00:07:09.030 --> 00:07:13.170
+you can get a decent
+1440P gaming experience.
+
+00:07:13.170 --> 00:07:15.000
+Although that is still a little
+
+00:07:15.000 --> 00:07:18.120
+like saying my Civic
+can do 130 miles an hour
+
+00:07:18.120 --> 00:07:19.830
+as long as it's on a steep hill.
+
+00:07:19.830 --> 00:07:21.210
+So then, performance,
+
+00:07:21.210 --> 00:07:22.680
+pretty solid for the price
+
+00:07:22.680 --> 00:07:26.070
+and going with next gen comes
+with other upsides too, right?
+
+00:07:26.070 --> 00:07:28.020
+Like a big leap in efficiency?
+
+00:07:28.020 --> 00:07:30.060
+No, actually.
+
+00:07:30.060 --> 00:07:32.340
+20% more performance over last gen
+
+00:07:32.340 --> 00:07:36.300
+is gonna cost you a 20%
+increase in total board power.
+
+00:07:36.300 --> 00:07:38.910
+I mean, at least it
+doesn't overheat, though?
+
+00:07:38.910 --> 00:07:40.740
+Yes, it doesn't.
+
+00:07:40.740 --> 00:07:42.540
+And while it isn't the quietest card,
+
+00:07:42.540 --> 00:07:45.630
+it's not offensively loud
+despite its small size.
+
+00:07:45.630 --> 00:07:49.440
+We also do get display
+port 2.1, so that's cool.
+
+00:07:49.440 --> 00:07:52.800
+But AMD removed the one cable USB-C output
+
+00:07:52.800 --> 00:07:56.160
+that is so awesome on the 7900 series.
+
+00:07:56.160 --> 00:08:00.180
+So, oh, but what about productivity?
+
+00:08:00.180 --> 00:08:01.013
+Well,
+
+00:08:01.013 --> 00:08:02.580
+NVIDIA dominates Blender thanks
+
+00:08:02.580 --> 00:08:04.680
+to its excellent CUDA integration.
+
+00:08:04.680 --> 00:08:07.710
+And while the AV1 encoding
+times are competitive
+
+00:08:07.710 --> 00:08:10.050
+with the more expensive 46 DTI,
+
+00:08:10.050 --> 00:08:12.600
+that's a nice plus for YouTube streamers.
+
+00:08:12.600 --> 00:08:16.710
+The RX 7600's H264 and H265 encoding
+
+00:08:16.710 --> 00:08:18.690
+are nothing to write home about.
+
+00:08:18.690 --> 00:08:20.490
+Sorry, Twitch streamers.
+
+00:08:20.490 --> 00:08:21.600
+And in SPECviewperf,
+
+00:08:21.600 --> 00:08:23.550
+it sits right in the middle of the pack,
+
+00:08:23.550 --> 00:08:26.370
+though I doubt that dazzling
+productivity performance
+
+00:08:26.370 --> 00:08:29.970
+would've persuaded the 7600's
+target audience anyway.
+
+00:08:29.970 --> 00:08:31.680
+Not that it really needs it.
+
+00:08:31.680 --> 00:08:35.907
+Assuming you can actually find
+one at MSRP, the RX 7600 is,
+
+00:08:35.907 --> 00:08:37.560
+and I can't believe I get to
+
+00:08:37.560 --> 00:08:39.480
+say this for the first time in years,
+
+00:08:39.480 --> 00:08:42.390
+an attractive mainstream gaming card.
+
+00:08:42.390 --> 00:08:43.620
+However,
+
+00:08:43.620 --> 00:08:46.110
+I'm sure we weren't the
+only ones who were surprised
+
+00:08:46.110 --> 00:08:48.420
+by the price change and AMD's partners
+
+00:08:48.420 --> 00:08:50.400
+may have been caught with board designs
+
+00:08:50.400 --> 00:08:52.920
+that make this new
+price point impractical.
+
+00:08:52.920 --> 00:08:55.350
+So it could be some time
+before the market is flush
+
+00:08:55.350 --> 00:08:59.730
+with sub $300 GPUs, at
+least from this gen.
+
+00:08:59.730 --> 00:09:02.460
+The good news is AMD has
+lots of other options
+
+00:09:02.460 --> 00:09:04.650
+with fresh price cuts as well.
+
+00:09:04.650 --> 00:09:08.670
+For as low as $320 for the 6700 XT,
+
+00:09:08.670 --> 00:09:11.010
+you'll get a roughly 20 to 25%
+
+00:09:11.010 --> 00:09:14.040
+performance uplift for
+an equal bump in price,
+
+00:09:14.040 --> 00:09:15.960
+albeit with a higher cost of ownership
+
+00:09:15.960 --> 00:09:17.640
+from its increased power draw.
+
+00:09:17.640 --> 00:09:21.450
+The 6650 XT, meanwhile, is
+looking like a pretty okay,
+
+00:09:21.450 --> 00:09:23.280
+similarly priced alternative.
+
+00:09:23.280 --> 00:09:27.270
+And the 6600 is kind of
+the quiet star of the show
+
+00:09:27.270 --> 00:09:29.670
+if you can get it for the
+price we're seeing now.
+
+00:09:29.670 --> 00:09:32.220
+Just 200 dollaridoos?
+
+00:09:32.220 --> 00:09:34.350
+And then there's NVIDIA
+who has transitioned
+
+00:09:34.350 --> 00:09:36.450
+from making GPUs for gamers
+
+00:09:36.450 --> 00:09:39.660
+to making GPUs for fans of NVIDIA.
+
+00:09:39.660 --> 00:09:40.500
+And now,
+
+00:09:40.500 --> 00:09:42.120
+it's time to see our original outro
+
+00:09:42.120 --> 00:09:46.560
+for this video where I low-key
+absolutely (bleep) nailed it.
+
+00:09:46.560 --> 00:09:49.020
+It's not a budget productivity workhorse
+
+00:09:49.020 --> 00:09:51.480
+nor is it a mainstream
+level gaming godsend.
+
+00:09:51.480 --> 00:09:54.510
+It just kind of sits there
+
+00:09:54.510 --> 00:09:59.250
+with its main differentiators
+being shiny and new.
+
+00:09:59.250 --> 00:10:00.480
+Is that the play, then?
+
+00:10:00.480 --> 00:10:02.550
+Try and get people who want the new shiny
+
+00:10:02.550 --> 00:10:04.680
+and aren't doing much research?
+
+00:10:04.680 --> 00:10:07.073
+- [Narrator] Incoming
+transmission from the future.
+
+00:10:08.310 --> 00:10:10.230
+- It's been six months and in the wake
+
+00:10:10.230 --> 00:10:12.780
+of recent catastrophic event,
+
+00:10:12.780 --> 00:10:16.560
+AMD has decided to slash
+prices on their 7600.
+
+00:10:16.560 --> 00:10:18.960
+Now that it's available for $259.99,
+
+00:10:18.960 --> 00:10:21.300
+it's gone from no-buy to no-brainer.
+
+00:10:21.300 --> 00:10:23.850
+And it's an especially good
+value compared to the 4060,
+
+00:10:23.850 --> 00:10:25.980
+which is still $300 because
+
+00:10:25.980 --> 00:10:28.530
+NVIDIA don't do no price drops.
+
+00:10:28.530 --> 00:10:32.340
+Anyway, AMD's AI cores,
+they do something now,
+
+00:10:32.340 --> 00:10:33.930
+so that's cool.
+
+00:10:33.930 --> 00:10:35.550
+And if any of this is wrong,
+
+00:10:35.550 --> 00:10:37.500
+just be sure to tune into the When Show
+
+00:10:37.500 --> 00:10:40.440
+on Friday, November 24th, 2023
+
+00:10:40.440 --> 00:10:43.500
+to let future Linus know that
+he went to the wrong time.
+
+00:10:43.500 --> 00:10:44.864
+Oh God, they're coming!
+
+00:10:44.864 --> 00:10:47.910
+(gun firing)
+(man yelling)
+
+00:10:47.910 --> 00:10:50.220
+Don't forget to tell Linus
+
+00:10:50.220 --> 00:10:54.273
+about the segue to our sponsor.
+
+00:10:56.400 --> 00:10:57.233
+- Vessi!
+
+00:10:57.233 --> 00:10:58.470
+It's springtime,
+
+00:10:58.470 --> 00:10:59.910
+which means rain can still show
+
+00:10:59.910 --> 00:11:02.220
+up and ruin your day like
+an annoying neighbor.
+
+00:11:02.220 --> 00:11:05.220
+But that's fine because
+hello, we have Vessi shoes!
+
+00:11:05.220 --> 00:11:08.040
+Vessi claims their shoes
+are 100% waterproof
+
+00:11:08.040 --> 00:11:11.370
+so we can go step into as
+many puddles as we want.
+
+00:11:11.370 --> 00:11:13.980
+Their Dyma-tex technology
+keeps their shoes light
+
+00:11:13.980 --> 00:11:17.040
+and breathable while still
+being stretchy and comfortable.
+
+00:11:17.040 --> 00:11:20.550
+Also, all of their products
+are vegan and cruelty-free.
+
+00:11:20.550 --> 00:11:22.290
+Maybe you're planning a trip to get away
+
+00:11:22.290 --> 00:11:24.300
+from some of this miserable weather.
+
+00:11:24.300 --> 00:11:25.960
+Don't forget to pack a pair of Vessies.
+
+00:11:25.960 --> 00:11:28.710
+Their stretchiness means
+they can easily pack
+
+00:11:28.710 --> 00:11:30.570
+into your luggage or carry-on.
+
+00:11:30.570 --> 00:11:32.430
+Rain or shine, here or there,
+
+00:11:32.430 --> 00:11:35.282
+it's always a great occasion
+to wear a pair of Vessies.
+
+00:11:35.282 --> 00:11:36.600
+(man speaking in foreign language)
+
+00:11:36.600 --> 00:11:39.990
+Go to vessi.com/linustechtips and get 15%
+
+00:11:39.990 --> 00:11:43.320
+off your purchase with code LinusTechTips.
+
+00:11:43.320 --> 00:11:45.960
+- Another time loop successfully closed.
+
+00:11:45.960 --> 00:11:46.830
+If you enjoyed this video,
+
+00:11:46.830 --> 00:11:48.720
+you can check out maybe
+the coolest implementation
+
+00:11:48.720 --> 00:11:51.120
+of RDNA 3, the ROG Ally.
+
+00:11:51.120 --> 00:11:54.093
+That thing is sick and
+really, really efficient.
+

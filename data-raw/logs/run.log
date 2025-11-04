@@ -1,0 +1,557 @@
+2025-11-03 22:11:22,346 ERROR CSV input not found: \mnt\data\youtube_videos.csv
+2025-11-03 22:12:33,347 INFO START yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-03 22:12:33,348 INFO yt-dlp attempt 1 for yU8W0v79MtE (drop_extractor=False)
+2025-11-03 22:12:57,687 WARNING yt-dlp failed on attempt 1 for yU8W0v79MtE (rc=1)
+2025-11-03 22:12:57,689 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = QnHjHyY7NMQL9yAgT2a ; player = https://www.youtube.com/s/player/7b9b4e02/player_ias.vflset/en_US/base.js
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 22:12:59,704 INFO yt-dlp attempt 2 for yU8W0v79MtE (drop_extractor=False)
+2025-11-03 22:13:19,042 WARNING yt-dlp failed on attempt 2 for yU8W0v79MtE (rc=1)
+2025-11-03 22:13:19,042 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = 82nt-iTpvoMn9ac0HJX ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = z-786FIX2qb7Peg6gG4 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = i-ioA7oRew6RZhE5L1c ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 22:13:24,052 INFO yt-dlp attempt 3 for yU8W0v79MtE (drop_extractor=False)
+2025-11-03 22:13:43,191 WARNING yt-dlp failed on attempt 3 for yU8W0v79MtE (rc=1)
+2025-11-03 22:13:43,191 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = cmW6njPc1XVthLZU0Lr ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 22:13:43,192 INFO END yU8W0v79MtE status_comments=none status_transcripts=error duration=69.84s
+2025-11-03 22:13:45,976 INFO START mF4S5ZaXdgE (Nvidia GTX 1060 Review - RX 480 Killer?)
+2025-11-03 22:13:45,976 INFO yt-dlp attempt 1 for mF4S5ZaXdgE (drop_extractor=False)
+2025-11-03 22:15:13,079 WARNING yt-dlp failed on attempt 1 for mF4S5ZaXdgE (rc=1)
+2025-11-03 22:15:13,079 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = 00SHkCnuAFHvrsKtV1f ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = oW-YgGzmaVp0oBwlYf5 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = 1sfw2TbizLtdqXqlC3u ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+
+
+ERROR: Did not get any data blocks
+2025-11-03 22:15:15,094 INFO yt-dlp attempt 2 for mF4S5ZaXdgE (drop_extractor=False)
+2025-11-03 22:16:15,866 WARNING yt-dlp failed on attempt 2 for mF4S5ZaXdgE (rc=1)
+2025-11-03 22:16:15,866 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = DX7hJmuAp8aSGTidBws ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = da8QuWS04tyS6GLFDYV ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = ElRd40VyufC8PiWJAku ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 22:16:20,878 INFO yt-dlp attempt 3 for mF4S5ZaXdgE (drop_extractor=False)
+2025-11-03 22:18:00,304 INFO START yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-03 22:18:00,304 INFO yt-dlp attempt 1 for yU8W0v79MtE (drop_extractor=False)
+2025-11-03 22:18:18,968 WARNING yt-dlp failed on attempt 1 for yU8W0v79MtE (rc=1)
+2025-11-03 22:18:18,968 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = e8RCZ3Jna9XF7jbnZYY ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] yU8W0v79MtE: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] yU8W0v79MtE: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 22:18:20,974 INFO yt-dlp attempt 2 for yU8W0v79MtE (drop_extractor=False)
+2025-11-03 22:18:36,817 WARNING yt-dlp failed on attempt 2 for yU8W0v79MtE (rc=1)
+2025-11-03 22:18:36,817 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = eyd_e9vPxx8ToiefW4J ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] yU8W0v79MtE: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] yU8W0v79MtE: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests

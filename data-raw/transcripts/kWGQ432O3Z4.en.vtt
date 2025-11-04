@@ -1,0 +1,3104 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.490 align:start position:0%
+ 
+so<00:00:00.480><c> let's</c><00:00:00.599><c> finally</c><00:00:00.960><c> talk</c><00:00:01.140><c> about</c><00:00:01.260><c> the</c>
+
+00:00:01.490 --> 00:00:01.500 align:start position:0%
+so let's finally talk about the
+ 
+
+00:00:01.500 --> 00:00:04.070 align:start position:0%
+so let's finally talk about the
+performance<00:00:01.860><c> of</c><00:00:02.340><c> this</c><00:00:02.760><c> thing</c><00:00:02.940><c> right</c><00:00:03.419><c> here</c><00:00:03.720><c> the</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+performance of this thing right here the
+ 
+
+00:00:04.080 --> 00:00:07.909 align:start position:0%
+performance of this thing right here the
+RTX<00:00:04.640><c> 4090</c><00:00:05.640><c> and</c><00:00:05.880><c> yeah</c><00:00:06.540><c> it</c><00:00:06.839><c> is</c><00:00:07.080><c> truly</c><00:00:07.440><c> insane</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+RTX 4090 and yeah it is truly insane
+ 
+
+00:00:07.919 --> 00:00:09.830 align:start position:0%
+RTX 4090 and yeah it is truly insane
+like<00:00:08.220><c> the</c><00:00:08.460><c> kind</c><00:00:08.580><c> of</c><00:00:08.760><c> frames</c><00:00:09.179><c> that</c><00:00:09.480><c> this</c><00:00:09.660><c> thing</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+like the kind of frames that this thing
+ 
+
+00:00:09.840 --> 00:00:12.589 align:start position:0%
+like the kind of frames that this thing
+is<00:00:09.960><c> pushing</c><00:00:10.320><c> out</c><00:00:10.500><c> at</c><00:00:10.740><c> like</c><00:00:10.920><c> 4K</c><00:00:11.580><c> Max</c><00:00:12.059><c> Graphics</c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+is pushing out at like 4K Max Graphics
+ 
+
+00:00:12.599 --> 00:00:14.749 align:start position:0%
+is pushing out at like 4K Max Graphics
+yeah<00:00:13.259><c> you</c><00:00:13.559><c> won't</c><00:00:13.740><c> believe</c><00:00:13.920><c> the</c><00:00:14.160><c> numbers</c><00:00:14.280><c> are</c>
+
+00:00:14.749 --> 00:00:14.759 align:start position:0%
+yeah you won't believe the numbers are
+ 
+
+00:00:14.759 --> 00:00:17.090 align:start position:0%
+yeah you won't believe the numbers are
+until<00:00:15.059><c> you</c><00:00:15.540><c> see</c><00:00:15.719><c> them</c><00:00:15.960><c> so</c><00:00:16.320><c> we've</c><00:00:16.800><c> already</c><00:00:16.920><c> gone</c>
+
+00:00:17.090 --> 00:00:17.100 align:start position:0%
+until you see them so we've already gone
+ 
+
+00:00:17.100 --> 00:00:18.950 align:start position:0%
+until you see them so we've already gone
+over<00:00:17.220><c> the</c><00:00:17.520><c> exterior</c><00:00:18.000><c> design</c><00:00:18.240><c> and</c><00:00:18.480><c> how</c><00:00:18.660><c> this</c><00:00:18.840><c> is</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+over the exterior design and how this is
+ 
+
+00:00:18.960 --> 00:00:20.269 align:start position:0%
+over the exterior design and how this is
+different<00:00:19.140><c> and</c><00:00:19.380><c> talk</c><00:00:19.560><c> about</c><00:00:19.680><c> the</c><00:00:19.859><c> specs</c><00:00:20.160><c> and</c>
+
+00:00:20.269 --> 00:00:20.279 align:start position:0%
+different and talk about the specs and
+ 
+
+00:00:20.279 --> 00:00:22.189 align:start position:0%
+different and talk about the specs and
+everything<00:00:20.400><c> like</c><00:00:20.640><c> that</c><00:00:20.820><c> today</c><00:00:21.420><c> we</c><00:00:21.660><c> are</c><00:00:21.840><c> solely</c>
+
+00:00:22.189 --> 00:00:22.199 align:start position:0%
+everything like that today we are solely
+ 
+
+00:00:22.199 --> 00:00:23.929 align:start position:0%
+everything like that today we are solely
+focusing<00:00:22.560><c> on</c><00:00:22.740><c> the</c><00:00:22.859><c> performance</c><00:00:23.279><c> and</c><00:00:23.760><c> the</c>
+
+00:00:23.929 --> 00:00:23.939 align:start position:0%
+focusing on the performance and the
+ 
+
+00:00:23.939 --> 00:00:25.609 align:start position:0%
+focusing on the performance and the
+benchmarks<00:00:24.480><c> now</c><00:00:24.720><c> the</c><00:00:24.900><c> first</c><00:00:25.019><c> Benchmark</c><00:00:25.439><c> that</c>
+
+00:00:25.609 --> 00:00:25.619 align:start position:0%
+benchmarks now the first Benchmark that
+ 
+
+00:00:25.619 --> 00:00:28.189 align:start position:0%
+benchmarks now the first Benchmark that
+I<00:00:25.800><c> ran</c><00:00:25.980><c> for</c><00:00:26.220><c> the</c><00:00:26.400><c> 4090</c><00:00:27.060><c> was</c><00:00:27.420><c> this</c><00:00:27.779><c> right</c><00:00:27.960><c> here</c>
+
+00:00:28.189 --> 00:00:28.199 align:start position:0%
+I ran for the 4090 was this right here
+ 
+
+00:00:28.199 --> 00:00:30.650 align:start position:0%
+I ran for the 4090 was this right here
+Forza<00:00:28.800><c> Horizon</c><00:00:28.980><c> 5</c><00:00:29.340><c> running</c><00:00:29.699><c> 4K</c><00:00:30.180><c> completely</c>
+
+00:00:30.650 --> 00:00:30.660 align:start position:0%
+Forza Horizon 5 running 4K completely
+ 
+
+00:00:30.660 --> 00:00:32.870 align:start position:0%
+Forza Horizon 5 running 4K completely
+maxed<00:00:31.140><c> out</c><00:00:31.260><c> and</c><00:00:31.859><c> I</c><00:00:32.040><c> mean</c><00:00:32.160><c> I</c><00:00:32.520><c> had</c><00:00:32.579><c> to</c><00:00:32.759><c> double</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+maxed out and I mean I had to double
+ 
+
+00:00:32.880 --> 00:00:34.310 align:start position:0%
+maxed out and I mean I had to double
+check<00:00:33.059><c> that</c><00:00:33.300><c> I</c><00:00:33.480><c> wasn't</c><00:00:33.600><c> running</c><00:00:33.840><c> lower</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+check that I wasn't running lower
+ 
+
+00:00:34.320 --> 00:00:36.650 align:start position:0%
+check that I wasn't running lower
+settings<00:00:34.620><c> or</c><00:00:35.160><c> messed</c><00:00:35.640><c> something</c><00:00:35.760><c> up</c><00:00:36.120><c> here</c><00:00:36.300><c> but</c>
+
+00:00:36.650 --> 00:00:36.660 align:start position:0%
+settings or messed something up here but
+ 
+
+00:00:36.660 --> 00:00:39.410 align:start position:0%
+settings or messed something up here but
+no<00:00:37.020><c> this</c><00:00:37.440><c> is</c><00:00:37.559><c> real</c><00:00:37.739><c> this</c><00:00:38.280><c> is</c><00:00:38.399><c> the</c><00:00:38.579><c> new</c><00:00:38.700><c> 4090</c>
+
+00:00:39.410 --> 00:00:39.420 align:start position:0%
+no this is real this is the new 4090
+ 
+
+00:00:39.420 --> 00:00:41.450 align:start position:0%
+no this is real this is the new 4090
+literally<00:00:39.840><c> doubling</c><00:00:40.379><c> the</c><00:00:40.559><c> performance</c><00:00:41.040><c> of</c>
+
+00:00:41.450 --> 00:00:41.460 align:start position:0%
+literally doubling the performance of
+ 
+
+00:00:41.460 --> 00:00:43.910 align:start position:0%
+literally doubling the performance of
+the<00:00:41.760><c> 3090</c><00:00:42.480><c> this</c><00:00:42.960><c> is</c><00:00:43.079><c> also</c><00:00:43.320><c> without</c><00:00:43.559><c> any</c>
+
+00:00:43.910 --> 00:00:43.920 align:start position:0%
+the 3090 this is also without any
+ 
+
+00:00:43.920 --> 00:00:46.369 align:start position:0%
+the 3090 this is also without any
+retracing<00:00:44.640><c> dlss</c><00:00:45.300><c> or</c><00:00:45.600><c> anything</c><00:00:45.780><c> like</c><00:00:46.200><c> that</c>
+
+00:00:46.369 --> 00:00:46.379 align:start position:0%
+retracing dlss or anything like that
+ 
+
+00:00:46.379 --> 00:00:48.950 align:start position:0%
+retracing dlss or anything like that
+just<00:00:46.980><c> pure</c><00:00:47.340><c> rendering</c><00:00:47.820><c> output</c><00:00:48.180><c> and</c><00:00:48.660><c> it's</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+just pure rendering output and it's
+ 
+
+00:00:48.960 --> 00:00:50.750 align:start position:0%
+just pure rendering output and it's
+pretty<00:00:49.140><c> insane</c><00:00:49.620><c> then</c><00:00:49.920><c> I</c><00:00:50.100><c> switched</c><00:00:50.399><c> over</c><00:00:50.520><c> to</c>
+
+00:00:50.750 --> 00:00:50.760 align:start position:0%
+pretty insane then I switched over to
+ 
+
+00:00:50.760 --> 00:00:53.389 align:start position:0%
+pretty insane then I switched over to
+God<00:00:51.000><c> of</c><00:00:51.239><c> War</c><00:00:51.360><c> also</c><00:00:51.960><c> 4K</c><00:00:52.440><c> here</c><00:00:52.739><c> at</c><00:00:52.980><c> the</c><00:00:53.160><c> highest</c>
+
+00:00:53.389 --> 00:00:53.399 align:start position:0%
+God of War also 4K here at the highest
+ 
+
+00:00:53.399 --> 00:00:55.549 align:start position:0%
+God of War also 4K here at the highest
+possible<00:00:53.760><c> settings</c><00:00:54.000><c> and</c><00:00:54.660><c> again</c><00:00:54.840><c> no</c><00:00:55.320><c> Ray</c>
+
+00:00:55.549 --> 00:00:55.559 align:start position:0%
+possible settings and again no Ray
+ 
+
+00:00:55.559 --> 00:00:57.830 align:start position:0%
+possible settings and again no Ray
+tracing<00:00:55.980><c> or</c><00:00:56.100><c> dlss</c><00:00:56.579><c> just</c><00:00:57.000><c> yet</c><00:00:57.180><c> we'll</c><00:00:57.480><c> get</c><00:00:57.719><c> to</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+tracing or dlss just yet we'll get to
+ 
+
+00:00:57.840 --> 00:00:59.510 align:start position:0%
+tracing or dlss just yet we'll get to
+that<00:00:57.960><c> in</c><00:00:58.140><c> just</c><00:00:58.260><c> a</c><00:00:58.440><c> minute</c><00:00:58.559><c> but</c><00:00:58.980><c> I</c><00:00:59.160><c> mean</c><00:00:59.280><c> just</c>
+
+00:00:59.510 --> 00:00:59.520 align:start position:0%
+that in just a minute but I mean just
+ 
+
+00:00:59.520 --> 00:01:02.090 align:start position:0%
+that in just a minute but I mean just
+look<00:00:59.699><c> at</c><00:00:59.820><c> the</c><00:00:59.940><c> brute</c><00:01:00.660><c> output</c><00:01:01.079><c> of</c><00:01:01.379><c> this</c><00:01:01.559><c> GPU</c>
+
+00:01:02.090 --> 00:01:02.100 align:start position:0%
+look at the brute output of this GPU
+ 
+
+00:01:02.100 --> 00:01:03.950 align:start position:0%
+look at the brute output of this GPU
+it's<00:01:02.520><c> so</c><00:01:02.820><c> much</c><00:01:02.940><c> higher</c><00:01:03.239><c> than</c><00:01:03.359><c> I</c><00:01:03.539><c> expected</c>
+
+00:01:03.950 --> 00:01:03.960 align:start position:0%
+it's so much higher than I expected
+ 
+
+00:01:03.960 --> 00:01:06.649 align:start position:0%
+it's so much higher than I expected
+without<00:01:04.379><c> those</c><00:01:04.739><c> RTX</c><00:01:05.220><c> effects</c><00:01:05.700><c> enabled</c><00:01:06.240><c> here</c>
+
+00:01:06.649 --> 00:01:06.659 align:start position:0%
+without those RTX effects enabled here
+ 
+
+00:01:06.659 --> 00:01:08.390 align:start position:0%
+without those RTX effects enabled here
+we're<00:01:06.840><c> looking</c><00:01:07.020><c> at</c><00:01:07.200><c> about</c><00:01:07.320><c> an</c><00:01:07.560><c> 80</c><00:01:07.740><c> increase</c>
+
+00:01:08.390 --> 00:01:08.400 align:start position:0%
+we're looking at about an 80 increase
+ 
+
+00:01:08.400 --> 00:01:11.270 align:start position:0%
+we're looking at about an 80 increase
+over<00:01:08.820><c> the</c><00:01:09.060><c> RTX</c><00:01:09.540><c> 3090</c><00:01:10.320><c> and</c><00:01:10.619><c> it's</c><00:01:10.799><c> not</c><00:01:10.979><c> far</c><00:01:11.100><c> off</c>
+
+00:01:11.270 --> 00:01:11.280 align:start position:0%
+over the RTX 3090 and it's not far off
+ 
+
+00:01:11.280 --> 00:01:13.670 align:start position:0%
+over the RTX 3090 and it's not far off
+triple<00:01:11.700><c> the</c><00:01:11.880><c> performance</c><00:01:12.240><c> of</c><00:01:12.540><c> a</c><00:01:12.720><c> 2080</c><00:01:13.140><c> TI</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+triple the performance of a 2080 TI
+ 
+
+00:01:13.680 --> 00:01:15.830 align:start position:0%
+triple the performance of a 2080 TI
+which<00:01:14.040><c> is</c><00:01:14.220><c> still</c><00:01:14.520><c> a</c><00:01:14.640><c> strong</c><00:01:14.820><c> GPU</c><00:01:15.360><c> by</c><00:01:15.600><c> today's</c>
+
+00:01:15.830 --> 00:01:15.840 align:start position:0%
+which is still a strong GPU by today's
+ 
+
+00:01:15.840 --> 00:01:17.570 align:start position:0%
+which is still a strong GPU by today's
+standards<00:01:16.560><c> games</c><00:01:16.860><c> that</c><00:01:17.100><c> might</c><00:01:17.280><c> have</c><00:01:17.460><c> been</c>
+
+00:01:17.570 --> 00:01:17.580 align:start position:0%
+standards games that might have been
+ 
+
+00:01:17.580 --> 00:01:20.270 align:start position:0%
+standards games that might have been
+previously<00:01:18.119><c> demanding</c><00:01:18.600><c> at</c><00:01:18.840><c> 4K</c><00:01:19.260><c> even</c><00:01:19.680><c> on</c><00:01:20.040><c> last</c>
+
+00:01:20.270 --> 00:01:20.280 align:start position:0%
+previously demanding at 4K even on last
+ 
+
+00:01:20.280 --> 00:01:22.730 align:start position:0%
+previously demanding at 4K even on last
+gen<00:01:20.520><c> Flagship</c><00:01:21.000><c> gpus</c><00:01:21.540><c> they're</c><00:01:22.140><c> just</c><00:01:22.380><c> not</c><00:01:22.560><c> even</c>
+
+00:01:22.730 --> 00:01:22.740 align:start position:0%
+gen Flagship gpus they're just not even
+ 
+
+00:01:22.740 --> 00:01:25.730 align:start position:0%
+gen Flagship gpus they're just not even
+remotely<00:01:23.460><c> challenging</c><00:01:23.939><c> for</c><00:01:24.180><c> the</c><00:01:24.420><c> 4090</c><00:01:25.140><c> Dying</c>
+
+00:01:25.730 --> 00:01:25.740 align:start position:0%
+remotely challenging for the 4090 Dying
+ 
+
+00:01:25.740 --> 00:01:28.070 align:start position:0%
+remotely challenging for the 4090 Dying
+Light<00:01:25.860><c> 2</c><00:01:26.100><c> for</c><00:01:26.340><c> example</c><00:01:26.580><c> the</c><00:01:26.939><c> 2080</c><00:01:27.360><c> TI</c><00:01:27.780><c> does</c>
+
+00:01:28.070 --> 00:01:28.080 align:start position:0%
+Light 2 for example the 2080 TI does
+ 
+
+00:01:28.080 --> 00:01:29.690 align:start position:0%
+Light 2 for example the 2080 TI does
+struggle<00:01:28.560><c> a</c><00:01:28.740><c> bit</c><00:01:28.860><c> you'd</c><00:01:29.220><c> probably</c><00:01:29.340><c> need</c><00:01:29.580><c> to</c>
+
+00:01:29.690 --> 00:01:29.700 align:start position:0%
+struggle a bit you'd probably need to
+ 
+
+00:01:29.700 --> 00:01:31.850 align:start position:0%
+struggle a bit you'd probably need to
+lower<00:01:29.880><c> some</c><00:01:30.180><c> settings</c><00:01:30.360><c> and</c><00:01:30.900><c> the</c><00:01:31.080><c> 3090</c><00:01:31.680><c> just</c>
+
+00:01:31.850 --> 00:01:31.860 align:start position:0%
+lower some settings and the 3090 just
+ 
+
+00:01:31.860 --> 00:01:34.850 align:start position:0%
+lower some settings and the 3090 just
+delivers<00:01:32.340><c> a</c><00:01:32.460><c> 60fps</c><00:01:33.119><c> plus</c><00:01:33.540><c> experience</c><00:01:34.140><c> the</c><00:01:34.680><c> new</c>
+
+00:01:34.850 --> 00:01:34.860 align:start position:0%
+delivers a 60fps plus experience the new
+ 
+
+00:01:34.860 --> 00:01:37.670 align:start position:0%
+delivers a 60fps plus experience the new
+RTX<00:01:35.340><c> 4090</c><00:01:36.000><c> though</c><00:01:36.180><c> I</c><00:01:36.720><c> mean</c><00:01:36.960><c> it's</c><00:01:37.320><c> kind</c><00:01:37.560><c> of</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+RTX 4090 though I mean it's kind of
+ 
+
+00:01:37.680 --> 00:01:39.649 align:start position:0%
+RTX 4090 though I mean it's kind of
+almost<00:01:37.920><c> laughable</c><00:01:38.460><c> at</c><00:01:38.759><c> how</c><00:01:39.000><c> fast</c><00:01:39.180><c> it</c><00:01:39.540><c> actually</c>
+
+00:01:39.649 --> 00:01:39.659 align:start position:0%
+almost laughable at how fast it actually
+ 
+
+00:01:39.659 --> 00:01:41.630 align:start position:0%
+almost laughable at how fast it actually
+is<00:01:40.020><c> now</c><00:01:40.439><c> if</c><00:01:40.619><c> that</c><00:01:40.740><c> wasn't</c><00:01:40.920><c> ridiculous</c><00:01:41.460><c> enough</c>
+
+00:01:41.630 --> 00:01:41.640 align:start position:0%
+is now if that wasn't ridiculous enough
+ 
+
+00:01:41.640 --> 00:01:43.910 align:start position:0%
+is now if that wasn't ridiculous enough
+here's<00:01:42.119><c> the</c><00:01:42.240><c> new</c><00:01:42.420><c> OverWatch</c><00:01:42.840><c> 2</c><00:01:43.020><c> running</c><00:01:43.320><c> at</c><00:01:43.560><c> 4K</c>
+
+00:01:43.910 --> 00:01:43.920 align:start position:0%
+here's the new OverWatch 2 running at 4K
+ 
+
+00:01:43.920 --> 00:01:45.649 align:start position:0%
+here's the new OverWatch 2 running at 4K
+with<00:01:44.220><c> medium</c><00:01:44.579><c> settings</c><00:01:44.820><c> and</c><00:01:45.360><c> there</c><00:01:45.479><c> were</c>
+
+00:01:45.649 --> 00:01:45.659 align:start position:0%
+with medium settings and there were
+ 
+
+00:01:45.659 --> 00:01:47.569 align:start position:0%
+with medium settings and there were
+multiple<00:01:45.960><c> times</c><00:01:46.140><c> here</c><00:01:46.380><c> where</c><00:01:46.619><c> the</c><00:01:46.799><c> 4090</c><00:01:47.400><c> hits</c>
+
+00:01:47.569 --> 00:01:47.579 align:start position:0%
+multiple times here where the 4090 hits
+ 
+
+00:01:47.579 --> 00:01:50.630 align:start position:0%
+multiple times here where the 4090 hits
+the<00:01:47.880><c> in-game</c><00:01:48.479><c> frame</c><00:01:48.840><c> rate</c><00:01:48.960><c> limit</c><00:01:49.200><c> of</c><00:01:49.619><c> 600</c><00:01:50.220><c> FPS</c>
+
+00:01:50.630 --> 00:01:50.640 align:start position:0%
+the in-game frame rate limit of 600 FPS
+ 
+
+00:01:50.640 --> 00:01:53.870 align:start position:0%
+the in-game frame rate limit of 600 FPS
+again<00:01:51.420><c> that's</c><00:01:51.960><c> at</c><00:01:52.320><c> 4K</c><00:01:52.799><c> now</c><00:01:53.280><c> of</c><00:01:53.460><c> course</c><00:01:53.579><c> those</c>
+
+00:01:53.870 --> 00:01:53.880 align:start position:0%
+again that's at 4K now of course those
+ 
+
+00:01:53.880 --> 00:01:55.730 align:start position:0%
+again that's at 4K now of course those
+kind<00:01:54.060><c> of</c><00:01:54.180><c> frame</c><00:01:54.420><c> rates</c><00:01:54.659><c> they're</c><00:01:55.020><c> possible</c><00:01:55.380><c> at</c>
+
+00:01:55.730 --> 00:01:55.740 align:start position:0%
+kind of frame rates they're possible at
+ 
+
+00:01:55.740 --> 00:01:58.130 align:start position:0%
+kind of frame rates they're possible at
+lower<00:01:55.920><c> resolutions</c><00:01:56.579><c> with</c><00:01:57.000><c> weaker</c><00:01:57.479><c> gpus</c><00:01:57.899><c> and</c>
+
+00:01:58.130 --> 00:01:58.140 align:start position:0%
+lower resolutions with weaker gpus and
+ 
+
+00:01:58.140 --> 00:02:00.770 align:start position:0%
+lower resolutions with weaker gpus and
+lower<00:01:58.500><c> settings</c><00:01:58.799><c> but</c><00:01:59.220><c> again</c><00:01:59.460><c> just</c><00:01:59.880><c> Flex</c><00:02:00.479><c> the</c>
+
+00:02:00.770 --> 00:02:00.780 align:start position:0%
+lower settings but again just Flex the
+ 
+
+00:02:00.780 --> 00:02:03.350 align:start position:0%
+lower settings but again just Flex the
+role<00:02:01.079><c> rendering</c><00:02:01.500><c> power</c><00:02:01.680><c> of</c><00:02:01.979><c> the</c><00:02:02.220><c> 4090</c><00:02:02.880><c> it's</c>
+
+00:02:03.350 --> 00:02:03.360 align:start position:0%
+role rendering power of the 4090 it's
+ 
+
+00:02:03.360 --> 00:02:05.510 align:start position:0%
+role rendering power of the 4090 it's
+pretty<00:02:03.600><c> nuts</c><00:02:04.079><c> Nvidia</c><00:02:04.799><c> are</c><00:02:04.979><c> always</c><00:02:05.159><c> kind</c><00:02:05.460><c> of</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+pretty nuts Nvidia are always kind of
+ 
+
+00:02:05.520 --> 00:02:06.950 align:start position:0%
+pretty nuts Nvidia are always kind of
+secretive<00:02:05.939><c> about</c><00:02:06.119><c> the</c><00:02:06.360><c> gains</c><00:02:06.719><c> of</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+secretive about the gains of
+ 
+
+00:02:06.960 --> 00:02:09.109 align:start position:0%
+secretive about the gains of
+rasterization<00:02:07.740><c> only</c><00:02:08.099><c> performance</c><00:02:08.640><c> when</c><00:02:08.880><c> they</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+rasterization only performance when they
+ 
+
+00:02:09.119 --> 00:02:11.150 align:start position:0%
+rasterization only performance when they
+announce<00:02:09.479><c> these</c><00:02:09.840><c> gpus</c><00:02:10.200><c> and</c><00:02:10.560><c> that</c><00:02:10.800><c> causes</c>
+
+00:02:11.150 --> 00:02:11.160 align:start position:0%
+announce these gpus and that causes
+ 
+
+00:02:11.160 --> 00:02:12.949 align:start position:0%
+announce these gpus and that causes
+people<00:02:11.340><c> to</c><00:02:11.819><c> kind</c><00:02:12.000><c> of</c><00:02:12.060><c> speculate</c><00:02:12.540><c> that</c><00:02:12.780><c> the</c>
+
+00:02:12.949 --> 00:02:12.959 align:start position:0%
+people to kind of speculate that the
+ 
+
+00:02:12.959 --> 00:02:14.750 align:start position:0%
+people to kind of speculate that the
+performance<00:02:13.260><c> gains</c><00:02:13.620><c> aren't</c><00:02:13.860><c> that</c><00:02:14.040><c> much</c><00:02:14.280><c> but</c>
+
+00:02:14.750 --> 00:02:14.760 align:start position:0%
+performance gains aren't that much but
+ 
+
+00:02:14.760 --> 00:02:16.430 align:start position:0%
+performance gains aren't that much but
+as<00:02:15.000><c> you</c><00:02:15.120><c> can</c><00:02:15.239><c> see</c><00:02:15.360><c> they</c><00:02:15.840><c> are</c><00:02:16.020><c> still</c><00:02:16.260><c> pretty</c>
+
+00:02:16.430 --> 00:02:16.440 align:start position:0%
+as you can see they are still pretty
+ 
+
+00:02:16.440 --> 00:02:18.229 align:start position:0%
+as you can see they are still pretty
+substantial<00:02:16.980><c> without</c><00:02:17.280><c> even</c><00:02:17.580><c> factoring</c><00:02:18.060><c> in</c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+substantial without even factoring in
+ 
+
+00:02:18.239 --> 00:02:20.930 align:start position:0%
+substantial without even factoring in
+Ray<00:02:18.480><c> tracing</c><00:02:18.900><c> or</c><00:02:19.080><c> dlss</c><00:02:19.739><c> so</c><00:02:20.340><c> in</c><00:02:20.459><c> the</c><00:02:20.580><c> end</c><00:02:20.700><c> when</c>
+
+00:02:20.930 --> 00:02:20.940 align:start position:0%
+Ray tracing or dlss so in the end when
+ 
+
+00:02:20.940 --> 00:02:22.610 align:start position:0%
+Ray tracing or dlss so in the end when
+we're<00:02:21.060><c> looking</c><00:02:21.239><c> at</c><00:02:21.480><c> pure</c><00:02:21.840><c> rasterization</c>
+
+00:02:22.610 --> 00:02:22.620 align:start position:0%
+we're looking at pure rasterization
+ 
+
+00:02:22.620 --> 00:02:24.589 align:start position:0%
+we're looking at pure rasterization
+output<00:02:23.099><c> we're</c><00:02:23.459><c> averaging</c><00:02:24.000><c> close</c><00:02:24.180><c> to</c><00:02:24.360><c> double</c>
+
+00:02:24.589 --> 00:02:24.599 align:start position:0%
+output we're averaging close to double
+ 
+
+00:02:24.599 --> 00:02:27.650 align:start position:0%
+output we're averaging close to double
+the<00:02:24.900><c> performance</c><00:02:25.260><c> of</c><00:02:25.500><c> the</c><00:02:25.680><c> RTX</c><00:02:26.160><c> 3090</c><00:02:26.879><c> at</c><00:02:27.120><c> 4K</c>
+
+00:02:27.650 --> 00:02:27.660 align:start position:0%
+the performance of the RTX 3090 at 4K
+ 
+
+00:02:27.660 --> 00:02:29.390 align:start position:0%
+the performance of the RTX 3090 at 4K
+that<00:02:28.200><c> means</c><00:02:28.440><c> that</c><00:02:28.560><c> most</c><00:02:28.800><c> of</c><00:02:28.920><c> the</c><00:02:29.040><c> time</c><00:02:29.160><c> you're</c>
+
+00:02:29.390 --> 00:02:29.400 align:start position:0%
+that means that most of the time you're
+ 
+
+00:02:29.400 --> 00:02:32.690 align:start position:0%
+that means that most of the time you're
+actually<00:02:29.580><c> hitting</c><00:02:30.060><c> over</c><00:02:30.300><c> 150</c><00:02:31.140><c> FPS</c><00:02:31.440><c> with</c><00:02:32.220><c> maxed</c>
+
+00:02:32.690 --> 00:02:32.700 align:start position:0%
+actually hitting over 150 FPS with maxed
+ 
+
+00:02:32.700 --> 00:02:34.550 align:start position:0%
+actually hitting over 150 FPS with maxed
+out<00:02:32.819><c> settings</c><00:02:33.060><c> and</c><00:02:33.660><c> in</c><00:02:33.840><c> some</c><00:02:34.020><c> cases</c><00:02:34.319><c> you're</c>
+
+00:02:34.550 --> 00:02:34.560 align:start position:0%
+out settings and in some cases you're
+ 
+
+00:02:34.560 --> 00:02:36.110 align:start position:0%
+out settings and in some cases you're
+actually<00:02:34.680><c> going</c><00:02:34.920><c> beyond</c><00:02:35.280><c> what</c><00:02:35.520><c> the</c><00:02:35.760><c> fastest</c>
+
+00:02:36.110 --> 00:02:36.120 align:start position:0%
+actually going beyond what the fastest
+ 
+
+00:02:36.120 --> 00:02:38.210 align:start position:0%
+actually going beyond what the fastest
+4K<00:02:36.540><c> monitors</c><00:02:36.959><c> are</c><00:02:37.200><c> possible</c><00:02:37.500><c> of</c><00:02:37.680><c> displaying</c>
+
+00:02:38.210 --> 00:02:38.220 align:start position:0%
+4K monitors are possible of displaying
+ 
+
+00:02:38.220 --> 00:02:40.250 align:start position:0%
+4K monitors are possible of displaying
+so<00:02:38.760><c> yeah</c><00:02:38.879><c> I</c><00:02:39.180><c> really</c><00:02:39.300><c> meant</c><00:02:39.599><c> it</c><00:02:39.720><c> when</c><00:02:39.959><c> I</c><00:02:40.140><c> said</c>
+
+00:02:40.250 --> 00:02:40.260 align:start position:0%
+so yeah I really meant it when I said
+ 
+
+00:02:40.260 --> 00:02:42.830 align:start position:0%
+so yeah I really meant it when I said
+this<00:02:40.560><c> thing</c><00:02:40.680><c> is</c><00:02:41.099><c> insane</c><00:02:41.700><c> like</c><00:02:42.000><c> you</c><00:02:42.300><c> just</c><00:02:42.480><c> won't</c>
+
+00:02:42.830 --> 00:02:42.840 align:start position:0%
+this thing is insane like you just won't
+ 
+
+00:02:42.840 --> 00:02:44.390 align:start position:0%
+this thing is insane like you just won't
+actually<00:02:43.080><c> believe</c><00:02:43.379><c> the</c><00:02:43.620><c> benchmarks</c><00:02:44.220><c> until</c>
+
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+actually believe the benchmarks until
+ 
+
+00:02:44.400 --> 00:02:46.369 align:start position:0%
+actually believe the benchmarks until
+you<00:02:44.760><c> actually</c><00:02:45.000><c> see</c><00:02:45.300><c> them</c><00:02:45.540><c> and</c><00:02:46.019><c> they're</c><00:02:46.200><c> just</c>
+
+00:02:46.369 --> 00:02:46.379 align:start position:0%
+you actually see them and they're just
+ 
+
+00:02:46.379 --> 00:02:49.130 align:start position:0%
+you actually see them and they're just
+mind-boggling<00:02:47.160><c> to</c><00:02:47.400><c> see</c><00:02:47.519><c> 4K</c><00:02:48.000><c> running</c><00:02:48.360><c> at</c><00:02:48.660><c> those</c>
+
+00:02:49.130 --> 00:02:49.140 align:start position:0%
+mind-boggling to see 4K running at those
+ 
+
+00:02:49.140 --> 00:02:50.809 align:start position:0%
+mind-boggling to see 4K running at those
+kind<00:02:49.379><c> of</c><00:02:49.500><c> frame</c><00:02:49.739><c> rates</c><00:02:49.980><c> especially</c><00:02:50.459><c> with</c>
+
+00:02:50.809 --> 00:02:50.819 align:start position:0%
+kind of frame rates especially with
+ 
+
+00:02:50.819 --> 00:02:52.550 align:start position:0%
+kind of frame rates especially with
+maxed<00:02:51.300><c> out</c><00:02:51.360><c> settings</c><00:02:51.660><c> talking</c><00:02:52.379><c> about</c>
+
+00:02:52.550 --> 00:02:52.560 align:start position:0%
+maxed out settings talking about
+ 
+
+00:02:52.560 --> 00:02:54.650 align:start position:0%
+maxed out settings talking about
+settings<00:02:52.800><c> let's</c><00:02:53.340><c> now</c><00:02:53.519><c> talk</c><00:02:53.700><c> about</c><00:02:53.879><c> retracing</c>
+
+00:02:54.650 --> 00:02:54.660 align:start position:0%
+settings let's now talk about retracing
+ 
+
+00:02:54.660 --> 00:02:56.930 align:start position:0%
+settings let's now talk about retracing
+and<00:02:54.900><c> dlss</c><00:02:55.620><c> and</c><00:02:56.040><c> the</c><00:02:56.400><c> thing</c><00:02:56.519><c> about</c><00:02:56.640><c> these</c>
+
+00:02:56.930 --> 00:02:56.940 align:start position:0%
+and dlss and the thing about these
+ 
+
+00:02:56.940 --> 00:02:58.369 align:start position:0%
+and dlss and the thing about these
+features<00:02:57.300><c> is</c><00:02:57.540><c> they're</c><00:02:57.780><c> no</c><00:02:57.959><c> longer</c><00:02:58.200><c> really</c>
+
+00:02:58.369 --> 00:02:58.379 align:start position:0%
+features is they're no longer really
+ 
+
+00:02:58.379 --> 00:03:00.170 align:start position:0%
+features is they're no longer really
+considered<00:02:58.920><c> Niche</c><00:02:59.519><c> or</c><00:02:59.580><c> special</c><00:02:59.819><c> special</c>
+
+00:03:00.170 --> 00:03:00.180 align:start position:0%
+considered Niche or special special
+ 
+
+00:03:00.180 --> 00:03:02.509 align:start position:0%
+considered Niche or special special
+features<00:03:00.780><c> for</c><00:03:01.379><c> one</c><00:03:01.560><c> the</c><00:03:02.040><c> amount</c><00:03:02.280><c> of</c><00:03:02.340><c> games</c>
+
+00:03:02.509 --> 00:03:02.519 align:start position:0%
+features for one the amount of games
+ 
+
+00:03:02.519 --> 00:03:05.030 align:start position:0%
+features for one the amount of games
+that<00:03:02.879><c> actually</c><00:03:03.060><c> support</c><00:03:03.480><c> RTX</c><00:03:04.260><c> and</c><00:03:04.620><c> Ray</c>
+
+00:03:05.030 --> 00:03:05.040 align:start position:0%
+that actually support RTX and Ray
+ 
+
+00:03:05.040 --> 00:03:07.130 align:start position:0%
+that actually support RTX and Ray
+tracing<00:03:05.459><c> and</c><00:03:05.580><c> stuff</c><00:03:05.760><c> like</c><00:03:05.940><c> that</c><00:03:06.060><c> is</c><00:03:06.599><c> a</c><00:03:06.840><c> huge</c>
+
+00:03:07.130 --> 00:03:07.140 align:start position:0%
+tracing and stuff like that is a huge
+ 
+
+00:03:07.140 --> 00:03:08.869 align:start position:0%
+tracing and stuff like that is a huge
+list<00:03:07.260><c> of</c><00:03:07.500><c> games</c><00:03:07.680><c> like</c><00:03:08.099><c> most</c><00:03:08.340><c> modern</c><00:03:08.580><c> games</c>
+
+00:03:08.869 --> 00:03:08.879 align:start position:0%
+list of games like most modern games
+ 
+
+00:03:08.879 --> 00:03:10.369 align:start position:0%
+list of games like most modern games
+coming<00:03:09.180><c> out</c><00:03:09.300><c> will</c><00:03:09.599><c> have</c><00:03:09.840><c> these</c><00:03:10.080><c> features</c>
+
+00:03:10.369 --> 00:03:10.379 align:start position:0%
+coming out will have these features
+ 
+
+00:03:10.379 --> 00:03:12.530 align:start position:0%
+coming out will have these features
+implemented<00:03:10.980><c> and</c><00:03:11.459><c> secondly</c><00:03:11.819><c> I've</c><00:03:12.120><c> also</c><00:03:12.360><c> seen</c>
+
+00:03:12.530 --> 00:03:12.540 align:start position:0%
+implemented and secondly I've also seen
+ 
+
+00:03:12.540 --> 00:03:14.449 align:start position:0%
+implemented and secondly I've also seen
+some<00:03:12.780><c> games</c><00:03:12.959><c> have</c><00:03:13.319><c> these</c><00:03:13.680><c> settings</c><00:03:13.800><c> enabled</c>
+
+00:03:14.449 --> 00:03:14.459 align:start position:0%
+some games have these settings enabled
+ 
+
+00:03:14.459 --> 00:03:16.490 align:start position:0%
+some games have these settings enabled
+by<00:03:14.700><c> default</c><00:03:15.239><c> like</c><00:03:15.599><c> if</c><00:03:15.780><c> you</c><00:03:15.900><c> go</c><00:03:16.019><c> and</c><00:03:16.140><c> select</c>
+
+00:03:16.490 --> 00:03:16.500 align:start position:0%
+by default like if you go and select
+ 
+
+00:03:16.500 --> 00:03:18.589 align:start position:0%
+by default like if you go and select
+high<00:03:16.920><c> or</c><00:03:17.340><c> ultra</c><00:03:17.700><c> high</c><00:03:17.879><c> you</c><00:03:18.239><c> will</c><00:03:18.420><c> actually</c>
+
+00:03:18.589 --> 00:03:18.599 align:start position:0%
+high or ultra high you will actually
+ 
+
+00:03:18.599 --> 00:03:20.570 align:start position:0%
+high or ultra high you will actually
+have<00:03:18.840><c> to</c><00:03:19.080><c> intervene</c><00:03:19.800><c> and</c><00:03:19.920><c> turn</c><00:03:20.099><c> off</c><00:03:20.340><c> Ray</c>
+
+00:03:20.570 --> 00:03:20.580 align:start position:0%
+have to intervene and turn off Ray
+ 
+
+00:03:20.580 --> 00:03:22.250 align:start position:0%
+have to intervene and turn off Ray
+tracing<00:03:21.120><c> because</c><00:03:21.480><c> that's</c><00:03:21.900><c> what</c><00:03:22.140><c> the</c>
+
+00:03:22.250 --> 00:03:22.260 align:start position:0%
+tracing because that's what the
+ 
+
+00:03:22.260 --> 00:03:24.350 align:start position:0%
+tracing because that's what the
+developer<00:03:22.680><c> has</c><00:03:22.860><c> put</c><00:03:23.040><c> in</c><00:03:23.220><c> as</c><00:03:23.640><c> an</c><00:03:23.879><c> ultra</c><00:03:24.180><c> high</c>
+
+00:03:24.350 --> 00:03:24.360 align:start position:0%
+developer has put in as an ultra high
+ 
+
+00:03:24.360 --> 00:03:26.750 align:start position:0%
+developer has put in as an ultra high
+setting<00:03:24.840><c> so</c><00:03:25.140><c> as</c><00:03:25.319><c> you'd</c><00:03:25.500><c> expect</c><00:03:25.620><c> with</c><00:03:26.159><c> more</c><00:03:26.400><c> RT</c>
+
+00:03:26.750 --> 00:03:26.760 align:start position:0%
+setting so as you'd expect with more RT
+ 
+
+00:03:26.760 --> 00:03:29.149 align:start position:0%
+setting so as you'd expect with more RT
+cores<00:03:27.239><c> and</c><00:03:27.360><c> tensor</c><00:03:27.720><c> cores</c><00:03:28.019><c> on</c><00:03:28.200><c> the</c><00:03:28.319><c> 4090</c><00:03:28.920><c> as</c>
+
+00:03:29.149 --> 00:03:29.159 align:start position:0%
+cores and tensor cores on the 4090 as
+ 
+
+00:03:29.159 --> 00:03:30.710 align:start position:0%
+cores and tensor cores on the 4090 as
+well<00:03:29.280><c> as</c><00:03:29.400><c> just</c><00:03:29.519><c> being</c><00:03:29.819><c> more</c><00:03:30.120><c> powerful</c><00:03:30.420><c> in</c>
+
+00:03:30.710 --> 00:03:30.720 align:start position:0%
+well as just being more powerful in
+ 
+
+00:03:30.720 --> 00:03:33.170 align:start position:0%
+well as just being more powerful in
+general<00:03:30.900><c> switching</c><00:03:31.620><c> on</c><00:03:31.739><c> RTX</c><00:03:32.220><c> leaves</c><00:03:32.580><c> the</c><00:03:32.640><c> 4090</c>
+
+00:03:33.170 --> 00:03:33.180 align:start position:0%
+general switching on RTX leaves the 4090
+ 
+
+00:03:33.180 --> 00:03:35.330 align:start position:0%
+general switching on RTX leaves the 4090
+with<00:03:33.360><c> a</c><00:03:33.540><c> much</c><00:03:33.659><c> more</c><00:03:33.840><c> capable</c><00:03:34.260><c> experience</c><00:03:34.860><c> here</c>
+
+00:03:35.330 --> 00:03:35.340 align:start position:0%
+with a much more capable experience here
+ 
+
+00:03:35.340 --> 00:03:37.130 align:start position:0%
+with a much more capable experience here
+we're<00:03:35.580><c> looking</c><00:03:35.760><c> at</c><00:03:35.940><c> control</c><00:03:36.180><c> running</c><00:03:36.540><c> at</c><00:03:36.780><c> 4K</c>
+
+00:03:37.130 --> 00:03:37.140 align:start position:0%
+we're looking at control running at 4K
+ 
+
+00:03:37.140 --> 00:03:38.930 align:start position:0%
+we're looking at control running at 4K
+everything<00:03:37.620><c> maxed</c><00:03:38.099><c> out</c><00:03:38.220><c> including</c><00:03:38.700><c> Ray</c>
+
+00:03:38.930 --> 00:03:38.940 align:start position:0%
+everything maxed out including Ray
+ 
+
+00:03:38.940 --> 00:03:41.270 align:start position:0%
+everything maxed out including Ray
+tracing<00:03:39.420><c> and</c><00:03:39.720><c> also</c><00:03:39.900><c> with</c><00:03:40.080><c> dlss</c><00:03:40.739><c> set</c><00:03:40.980><c> to</c><00:03:41.099><c> the</c>
+
+00:03:41.270 --> 00:03:41.280 align:start position:0%
+tracing and also with dlss set to the
+ 
+
+00:03:41.280 --> 00:03:43.850 align:start position:0%
+tracing and also with dlss set to the
+balanced<00:03:41.700><c> mode</c><00:03:41.819><c> the</c><00:03:42.180><c> RTX</c><00:03:42.599><c> 4090</c><00:03:43.260><c> has</c><00:03:43.500><c> a</c><00:03:43.739><c> new</c>
+
+00:03:43.850 --> 00:03:43.860 align:start position:0%
+balanced mode the RTX 4090 has a new
+ 
+
+00:03:43.860 --> 00:03:46.070 align:start position:0%
+balanced mode the RTX 4090 has a new
+trick<00:03:44.159><c> though</c><00:03:44.340><c> and</c><00:03:44.519><c> that's</c><00:03:44.700><c> a</c><00:03:44.819><c> DLS</c><00:03:45.239><c> S3</c><00:03:45.599><c> feature</c>
+
+00:03:46.070 --> 00:03:46.080 align:start position:0%
+trick though and that's a DLS S3 feature
+ 
+
+00:03:46.080 --> 00:03:48.410 align:start position:0%
+trick though and that's a DLS S3 feature
+called<00:03:46.319><c> frame</c><00:03:46.920><c> generation</c><00:03:47.519><c> in</c><00:03:47.940><c> a</c><00:03:48.120><c> nutshell</c>
+
+00:03:48.410 --> 00:03:48.420 align:start position:0%
+called frame generation in a nutshell
+ 
+
+00:03:48.420 --> 00:03:49.850 align:start position:0%
+called frame generation in a nutshell
+what<00:03:48.540><c> this</c><00:03:48.720><c> is</c><00:03:48.840><c> doing</c><00:03:48.959><c> is</c><00:03:49.140><c> comparing</c><00:03:49.620><c> two</c>
+
+00:03:49.850 --> 00:03:49.860 align:start position:0%
+what this is doing is comparing two
+ 
+
+00:03:49.860 --> 00:03:51.589 align:start position:0%
+what this is doing is comparing two
+frames<00:03:50.280><c> that</c><00:03:50.519><c> have</c><00:03:50.700><c> already</c><00:03:50.940><c> been</c><00:03:51.180><c> rendered</c>
+
+00:03:51.589 --> 00:03:51.599 align:start position:0%
+frames that have already been rendered
+ 
+
+00:03:51.599 --> 00:03:54.170 align:start position:0%
+frames that have already been rendered
+and<00:03:51.959><c> it</c><00:03:52.080><c> uses</c><00:03:52.379><c> AI</c><00:03:52.739><c> to</c><00:03:52.920><c> make</c><00:03:53.040><c> a</c><00:03:53.400><c> completely</c><00:03:53.700><c> new</c>
+
+00:03:54.170 --> 00:03:54.180 align:start position:0%
+and it uses AI to make a completely new
+ 
+
+00:03:54.180 --> 00:03:56.509 align:start position:0%
+and it uses AI to make a completely new
+one<00:03:54.480><c> in</c><00:03:54.840><c> between</c><00:03:54.959><c> them</c><00:03:55.319><c> essentially</c><00:03:56.040><c> it's</c>
+
+00:03:56.509 --> 00:03:56.519 align:start position:0%
+one in between them essentially it's
+ 
+
+00:03:56.519 --> 00:03:58.729 align:start position:0%
+one in between them essentially it's
+artificially<00:03:57.239><c> increasing</c><00:03:58.080><c> your</c><00:03:58.379><c> frame</c><00:03:58.680><c> rate</c>
+
+00:03:58.729 --> 00:03:58.739 align:start position:0%
+artificially increasing your frame rate
+ 
+
+00:03:58.739 --> 00:04:01.850 align:start position:0%
+artificially increasing your frame rate
+by<00:03:59.099><c> inserting</c><00:03:59.459><c> AI</c><00:03:59.760><c> my</c><00:04:00.420><c> fake</c><00:04:00.900><c> generated</c><00:04:01.379><c> frames</c>
+
+00:04:01.850 --> 00:04:01.860 align:start position:0%
+by inserting AI my fake generated frames
+ 
+
+00:04:01.860 --> 00:04:03.830 align:start position:0%
+by inserting AI my fake generated frames
+and<00:04:02.340><c> as</c><00:04:02.519><c> you</c><00:04:02.640><c> can</c><00:04:02.760><c> see</c><00:04:02.879><c> the</c><00:04:03.420><c> frame</c><00:04:03.720><c> rate</c>
+
+00:04:03.830 --> 00:04:03.840 align:start position:0%
+and as you can see the frame rate
+ 
+
+00:04:03.840 --> 00:04:05.869 align:start position:0%
+and as you can see the frame rate
+increases<00:04:04.379><c> by</c><00:04:04.620><c> doing</c><00:04:04.799><c> this</c><00:04:05.040><c> even</c><00:04:05.340><c> over</c><00:04:05.640><c> the</c>
+
+00:04:05.869 --> 00:04:05.879 align:start position:0%
+increases by doing this even over the
+ 
+
+00:04:05.879 --> 00:04:08.030 align:start position:0%
+increases by doing this even over the
+increase<00:04:06.120><c> by</c><00:04:06.540><c> you</c><00:04:06.840><c> know</c><00:04:06.900><c> using</c><00:04:07.200><c> dlss</c><00:04:07.799><c> in</c>
+
+00:04:08.030 --> 00:04:08.040 align:start position:0%
+increase by you know using dlss in
+ 
+
+00:04:08.040 --> 00:04:10.309 align:start position:0%
+increase by you know using dlss in
+performance<00:04:08.340><c> mode</c><00:04:08.580><c> is</c><00:04:09.299><c> really</c><00:04:09.720><c> really</c><00:04:09.900><c> strong</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+performance mode is really really strong
+ 
+
+00:04:10.319 --> 00:04:12.949 align:start position:0%
+performance mode is really really strong
+in<00:04:10.739><c> the</c><00:04:10.860><c> end</c><00:04:10.980><c> it's</c><00:04:11.159><c> about</c><00:04:11.340><c> a</c><00:04:11.700><c> 50</c><00:04:11.879><c> bump</c><00:04:12.540><c> here</c><00:04:12.720><c> in</c>
+
+00:04:12.949 --> 00:04:12.959 align:start position:0%
+in the end it's about a 50 bump here in
+ 
+
+00:04:12.959 --> 00:04:14.750 align:start position:0%
+in the end it's about a 50 bump here in
+cyberpunk<00:04:13.379><c> which</c><00:04:13.920><c> is</c><00:04:14.159><c> Comfortably</c><00:04:14.459><c> running</c>
+
+00:04:14.750 --> 00:04:14.760 align:start position:0%
+cyberpunk which is Comfortably running
+ 
+
+00:04:14.760 --> 00:04:17.990 align:start position:0%
+cyberpunk which is Comfortably running
+at<00:04:15.000><c> around</c><00:04:15.180><c> 140</c><00:04:16.079><c> FPS</c><00:04:16.500><c> now</c><00:04:17.340><c> when</c><00:04:17.579><c> you</c><00:04:17.699><c> take</c><00:04:17.880><c> a</c>
+
+00:04:17.990 --> 00:04:18.000 align:start position:0%
+at around 140 FPS now when you take a
+ 
+
+00:04:18.000 --> 00:04:20.390 align:start position:0%
+at around 140 FPS now when you take a
+look<00:04:18.180><c> at</c><00:04:18.479><c> how</c><00:04:18.720><c> much</c><00:04:18.840><c> frame</c><00:04:19.320><c> rate</c><00:04:19.500><c> cheating</c><00:04:19.979><c> is</c>
+
+00:04:20.390 --> 00:04:20.400 align:start position:0%
+look at how much frame rate cheating is
+ 
+
+00:04:20.400 --> 00:04:22.009 align:start position:0%
+look at how much frame rate cheating is
+kind<00:04:20.639><c> of</c><00:04:20.760><c> happening</c><00:04:21.180><c> here</c><00:04:21.419><c> it's</c><00:04:21.780><c> pretty</c>
+
+00:04:22.009 --> 00:04:22.019 align:start position:0%
+kind of happening here it's pretty
+ 
+
+00:04:22.019 --> 00:04:24.710 align:start position:0%
+kind of happening here it's pretty
+insane<00:04:22.560><c> with</c><00:04:23.100><c> Max</c><00:04:23.340><c> settings</c><00:04:23.639><c> and</c><00:04:24.120><c> Ray</c><00:04:24.300><c> tracing</c>
+
+00:04:24.710 --> 00:04:24.720 align:start position:0%
+insane with Max settings and Ray tracing
+ 
+
+00:04:24.720 --> 00:04:26.450 align:start position:0%
+insane with Max settings and Ray tracing
+enabled<00:04:25.139><c> over</c><00:04:25.380><c> on</c><00:04:25.620><c> the</c><00:04:25.740><c> left</c><00:04:25.860><c> there</c><00:04:26.160><c> you</c><00:04:26.340><c> can</c>
+
+00:04:26.450 --> 00:04:26.460 align:start position:0%
+enabled over on the left there you can
+ 
+
+00:04:26.460 --> 00:04:28.430 align:start position:0%
+enabled over on the left there you can
+get<00:04:26.699><c> a</c><00:04:26.820><c> grasp</c><00:04:27.120><c> of</c><00:04:27.300><c> how</c><00:04:27.540><c> demanding</c><00:04:27.960><c> graphically</c>
+
+00:04:28.430 --> 00:04:28.440 align:start position:0%
+get a grasp of how demanding graphically
+ 
+
+00:04:28.440 --> 00:04:30.890 align:start position:0%
+get a grasp of how demanding graphically
+these<00:04:28.979><c> settings</c><00:04:29.100><c> actually</c><00:04:29.580><c> are</c><00:04:30.000><c> without</c><00:04:30.479><c> any</c>
+
+00:04:30.890 --> 00:04:30.900 align:start position:0%
+these settings actually are without any
+ 
+
+00:04:30.900 --> 00:04:33.650 align:start position:0%
+these settings actually are without any
+AI<00:04:31.259><c> generated</c><00:04:31.680><c> frames</c><00:04:32.160><c> or</c><00:04:32.580><c> AI</c><00:04:33.000><c> upscaling</c>
+
+00:04:33.650 --> 00:04:33.660 align:start position:0%
+AI generated frames or AI upscaling
+ 
+
+00:04:33.660 --> 00:04:35.990 align:start position:0%
+AI generated frames or AI upscaling
+techniques<00:04:34.199><c> with</c><00:04:34.680><c> dlss</c><00:04:35.280><c> and</c><00:04:35.520><c> the</c><00:04:35.639><c> new</c><00:04:35.759><c> frame</c>
+
+00:04:35.990 --> 00:04:36.000 align:start position:0%
+techniques with dlss and the new frame
+ 
+
+00:04:36.000 --> 00:04:37.370 align:start position:0%
+techniques with dlss and the new frame
+generation<00:04:36.419><c> though</c><00:04:36.720><c> you're</c><00:04:36.900><c> effectively</c>
+
+00:04:37.370 --> 00:04:37.380 align:start position:0%
+generation though you're effectively
+ 
+
+00:04:37.380 --> 00:04:39.650 align:start position:0%
+generation though you're effectively
+getting<00:04:37.560><c> over</c><00:04:37.919><c> triple</c><00:04:38.460><c> the</c><00:04:38.699><c> frame</c><00:04:39.000><c> rate</c><00:04:39.120><c> one</c>
+
+00:04:39.650 --> 00:04:39.660 align:start position:0%
+getting over triple the frame rate one
+ 
+
+00:04:39.660 --> 00:04:40.969 align:start position:0%
+getting over triple the frame rate one
+of<00:04:39.780><c> the</c><00:04:39.840><c> coolest</c><00:04:40.139><c> Parts</c><00:04:40.320><c> about</c><00:04:40.560><c> this</c><00:04:40.800><c> though</c>
+
+00:04:40.969 --> 00:04:40.979 align:start position:0%
+of the coolest Parts about this though
+ 
+
+00:04:40.979 --> 00:04:42.770 align:start position:0%
+of the coolest Parts about this though
+is<00:04:41.160><c> that</c><00:04:41.340><c> you</c><00:04:41.580><c> can</c><00:04:41.699><c> kind</c><00:04:42.000><c> of</c><00:04:42.120><c> cheat</c><00:04:42.300><c> your</c><00:04:42.600><c> way</c>
+
+00:04:42.770 --> 00:04:42.780 align:start position:0%
+is that you can kind of cheat your way
+ 
+
+00:04:42.780 --> 00:04:45.290 align:start position:0%
+is that you can kind of cheat your way
+past<00:04:43.080><c> CPU</c><00:04:43.680><c> bottlenecks</c><00:04:44.400><c> Microsoft</c><00:04:45.060><c> flight</c>
+
+00:04:45.290 --> 00:04:45.300 align:start position:0%
+past CPU bottlenecks Microsoft flight
+ 
+
+00:04:45.300 --> 00:04:47.990 align:start position:0%
+past CPU bottlenecks Microsoft flight
+simulator<00:04:45.660><c> for</c><00:04:46.020><c> example</c><00:04:46.199><c> has</c><00:04:46.560><c> a</c><00:04:47.100><c> massive</c><00:04:47.400><c> CPU</c>
+
+00:04:47.990 --> 00:04:48.000 align:start position:0%
+simulator for example has a massive CPU
+ 
+
+00:04:48.000 --> 00:04:49.730 align:start position:0%
+simulator for example has a massive CPU
+bottleneck<00:04:48.479><c> but</c><00:04:48.780><c> here</c><00:04:48.960><c> it</c><00:04:49.139><c> is</c><00:04:49.259><c> somehow</c>
+
+00:04:49.730 --> 00:04:49.740 align:start position:0%
+bottleneck but here it is somehow
+ 
+
+00:04:49.740 --> 00:04:51.830 align:start position:0%
+bottleneck but here it is somehow
+running<00:04:49.979><c> at</c><00:04:50.280><c> over</c><00:04:50.460><c> 200</c><00:04:51.000><c> frames</c><00:04:51.479><c> per</c><00:04:51.600><c> second</c>
+
+00:04:51.830 --> 00:04:51.840 align:start position:0%
+running at over 200 frames per second
+ 
+
+00:04:51.840 --> 00:04:54.469 align:start position:0%
+running at over 200 frames per second
+now<00:04:52.560><c> look</c><00:04:52.740><c> it's</c><00:04:53.220><c> pure</c><00:04:53.520><c> Overkill</c><00:04:54.060><c> here</c><00:04:54.300><c> with</c>
+
+00:04:54.469 --> 00:04:54.479 align:start position:0%
+now look it's pure Overkill here with
+ 
+
+00:04:54.479 --> 00:04:56.390 align:start position:0%
+now look it's pure Overkill here with
+the<00:04:54.600><c> 4090</c><00:04:55.199><c> like</c><00:04:55.440><c> no</c><00:04:55.680><c> one</c><00:04:55.800><c> needs</c><00:04:56.100><c> to</c><00:04:56.160><c> be</c><00:04:56.220><c> playing</c>
+
+00:04:56.390 --> 00:04:56.400 align:start position:0%
+the 4090 like no one needs to be playing
+ 
+
+00:04:56.400 --> 00:04:58.969 align:start position:0%
+the 4090 like no one needs to be playing
+this<00:04:56.580><c> game</c><00:04:56.699><c> at</c><00:04:56.940><c> 4K</c><00:04:57.300><c> at</c><00:04:57.660><c> these</c><00:04:57.960><c> frame</c><00:04:58.259><c> rates</c><00:04:58.560><c> but</c>
+
+00:04:58.969 --> 00:04:58.979 align:start position:0%
+this game at 4K at these frame rates but
+ 
+
+00:04:58.979 --> 00:05:00.469 align:start position:0%
+this game at 4K at these frame rates but
+when<00:04:59.100><c> this</c><00:04:59.220><c> feature</c><00:04:59.460><c> triggers</c><00:04:59.699><c> down</c><00:05:00.120><c> to</c><00:05:00.300><c> the</c>
+
+00:05:00.469 --> 00:05:00.479 align:start position:0%
+when this feature triggers down to the
+ 
+
+00:05:00.479 --> 00:05:02.990 align:start position:0%
+when this feature triggers down to the
+lower<00:05:00.600><c> end</c><00:05:00.840><c> cards</c><00:05:01.320><c> that</c><00:05:01.560><c> on</c><00:05:01.800><c> is</c><00:05:02.100><c> capable</c><00:05:02.340><c> at</c><00:05:02.639><c> 4K</c>
+
+00:05:02.990 --> 00:05:03.000 align:start position:0%
+lower end cards that on is capable at 4K
+ 
+
+00:05:03.000 --> 00:05:05.629 align:start position:0%
+lower end cards that on is capable at 4K
+or<00:05:03.240><c> 1440p</c><00:05:04.080><c> that's</c><00:05:04.560><c> a</c><00:05:04.740><c> bit</c><00:05:04.860><c> of</c><00:05:04.979><c> a</c><00:05:05.100><c> game</c><00:05:05.220><c> changer</c>
+
+00:05:05.629 --> 00:05:05.639 align:start position:0%
+or 1440p that's a bit of a game changer
+ 
+
+00:05:05.639 --> 00:05:07.610 align:start position:0%
+or 1440p that's a bit of a game changer
+for<00:05:05.880><c> certain</c><00:05:06.060><c> games</c><00:05:06.419><c> for</c><00:05:06.900><c> those</c><00:05:07.020><c> wondering</c><00:05:07.500><c> as</c>
+
+00:05:07.610 --> 00:05:07.620 align:start position:0%
+for certain games for those wondering as
+ 
+
+00:05:07.620 --> 00:05:09.350 align:start position:0%
+for certain games for those wondering as
+well<00:05:07.740><c> it</c><00:05:08.040><c> is</c><00:05:08.160><c> also</c><00:05:08.400><c> possible</c><00:05:08.699><c> to</c><00:05:08.880><c> run</c><00:05:09.060><c> the</c><00:05:09.240><c> new</c>
+
+00:05:09.350 --> 00:05:09.360 align:start position:0%
+well it is also possible to run the new
+ 
+
+00:05:09.360 --> 00:05:11.270 align:start position:0%
+well it is also possible to run the new
+frame<00:05:09.660><c> generation</c><00:05:10.080><c> feature</c><00:05:10.560><c> without</c><00:05:10.860><c> any</c>
+
+00:05:11.270 --> 00:05:11.280 align:start position:0%
+frame generation feature without any
+ 
+
+00:05:11.280 --> 00:05:13.670 align:start position:0%
+frame generation feature without any
+form<00:05:11.520><c> of</c><00:05:11.759><c> dlss</c><00:05:12.360><c> upscaling</c><00:05:13.020><c> and</c><00:05:13.380><c> the</c><00:05:13.500><c> frame</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+form of dlss upscaling and the frame
+ 
+
+00:05:13.680 --> 00:05:15.409 align:start position:0%
+form of dlss upscaling and the frame
+rate<00:05:13.800><c> boosts</c><00:05:14.160><c> there</c><00:05:14.280><c> by</c><00:05:14.460><c> running</c><00:05:14.580><c> it</c><00:05:14.820><c> alone</c><00:05:15.000><c> is</c>
+
+00:05:15.409 --> 00:05:15.419 align:start position:0%
+rate boosts there by running it alone is
+ 
+
+00:05:15.419 --> 00:05:17.689 align:start position:0%
+rate boosts there by running it alone is
+still<00:05:15.660><c> pretty</c><00:05:15.900><c> strong</c><00:05:16.199><c> so</c><00:05:16.800><c> frame</c><00:05:17.220><c> generation</c>
+
+00:05:17.689 --> 00:05:17.699 align:start position:0%
+still pretty strong so frame generation
+ 
+
+00:05:17.699 --> 00:05:19.550 align:start position:0%
+still pretty strong so frame generation
+is<00:05:18.180><c> pretty</c><00:05:18.540><c> interesting</c><00:05:18.960><c> and</c><00:05:19.139><c> we'll</c><00:05:19.320><c> get</c><00:05:19.440><c> to</c>
+
+00:05:19.550 --> 00:05:19.560 align:start position:0%
+is pretty interesting and we'll get to
+ 
+
+00:05:19.560 --> 00:05:20.810 align:start position:0%
+is pretty interesting and we'll get to
+my<00:05:19.680><c> personal</c><00:05:19.800><c> thoughts</c><00:05:20.220><c> on</c><00:05:20.340><c> it</c><00:05:20.460><c> in</c><00:05:20.520><c> just</c><00:05:20.699><c> a</c>
+
+00:05:20.810 --> 00:05:20.820 align:start position:0%
+my personal thoughts on it in just a
+ 
+
+00:05:20.820 --> 00:05:22.550 align:start position:0%
+my personal thoughts on it in just a
+second<00:05:20.940><c> I</c><00:05:21.360><c> did</c><00:05:21.660><c> quite</c><00:05:21.840><c> a</c><00:05:21.960><c> bit</c><00:05:22.020><c> of</c><00:05:22.139><c> playing</c><00:05:22.320><c> with</c>
+
+00:05:22.550 --> 00:05:22.560 align:start position:0%
+second I did quite a bit of playing with
+ 
+
+00:05:22.560 --> 00:05:24.830 align:start position:0%
+second I did quite a bit of playing with
+it<00:05:22.680><c> in</c><00:05:23.100><c> cyberpunk</c><00:05:23.520><c> but</c><00:05:23.880><c> you</c><00:05:24.300><c> know</c><00:05:24.360><c> aside</c><00:05:24.660><c> from</c>
+
+00:05:24.830 --> 00:05:24.840 align:start position:0%
+it in cyberpunk but you know aside from
+ 
+
+00:05:24.840 --> 00:05:26.990 align:start position:0%
+it in cyberpunk but you know aside from
+it<00:05:25.020><c> not</c><00:05:25.199><c> giving</c><00:05:25.380><c> you</c><00:05:25.680><c> perfect</c><00:05:26.039><c> frames</c><00:05:26.580><c> all</c><00:05:26.820><c> the</c>
+
+00:05:26.990 --> 00:05:27.000 align:start position:0%
+it not giving you perfect frames all the
+ 
+
+00:05:27.000 --> 00:05:28.969 align:start position:0%
+it not giving you perfect frames all the
+time<00:05:27.120><c> which</c><00:05:27.479><c> to</c><00:05:27.780><c> be</c><00:05:27.900><c> honest</c><00:05:28.139><c> you</c><00:05:28.500><c> don't</c><00:05:28.740><c> really</c>
+
+00:05:28.969 --> 00:05:28.979 align:start position:0%
+time which to be honest you don't really
+ 
+
+00:05:28.979 --> 00:05:30.650 align:start position:0%
+time which to be honest you don't really
+notice<00:05:29.340><c> if</c><00:05:29.759><c> you're</c><00:05:29.940><c> like</c><00:05:30.120><c> playing</c><00:05:30.419><c> through</c>
+
+00:05:30.650 --> 00:05:30.660 align:start position:0%
+notice if you're like playing through
+ 
+
+00:05:30.660 --> 00:05:32.330 align:start position:0%
+notice if you're like playing through
+the<00:05:30.840><c> game</c><00:05:30.960><c> quite</c><00:05:31.320><c> fast</c><00:05:31.560><c> it's</c><00:05:32.039><c> really</c><00:05:32.160><c> only</c>
+
+00:05:32.330 --> 00:05:32.340 align:start position:0%
+the game quite fast it's really only
+ 
+
+00:05:32.340 --> 00:05:33.590 align:start position:0%
+the game quite fast it's really only
+something<00:05:32.580><c> that</c><00:05:32.820><c> you</c><00:05:32.880><c> notice</c><00:05:33.120><c> if</c><00:05:33.300><c> you're</c><00:05:33.419><c> like</c>
+
+00:05:33.590 --> 00:05:33.600 align:start position:0%
+something that you notice if you're like
+ 
+
+00:05:33.600 --> 00:05:35.749 align:start position:0%
+something that you notice if you're like
+recording<00:05:34.199><c> gameplay</c><00:05:34.560><c> and</c><00:05:34.860><c> then</c><00:05:35.039><c> you</c><00:05:35.400><c> go</c><00:05:35.580><c> back</c>
+
+00:05:35.749 --> 00:05:35.759 align:start position:0%
+recording gameplay and then you go back
+ 
+
+00:05:35.759 --> 00:05:37.430 align:start position:0%
+recording gameplay and then you go back
+to<00:05:36.000><c> kind</c><00:05:36.240><c> of</c><00:05:36.300><c> pixel</c><00:05:36.660><c> peep</c><00:05:36.900><c> the</c><00:05:37.080><c> frames</c>
+
+00:05:37.430 --> 00:05:37.440 align:start position:0%
+to kind of pixel peep the frames
+ 
+
+00:05:37.440 --> 00:05:38.870 align:start position:0%
+to kind of pixel peep the frames
+otherwise<00:05:37.919><c> if</c><00:05:38.100><c> you're</c><00:05:38.280><c> just</c><00:05:38.460><c> playing</c><00:05:38.580><c> through</c>
+
+00:05:38.870 --> 00:05:38.880 align:start position:0%
+otherwise if you're just playing through
+ 
+
+00:05:38.880 --> 00:05:40.850 align:start position:0%
+otherwise if you're just playing through
+you<00:05:39.419><c> really</c><00:05:39.539><c> don't</c><00:05:39.780><c> notice</c><00:05:40.139><c> those</c><00:05:40.500><c> AI</c>
+
+00:05:40.850 --> 00:05:40.860 align:start position:0%
+you really don't notice those AI
+ 
+
+00:05:40.860 --> 00:05:42.409 align:start position:0%
+you really don't notice those AI
+generated<00:05:41.280><c> frames</c><00:05:41.699><c> and</c><00:05:41.880><c> that</c><00:05:42.120><c> kind</c><00:05:42.300><c> of</c>
+
+00:05:42.409 --> 00:05:42.419 align:start position:0%
+generated frames and that kind of
+ 
+
+00:05:42.419 --> 00:05:44.210 align:start position:0%
+generated frames and that kind of
+simulation<00:05:42.960><c> the</c><00:05:43.440><c> other</c><00:05:43.560><c> thing</c><00:05:43.800><c> though</c><00:05:43.979><c> which</c>
+
+00:05:44.210 --> 00:05:44.220 align:start position:0%
+simulation the other thing though which
+ 
+
+00:05:44.220 --> 00:05:45.890 align:start position:0%
+simulation the other thing though which
+you<00:05:44.400><c> do</c><00:05:44.580><c> definitely</c><00:05:44.940><c> notice</c><00:05:45.360><c> with</c><00:05:45.660><c> this</c>
+
+00:05:45.890 --> 00:05:45.900 align:start position:0%
+you do definitely notice with this
+ 
+
+00:05:45.900 --> 00:05:48.170 align:start position:0%
+you do definitely notice with this
+feature<00:05:46.139><c> is</c><00:05:46.440><c> the</c><00:05:46.680><c> increase</c><00:05:46.860><c> in</c><00:05:47.220><c> input</c><00:05:47.580><c> lag</c><00:05:47.880><c> in</c>
+
+00:05:48.170 --> 00:05:48.180 align:start position:0%
+feature is the increase in input lag in
+ 
+
+00:05:48.180 --> 00:05:49.969 align:start position:0%
+feature is the increase in input lag in
+flight<00:05:48.360><c> simulator</c><00:05:48.720><c> for</c><00:05:49.080><c> example</c><00:05:49.259><c> there</c><00:05:49.620><c> is</c><00:05:49.800><c> a</c>
+
+00:05:49.969 --> 00:05:49.979 align:start position:0%
+flight simulator for example there is a
+ 
+
+00:05:49.979 --> 00:05:52.310 align:start position:0%
+flight simulator for example there is a
+massive<00:05:50.220><c> 46</c><00:05:50.639><c> bomb</c><00:05:51.240><c> to</c><00:05:51.360><c> frame</c><00:05:51.600><c> rate</c><00:05:51.720><c> as</c><00:05:52.020><c> we</c><00:05:52.139><c> saw</c>
+
+00:05:52.310 --> 00:05:52.320 align:start position:0%
+massive 46 bomb to frame rate as we saw
+ 
+
+00:05:52.320 --> 00:05:54.469 align:start position:0%
+massive 46 bomb to frame rate as we saw
+but<00:05:52.800><c> there's</c><00:05:52.979><c> also</c><00:05:53.220><c> a</c><00:05:53.400><c> pretty</c><00:05:53.699><c> big</c><00:05:53.880><c> jump</c><00:05:54.120><c> in</c>
+
+00:05:54.469 --> 00:05:54.479 align:start position:0%
+but there's also a pretty big jump in
+ 
+
+00:05:54.479 --> 00:05:56.570 align:start position:0%
+but there's also a pretty big jump in
+latency<00:05:55.020><c> in</c><00:05:55.440><c> this</c><00:05:55.560><c> case</c><00:05:55.680><c> it's</c><00:05:56.100><c> almost</c><00:05:56.280><c> double</c>
+
+00:05:56.570 --> 00:05:56.580 align:start position:0%
+latency in this case it's almost double
+ 
+
+00:05:56.580 --> 00:05:59.390 align:start position:0%
+latency in this case it's almost double
+compared<00:05:57.060><c> to</c><00:05:57.180><c> just</c><00:05:57.360><c> enabling</c><00:05:57.780><c> dlss</c><00:05:58.620><c> cyberpunk</c>
+
+00:05:59.390 --> 00:05:59.400 align:start position:0%
+compared to just enabling dlss cyberpunk
+ 
+
+00:05:59.400 --> 00:06:01.550 align:start position:0%
+compared to just enabling dlss cyberpunk
+was<00:05:59.639><c> wasn't</c><00:06:00.060><c> as</c><00:06:00.360><c> bad</c><00:06:00.539><c> but</c><00:06:00.900><c> still</c><00:06:01.080><c> a</c><00:06:01.320><c> pretty</c>
+
+00:06:01.550 --> 00:06:01.560 align:start position:0%
+was wasn't as bad but still a pretty
+ 
+
+00:06:01.560 --> 00:06:03.710 align:start position:0%
+was wasn't as bad but still a pretty
+considerable<00:06:02.100><c> increase</c><00:06:02.400><c> about</c><00:06:03.120><c> plus</c><00:06:03.479><c> 12</c>
+
+00:06:03.710 --> 00:06:03.720 align:start position:0%
+considerable increase about plus 12
+ 
+
+00:06:03.720 --> 00:06:06.050 align:start position:0%
+considerable increase about plus 12
+milliseconds<00:06:04.380><c> here</c><00:06:04.560><c> over</c><00:06:04.800><c> just</c><00:06:05.039><c> using</c><00:06:05.340><c> dlss</c>
+
+00:06:06.050 --> 00:06:06.060 align:start position:0%
+milliseconds here over just using dlss
+ 
+
+00:06:06.060 --> 00:06:08.689 align:start position:0%
+milliseconds here over just using dlss
+so<00:06:06.660><c> although</c><00:06:07.080><c> dlss</c><00:06:07.620><c> upscaling</c><00:06:08.220><c> provides</c><00:06:08.580><c> both</c>
+
+00:06:08.689 --> 00:06:08.699 align:start position:0%
+so although dlss upscaling provides both
+ 
+
+00:06:08.699 --> 00:06:10.610 align:start position:0%
+so although dlss upscaling provides both
+a<00:06:09.000><c> frame</c><00:06:09.300><c> rate</c><00:06:09.419><c> increase</c><00:06:09.720><c> and</c><00:06:10.139><c> latency</c>
+
+00:06:10.610 --> 00:06:10.620 align:start position:0%
+a frame rate increase and latency
+ 
+
+00:06:10.620 --> 00:06:12.950 align:start position:0%
+a frame rate increase and latency
+decrease<00:06:11.039><c> frame</c><00:06:11.880><c> generation</c><00:06:12.300><c> also</c><00:06:12.720><c> gives</c><00:06:12.900><c> you</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+decrease frame generation also gives you
+ 
+
+00:06:12.960 --> 00:06:14.749 align:start position:0%
+decrease frame generation also gives you
+a<00:06:13.139><c> frame</c><00:06:13.380><c> rate</c><00:06:13.440><c> buff</c><00:06:13.740><c> but</c><00:06:14.160><c> at</c><00:06:14.280><c> the</c><00:06:14.400><c> same</c><00:06:14.520><c> time</c>
+
+00:06:14.749 --> 00:06:14.759 align:start position:0%
+a frame rate buff but at the same time
+ 
+
+00:06:14.759 --> 00:06:17.090 align:start position:0%
+a frame rate buff but at the same time
+increasing<00:06:15.600><c> latency</c><00:06:16.020><c> so</c><00:06:16.560><c> having</c><00:06:16.740><c> this</c><00:06:16.919><c> in</c>
+
+00:06:17.090 --> 00:06:17.100 align:start position:0%
+increasing latency so having this in
+ 
+
+00:06:17.100 --> 00:06:19.189 align:start position:0%
+increasing latency so having this in
+mind<00:06:17.280><c> I</c><00:06:17.820><c> actually</c><00:06:18.000><c> played</c><00:06:18.419><c> cyberpunk</c><00:06:18.840><c> for</c><00:06:19.080><c> a</c>
+
+00:06:19.189 --> 00:06:19.199 align:start position:0%
+mind I actually played cyberpunk for a
+ 
+
+00:06:19.199 --> 00:06:21.170 align:start position:0%
+mind I actually played cyberpunk for a
+bit<00:06:19.320><c> with</c><00:06:19.680><c> this</c><00:06:19.919><c> feature</c><00:06:20.220><c> I'd</c><00:06:20.639><c> switch</c><00:06:20.880><c> between</c>
+
+00:06:21.170 --> 00:06:21.180 align:start position:0%
+bit with this feature I'd switch between
+ 
+
+00:06:21.180 --> 00:06:23.629 align:start position:0%
+bit with this feature I'd switch between
+frame<00:06:21.660><c> generation</c><00:06:22.020><c> on</c><00:06:22.380><c> versus</c><00:06:22.620><c> off</c><00:06:23.039><c> trying</c><00:06:23.460><c> to</c>
+
+00:06:23.629 --> 00:06:23.639 align:start position:0%
+frame generation on versus off trying to
+ 
+
+00:06:23.639 --> 00:06:25.189 align:start position:0%
+frame generation on versus off trying to
+get<00:06:23.759><c> an</c><00:06:23.940><c> honest</c><00:06:24.180><c> feel</c><00:06:24.360><c> for</c><00:06:24.660><c> the</c><00:06:24.900><c> actual</c>
+
+00:06:25.189 --> 00:06:25.199 align:start position:0%
+get an honest feel for the actual
+ 
+
+00:06:25.199 --> 00:06:26.930 align:start position:0%
+get an honest feel for the actual
+experience<00:06:25.800><c> differences</c><00:06:26.340><c> with</c><00:06:26.580><c> and</c><00:06:26.759><c> without</c>
+
+00:06:26.930 --> 00:06:26.940 align:start position:0%
+experience differences with and without
+ 
+
+00:06:26.940 --> 00:06:28.790 align:start position:0%
+experience differences with and without
+assetting<00:06:27.539><c> as</c><00:06:27.720><c> opposed</c><00:06:28.080><c> to</c><00:06:28.080><c> kind</c><00:06:28.560><c> of</c><00:06:28.680><c> just</c>
+
+00:06:28.790 --> 00:06:28.800 align:start position:0%
+assetting as opposed to kind of just
+ 
+
+00:06:28.800 --> 00:06:30.710 align:start position:0%
+assetting as opposed to kind of just
+looking<00:06:28.979><c> at</c><00:06:29.220><c> the</c><00:06:29.400><c> numbers</c><00:06:29.520><c> and</c><00:06:30.180><c> yeah</c><00:06:30.300><c> the</c>
+
+00:06:30.710 --> 00:06:30.720 align:start position:0%
+looking at the numbers and yeah the
+ 
+
+00:06:30.720 --> 00:06:32.930 align:start position:0%
+looking at the numbers and yeah the
+increase<00:06:30.840><c> in</c><00:06:31.139><c> input</c><00:06:31.440><c> lag</c><00:06:31.740><c> you</c><00:06:32.220><c> can</c><00:06:32.340><c> feel</c><00:06:32.520><c> it</c><00:06:32.759><c> I</c>
+
+00:06:32.930 --> 00:06:32.940 align:start position:0%
+increase in input lag you can feel it I
+ 
+
+00:06:32.940 --> 00:06:34.730 align:start position:0%
+increase in input lag you can feel it I
+think<00:06:33.060><c> it's</c><00:06:33.240><c> most</c><00:06:33.479><c> noticeable</c><00:06:33.960><c> on</c><00:06:34.259><c> mouse</c><00:06:34.500><c> and</c>
+
+00:06:34.730 --> 00:06:34.740 align:start position:0%
+think it's most noticeable on mouse and
+ 
+
+00:06:34.740 --> 00:06:36.230 align:start position:0%
+think it's most noticeable on mouse and
+keyboard<00:06:35.039><c> if</c><00:06:35.280><c> you're</c><00:06:35.400><c> like</c><00:06:35.699><c> intentionally</c>
+
+00:06:36.230 --> 00:06:36.240 align:start position:0%
+keyboard if you're like intentionally
+ 
+
+00:06:36.240 --> 00:06:37.909 align:start position:0%
+keyboard if you're like intentionally
+trying<00:06:36.600><c> to</c><00:06:36.840><c> notice</c><00:06:37.080><c> it</c><00:06:37.259><c> and</c><00:06:37.440><c> you're</c><00:06:37.620><c> switching</c>
+
+00:06:37.909 --> 00:06:37.919 align:start position:0%
+trying to notice it and you're switching
+ 
+
+00:06:37.919 --> 00:06:39.529 align:start position:0%
+trying to notice it and you're switching
+the<00:06:38.039><c> setting</c><00:06:38.340><c> on</c><00:06:38.520><c> and</c><00:06:38.639><c> off</c><00:06:38.819><c> if</c><00:06:39.300><c> you're</c><00:06:39.360><c> playing</c>
+
+00:06:39.529 --> 00:06:39.539 align:start position:0%
+the setting on and off if you're playing
+ 
+
+00:06:39.539 --> 00:06:41.390 align:start position:0%
+the setting on and off if you're playing
+on<00:06:39.900><c> controller</c><00:06:40.440><c> though</c><00:06:40.620><c> it's</c><00:06:41.100><c> definitely</c>
+
+00:06:41.390 --> 00:06:41.400 align:start position:0%
+on controller though it's definitely
+ 
+
+00:06:41.400 --> 00:06:43.189 align:start position:0%
+on controller though it's definitely
+less<00:06:41.699><c> noticeable</c><00:06:42.180><c> and</c><00:06:42.479><c> I</c><00:06:42.600><c> think</c><00:06:42.720><c> the</c><00:06:42.900><c> style</c><00:06:43.020><c> of</c>
+
+00:06:43.189 --> 00:06:43.199 align:start position:0%
+less noticeable and I think the style of
+ 
+
+00:06:43.199 --> 00:06:44.809 align:start position:0%
+less noticeable and I think the style of
+games<00:06:43.440><c> that</c><00:06:43.740><c> frame</c><00:06:44.039><c> generation</c><00:06:44.460><c> is</c><00:06:44.699><c> more</c>
+
+00:06:44.809 --> 00:06:44.819 align:start position:0%
+games that frame generation is more
+ 
+
+00:06:44.819 --> 00:06:46.550 align:start position:0%
+games that frame generation is more
+suited<00:06:45.180><c> towards</c><00:06:45.539><c> that</c><00:06:45.780><c> kind</c><00:06:46.020><c> of</c><00:06:46.139><c> makes</c><00:06:46.319><c> sense</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+suited towards that kind of makes sense
+ 
+
+00:06:46.560 --> 00:06:48.590 align:start position:0%
+suited towards that kind of makes sense
+The<00:06:47.160><c> increased</c><00:06:47.520><c> latency</c><00:06:47.880><c> it</c><00:06:48.180><c> is</c><00:06:48.300><c> still</c><00:06:48.479><c> there</c>
+
+00:06:48.590 --> 00:06:48.600 align:start position:0%
+The increased latency it is still there
+ 
+
+00:06:48.600 --> 00:06:50.930 align:start position:0%
+The increased latency it is still there
+on<00:06:48.780><c> controller</c><00:06:49.259><c> but</c><00:06:49.440><c> not</c><00:06:49.740><c> as</c><00:06:49.919><c> bad</c><00:06:50.100><c> what</c><00:06:50.580><c> is</c><00:06:50.759><c> way</c>
+
+00:06:50.930 --> 00:06:50.940 align:start position:0%
+on controller but not as bad what is way
+ 
+
+00:06:50.940 --> 00:06:52.249 align:start position:0%
+on controller but not as bad what is way
+more<00:06:51.120><c> noticeable</c><00:06:51.479><c> in</c><00:06:51.720><c> my</c><00:06:51.780><c> opinion</c><00:06:52.080><c> though</c>
+
+00:06:52.249 --> 00:06:52.259 align:start position:0%
+more noticeable in my opinion though
+ 
+
+00:06:52.259 --> 00:06:53.990 align:start position:0%
+more noticeable in my opinion though
+which<00:06:52.560><c> is</c><00:06:52.680><c> a</c><00:06:52.919><c> pretty</c><00:06:53.039><c> easy</c><00:06:53.220><c> trade-off</c><00:06:53.699><c> for</c><00:06:53.880><c> me</c>
+
+00:06:53.990 --> 00:06:54.000 align:start position:0%
+which is a pretty easy trade-off for me
+ 
+
+00:06:54.000 --> 00:06:55.850 align:start position:0%
+which is a pretty easy trade-off for me
+is<00:06:54.240><c> that</c><00:06:54.479><c> massive</c><00:06:54.960><c> boost</c><00:06:55.199><c> in</c><00:06:55.500><c> frame</c><00:06:55.800><c> rate</c>
+
+00:06:55.850 --> 00:06:55.860 align:start position:0%
+is that massive boost in frame rate
+ 
+
+00:06:55.860 --> 00:06:57.830 align:start position:0%
+is that massive boost in frame rate
+especially<00:06:56.400><c> in</c><00:06:56.580><c> cyberpunk</c><00:06:57.060><c> where</c><00:06:57.360><c> without</c>
+
+00:06:57.830 --> 00:06:57.840 align:start position:0%
+especially in cyberpunk where without
+ 
+
+00:06:57.840 --> 00:06:59.570 align:start position:0%
+especially in cyberpunk where without
+frame<00:06:58.259><c> generation</c><00:06:58.680><c> you're</c><00:06:59.039><c> kind</c><00:06:59.280><c> of</c><00:06:59.340><c> sitting</c>
+
+00:06:59.570 --> 00:06:59.580 align:start position:0%
+frame generation you're kind of sitting
+ 
+
+00:06:59.580 --> 00:07:02.270 align:start position:0%
+frame generation you're kind of sitting
+below<00:07:00.180><c> 100</c><00:07:00.360><c> FPS</c><00:07:00.900><c> and</c><00:07:01.500><c> you</c><00:07:01.680><c> do</c><00:07:01.740><c> notice</c><00:07:02.100><c> that</c>
+
+00:07:02.270 --> 00:07:02.280 align:start position:0%
+below 100 FPS and you do notice that
+ 
+
+00:07:02.280 --> 00:07:04.189 align:start position:0%
+below 100 FPS and you do notice that
+smoothness<00:07:02.699><c> quite</c><00:07:03.120><c> a</c><00:07:03.360><c> lot</c><00:07:03.539><c> you</c><00:07:03.840><c> know</c><00:07:03.900><c> your</c>
+
+00:07:04.189 --> 00:07:04.199 align:start position:0%
+smoothness quite a lot you know your
+ 
+
+00:07:04.199 --> 00:07:05.990 align:start position:0%
+smoothness quite a lot you know your
+inputs<00:07:04.560><c> will</c><00:07:04.740><c> feel</c><00:07:04.979><c> slightly</c><00:07:05.400><c> heavier</c><00:07:05.699><c> with</c>
+
+00:07:05.990 --> 00:07:06.000 align:start position:0%
+inputs will feel slightly heavier with
+ 
+
+00:07:06.000 --> 00:07:07.670 align:start position:0%
+inputs will feel slightly heavier with
+frame<00:07:06.300><c> generation</c><00:07:06.660><c> on</c><00:07:06.960><c> because</c><00:07:07.139><c> of</c><00:07:07.380><c> the</c><00:07:07.560><c> extra</c>
+
+00:07:07.670 --> 00:07:07.680 align:start position:0%
+frame generation on because of the extra
+ 
+
+00:07:07.680 --> 00:07:10.070 align:start position:0%
+frame generation on because of the extra
+input<00:07:08.039><c> lag</c><00:07:08.400><c> but</c><00:07:08.759><c> the</c><00:07:08.880><c> gameplay</c><00:07:09.180><c> overall</c><00:07:09.720><c> I</c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+input lag but the gameplay overall I
+ 
+
+00:07:10.080 --> 00:07:11.749 align:start position:0%
+input lag but the gameplay overall I
+would<00:07:10.139><c> say</c><00:07:10.319><c> at</c><00:07:10.500><c> least</c><00:07:10.620><c> is</c><00:07:10.919><c> improved</c><00:07:11.280><c> with</c><00:07:11.520><c> this</c>
+
+00:07:11.749 --> 00:07:11.759 align:start position:0%
+would say at least is improved with this
+ 
+
+00:07:11.759 --> 00:07:13.010 align:start position:0%
+would say at least is improved with this
+feature<00:07:12.060><c> now</c><00:07:12.360><c> of</c><00:07:12.479><c> course</c><00:07:12.600><c> if</c><00:07:12.780><c> you</c><00:07:12.900><c> already</c>
+
+00:07:13.010 --> 00:07:13.020 align:start position:0%
+feature now of course if you already
+ 
+
+00:07:13.020 --> 00:07:14.629 align:start position:0%
+feature now of course if you already
+have<00:07:13.259><c> a</c><00:07:13.380><c> game</c><00:07:13.500><c> that</c><00:07:13.680><c> can</c><00:07:13.860><c> run</c><00:07:13.979><c> at</c><00:07:14.220><c> pretty</c><00:07:14.400><c> high</c>
+
+00:07:14.629 --> 00:07:14.639 align:start position:0%
+have a game that can run at pretty high
+ 
+
+00:07:14.639 --> 00:07:16.610 align:start position:0%
+have a game that can run at pretty high
+frame<00:07:15.000><c> rates</c><00:07:15.120><c> this</c><00:07:15.479><c> is</c><00:07:15.600><c> a</c><00:07:15.780><c> setting</c><00:07:16.080><c> that</c><00:07:16.319><c> you</c>
+
+00:07:16.610 --> 00:07:16.620 align:start position:0%
+frame rates this is a setting that you
+ 
+
+00:07:16.620 --> 00:07:17.990 align:start position:0%
+frame rates this is a setting that you
+should<00:07:16.740><c> probably</c><00:07:17.039><c> just</c><00:07:17.400><c> not</c><00:07:17.580><c> worry</c><00:07:17.819><c> about</c>
+
+00:07:17.990 --> 00:07:18.000 align:start position:0%
+should probably just not worry about
+ 
+
+00:07:18.000 --> 00:07:19.790 align:start position:0%
+should probably just not worry about
+especially<00:07:18.479><c> if</c><00:07:18.660><c> the</c><00:07:18.780><c> gameplay</c><00:07:19.080><c> suffers</c><00:07:19.560><c> from</c>
+
+00:07:19.790 --> 00:07:19.800 align:start position:0%
+especially if the gameplay suffers from
+ 
+
+00:07:19.800 --> 00:07:22.430 align:start position:0%
+especially if the gameplay suffers from
+that<00:07:19.979><c> increased</c><00:07:20.460><c> latency</c><00:07:20.900><c> f122</c><00:07:21.900><c> for</c><00:07:22.199><c> example</c>
+
+00:07:22.430 --> 00:07:22.440 align:start position:0%
+that increased latency f122 for example
+ 
+
+00:07:22.440 --> 00:07:24.950 align:start position:0%
+that increased latency f122 for example
+is<00:07:22.860><c> another</c><00:07:23.099><c> game</c><00:07:23.400><c> that</c><00:07:23.639><c> will</c><00:07:23.759><c> support</c><00:07:24.000><c> DLS</c><00:07:24.539><c> S3</c>
+
+00:07:24.950 --> 00:07:24.960 align:start position:0%
+is another game that will support DLS S3
+ 
+
+00:07:24.960 --> 00:07:27.529 align:start position:0%
+is another game that will support DLS S3
+and<00:07:25.259><c> frame</c><00:07:25.680><c> generation</c><00:07:26.160><c> again</c><00:07:26.699><c> pretty</c><00:07:27.120><c> decent</c>
+
+00:07:27.529 --> 00:07:27.539 align:start position:0%
+and frame generation again pretty decent
+ 
+
+00:07:27.539 --> 00:07:29.270 align:start position:0%
+and frame generation again pretty decent
+bump<00:07:27.720><c> to</c><00:07:27.900><c> frame</c><00:07:28.199><c> rate</c><00:07:28.319><c> here</c><00:07:28.620><c> but</c><00:07:28.800><c> for</c><00:07:29.160><c> a</c>
+
+00:07:29.270 --> 00:07:29.280 align:start position:0%
+bump to frame rate here but for a
+ 
+
+00:07:29.280 --> 00:07:30.950 align:start position:0%
+bump to frame rate here but for a
+precise<00:07:29.639><c> game</c><00:07:29.880><c> like</c><00:07:30.120><c> this</c><00:07:30.300><c> you're</c><00:07:30.720><c> just</c>
+
+00:07:30.950 --> 00:07:30.960 align:start position:0%
+precise game like this you're just
+ 
+
+00:07:30.960 --> 00:07:32.629 align:start position:0%
+precise game like this you're just
+better<00:07:31.080><c> off</c><00:07:31.259><c> lowering</c><00:07:31.740><c> some</c><00:07:31.979><c> actual</c><00:07:32.220><c> quality</c>
+
+00:07:32.629 --> 00:07:32.639 align:start position:0%
+better off lowering some actual quality
+ 
+
+00:07:32.639 --> 00:07:34.309 align:start position:0%
+better off lowering some actual quality
+settings<00:07:32.880><c> if</c><00:07:33.360><c> you</c><00:07:33.479><c> feel</c><00:07:33.660><c> like</c><00:07:33.840><c> you</c><00:07:34.020><c> need</c><00:07:34.139><c> that</c>
+
+00:07:34.309 --> 00:07:34.319 align:start position:0%
+settings if you feel like you need that
+ 
+
+00:07:34.319 --> 00:07:35.689 align:start position:0%
+settings if you feel like you need that
+extra<00:07:34.500><c> frame</c><00:07:34.919><c> rate</c><00:07:34.979><c> now</c><00:07:35.280><c> something</c><00:07:35.520><c> else</c>
+
+00:07:35.689 --> 00:07:35.699 align:start position:0%
+extra frame rate now something else
+ 
+
+00:07:35.699 --> 00:07:37.670 align:start position:0%
+extra frame rate now something else
+that's<00:07:35.819><c> new</c><00:07:36.120><c> with</c><00:07:36.300><c> the</c><00:07:36.419><c> 40</c><00:07:36.539><c> series</c><00:07:36.780><c> gpus</c><00:07:37.380><c> is</c>
+
+00:07:37.670 --> 00:07:37.680 align:start position:0%
+that's new with the 40 series gpus is
+ 
+
+00:07:37.680 --> 00:07:40.610 align:start position:0%
+that's new with the 40 series gpus is
+the<00:07:37.919><c> new</c><00:07:38.099><c> nvank</c><00:07:38.639><c> encoder</c><00:07:39.240><c> setup</c><00:07:39.539><c> so</c><00:07:39.840><c> the</c><00:07:40.020><c> 4090</c>
+
+00:07:40.610 --> 00:07:40.620 align:start position:0%
+the new nvank encoder setup so the 4090
+ 
+
+00:07:40.620 --> 00:07:42.529 align:start position:0%
+the new nvank encoder setup so the 4090
+is<00:07:40.740><c> actually</c><00:07:40.919><c> running</c><00:07:41.220><c> two</c><00:07:41.580><c> of</c><00:07:41.819><c> the</c><00:07:41.940><c> new</c><00:07:42.060><c> nvank</c>
+
+00:07:42.529 --> 00:07:42.539 align:start position:0%
+is actually running two of the new nvank
+ 
+
+00:07:42.539 --> 00:07:45.170 align:start position:0%
+is actually running two of the new nvank
+encoders<00:07:43.020><c> that</c><00:07:43.199><c> can</c><00:07:43.319><c> encode</c><00:07:43.740><c> in</c><00:07:44.039><c> av1</c><00:07:44.699><c> as</c>
+
+00:07:45.170 --> 00:07:45.180 align:start position:0%
+encoders that can encode in av1 as
+ 
+
+00:07:45.180 --> 00:07:46.670 align:start position:0%
+encoders that can encode in av1 as
+someone<00:07:45.360><c> who</c><00:07:45.599><c> does</c><00:07:45.780><c> a</c><00:07:45.960><c> bit</c><00:07:46.080><c> of</c><00:07:46.199><c> streaming</c><00:07:46.560><c> on</c>
+
+00:07:46.670 --> 00:07:46.680 align:start position:0%
+someone who does a bit of streaming on
+ 
+
+00:07:46.680 --> 00:07:48.290 align:start position:0%
+someone who does a bit of streaming on
+the<00:07:46.860><c> side</c><00:07:46.979><c> I</c><00:07:47.340><c> was</c><00:07:47.520><c> personally</c><00:07:48.000><c> pretty</c>
+
+00:07:48.290 --> 00:07:48.300 align:start position:0%
+the side I was personally pretty
+ 
+
+00:07:48.300 --> 00:07:49.730 align:start position:0%
+the side I was personally pretty
+interested<00:07:48.720><c> to</c><00:07:48.900><c> see</c><00:07:49.080><c> how</c><00:07:49.259><c> much</c><00:07:49.319><c> of</c><00:07:49.440><c> a</c><00:07:49.620><c> buff</c>
+
+00:07:49.730 --> 00:07:49.740 align:start position:0%
+interested to see how much of a buff
+ 
+
+00:07:49.740 --> 00:07:51.770 align:start position:0%
+interested to see how much of a buff
+this<00:07:50.039><c> would</c><00:07:50.220><c> be</c><00:07:50.340><c> compared</c><00:07:50.880><c> to</c><00:07:50.940><c> the</c><00:07:51.120><c> nvank</c><00:07:51.539><c> on</c>
+
+00:07:51.770 --> 00:07:51.780 align:start position:0%
+this would be compared to the nvank on
+ 
+
+00:07:51.780 --> 00:07:54.770 align:start position:0%
+this would be compared to the nvank on
+the<00:07:51.960><c> 3090</c><00:07:52.680><c> in</c><00:07:53.220><c> terms</c><00:07:53.400><c> of</c><00:07:53.460><c> quality</c><00:07:53.819><c> there's</c><00:07:54.360><c> a</c>
+
+00:07:54.770 --> 00:07:54.780 align:start position:0%
+the 3090 in terms of quality there's a
+ 
+
+00:07:54.780 --> 00:07:56.529 align:start position:0%
+the 3090 in terms of quality there's a
+pretty<00:07:55.080><c> noticeable</c><00:07:55.740><c> difference</c><00:07:56.039><c> between</c>
+
+00:07:56.529 --> 00:07:56.539 align:start position:0%
+pretty noticeable difference between
+ 
+
+00:07:56.539 --> 00:08:00.230 align:start position:0%
+pretty noticeable difference between
+h.264<00:07:57.539><c> and</c><00:07:58.020><c> the</c><00:07:58.259><c> new</c><00:07:58.500><c> av1</c><00:07:59.160><c> on</c><00:07:59.520><c> have</c><00:08:00.000><c> to</c><00:08:00.120><c> pause</c>
+
+00:08:00.230 --> 00:08:00.240 align:start position:0%
+h.264 and the new av1 on have to pause
+ 
+
+00:08:00.240 --> 00:08:02.089 align:start position:0%
+h.264 and the new av1 on have to pause
+frames<00:08:00.660><c> here</c><00:08:00.840><c> so</c><00:08:01.020><c> that</c><00:08:01.199><c> YouTube</c><00:08:01.440><c> compression</c>
+
+00:08:02.089 --> 00:08:02.099 align:start position:0%
+frames here so that YouTube compression
+ 
+
+00:08:02.099 --> 00:08:04.129 align:start position:0%
+frames here so that YouTube compression
+also<00:08:02.520><c> doesn't</c><00:08:02.699><c> get</c><00:08:03.000><c> too</c><00:08:03.180><c> involved</c><00:08:03.660><c> but</c><00:08:04.020><c> you</c>
+
+00:08:04.129 --> 00:08:04.139 align:start position:0%
+also doesn't get too involved but you
+ 
+
+00:08:04.139 --> 00:08:06.350 align:start position:0%
+also doesn't get too involved but you
+can<00:08:04.259><c> see</c><00:08:04.380><c> how</c><00:08:04.500><c> much</c><00:08:04.680><c> less</c><00:08:04.919><c> blocky</c><00:08:05.460><c> av-1</c><00:08:06.000><c> looks</c>
+
+00:08:06.350 --> 00:08:06.360 align:start position:0%
+can see how much less blocky av-1 looks
+ 
+
+00:08:06.360 --> 00:08:09.110 align:start position:0%
+can see how much less blocky av-1 looks
+compared<00:08:06.840><c> to</c><00:08:06.979><c> h.264</c><00:08:07.979><c> both</c><00:08:08.400><c> of</c><00:08:08.580><c> them</c><00:08:08.699><c> here</c><00:08:08.880><c> are</c>
+
+00:08:09.110 --> 00:08:09.120 align:start position:0%
+compared to h.264 both of them here are
+ 
+
+00:08:09.120 --> 00:08:11.330 align:start position:0%
+compared to h.264 both of them here are
+running<00:08:09.240><c> 1080p</c><00:08:09.900><c> 8</c><00:08:10.560><c> 000</c><00:08:10.620><c> kilobits</c><00:08:11.099><c> per</c><00:08:11.220><c> second</c>
+
+00:08:11.330 --> 00:08:11.340 align:start position:0%
+running 1080p 8 000 kilobits per second
+ 
+
+00:08:11.340 --> 00:08:14.029 align:start position:0%
+running 1080p 8 000 kilobits per second
+with<00:08:11.699><c> preset</c><00:08:12.060><c> 1</c><00:08:12.300><c> in</c><00:08:12.599><c> OBS</c><00:08:13.080><c> which</c><00:08:13.380><c> basically</c><00:08:13.740><c> is</c>
+
+00:08:14.029 --> 00:08:14.039 align:start position:0%
+with preset 1 in OBS which basically is
+ 
+
+00:08:14.039 --> 00:08:16.610 align:start position:0%
+with preset 1 in OBS which basically is
+the<00:08:14.280><c> fastest</c><00:08:14.699><c> and</c><00:08:14.940><c> lowest</c><00:08:15.360><c> quality</c><00:08:15.720><c> preset</c><00:08:16.139><c> in</c>
+
+00:08:16.610 --> 00:08:16.620 align:start position:0%
+the fastest and lowest quality preset in
+ 
+
+00:08:16.620 --> 00:08:18.050 align:start position:0%
+the fastest and lowest quality preset in
+this<00:08:16.800><c> shot</c><00:08:16.919><c> here</c><00:08:17.160><c> you</c><00:08:17.460><c> can</c><00:08:17.580><c> see</c><00:08:17.759><c> how</c><00:08:17.940><c> much</c>
+
+00:08:18.050 --> 00:08:18.060 align:start position:0%
+this shot here you can see how much
+ 
+
+00:08:18.060 --> 00:08:20.869 align:start position:0%
+this shot here you can see how much
+cleaner<00:08:18.539><c> av1</c><00:08:19.080><c> looks</c><00:08:19.620><c> and</c><00:08:20.039><c> it's</c><00:08:20.220><c> actually</c><00:08:20.460><c> way</c>
+
+00:08:20.869 --> 00:08:20.879 align:start position:0%
+cleaner av1 looks and it's actually way
+ 
+
+00:08:20.879 --> 00:08:22.010 align:start position:0%
+cleaner av1 looks and it's actually way
+more<00:08:21.060><c> noticeable</c><00:08:21.419><c> when</c><00:08:21.660><c> you're</c><00:08:21.840><c> running</c>
+
+00:08:22.010 --> 00:08:22.020 align:start position:0%
+more noticeable when you're running
+ 
+
+00:08:22.020 --> 00:08:24.469 align:start position:0%
+more noticeable when you're running
+lower<00:08:22.440><c> bit</c><00:08:22.680><c> raise</c><00:08:22.979><c> so</c><00:08:23.460><c> preset</c><00:08:23.879><c> 3</c><00:08:24.060><c> here</c><00:08:24.300><c> which</c>
+
+00:08:24.469 --> 00:08:24.479 align:start position:0%
+lower bit raise so preset 3 here which
+ 
+
+00:08:24.479 --> 00:08:26.570 align:start position:0%
+lower bit raise so preset 3 here which
+is<00:08:24.660><c> the</c><00:08:24.960><c> fast</c><00:08:25.139><c> kind</c><00:08:25.560><c> of</c><00:08:25.800><c> low</c><00:08:26.039><c> to</c><00:08:26.280><c> medium</c>
+
+00:08:26.570 --> 00:08:26.580 align:start position:0%
+is the fast kind of low to medium
+ 
+
+00:08:26.580 --> 00:08:28.430 align:start position:0%
+is the fast kind of low to medium
+quality<00:08:26.940><c> preset</c><00:08:27.419><c> and</c><00:08:27.720><c> I</c><00:08:27.900><c> mean</c><00:08:28.080><c> it's</c><00:08:28.199><c> just</c>
+
+00:08:28.430 --> 00:08:28.440 align:start position:0%
+quality preset and I mean it's just
+ 
+
+00:08:28.440 --> 00:08:31.790 align:start position:0%
+quality preset and I mean it's just
+night<00:08:28.740><c> and</c><00:08:28.919><c> day</c><00:08:29.099><c> between</c><00:08:29.419><c> h.264</c><00:08:30.419><c> and</c><00:08:30.660><c> av1</c><00:08:31.259><c> even</c>
+
+00:08:31.790 --> 00:08:31.800 align:start position:0%
+night and day between h.264 and av1 even
+ 
+
+00:08:31.800 --> 00:08:33.649 align:start position:0%
+night and day between h.264 and av1 even
+at<00:08:32.039><c> Just</c><00:08:32.219><c> 4</c><00:08:32.760><c> 000</c><00:08:32.880><c> kilobits</c><00:08:33.360><c> per</c><00:08:33.479><c> second</c>
+
+00:08:33.649 --> 00:08:33.659 align:start position:0%
+at Just 4 000 kilobits per second
+ 
+
+00:08:33.659 --> 00:08:36.110 align:start position:0%
+at Just 4 000 kilobits per second
+somehow<00:08:34.260><c> av-1</c><00:08:34.979><c> just</c><00:08:35.279><c> doesn't</c><00:08:35.459><c> have</c><00:08:35.700><c> that</c><00:08:35.940><c> same</c>
+
+00:08:36.110 --> 00:08:36.120 align:start position:0%
+somehow av-1 just doesn't have that same
+ 
+
+00:08:36.120 --> 00:08:38.750 align:start position:0%
+somehow av-1 just doesn't have that same
+kind<00:08:36.479><c> of</c><00:08:36.599><c> blocking</c><00:08:37.080><c> compression</c><00:08:37.740><c> like</c><00:08:38.159><c> at</c><00:08:38.640><c> all</c>
+
+00:08:38.750 --> 00:08:38.760 align:start position:0%
+kind of blocking compression like at all
+ 
+
+00:08:38.760 --> 00:08:40.730 align:start position:0%
+kind of blocking compression like at all
+it<00:08:39.300><c> also</c><00:08:39.479><c> seems</c><00:08:39.839><c> extremely</c><00:08:40.260><c> good</c><00:08:40.500><c> at</c>
+
+00:08:40.730 --> 00:08:40.740 align:start position:0%
+it also seems extremely good at
+ 
+
+00:08:40.740 --> 00:08:43.310 align:start position:0%
+it also seems extremely good at
+recognizing<00:08:41.279><c> visual</c><00:08:41.760><c> elements</c><00:08:42.360><c> like</c><00:08:42.659><c> shapes</c>
+
+00:08:43.310 --> 00:08:43.320 align:start position:0%
+recognizing visual elements like shapes
+ 
+
+00:08:43.320 --> 00:08:46.010 align:start position:0%
+recognizing visual elements like shapes
+outlines<00:08:43.979><c> texts</c><00:08:44.700><c> icons</c><00:08:45.180><c> and</c><00:08:45.480><c> stuff</c><00:08:45.660><c> like</c><00:08:45.839><c> that</c>
+
+00:08:46.010 --> 00:08:46.020 align:start position:0%
+outlines texts icons and stuff like that
+ 
+
+00:08:46.020 --> 00:08:48.170 align:start position:0%
+outlines texts icons and stuff like that
+rather<00:08:46.560><c> than</c><00:08:46.740><c> just</c><00:08:47.040><c> compressing</c><00:08:47.519><c> it</c><00:08:47.700><c> all</c><00:08:47.880><c> into</c>
+
+00:08:48.170 --> 00:08:48.180 align:start position:0%
+rather than just compressing it all into
+ 
+
+00:08:48.180 --> 00:08:50.570 align:start position:0%
+rather than just compressing it all into
+the<00:08:48.600><c> same</c><00:08:48.720><c> kind</c><00:08:48.959><c> of</c><00:08:49.019><c> Muddy</c><00:08:49.500><c> mess</c><00:08:49.680><c> now</c><00:08:50.279><c> if</c><00:08:50.459><c> you</c>
+
+00:08:50.570 --> 00:08:50.580 align:start position:0%
+the same kind of Muddy mess now if you
+ 
+
+00:08:50.580 --> 00:08:53.509 align:start position:0%
+the same kind of Muddy mess now if you
+feed<00:08:50.760><c> h.264</c><00:08:51.720><c> enough</c><00:08:52.080><c> bit</c><00:08:52.440><c> rate</c><00:08:52.680><c> and</c><00:08:53.100><c> also</c><00:08:53.339><c> use</c>
+
+00:08:53.509 --> 00:08:53.519 align:start position:0%
+feed h.264 enough bit rate and also use
+ 
+
+00:08:53.519 --> 00:08:55.310 align:start position:0%
+feed h.264 enough bit rate and also use
+the<00:08:53.760><c> highest</c><00:08:54.060><c> quality</c><00:08:54.480><c> preset</c><00:08:54.959><c> which</c><00:08:55.200><c> would</c>
+
+00:08:55.310 --> 00:08:55.320 align:start position:0%
+the highest quality preset which would
+ 
+
+00:08:55.320 --> 00:08:57.889 align:start position:0%
+the highest quality preset which would
+be<00:08:55.440><c> p7</c><00:08:55.980><c> it</c><00:08:56.519><c> can</c><00:08:56.640><c> look</c><00:08:56.820><c> pretty</c><00:08:57.000><c> good</c><00:08:57.240><c> it's</c><00:08:57.720><c> just</c>
+
+00:08:57.889 --> 00:08:57.899 align:start position:0%
+be p7 it can look pretty good it's just
+ 
+
+00:08:57.899 --> 00:09:00.410 align:start position:0%
+be p7 it can look pretty good it's just
+that<00:08:58.080><c> ev1</c><00:08:58.800><c> still</c><00:08:59.100><c> does</c><00:08:59.279><c> all</c><00:08:59.399><c> the</c><00:08:59.459><c> a</c><00:09:00.060><c> lot</c><00:09:00.180><c> better</c>
+
+00:09:00.410 --> 00:09:00.420 align:start position:0%
+that ev1 still does all the a lot better
+ 
+
+00:09:00.420 --> 00:09:03.290 align:start position:0%
+that ev1 still does all the a lot better
+even<00:09:00.959><c> with</c><00:09:01.200><c> a</c><00:09:01.320><c> high</c><00:09:01.500><c> quality</c><00:09:01.860><c> preset</c><00:09:02.300><c> h.264</c>
+
+00:09:03.290 --> 00:09:03.300 align:start position:0%
+even with a high quality preset h.264
+ 
+
+00:09:03.300 --> 00:09:05.269 align:start position:0%
+even with a high quality preset h.264
+can<00:09:03.600><c> still</c><00:09:03.720><c> be</c><00:09:03.899><c> prone</c><00:09:04.200><c> to</c><00:09:04.260><c> that</c><00:09:04.500><c> blocking</c><00:09:04.980><c> and</c>
+
+00:09:05.269 --> 00:09:05.279 align:start position:0%
+can still be prone to that blocking and
+ 
+
+00:09:05.279 --> 00:09:06.710 align:start position:0%
+can still be prone to that blocking and
+square<00:09:05.580><c> compression</c><00:09:06.120><c> that</c><00:09:06.360><c> we're</c><00:09:06.480><c> all</c>
+
+00:09:06.710 --> 00:09:06.720 align:start position:0%
+square compression that we're all
+ 
+
+00:09:06.720 --> 00:09:08.930 align:start position:0%
+square compression that we're all
+familiar<00:09:07.019><c> with</c><00:09:07.200><c> but</c><00:09:07.800><c> to</c><00:09:07.980><c> be</c><00:09:08.100><c> honest</c><00:09:08.339><c> I</c><00:09:08.760><c> just</c>
+
+00:09:08.930 --> 00:09:08.940 align:start position:0%
+familiar with but to be honest I just
+ 
+
+00:09:08.940 --> 00:09:11.990 align:start position:0%
+familiar with but to be honest I just
+never<00:09:09.240><c> saw</c><00:09:09.540><c> that</c><00:09:09.839><c> at</c><00:09:10.200><c> all</c><00:09:10.320><c> on</c><00:09:10.620><c> av1</c><00:09:11.220><c> now</c><00:09:11.580><c> I</c><00:09:11.700><c> also</c>
+
+00:09:11.990 --> 00:09:12.000 align:start position:0%
+never saw that at all on av1 now I also
+ 
+
+00:09:12.000 --> 00:09:13.550 align:start position:0%
+never saw that at all on av1 now I also
+did<00:09:12.120><c> some</c><00:09:12.300><c> quick</c><00:09:12.540><c> performance</c><00:09:13.019><c> testing</c><00:09:13.380><c> here</c>
+
+00:09:13.550 --> 00:09:13.560 align:start position:0%
+did some quick performance testing here
+ 
+
+00:09:13.560 --> 00:09:15.530 align:start position:0%
+did some quick performance testing here
+too<00:09:13.740><c> in</c><00:09:14.100><c> other</c><00:09:14.220><c> words</c><00:09:14.399><c> how</c><00:09:14.760><c> much</c><00:09:14.940><c> performance</c>
+
+00:09:15.530 --> 00:09:15.540 align:start position:0%
+too in other words how much performance
+ 
+
+00:09:15.540 --> 00:09:17.509 align:start position:0%
+too in other words how much performance
+or<00:09:15.839><c> frame</c><00:09:16.080><c> rate</c><00:09:16.200><c> do</c><00:09:16.440><c> we</c><00:09:16.620><c> lose</c><00:09:16.740><c> when</c><00:09:16.980><c> we</c><00:09:17.160><c> encode</c>
+
+00:09:17.509 --> 00:09:17.519 align:start position:0%
+or frame rate do we lose when we encode
+ 
+
+00:09:17.519 --> 00:09:19.310 align:start position:0%
+or frame rate do we lose when we encode
+with<00:09:17.820><c> either</c><00:09:18.000><c> preset</c><00:09:18.540><c> and</c><00:09:19.019><c> the</c><00:09:19.200><c> results</c>
+
+00:09:19.310 --> 00:09:19.320 align:start position:0%
+with either preset and the results
+ 
+
+00:09:19.320 --> 00:09:21.710 align:start position:0%
+with either preset and the results
+aren't<00:09:19.860><c> too</c><00:09:20.160><c> conclusive</c><00:09:20.760><c> there</c><00:09:21.360><c> seems</c><00:09:21.600><c> to</c><00:09:21.660><c> be</c>
+
+00:09:21.710 --> 00:09:21.720 align:start position:0%
+aren't too conclusive there seems to be
+ 
+
+00:09:21.720 --> 00:09:23.449 align:start position:0%
+aren't too conclusive there seems to be
+about<00:09:21.959><c> the</c><00:09:22.200><c> same</c><00:09:22.380><c> drop</c><00:09:22.620><c> off</c><00:09:22.800><c> in</c><00:09:23.100><c> frame</c><00:09:23.339><c> rate</c>
+
+00:09:23.449 --> 00:09:23.459 align:start position:0%
+about the same drop off in frame rate
+ 
+
+00:09:23.459 --> 00:09:25.850 align:start position:0%
+about the same drop off in frame rate
+between<00:09:23.700><c> the</c><00:09:24.000><c> two</c><00:09:24.180><c> and</c><00:09:24.660><c> similar</c><00:09:25.140><c> in</c><00:09:25.320><c> fact</c><00:09:25.500><c> on</c>
+
+00:09:25.850 --> 00:09:25.860 align:start position:0%
+between the two and similar in fact on
+ 
+
+00:09:25.860 --> 00:09:28.190 align:start position:0%
+between the two and similar in fact on
+the<00:09:26.040><c> previous</c><00:09:26.220><c> envanc</c><00:09:26.820><c> setup</c><00:09:27.120><c> with</c><00:09:27.240><c> the</c><00:09:27.480><c> 3090</c>
+
+00:09:28.190 --> 00:09:28.200 align:start position:0%
+the previous envanc setup with the 3090
+ 
+
+00:09:28.200 --> 00:09:29.690 align:start position:0%
+the previous envanc setup with the 3090
+I'll<00:09:28.620><c> probably</c><00:09:28.740><c> test</c><00:09:29.040><c> this</c><00:09:29.279><c> a</c><00:09:29.459><c> little</c><00:09:29.580><c> bit</c>
+
+00:09:29.690 --> 00:09:29.700 align:start position:0%
+I'll probably test this a little bit
+ 
+
+00:09:29.700 --> 00:09:31.670 align:start position:0%
+I'll probably test this a little bit
+more<00:09:29.880><c> but</c><00:09:30.420><c> regardless</c><00:09:30.839><c> same</c><00:09:31.200><c> performance</c>
+
+00:09:31.670 --> 00:09:31.680 align:start position:0%
+more but regardless same performance
+ 
+
+00:09:31.680 --> 00:09:33.829 align:start position:0%
+more but regardless same performance
+drop<00:09:31.860><c> off</c><00:09:32.040><c> at</c><00:09:32.220><c> higher</c><00:09:32.519><c> quality</c><00:09:32.820><c> seems</c><00:09:33.360><c> to</c><00:09:33.420><c> be</c><00:09:33.540><c> a</c>
+
+00:09:33.829 --> 00:09:33.839 align:start position:0%
+drop off at higher quality seems to be a
+ 
+
+00:09:33.839 --> 00:09:36.230 align:start position:0%
+drop off at higher quality seems to be a
+pretty<00:09:33.959><c> fair</c><00:09:34.260><c> trade</c><00:09:34.620><c> to</c><00:09:34.800><c> me</c><00:09:34.980><c> av1</c><00:09:35.640><c> encoding</c><00:09:36.120><c> can</c>
+
+00:09:36.230 --> 00:09:36.240 align:start position:0%
+pretty fair trade to me av1 encoding can
+ 
+
+00:09:36.240 --> 00:09:38.509 align:start position:0%
+pretty fair trade to me av1 encoding can
+also<00:09:36.480><c> be</c><00:09:36.540><c> leveraged</c><00:09:36.959><c> in</c><00:09:37.380><c> video</c><00:09:37.680><c> editing</c><00:09:38.220><c> so</c>
+
+00:09:38.509 --> 00:09:38.519 align:start position:0%
+also be leveraged in video editing so
+ 
+
+00:09:38.519 --> 00:09:40.130 align:start position:0%
+also be leveraged in video editing so
+here<00:09:38.760><c> we're</c><00:09:38.940><c> looking</c><00:09:39.060><c> at</c><00:09:39.180><c> DaVinci</c><00:09:39.660><c> Resolve</c>
+
+00:09:40.130 --> 00:09:40.140 align:start position:0%
+here we're looking at DaVinci Resolve
+ 
+
+00:09:40.140 --> 00:09:42.590 align:start position:0%
+here we're looking at DaVinci Resolve
+studio<00:09:40.320><c> and</c><00:09:40.860><c> the</c><00:09:40.980><c> gains</c><00:09:41.339><c> there</c><00:09:41.640><c> are</c><00:09:41.940><c> good</c><00:09:42.240><c> you</c>
+
+00:09:42.590 --> 00:09:42.600 align:start position:0%
+studio and the gains there are good you
+ 
+
+00:09:42.600 --> 00:09:44.269 align:start position:0%
+studio and the gains there are good you
+know<00:09:42.660><c> they're</c><00:09:42.899><c> not</c><00:09:43.080><c> as</c><00:09:43.260><c> Extreme</c><00:09:43.620><c> as</c><00:09:43.860><c> the</c><00:09:44.040><c> frame</c>
+
+00:09:44.269 --> 00:09:44.279 align:start position:0%
+know they're not as Extreme as the frame
+ 
+
+00:09:44.279 --> 00:09:46.310 align:start position:0%
+know they're not as Extreme as the frame
+rates<00:09:44.459><c> that</c><00:09:44.700><c> we</c><00:09:44.820><c> saw</c><00:09:44.940><c> earlier</c><00:09:45.420><c> or</c><00:09:45.779><c> the</c><00:09:46.019><c> frame</c>
+
+00:09:46.310 --> 00:09:46.320 align:start position:0%
+rates that we saw earlier or the frame
+ 
+
+00:09:46.320 --> 00:09:48.590 align:start position:0%
+rates that we saw earlier or the frame
+generation<00:09:46.740><c> DLS</c><00:09:47.339><c> S3</c><00:09:47.700><c> but</c><00:09:48.060><c> overall</c><00:09:48.420><c> you're</c>
+
+00:09:48.590 --> 00:09:48.600 align:start position:0%
+generation DLS S3 but overall you're
+ 
+
+00:09:48.600 --> 00:09:50.509 align:start position:0%
+generation DLS S3 but overall you're
+looking<00:09:48.779><c> at</c><00:09:48.899><c> about</c><00:09:49.080><c> 30</c><00:09:49.380><c> of</c><00:09:49.860><c> time</c><00:09:49.980><c> saved</c><00:09:50.399><c> when</c>
+
+00:09:50.509 --> 00:09:50.519 align:start position:0%
+looking at about 30 of time saved when
+ 
+
+00:09:50.519 --> 00:09:52.250 align:start position:0%
+looking at about 30 of time saved when
+it<00:09:50.640><c> comes</c><00:09:50.760><c> to</c><00:09:50.940><c> video</c><00:09:51.120><c> exporting</c><00:09:51.779><c> which</c><00:09:52.019><c> for</c>
+
+00:09:52.250 --> 00:09:52.260 align:start position:0%
+it comes to video exporting which for
+ 
+
+00:09:52.260 --> 00:09:54.650 align:start position:0%
+it comes to video exporting which for
+big<00:09:52.560><c> projects</c><00:09:52.980><c> is</c><00:09:53.220><c> a</c><00:09:53.519><c> lot</c><00:09:53.580><c> of</c><00:09:53.700><c> time</c><00:09:53.880><c> saved</c><00:09:54.360><c> the</c>
+
+00:09:54.650 --> 00:09:54.660 align:start position:0%
+big projects is a lot of time saved the
+ 
+
+00:09:54.660 --> 00:09:57.050 align:start position:0%
+big projects is a lot of time saved the
+games<00:09:54.839><c> in</c><00:09:55.260><c> 3D</c><00:09:55.620><c> rendering</c><00:09:56.100><c> though</c><00:09:56.339><c> are</c><00:09:56.760><c> more</c>
+
+00:09:57.050 --> 00:09:57.060 align:start position:0%
+games in 3D rendering though are more
+ 
+
+00:09:57.060 --> 00:09:58.670 align:start position:0%
+games in 3D rendering though are more
+impressive<00:09:57.480><c> twice</c><00:09:57.959><c> the</c><00:09:58.140><c> rendering</c><00:09:58.500><c> speed</c>
+
+00:09:58.670 --> 00:09:58.680 align:start position:0%
+impressive twice the rendering speed
+ 
+
+00:09:58.680 --> 00:10:01.070 align:start position:0%
+impressive twice the rendering speed
+here<00:09:58.920><c> of</c><00:09:59.040><c> the</c><00:09:59.160><c> 39</c><00:09:59.399><c> 90</c><00:09:59.820><c> in</c><00:10:00.120><c> blender</c><00:10:00.480><c> and</c><00:10:00.899><c> almost</c>
+
+00:10:01.070 --> 00:10:01.080 align:start position:0%
+here of the 39 90 in blender and almost
+ 
+
+00:10:01.080 --> 00:10:04.250 align:start position:0%
+here of the 39 90 in blender and almost
+four<00:10:01.500><c> times</c><00:10:01.740><c> faster</c><00:10:02.100><c> than</c><00:10:02.399><c> the</c><00:10:02.700><c> 2080</c><00:10:03.120><c> TI</c><00:10:03.720><c> those</c>
+
+00:10:04.250 --> 00:10:04.260 align:start position:0%
+four times faster than the 2080 TI those
+ 
+
+00:10:04.260 --> 00:10:06.470 align:start position:0%
+four times faster than the 2080 TI those
+gains<00:10:04.560><c> carry</c><00:10:04.860><c> right</c><00:10:05.160><c> over</c><00:10:05.339><c> to</c><00:10:05.580><c> viru</c><00:10:06.060><c> where</c><00:10:06.300><c> we</c>
+
+00:10:06.470 --> 00:10:06.480 align:start position:0%
+gains carry right over to viru where we
+ 
+
+00:10:06.480 --> 00:10:08.570 align:start position:0%
+gains carry right over to viru where we
+see<00:10:06.600><c> just</c><00:10:06.839><c> Monster</c><00:10:07.200><c> performance</c><00:10:07.800><c> again</c><00:10:08.040><c> both</c>
+
+00:10:08.570 --> 00:10:08.580 align:start position:0%
+see just Monster performance again both
+ 
+
+00:10:08.580 --> 00:10:11.210 align:start position:0%
+see just Monster performance again both
+in<00:10:08.820><c> the</c><00:10:08.940><c> RTX</c><00:10:09.360><c> Benchmark</c><00:10:09.839><c> and</c><00:10:10.140><c> when</c><00:10:10.320><c> using</c><00:10:10.740><c> Kudo</c>
+
+00:10:11.210 --> 00:10:11.220 align:start position:0%
+in the RTX Benchmark and when using Kudo
+ 
+
+00:10:11.220 --> 00:10:13.370 align:start position:0%
+in the RTX Benchmark and when using Kudo
+but<00:10:11.519><c> what</c><00:10:11.700><c> about</c><00:10:11.820><c> that</c><00:10:12.300><c> huge</c><00:10:12.779><c> power</c><00:10:13.019><c> increase</c>
+
+00:10:13.370 --> 00:10:13.380 align:start position:0%
+but what about that huge power increase
+ 
+
+00:10:13.380 --> 00:10:16.490 align:start position:0%
+but what about that huge power increase
+I<00:10:13.740><c> mean</c><00:10:13.860><c> 450</c><00:10:14.580><c> Watts</c><00:10:15.120><c> that's</c><00:10:15.420><c> 100</c><00:10:15.839><c> Watts</c><00:10:16.320><c> more</c>
+
+00:10:16.490 --> 00:10:16.500 align:start position:0%
+I mean 450 Watts that's 100 Watts more
+ 
+
+00:10:16.500 --> 00:10:18.590 align:start position:0%
+I mean 450 Watts that's 100 Watts more
+than<00:10:16.680><c> a</c><00:10:16.860><c> 3090</c><00:10:17.459><c> which</c><00:10:17.760><c> is</c><00:10:18.120><c> already</c><00:10:18.300><c> quite</c>
+
+00:10:18.590 --> 00:10:18.600 align:start position:0%
+than a 3090 which is already quite
+ 
+
+00:10:18.600 --> 00:10:21.170 align:start position:0%
+than a 3090 which is already quite
+insane<00:10:19.080><c> like</c><00:10:19.620><c> yeah</c><00:10:19.860><c> it's</c><00:10:20.100><c> faster</c><00:10:20.399><c> but</c><00:10:20.880><c> it's</c>
+
+00:10:21.170 --> 00:10:21.180 align:start position:0%
+insane like yeah it's faster but it's
+ 
+
+00:10:21.180 --> 00:10:22.790 align:start position:0%
+insane like yeah it's faster but it's
+kind<00:10:21.360><c> of</c><00:10:21.480><c> getting</c><00:10:21.600><c> a</c><00:10:21.839><c> bit</c><00:10:21.899><c> ridiculous</c><00:10:22.320><c> now</c><00:10:22.500><c> for</c>
+
+00:10:22.790 --> 00:10:22.800 align:start position:0%
+kind of getting a bit ridiculous now for
+ 
+
+00:10:22.800 --> 00:10:25.250 align:start position:0%
+kind of getting a bit ridiculous now for
+a<00:10:22.920><c> consumer</c><00:10:23.279><c> GPU</c><00:10:23.760><c> but</c><00:10:24.240><c> here's</c><00:10:24.660><c> where</c><00:10:24.839><c> I</c><00:10:25.080><c> was</c>
+
+00:10:25.250 --> 00:10:25.260 align:start position:0%
+a consumer GPU but here's where I was
+ 
+
+00:10:25.260 --> 00:10:28.070 align:start position:0%
+a consumer GPU but here's where I was
+pleasantly<00:10:25.800><c> surprised</c><00:10:26.399><c> in</c><00:10:26.940><c> gaming</c><00:10:27.300><c> you'd</c><00:10:27.959><c> be</c>
+
+00:10:28.070 --> 00:10:28.080 align:start position:0%
+pleasantly surprised in gaming you'd be
+ 
+
+00:10:28.080 --> 00:10:29.389 align:start position:0%
+pleasantly surprised in gaming you'd be
+pretty<00:10:28.320><c> hard-pressed</c><00:10:28.860><c> to</c><00:10:28.980><c> get</c><00:10:29.100><c> this</c><00:10:29.279><c> thing</c>
+
+00:10:29.389 --> 00:10:29.399 align:start position:0%
+pretty hard-pressed to get this thing
+ 
+
+00:10:29.399 --> 00:10:32.090 align:start position:0%
+pretty hard-pressed to get this thing
+pulling<00:10:29.820><c> the</c><00:10:30.000><c> entirety</c><00:10:30.600><c> of</c><00:10:30.839><c> its</c><00:10:31.140><c> TDP</c><00:10:31.620><c> which</c>
+
+00:10:32.090 --> 00:10:32.100 align:start position:0%
+pulling the entirety of its TDP which
+ 
+
+00:10:32.100 --> 00:10:34.009 align:start position:0%
+pulling the entirety of its TDP which
+personally<00:10:32.640><c> I</c><00:10:33.060><c> just</c><00:10:33.240><c> expected</c><00:10:33.660><c> it</c><00:10:33.839><c> would</c>
+
+00:10:34.009 --> 00:10:34.019 align:start position:0%
+personally I just expected it would
+ 
+
+00:10:34.019 --> 00:10:36.410 align:start position:0%
+personally I just expected it would
+because<00:10:34.320><c> every</c><00:10:34.740><c> other</c><00:10:34.920><c> Nvidia</c><00:10:35.519><c> GPU</c><00:10:36.000><c> does</c><00:10:36.240><c> that</c>
+
+00:10:36.410 --> 00:10:36.420 align:start position:0%
+because every other Nvidia GPU does that
+ 
+
+00:10:36.420 --> 00:10:38.269 align:start position:0%
+because every other Nvidia GPU does that
+but<00:10:36.839><c> most</c><00:10:37.080><c> of</c><00:10:37.200><c> the</c><00:10:37.260><c> time</c><00:10:37.380><c> I</c><00:10:37.620><c> saw</c><00:10:37.740><c> it</c><00:10:37.860><c> hovering</c>
+
+00:10:38.269 --> 00:10:38.279 align:start position:0%
+but most of the time I saw it hovering
+ 
+
+00:10:38.279 --> 00:10:42.290 align:start position:0%
+but most of the time I saw it hovering
+between<00:10:38.519><c> 360</c><00:10:39.240><c> and</c><00:10:40.040><c> 390</c><00:10:41.040><c> Watts</c><00:10:41.399><c> sometimes</c><00:10:42.060><c> it</c>
+
+00:10:42.290 --> 00:10:42.300 align:start position:0%
+between 360 and 390 Watts sometimes it
+ 
+
+00:10:42.300 --> 00:10:44.329 align:start position:0%
+between 360 and 390 Watts sometimes it
+did<00:10:42.420><c> tip</c><00:10:42.720><c> over</c><00:10:42.839><c> that</c><00:10:43.080><c> 400</c><00:10:43.500><c> watt</c><00:10:43.860><c> Mark</c><00:10:43.980><c> you</c><00:10:44.220><c> know</c>
+
+00:10:44.329 --> 00:10:44.339 align:start position:0%
+did tip over that 400 watt Mark you know
+ 
+
+00:10:44.339 --> 00:10:45.590 align:start position:0%
+did tip over that 400 watt Mark you know
+depending<00:10:44.700><c> on</c><00:10:44.880><c> the</c><00:10:45.000><c> game</c><00:10:45.120><c> if</c><00:10:45.300><c> it</c><00:10:45.480><c> was</c>
+
+00:10:45.590 --> 00:10:45.600 align:start position:0%
+depending on the game if it was
+ 
+
+00:10:45.600 --> 00:10:47.630 align:start position:0%
+depending on the game if it was
+demanding<00:10:45.959><c> enough</c><00:10:46.140><c> it</c><00:10:46.680><c> was</c><00:10:46.800><c> only</c><00:10:46.920><c> really</c><00:10:47.279><c> in</c>
+
+00:10:47.630 --> 00:10:47.640 align:start position:0%
+demanding enough it was only really in
+ 
+
+00:10:47.640 --> 00:10:49.490 align:start position:0%
+demanding enough it was only really in
+fur<00:10:47.940><c> mark</c><00:10:48.120><c> that</c><00:10:48.360><c> I</c><00:10:48.480><c> could</c><00:10:48.600><c> get</c><00:10:48.720><c> it</c><00:10:48.839><c> going</c><00:10:49.019><c> above</c>
+
+00:10:49.490 --> 00:10:49.500 align:start position:0%
+fur mark that I could get it going above
+ 
+
+00:10:49.500 --> 00:10:52.069 align:start position:0%
+fur mark that I could get it going above
+that<00:10:49.740><c> and</c><00:10:50.220><c> even</c><00:10:50.519><c> still</c><00:10:50.760><c> it</c><00:10:51.300><c> didn't</c><00:10:51.480><c> pull</c><00:10:51.720><c> the</c>
+
+00:10:52.069 --> 00:10:52.079 align:start position:0%
+that and even still it didn't pull the
+ 
+
+00:10:52.079 --> 00:10:54.769 align:start position:0%
+that and even still it didn't pull the
+full<00:10:52.320><c> 450</c><00:10:53.279><c> Watts</c><00:10:53.820><c> so</c><00:10:54.180><c> that's</c><00:10:54.540><c> pretty</c>
+
+00:10:54.769 --> 00:10:54.779 align:start position:0%
+full 450 Watts so that's pretty
+ 
+
+00:10:54.779 --> 00:10:56.930 align:start position:0%
+full 450 Watts so that's pretty
+unexpected<00:10:55.440><c> what's</c><00:10:55.740><c> also</c><00:10:55.980><c> unexpected</c><00:10:56.579><c> is</c>
+
+00:10:56.930 --> 00:10:56.940 align:start position:0%
+unexpected what's also unexpected is
+ 
+
+00:10:56.940 --> 00:10:59.030 align:start position:0%
+unexpected what's also unexpected is
+after<00:10:57.240><c> running</c><00:10:57.540><c> 30</c><00:10:57.959><c> minutes</c><00:10:58.260><c> of</c><00:10:58.500><c> furmark</c><00:10:58.860><c> the</c>
+
+00:10:59.030 --> 00:10:59.040 align:start position:0%
+after running 30 minutes of furmark the
+ 
+
+00:10:59.040 --> 00:11:02.030 align:start position:0%
+after running 30 minutes of furmark the
+card<00:10:59.160><c> state</c><00:10:59.339><c> paid</c><00:10:59.820><c> under</c><00:11:00.120><c> 70</c><00:11:00.480><c> degrees</c><00:11:00.839><c> C</c><00:11:01.200><c> also</c>
+
+00:11:02.030 --> 00:11:02.040 align:start position:0%
+card state paid under 70 degrees C also
+ 
+
+00:11:02.040 --> 00:11:03.590 align:start position:0%
+card state paid under 70 degrees C also
+I'll<00:11:02.160><c> note</c><00:11:02.399><c> the</c><00:11:02.579><c> memory</c><00:11:02.940><c> temperatures</c><00:11:03.180><c> have</c>
+
+00:11:03.590 --> 00:11:03.600 align:start position:0%
+I'll note the memory temperatures have
+ 
+
+00:11:03.600 --> 00:11:05.090 align:start position:0%
+I'll note the memory temperatures have
+been<00:11:03.839><c> kind</c><00:11:04.079><c> of</c><00:11:04.200><c> fixed</c><00:11:04.500><c> on</c><00:11:04.680><c> the</c><00:11:04.800><c> founders</c>
+
+00:11:05.090 --> 00:11:05.100 align:start position:0%
+been kind of fixed on the founders
+ 
+
+00:11:05.100 --> 00:11:06.829 align:start position:0%
+been kind of fixed on the founders
+edition<00:11:05.279><c> cards</c><00:11:05.760><c> previously</c><00:11:06.420><c> they</c><00:11:06.660><c> were</c>
+
+00:11:06.829 --> 00:11:06.839 align:start position:0%
+edition cards previously they were
+ 
+
+00:11:06.839 --> 00:11:09.290 align:start position:0%
+edition cards previously they were
+around<00:11:07.019><c> the</c><00:11:07.260><c> 90</c><00:11:07.560><c> to</c><00:11:07.860><c> 100</c><00:11:08.100><c> C</c><00:11:08.519><c> Mark</c><00:11:08.760><c> but</c><00:11:09.060><c> now</c>
+
+00:11:09.290 --> 00:11:09.300 align:start position:0%
+around the 90 to 100 C Mark but now
+ 
+
+00:11:09.300 --> 00:11:11.150 align:start position:0%
+around the 90 to 100 C Mark but now
+they're<00:11:09.420><c> sitting</c><00:11:09.720><c> around</c><00:11:09.899><c> 80.</c><00:11:10.680><c> this</c><00:11:10.860><c> is</c><00:11:11.040><c> all</c>
+
+00:11:11.150 --> 00:11:11.160 align:start position:0%
+they're sitting around 80. this is all
+ 
+
+00:11:11.160 --> 00:11:13.310 align:start position:0%
+they're sitting around 80. this is all
+with<00:11:11.339><c> an</c><00:11:11.640><c> ambient</c><00:11:12.000><c> room</c><00:11:12.240><c> temperature</c><00:11:12.540><c> of</c><00:11:12.839><c> 22</c>
+
+00:11:13.310 --> 00:11:13.320 align:start position:0%
+with an ambient room temperature of 22
+ 
+
+00:11:13.320 --> 00:11:15.050 align:start position:0%
+with an ambient room temperature of 22
+degrees<00:11:13.560><c> and</c><00:11:14.040><c> here's</c><00:11:14.339><c> an</c><00:11:14.459><c> idea</c><00:11:14.640><c> of</c><00:11:14.760><c> what</c><00:11:14.940><c> the</c>
+
+00:11:15.050 --> 00:11:15.060 align:start position:0%
+degrees and here's an idea of what the
+ 
+
+00:11:15.060 --> 00:11:28.009 align:start position:0%
+degrees and here's an idea of what the
+card<00:11:15.180><c> sounds</c><00:11:15.480><c> like</c><00:11:15.720><c> at</c><00:11:16.140><c> full</c><00:11:16.320><c> load</c>
+
+00:11:28.009 --> 00:11:28.019 align:start position:0%
+ 
+ 
+
+00:11:28.019 --> 00:11:29.930 align:start position:0%
+ 
+now<00:11:28.320><c> some</c><00:11:28.500><c> quick</c><00:11:28.680><c> notes</c><00:11:28.980><c> on</c><00:11:29.100><c> overclocking</c><00:11:29.700><c> I</c>
+
+00:11:29.930 --> 00:11:29.940 align:start position:0%
+now some quick notes on overclocking I
+ 
+
+00:11:29.940 --> 00:11:31.850 align:start position:0%
+now some quick notes on overclocking I
+did<00:11:30.180><c> manage</c><00:11:30.420><c> to</c><00:11:30.480><c> get</c><00:11:30.600><c> the</c><00:11:30.779><c> 4090</c><00:11:31.260><c> close</c><00:11:31.500><c> to</c><00:11:31.680><c> the</c>
+
+00:11:31.850 --> 00:11:31.860 align:start position:0%
+did manage to get the 4090 close to the
+ 
+
+00:11:31.860 --> 00:11:33.650 align:start position:0%
+did manage to get the 4090 close to the
+three<00:11:32.100><c> gigahertz</c><00:11:32.579><c> Mark</c><00:11:32.940><c> which</c><00:11:33.300><c> is</c><00:11:33.420><c> pretty</c>
+
+00:11:33.650 --> 00:11:33.660 align:start position:0%
+three gigahertz Mark which is pretty
+ 
+
+00:11:33.660 --> 00:11:36.230 align:start position:0%
+three gigahertz Mark which is pretty
+insane<00:11:34.140><c> plus</c><00:11:34.620><c> 220</c><00:11:35.100><c> on</c><00:11:35.399><c> the</c><00:11:35.519><c> core</c><00:11:35.640><c> here</c><00:11:35.940><c> but</c>
+
+00:11:36.230 --> 00:11:36.240 align:start position:0%
+insane plus 220 on the core here but
+ 
+
+00:11:36.240 --> 00:11:38.269 align:start position:0%
+insane plus 220 on the core here but
+ultimately<00:11:36.660><c> that</c><00:11:36.959><c> wasn't</c><00:11:37.140><c> fully</c><00:11:37.560><c> stable</c><00:11:37.800><c> so</c><00:11:38.040><c> I</c>
+
+00:11:38.269 --> 00:11:38.279 align:start position:0%
+ultimately that wasn't fully stable so I
+ 
+
+00:11:38.279 --> 00:11:40.250 align:start position:0%
+ultimately that wasn't fully stable so I
+lowered<00:11:38.640><c> it</c><00:11:38.700><c> to</c><00:11:38.820><c> plus</c><00:11:39.000><c> 200</c><00:11:39.420><c> and</c><00:11:39.899><c> that</c><00:11:40.079><c> was</c>
+
+00:11:40.250 --> 00:11:40.260 align:start position:0%
+lowered it to plus 200 and that was
+ 
+
+00:11:40.260 --> 00:11:42.710 align:start position:0%
+lowered it to plus 200 and that was
+absolutely<00:11:40.740><c> fine</c><00:11:41.100><c> somehow</c><00:11:41.880><c> I</c><00:11:42.060><c> also</c><00:11:42.360><c> managed</c>
+
+00:11:42.710 --> 00:11:42.720 align:start position:0%
+absolutely fine somehow I also managed
+ 
+
+00:11:42.720 --> 00:11:45.470 align:start position:0%
+absolutely fine somehow I also managed
+plus<00:11:43.079><c> 1700</c><00:11:43.920><c> on</c><00:11:44.279><c> the</c><00:11:44.459><c> memory</c><00:11:44.760><c> which</c><00:11:45.000><c> makes</c><00:11:45.240><c> for</c>
+
+00:11:45.470 --> 00:11:45.480 align:start position:0%
+plus 1700 on the memory which makes for
+ 
+
+00:11:45.480 --> 00:11:47.990 align:start position:0%
+plus 1700 on the memory which makes for
+the<00:11:45.720><c> fastest</c><00:11:46.140><c> gddrx</c><00:11:47.100><c> speeds</c><00:11:47.579><c> that</c><00:11:47.700><c> I've</c><00:11:47.820><c> ever</c>
+
+00:11:47.990 --> 00:11:48.000 align:start position:0%
+the fastest gddrx speeds that I've ever
+ 
+
+00:11:48.000 --> 00:11:50.389 align:start position:0%
+the fastest gddrx speeds that I've ever
+seen<00:11:48.240><c> and</c><00:11:48.660><c> in</c><00:11:48.779><c> the</c><00:11:48.959><c> end</c><00:11:49.019><c> it's</c><00:11:49.200><c> about</c><00:11:49.380><c> a</c><00:11:49.680><c> 9</c><00:11:49.860><c> bump</c>
+
+00:11:50.389 --> 00:11:50.399 align:start position:0%
+seen and in the end it's about a 9 bump
+ 
+
+00:11:50.399 --> 00:11:52.370 align:start position:0%
+seen and in the end it's about a 9 bump
+to<00:11:50.640><c> gaming</c><00:11:50.940><c> performance</c><00:11:51.360><c> here</c><00:11:51.540><c> in</c><00:11:51.779><c> God</c><00:11:52.019><c> of</c><00:11:52.200><c> War</c>
+
+00:11:52.370 --> 00:11:52.380 align:start position:0%
+to gaming performance here in God of War
+ 
+
+00:11:52.380 --> 00:11:54.470 align:start position:0%
+to gaming performance here in God of War
+of<00:11:52.920><c> course</c><00:11:53.040><c> not</c><00:11:53.339><c> really</c><00:11:53.519><c> a</c><00:11:53.760><c> GPU</c><00:11:54.120><c> that</c><00:11:54.300><c> you'd</c>
+
+00:11:54.470 --> 00:11:54.480 align:start position:0%
+of course not really a GPU that you'd
+ 
+
+00:11:54.480 --> 00:11:56.269 align:start position:0%
+of course not really a GPU that you'd
+need<00:11:54.600><c> to</c><00:11:54.720><c> overclock</c><00:11:55.140><c> but</c><00:11:55.440><c> I</c><00:11:55.740><c> mean</c><00:11:55.860><c> there's</c><00:11:56.100><c> a</c>
+
+00:11:56.269 --> 00:11:56.279 align:start position:0%
+need to overclock but I mean there's a
+ 
+
+00:11:56.279 --> 00:11:57.710 align:start position:0%
+need to overclock but I mean there's a
+bit<00:11:56.399><c> more</c><00:11:56.519><c> room</c><00:11:56.700><c> in</c><00:11:56.880><c> the</c><00:11:57.000><c> tank</c><00:11:57.120><c> than</c><00:11:57.420><c> usual</c>
+
+00:11:57.710 --> 00:11:57.720 align:start position:0%
+bit more room in the tank than usual
+ 
+
+00:11:57.720 --> 00:11:59.389 align:start position:0%
+bit more room in the tank than usual
+which<00:11:58.019><c> is</c><00:11:58.140><c> always</c><00:11:58.320><c> nice</c><00:11:58.680><c> to</c><00:11:58.860><c> see</c><00:11:58.980><c> now</c><00:11:59.279><c> it's</c>
+
+00:11:59.389 --> 00:11:59.399 align:start position:0%
+which is always nice to see now it's
+ 
+
+00:11:59.399 --> 00:12:00.829 align:start position:0%
+which is always nice to see now it's
+important<00:11:59.700><c> to</c><00:11:59.820><c> note</c><00:11:59.940><c> that</c><00:12:00.180><c> a</c><00:12:00.300><c> lot</c><00:12:00.420><c> of</c><00:12:00.540><c> the</c><00:12:00.660><c> kind</c>
+
+00:12:00.829 --> 00:12:00.839 align:start position:0%
+important to note that a lot of the kind
+ 
+
+00:12:00.839 --> 00:12:02.090 align:start position:0%
+important to note that a lot of the kind
+of<00:12:00.959><c> new</c><00:12:01.140><c> features</c><00:12:01.440><c> that</c><00:12:01.620><c> we've</c><00:12:01.860><c> talked</c><00:12:02.040><c> about</c>
+
+00:12:02.090 --> 00:12:02.100 align:start position:0%
+of new features that we've talked about
+ 
+
+00:12:02.100 --> 00:12:04.310 align:start position:0%
+of new features that we've talked about
+today<00:12:02.339><c> like</c><00:12:02.640><c> the</c><00:12:02.760><c> DLS</c><00:12:03.180><c> S3</c><00:12:03.540><c> frame</c><00:12:03.899><c> generation</c>
+
+00:12:04.310 --> 00:12:04.320 align:start position:0%
+today like the DLS S3 frame generation
+ 
+
+00:12:04.320 --> 00:12:06.949 align:start position:0%
+today like the DLS S3 frame generation
+and<00:12:04.680><c> the</c><00:12:04.980><c> new</c><00:12:05.100><c> av1</c><00:12:05.760><c> dual</c><00:12:06.060><c> envanc</c><00:12:06.540><c> encoders</c>
+
+00:12:06.949 --> 00:12:06.959 align:start position:0%
+and the new av1 dual envanc encoders
+ 
+
+00:12:06.959 --> 00:12:09.410 align:start position:0%
+and the new av1 dual envanc encoders
+that<00:12:07.440><c> stuff</c><00:12:07.620><c> will</c><00:12:07.920><c> also</c><00:12:08.160><c> trickle</c><00:12:08.579><c> down</c><00:12:08.700><c> to</c><00:12:09.060><c> the</c>
+
+00:12:09.410 --> 00:12:09.420 align:start position:0%
+that stuff will also trickle down to the
+ 
+
+00:12:09.420 --> 00:12:10.970 align:start position:0%
+that stuff will also trickle down to the
+you<00:12:09.660><c> know</c><00:12:09.779><c> 4080s</c><00:12:10.380><c> that</c><00:12:10.560><c> have</c><00:12:10.680><c> already</c><00:12:10.800><c> been</c>
+
+00:12:10.970 --> 00:12:10.980 align:start position:0%
+you know 4080s that have already been
+ 
+
+00:12:10.980 --> 00:12:12.949 align:start position:0%
+you know 4080s that have already been
+announced<00:12:11.339><c> and</c><00:12:11.519><c> the</c><00:12:11.760><c> 4070</c><00:12:12.360><c> when</c><00:12:12.660><c> that</c><00:12:12.839><c> will</c>
+
+00:12:12.949 --> 00:12:12.959 align:start position:0%
+announced and the 4070 when that will
+ 
+
+00:12:12.959 --> 00:12:14.449 align:start position:0%
+announced and the 4070 when that will
+come<00:12:13.200><c> out</c><00:12:13.320><c> and</c><00:12:13.620><c> you</c><00:12:13.860><c> know</c><00:12:13.980><c> potentially</c><00:12:14.279><c> the</c>
+
+00:12:14.449 --> 00:12:14.459 align:start position:0%
+come out and you know potentially the
+ 
+
+00:12:14.459 --> 00:12:16.970 align:start position:0%
+come out and you know potentially the
+460<00:12:14.940><c> when</c><00:12:15.660><c> that</c><00:12:15.839><c> comes</c><00:12:16.140><c> out</c><00:12:16.200><c> down</c><00:12:16.440><c> the</c><00:12:16.620><c> road</c><00:12:16.740><c> as</c>
+
+00:12:16.970 --> 00:12:16.980 align:start position:0%
+460 when that comes out down the road as
+ 
+
+00:12:16.980 --> 00:12:19.310 align:start position:0%
+460 when that comes out down the road as
+well<00:12:17.160><c> so</c><00:12:17.459><c> don't</c><00:12:17.880><c> be</c><00:12:18.120><c> pressured</c><00:12:18.540><c> to</c><00:12:18.720><c> buy</c><00:12:19.019><c> the</c>
+
+00:12:19.310 --> 00:12:19.320 align:start position:0%
+well so don't be pressured to buy the
+ 
+
+00:12:19.320 --> 00:12:21.350 align:start position:0%
+well so don't be pressured to buy the
+4090<00:12:19.920><c> if</c><00:12:20.160><c> those</c><00:12:20.579><c> are</c><00:12:20.760><c> just</c><00:12:20.880><c> the</c><00:12:21.060><c> kind</c><00:12:21.300><c> of</c>
+
+00:12:21.350 --> 00:12:21.360 align:start position:0%
+4090 if those are just the kind of
+ 
+
+00:12:21.360 --> 00:12:22.670 align:start position:0%
+4090 if those are just the kind of
+features<00:12:21.600><c> that</c><00:12:21.779><c> you're</c><00:12:21.899><c> interested</c><00:12:22.140><c> in</c><00:12:22.200><c> and</c>
+
+00:12:22.670 --> 00:12:22.680 align:start position:0%
+features that you're interested in and
+ 
+
+00:12:22.680 --> 00:12:25.130 align:start position:0%
+features that you're interested in and
+especially<00:12:23.160><c> when</c><00:12:23.339><c> the</c><00:12:23.519><c> 490</c><00:12:24.120><c> is</c><00:12:24.300><c> just</c><00:12:24.600><c> so</c>
+
+00:12:25.130 --> 00:12:25.140 align:start position:0%
+especially when the 490 is just so
+ 
+
+00:12:25.140 --> 00:12:28.009 align:start position:0%
+especially when the 490 is just so
+brutally<00:12:25.560><c> overkill</c><00:12:26.160><c> for</c><00:12:26.519><c> 99</c><00:12:26.820><c> of</c><00:12:27.420><c> setups</c><00:12:27.899><c> out</c>
+
+00:12:28.009 --> 00:12:28.019 align:start position:0%
+brutally overkill for 99 of setups out
+ 
+
+00:12:28.019 --> 00:12:29.509 align:start position:0%
+brutally overkill for 99 of setups out
+there<00:12:28.200><c> like</c><00:12:28.440><c> I</c><00:12:28.800><c> really</c><00:12:28.920><c> had</c><00:12:29.100><c> to</c><00:12:29.220><c> stop</c><00:12:29.339><c> myself</c>
+
+00:12:29.509 --> 00:12:29.519 align:start position:0%
+there like I really had to stop myself
+ 
+
+00:12:29.519 --> 00:12:31.610 align:start position:0%
+there like I really had to stop myself
+laughing<00:12:30.060><c> at</c><00:12:30.180><c> how</c><00:12:30.420><c> ridiculous</c><00:12:30.959><c> some</c><00:12:31.320><c> of</c><00:12:31.440><c> those</c>
+
+00:12:31.610 --> 00:12:31.620 align:start position:0%
+laughing at how ridiculous some of those
+ 
+
+00:12:31.620 --> 00:12:34.009 align:start position:0%
+laughing at how ridiculous some of those
+numbers<00:12:31.860><c> were</c><00:12:32.279><c> at</c><00:12:32.519><c> you</c><00:12:32.700><c> know</c><00:12:32.820><c> 4K</c><00:12:33.360><c> maxed</c><00:12:33.899><c> out</c>
+
+00:12:34.009 --> 00:12:34.019 align:start position:0%
+numbers were at you know 4K maxed out
+ 
+
+00:12:34.019 --> 00:12:36.050 align:start position:0%
+numbers were at you know 4K maxed out
+Graphics<00:12:34.500><c> now</c><00:12:34.920><c> in</c><00:12:35.100><c> terms</c><00:12:35.279><c> of</c><00:12:35.339><c> pricing</c><00:12:35.760><c> I'm</c>
+
+00:12:36.050 --> 00:12:36.060 align:start position:0%
+Graphics now in terms of pricing I'm
+ 
+
+00:12:36.060 --> 00:12:37.670 align:start position:0%
+Graphics now in terms of pricing I'm
+going<00:12:36.180><c> to</c><00:12:36.240><c> say</c><00:12:36.360><c> something</c><00:12:36.600><c> that's</c><00:12:36.899><c> maybe</c><00:12:37.320><c> a</c>
+
+00:12:37.670 --> 00:12:37.680 align:start position:0%
+going to say something that's maybe a
+ 
+
+00:12:37.680 --> 00:12:40.250 align:start position:0%
+going to say something that's maybe a
+little<00:12:37.920><c> bit</c><00:12:38.100><c> unpopular</c><00:12:38.880><c> but</c><00:12:39.420><c> I</c><00:12:40.019><c> really</c><00:12:40.140><c> can't</c>
+
+00:12:40.250 --> 00:12:40.260 align:start position:0%
+little bit unpopular but I really can't
+ 
+
+00:12:40.260 --> 00:12:42.230 align:start position:0%
+little bit unpopular but I really can't
+see<00:12:40.500><c> it</c><00:12:40.620><c> any</c><00:12:40.860><c> other</c><00:12:41.040><c> way</c><00:12:41.220><c> and</c><00:12:41.459><c> that's</c><00:12:41.820><c> what</c><00:12:42.060><c> the</c>
+
+00:12:42.230 --> 00:12:42.240 align:start position:0%
+see it any other way and that's what the
+ 
+
+00:12:42.240 --> 00:12:45.590 align:start position:0%
+see it any other way and that's what the
+4090<00:12:42.899><c> isn't</c><00:12:43.320><c> really</c><00:12:43.500><c> an</c><00:12:43.860><c> overpriced</c><00:12:44.519><c> GPU</c><00:12:45.060><c> now</c>
+
+00:12:45.590 --> 00:12:45.600 align:start position:0%
+4090 isn't really an overpriced GPU now
+ 
+
+00:12:45.600 --> 00:12:47.690 align:start position:0%
+4090 isn't really an overpriced GPU now
+of<00:12:45.720><c> course</c><00:12:45.839><c> the</c><00:12:46.139><c> 40</c><00:12:46.320><c> 80</c><00:12:46.560><c> 16</c><00:12:46.860><c> gig</c><00:12:47.220><c> and</c><00:12:47.399><c> the</c><00:12:47.579><c> 12</c>
+
+00:12:47.690 --> 00:12:47.700 align:start position:0%
+of course the 40 80 16 gig and the 12
+ 
+
+00:12:47.700 --> 00:12:50.389 align:start position:0%
+of course the 40 80 16 gig and the 12
+gig<00:12:48.000><c> those</c><00:12:48.300><c> are</c><00:12:48.540><c> absolutely</c><00:12:49.019><c> very</c><00:12:49.740><c> overpriced</c>
+
+00:12:50.389 --> 00:12:50.399 align:start position:0%
+gig those are absolutely very overpriced
+ 
+
+00:12:50.399 --> 00:12:51.829 align:start position:0%
+gig those are absolutely very overpriced
+you<00:12:50.639><c> know</c><00:12:50.700><c> just</c><00:12:51.060><c> looking</c><00:12:51.240><c> at</c><00:12:51.420><c> how</c><00:12:51.660><c> that</c>
+
+00:12:51.829 --> 00:12:51.839 align:start position:0%
+you know just looking at how that
+ 
+
+00:12:51.839 --> 00:12:53.090 align:start position:0%
+you know just looking at how that
+pricing<00:12:52.139><c> compares</c><00:12:52.560><c> to</c><00:12:52.680><c> the</c><00:12:52.860><c> previous</c>
+
+00:12:53.090 --> 00:12:53.100 align:start position:0%
+pricing compares to the previous
+ 
+
+00:12:53.100 --> 00:12:55.610 align:start position:0%
+pricing compares to the previous
+generation<00:12:53.820><c> but</c><00:12:54.300><c> the</c><00:12:54.660><c> 40</c><00:12:54.839><c> 90</c><00:12:55.079><c> you</c><00:12:55.500><c> know</c>
+
+00:12:55.610 --> 00:12:55.620 align:start position:0%
+generation but the 40 90 you know
+ 
+
+00:12:55.620 --> 00:12:58.430 align:start position:0%
+generation but the 40 90 you know
+compared<00:12:55.920><c> to</c><00:12:56.040><c> the</c><00:12:56.220><c> 1500</c><00:12:57.019><c> 3090</c><00:12:58.019><c> which</c><00:12:58.260><c> was</c>
+
+00:12:58.430 --> 00:12:58.440 align:start position:0%
+compared to the 1500 3090 which was
+ 
+
+00:12:58.440 --> 00:13:00.110 align:start position:0%
+compared to the 1500 3090 which was
+realistically<00:12:58.920><c> a</c><00:12:59.220><c> lot</c><00:12:59.339><c> more</c><00:12:59.459><c> expensive</c><00:12:59.880><c> than</c>
+
+00:13:00.110 --> 00:13:00.120 align:start position:0%
+realistically a lot more expensive than
+ 
+
+00:13:00.120 --> 00:13:03.590 align:start position:0%
+realistically a lot more expensive than
+that<00:13:00.360><c> and</c><00:13:00.720><c> the</c><00:13:00.899><c> 1200</c><00:13:01.320><c> 2080</c><00:13:02.160><c> TI</c><00:13:02.700><c> compared</c><00:13:03.480><c> the</c>
+
+00:13:03.590 --> 00:13:03.600 align:start position:0%
+that and the 1200 2080 TI compared the
+ 
+
+00:13:03.600 --> 00:13:05.690 align:start position:0%
+that and the 1200 2080 TI compared the
+performance<00:13:04.019><c> of</c><00:13:04.320><c> those</c><00:13:04.500><c> gpus</c><00:13:05.040><c> you</c><00:13:05.579><c> know</c>
+
+00:13:05.690 --> 00:13:05.700 align:start position:0%
+performance of those gpus you know
+ 
+
+00:13:05.700 --> 00:13:07.129 align:start position:0%
+performance of those gpus you know
+spending<00:13:06.000><c> a</c><00:13:06.120><c> hundred</c><00:13:06.360><c> dollars</c><00:13:06.600><c> more</c><00:13:06.779><c> than</c><00:13:06.959><c> the</c>
+
+00:13:07.129 --> 00:13:07.139 align:start position:0%
+spending a hundred dollars more than the
+ 
+
+00:13:07.139 --> 00:13:09.769 align:start position:0%
+spending a hundred dollars more than the
+3090<00:13:07.740><c> you're</c><00:13:07.980><c> actually</c><00:13:08.220><c> getting</c><00:13:08.519><c> an</c><00:13:09.120><c> insanely</c>
+
+00:13:09.769 --> 00:13:09.779 align:start position:0%
+3090 you're actually getting an insanely
+ 
+
+00:13:09.779 --> 00:13:12.050 align:start position:0%
+3090 you're actually getting an insanely
+more<00:13:10.200><c> powerful</c><00:13:10.620><c> product</c><00:13:10.920><c> I</c><00:13:11.399><c> mean</c><00:13:11.519><c> the</c><00:13:11.760><c> kind</c><00:13:11.940><c> of</c>
+
+00:13:12.050 --> 00:13:12.060 align:start position:0%
+more powerful product I mean the kind of
+ 
+
+00:13:12.060 --> 00:13:14.269 align:start position:0%
+more powerful product I mean the kind of
+performance<00:13:12.480><c> jump</c><00:13:12.720><c> from</c><00:13:12.959><c> the</c><00:13:13.200><c> 39</c><00:13:13.620><c> to</c><00:13:13.860><c> the</c><00:13:14.100><c> 40</c>
+
+00:13:14.269 --> 00:13:14.279 align:start position:0%
+performance jump from the 39 to the 40
+ 
+
+00:13:14.279 --> 00:13:16.670 align:start position:0%
+performance jump from the 39 to the 40
+90<00:13:14.519><c> again</c><00:13:15.000><c> I'll</c><00:13:15.300><c> just</c><00:13:15.420><c> say</c><00:13:15.600><c> it</c><00:13:16.019><c> is</c><00:13:16.200><c> absolutely</c>
+
+00:13:16.670 --> 00:13:16.680 align:start position:0%
+90 again I'll just say it is absolutely
+ 
+
+00:13:16.680 --> 00:13:18.590 align:start position:0%
+90 again I'll just say it is absolutely
+insane<00:13:17.220><c> and</c><00:13:17.519><c> of</c><00:13:17.639><c> course</c><00:13:17.760><c> goes</c><00:13:18.060><c> without</c><00:13:18.120><c> saying</c>
+
+00:13:18.590 --> 00:13:18.600 align:start position:0%
+insane and of course goes without saying
+ 
+
+00:13:18.600 --> 00:13:21.350 align:start position:0%
+insane and of course goes without saying
+it's<00:13:18.899><c> brutally</c><00:13:19.320><c> overkill</c><00:13:19.860><c> for</c><00:13:20.279><c> 99</c><00:13:20.700><c> of</c><00:13:21.240><c> the</c>
+
+00:13:21.350 --> 00:13:21.360 align:start position:0%
+it's brutally overkill for 99 of the
+ 
+
+00:13:21.360 --> 00:13:22.730 align:start position:0%
+it's brutally overkill for 99 of the
+setups<00:13:21.720><c> out</c><00:13:21.779><c> there</c><00:13:21.899><c> like</c><00:13:22.019><c> you</c><00:13:22.139><c> if</c><00:13:22.500><c> you</c><00:13:22.560><c> don't</c>
+
+00:13:22.730 --> 00:13:22.740 align:start position:0%
+setups out there like you if you don't
+ 
+
+00:13:22.740 --> 00:13:26.750 align:start position:0%
+setups out there like you if you don't
+have<00:13:22.860><c> a</c><00:13:23.100><c> 4k</c><00:13:23.540><c> 144hz</c><00:13:24.540><c> monitor</c><00:13:24.959><c> or</c><00:13:25.139><c> a</c><00:13:25.260><c> 1440p</c><00:13:25.980><c> 360hz</c>
+
+00:13:26.750 --> 00:13:26.760 align:start position:0%
+have a 4k 144hz monitor or a 1440p 360hz
+ 
+
+00:13:26.760 --> 00:13:28.670 align:start position:0%
+have a 4k 144hz monitor or a 1440p 360hz
+monitor<00:13:27.060><c> that's</c><00:13:27.300><c> coming</c><00:13:27.480><c> out</c><00:13:27.600><c> uh</c><00:13:28.260><c> yeah</c><00:13:28.440><c> don't</c>
+
+00:13:28.670 --> 00:13:28.680 align:start position:0%
+monitor that's coming out uh yeah don't
+ 
+
+00:13:28.680 --> 00:13:31.009 align:start position:0%
+monitor that's coming out uh yeah don't
+even<00:13:28.860><c> take</c><00:13:29.100><c> a</c><00:13:29.279><c> second</c><00:13:29.399><c> look</c><00:13:29.700><c> at</c><00:13:29.940><c> this</c><00:13:30.060><c> GPU</c><00:13:30.600><c> of</c>
+
+00:13:31.009 --> 00:13:31.019 align:start position:0%
+even take a second look at this GPU of
+ 
+
+00:13:31.019 --> 00:13:32.449 align:start position:0%
+even take a second look at this GPU of
+course<00:13:31.079><c> if</c><00:13:31.260><c> you</c><00:13:31.440><c> want</c><00:13:31.500><c> to</c><00:13:31.620><c> use</c><00:13:31.740><c> it</c><00:13:31.860><c> for</c><00:13:32.100><c> Content</c>
+
+00:13:32.449 --> 00:13:32.459 align:start position:0%
+course if you want to use it for Content
+ 
+
+00:13:32.459 --> 00:13:34.310 align:start position:0%
+course if you want to use it for Content
+creation<00:13:32.940><c> production</c><00:13:33.480><c> workloads</c><00:13:34.019><c> and</c><00:13:34.139><c> stuff</c>
+
+00:13:34.310 --> 00:13:34.320 align:start position:0%
+creation production workloads and stuff
+ 
+
+00:13:34.320 --> 00:13:35.930 align:start position:0%
+creation production workloads and stuff
+like<00:13:34.440><c> that</c><00:13:34.620><c> it</c><00:13:35.040><c> is</c><00:13:35.160><c> definitely</c><00:13:35.399><c> suitable</c><00:13:35.760><c> for</c>
+
+00:13:35.930 --> 00:13:35.940 align:start position:0%
+like that it is definitely suitable for
+ 
+
+00:13:35.940 --> 00:13:37.970 align:start position:0%
+like that it is definitely suitable for
+that<00:13:36.060><c> stuff</c><00:13:36.300><c> too</c><00:13:36.540><c> but</c><00:13:37.139><c> exclusively</c><00:13:37.740><c> looking</c>
+
+00:13:37.970 --> 00:13:37.980 align:start position:0%
+that stuff too but exclusively looking
+ 
+
+00:13:37.980 --> 00:13:40.069 align:start position:0%
+that stuff too but exclusively looking
+at<00:13:38.160><c> gaming</c><00:13:38.519><c> performance</c><00:13:38.880><c> here</c><00:13:39.060><c> you</c><00:13:39.420><c> need</c><00:13:39.600><c> a</c>
+
+00:13:40.069 --> 00:13:40.079 align:start position:0%
+at gaming performance here you need a
+ 
+
+00:13:40.079 --> 00:13:42.110 align:start position:0%
+at gaming performance here you need a
+very<00:13:40.320><c> very</c><00:13:40.440><c> high-end</c><00:13:40.860><c> gaming</c><00:13:41.279><c> monitor</c><00:13:41.639><c> to</c>
+
+00:13:42.110 --> 00:13:42.120 align:start position:0%
+very very high-end gaming monitor to
+ 
+
+00:13:42.120 --> 00:13:43.670 align:start position:0%
+very very high-end gaming monitor to
+even<00:13:42.240><c> display</c><00:13:42.600><c> the</c><00:13:42.959><c> amount</c><00:13:43.200><c> of</c><00:13:43.260><c> frames</c><00:13:43.560><c> that</c>
+
+00:13:43.670 --> 00:13:43.680 align:start position:0%
+even display the amount of frames that
+ 
+
+00:13:43.680 --> 00:13:45.650 align:start position:0%
+even display the amount of frames that
+this<00:13:43.860><c> thing</c><00:13:43.980><c> is</c><00:13:44.220><c> pushing</c><00:13:44.579><c> out</c><00:13:44.700><c> otherwise</c><00:13:45.480><c> I'll</c>
+
+00:13:45.650 --> 00:13:45.660 align:start position:0%
+this thing is pushing out otherwise I'll
+ 
+
+00:13:45.660 --> 00:13:46.730 align:start position:0%
+this thing is pushing out otherwise I'll
+leave<00:13:45.839><c> some</c><00:13:45.959><c> links</c><00:13:46.200><c> down</c><00:13:46.320><c> below</c><00:13:46.440><c> for</c><00:13:46.620><c> those</c>
+
+00:13:46.730 --> 00:13:46.740 align:start position:0%
+leave some links down below for those
+ 
+
+00:13:46.740 --> 00:13:48.470 align:start position:0%
+leave some links down below for those
+interested<00:13:47.160><c> as</c><00:13:47.459><c> always</c><00:13:47.639><c> a</c><00:13:47.940><c> huge</c><00:13:48.180><c> thanks</c><00:13:48.300><c> for</c>
+
+00:13:48.470 --> 00:13:48.480 align:start position:0%
+interested as always a huge thanks for
+ 
+
+00:13:48.480 --> 00:13:50.210 align:start position:0%
+interested as always a huge thanks for
+watching<00:13:48.779><c> and</c><00:13:48.899><c> stay</c><00:13:49.079><c> tuned</c><00:13:49.320><c> for</c><00:13:49.500><c> a</c><00:13:49.980><c> lot</c><00:13:50.100><c> more</c>
+
+00:13:50.210 --> 00:13:50.220 align:start position:0%
+watching and stay tuned for a lot more
+ 
+
+00:13:50.220 --> 00:13:52.310 align:start position:0%
+watching and stay tuned for a lot more
+content<00:13:50.579><c> coming</c><00:13:50.820><c> up</c><00:13:51.000><c> on</c><00:13:51.120><c> these</c><00:13:51.360><c> gpus</c><00:13:51.720><c> and</c><00:13:52.200><c> I'll</c>
+
+00:13:52.310 --> 00:13:52.320 align:start position:0%
+content coming up on these gpus and I'll
+ 
+
+00:13:52.320 --> 00:13:55.279 align:start position:0%
+content coming up on these gpus and I'll
+see<00:13:52.560><c> you</c><00:13:52.620><c> all</c><00:13:52.740><c> in</c><00:13:52.860><c> the</c><00:13:52.980><c> next</c><00:13:53.100><c> one</c>
+

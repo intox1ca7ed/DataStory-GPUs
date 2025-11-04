@@ -1,0 +1,1244 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.330 --> 00:00:05.010
+- This is the world's fastest gaming GPU,
+
+00:00:05.010 --> 00:00:06.510
+as of yesterday.
+
+00:00:06.510 --> 00:00:11.040
+Today, Nvidia launches this:
+
+00:00:11.040 --> 00:00:15.120
+the GeForce RTX 4090,
+a massive improvement
+
+00:00:15.120 --> 00:00:18.150
+over its predecessor in almost every way.
+
+00:00:18.150 --> 00:00:20.970
+So, why aren't I more excited?
+
+00:00:20.970 --> 00:00:23.550
+The fact that I could, you know,
+
+00:00:23.550 --> 00:00:26.850
+buy a cheap used car for
+what Nvidia is asking for,
+
+00:00:26.850 --> 00:00:27.780
+this aside,
+
+00:00:27.780 --> 00:00:31.470
+there are some other problems
+that we need to talk about,
+
+00:00:31.470 --> 00:00:33.630
+right after I tell you about our sponsor.
+
+00:00:33.630 --> 00:00:34.860
+- [Sponsor] Zoho CRM.
+
+00:00:34.860 --> 00:00:37.530
+Zoho CRM is a 360 degree solution
+
+00:00:37.530 --> 00:00:40.200
+that offers an intuitive
+UI, AI predictions,
+
+00:00:40.200 --> 00:00:43.710
+and a design studio to help
+get your sales done faster.
+
+00:00:43.710 --> 00:00:48.556
+Get 50% off with Code ZCRM50
+using the link down below.
+
+00:00:48.556 --> 00:00:51.139
+(upbeat music)
+
+00:00:57.330 --> 00:01:00.450
+- Two years ago the
+GeForce RTX 3090 launched
+
+00:01:00.450 --> 00:01:04.290
+at an eye watering 1500 US dollars,
+
+00:01:04.290 --> 00:01:06.030
+and Nvidia's justification for this was
+
+00:01:06.030 --> 00:01:08.580
+that it was a Titan class GPU.
+
+00:01:08.580 --> 00:01:11.910
+Now of course, we all
+know now that that was BS
+
+00:01:11.910 --> 00:01:16.320
+as Nvidia launched the RTX
+3090 Ti just six months ago,
+
+00:01:16.320 --> 00:01:19.230
+in March of 2022, at two grand,
+
+00:01:19.230 --> 00:01:21.630
+with a very modest spec
+bump for the price,
+
+00:01:21.630 --> 00:01:24.060
+and still no Titan class
+
+00:01:24.060 --> 00:01:26.070
+floating point compute functionality.
+
+00:01:26.070 --> 00:01:27.210
+Both cards are available at
+
+00:01:27.210 --> 00:01:29.190
+around a thousand dollars
+or so today thanks to
+
+00:01:29.190 --> 00:01:31.620
+the crash in GPU demand and competition
+
+00:01:31.620 --> 00:01:34.020
+from AMD is actually coming in
+a little bit less than that.
+
+00:01:34.020 --> 00:01:38.910
+The RTX 4090 that launches at $1,600 US.
+
+00:01:38.910 --> 00:01:43.290
+What do you get for the price
+of three PS5 gaming consoles?
+
+00:01:43.290 --> 00:01:47.130
+It's not a Titan class GPU,
+and it has the same amount
+
+00:01:47.130 --> 00:01:49.980
+of VRAM as the previous gen RTX 3090,
+
+00:01:49.980 --> 00:01:52.560
+but, that's where the similarities end.
+
+00:01:52.560 --> 00:01:54.450
+Not only is the memory as fast
+
+00:01:54.450 --> 00:01:57.600
+as what you'd find on an RTX 3090 Ti,
+
+00:01:57.600 --> 00:02:00.180
+you're getting over 50% more CUDA cores
+
+00:02:00.180 --> 00:02:03.810
+that are each clocked at over 35% higher.
+
+00:02:03.810 --> 00:02:05.310
+I mean, say what you want,
+
+00:02:05.310 --> 00:02:08.130
+but that alone would be
+a substantial upgrade
+
+00:02:08.130 --> 00:02:10.530
+for a mere 7% increase in MSRP,
+
+00:02:10.530 --> 00:02:13.443
+which is half the rate
+of inflation since 2020.
+
+00:02:13.443 --> 00:02:16.380
+"And what a steal," is what I would say
+
+00:02:16.380 --> 00:02:18.420
+if it weren't for the fact
+that it's, it's honestly,
+
+00:02:18.420 --> 00:02:21.630
+it's still the price of an
+entire mid-range gaming PC
+
+00:02:21.630 --> 00:02:22.800
+on its own.
+
+00:02:22.800 --> 00:02:25.440
+So what else does this bring to the table?
+
+00:02:25.440 --> 00:02:27.780
+Nvidia claims that each
+of their CUDA cores
+
+00:02:27.780 --> 00:02:30.390
+is beefed up compared to the
+outgoing ampere architecture
+
+00:02:30.390 --> 00:02:32.580
+in almost all respects,
+
+00:02:32.580 --> 00:02:35.160
+with claimed performance
+improvements of up to two times
+
+00:02:35.160 --> 00:02:36.900
+what the 30 series could achieve.
+
+00:02:36.900 --> 00:02:39.600
+That's thanks in large part
+to nearly double the L1 cache,
+
+00:02:39.600 --> 00:02:42.180
+and a substantial change
+in the core layout itself.
+
+00:02:42.180 --> 00:02:45.450
+And also to the use of
+TSMC's new N4 process
+
+00:02:45.450 --> 00:02:47.310
+that allows the total
+Die Area to be nearly
+
+00:02:47.310 --> 00:02:51.150
+150 millimeters squared
+smaller than its predecessor.
+
+00:02:51.150 --> 00:02:53.790
+Of course, we need to
+test Nvidia's claims,
+
+00:02:53.790 --> 00:02:55.620
+so we cut the lamps to fire up
+
+00:02:55.620 --> 00:02:58.620
+our shiny new socket am5
+bench with a fresh install
+
+00:02:58.620 --> 00:03:02.760
+of Windows 11 22H1 and
+go to town with testing.
+
+00:03:02.760 --> 00:03:04.650
+Why 22H1?
+
+00:03:04.650 --> 00:03:07.560
+Apparently 22H2 introduced some issues
+
+00:03:07.560 --> 00:03:09.270
+that Nvidia is not
+going to have ironed out
+
+00:03:09.270 --> 00:03:11.070
+by the time this video airs.
+
+00:03:11.070 --> 00:03:13.350
+But for now let's turn our attention
+
+00:03:13.350 --> 00:03:15.930
+to the main event: Games.
+
+00:03:15.930 --> 00:03:17.520
+And right out of the gate,
+
+00:03:17.520 --> 00:03:20.520
+even the traditional raster
+performance is spectacular
+
+00:03:20.520 --> 00:03:23.130
+compared to the mighty 3090 Ti.
+
+00:03:23.130 --> 00:03:25.080
+Yes, you're seeing that correctly.
+
+00:03:25.080 --> 00:03:30.030
+Cyberpunk 2077 ran 2.5
+times faster on the 4090
+
+00:03:30.030 --> 00:03:33.330
+than the 3090 Ti, bringing
+minimum frame rates
+
+00:03:33.330 --> 00:03:36.780
+up from sub 50 to over a hundred.
+
+00:03:36.780 --> 00:03:40.830
+We had to triple check that
+just to be sure, but here it is.
+
+00:03:40.830 --> 00:03:43.900
+We're also looking at minimum
+frame rates beyond 120
+
+00:03:43.900 --> 00:03:46.950
+at 4K in Forza Horizon
+5, compared to sub 90
+
+00:03:46.950 --> 00:03:50.250
+on the 3090 Ti, and it
+is incredibly stable.
+
+00:03:50.250 --> 00:03:52.890
+Assassins Creed, Valhalla's
+frame rate also shot up
+
+00:03:52.890 --> 00:03:57.780
+by about 50% on the 4090
+enabling 4K 120 FPS gameplay
+
+00:03:57.780 --> 00:03:59.340
+without any compromises.
+
+00:03:59.340 --> 00:04:02.280
+Remember, this is just the
+rasterization performance,
+
+00:04:02.280 --> 00:04:04.680
+what we thought Nvidia was trying to hide
+
+00:04:04.680 --> 00:04:06.810
+from us by showing off
+their RT performance
+
+00:04:06.810 --> 00:04:08.400
+in the press materials.
+
+00:04:08.400 --> 00:04:10.470
+Far Cry 6, another Ubisoft title,
+
+00:04:10.470 --> 00:04:12.960
+doesn't see quite the
+same improvement, however,
+
+00:04:12.960 --> 00:04:15.720
+at about 30% or so across the board.
+
+00:04:15.720 --> 00:04:19.200
+It's not bad, like not at
+all, but I'm just ruined
+
+00:04:19.200 --> 00:04:21.540
+after seeing those other results.
+
+00:04:21.540 --> 00:04:23.400
+Improvements continue
+to become more modest
+
+00:04:23.400 --> 00:04:24.240
+in Shadow of the Tomb Raider,
+
+00:04:24.240 --> 00:04:29.010
+where we're likely starting
+to get CPU limited at 4K.
+
+00:04:29.010 --> 00:04:31.020
+I'll let that sink in for a moment.
+
+00:04:31.020 --> 00:04:32.753
+Maybe wash it down with
+a big swig from our
+
+00:04:32.753 --> 00:04:35.580
+chungus 64 oz water
+bottle from lttstore.com.
+
+00:04:35.580 --> 00:04:38.490
+We see exactly that problem
+again when we run CS:GO,
+
+00:04:38.490 --> 00:04:40.530
+where, for some bizarre reason,
+
+00:04:40.530 --> 00:04:43.020
+the situation is flipped on its head.
+
+00:04:43.020 --> 00:04:45.810
+The RTX 3090 Ti outperforms the 4090
+
+00:04:45.810 --> 00:04:47.700
+throughout multiple runs.
+
+00:04:47.700 --> 00:04:49.770
+It's especially surprising because
+
+00:04:49.770 --> 00:04:53.550
+the GPU core clocks and
+the load remained high.
+
+00:04:53.550 --> 00:04:54.900
+I mean, if you've got an explanation,
+
+00:04:54.900 --> 00:04:56.790
+I'd love to see your take in the comments.
+
+00:04:56.790 --> 00:04:58.950
+Dropping the resolution down to 1440P,
+
+00:04:58.950 --> 00:05:01.890
+it seems like we're becoming
+even more CPU bound,
+
+00:05:01.890 --> 00:05:04.140
+but critically, the minimum frame rates
+
+00:05:04.140 --> 00:05:06.990
+in Forza Horizon 5 are massively improved,
+
+00:05:06.990 --> 00:05:09.300
+making for a smoother overall experience.
+
+00:05:09.300 --> 00:05:12.060
+Interestingly, CS:GO actually manages
+
+00:05:12.060 --> 00:05:14.160
+to return to normalcy at 1440P.
+
+00:05:14.160 --> 00:05:15.660
+So, I don't know,
+
+00:05:15.660 --> 00:05:18.600
+maybe we've got a driver
+bug at 4K or something.
+
+00:05:18.600 --> 00:05:22.495
+Now, do you still remember
+that Cyberpunk result?
+
+00:05:22.495 --> 00:05:24.780
+(laughing) Yeah. Okay.
+
+00:05:24.780 --> 00:05:26.970
+Okay, so check this out.
+
+00:05:26.970 --> 00:05:30.930
+We're going from 25 FPS
+on average on the 3090 Ti
+
+00:05:30.930 --> 00:05:35.930
+to a staggering 96 FPS on
+the 4090 at 4K without DLSS.
+
+00:05:39.060 --> 00:05:42.300
+That's almost four times the performance.
+
+00:05:42.300 --> 00:05:44.850
+And when we turn ray
+tracing on in the much older
+
+00:05:44.850 --> 00:05:47.190
+Shadow of the Tomb Raider,
+the 4090 is capable
+
+00:05:47.190 --> 00:05:51.360
+of nearly doubling the
+minimum FPS of the 3090 Ti.
+
+00:05:51.360 --> 00:05:56.360
+That brings this title from
+mostly 60 FPS or more at 4K
+
+00:05:56.880 --> 00:06:01.880
+to a buttery smooth 100 to
+120 FPS, all without DLSS.
+
+00:06:04.680 --> 00:06:08.760
+With DLSS, in performance mode,
+Cyberpunk manages an average
+
+00:06:08.760 --> 00:06:13.760
+of 144 FPS with 1% lows over 120 FPS.
+
+00:06:14.310 --> 00:06:17.190
+That's right, you can
+get buttery smooth 4K 120
+
+00:06:17.190 --> 00:06:21.960
+with ray tracing on this card
+if you're okay with DLSS.
+
+00:06:21.960 --> 00:06:24.300
+Shadow of the Tomb Raider
+in DLSS quality mode
+
+00:06:24.300 --> 00:06:25.890
+is just ridiculous.
+
+00:06:25.890 --> 00:06:30.810
+Where the 3090 Ti can't quite
+reach 90 FPS in 5% lows.
+
+00:06:30.810 --> 00:06:33.570
+The 4090 is fast enough
+to comfortably drive
+
+00:06:33.570 --> 00:06:34.585
+144 hertz 4K monitor.
+
+00:06:34.585 --> 00:06:39.585
+Now, you might be wondering
+about the new DLSS 3.0,
+
+00:06:39.870 --> 00:06:43.170
+Nvidia's AI frame generation technology.
+
+00:06:43.170 --> 00:06:45.900
+We're wondering too.
+
+00:06:45.900 --> 00:06:49.590
+Unfortunately, all of our
+cards, even the third party ones
+
+00:06:49.590 --> 00:06:51.900
+that we're not allowed to show you today,
+
+00:06:51.900 --> 00:06:55.980
+all of them crashed a
+lot, like a lot a lot,
+
+00:06:55.980 --> 00:06:57.870
+even across multiple benches.
+
+00:06:57.870 --> 00:07:01.620
+As a result, the labs weren't
+able to properly test DLSS 3.0
+
+00:07:01.620 --> 00:07:05.280
+and we'd like more ray
+tracing results than we got.
+
+00:07:05.280 --> 00:07:06.630
+We'll have all of that missing data
+
+00:07:06.630 --> 00:07:08.550
+in a follow up so stay tuned.
+
+00:07:08.550 --> 00:07:12.180
+But okay, what if you're not a big gamer?
+
+00:07:12.180 --> 00:07:14.550
+Well, you're in luck because this thing
+
+00:07:14.550 --> 00:07:17.550
+is also a productivity beast.
+
+00:07:17.550 --> 00:07:19.950
+In Blender it gets over
+double the samples per minute
+
+00:07:19.950 --> 00:07:22.740
+in both the monster and junk shop scenes
+
+00:07:22.740 --> 00:07:26.010
+and just under double in
+the older classroom scene.
+
+00:07:26.010 --> 00:07:27.930
+That's a substantial time savings
+
+00:07:27.930 --> 00:07:31.020
+and might be worth it on its
+own if you're a 3D artist.
+
+00:07:31.020 --> 00:07:33.630
+Similarly, our 4K DaVinci Resolve export
+
+00:07:33.630 --> 00:07:35.820
+finished nearly a minute faster,
+
+00:07:35.820 --> 00:07:37.770
+a difference of roughly 25%,
+
+00:07:37.770 --> 00:07:41.370
+Something that that'll
+also add up over time,
+
+00:07:41.370 --> 00:07:42.450
+especially for timelines
+
+00:07:42.450 --> 00:07:45.180
+with a lot of rendered graphical effects.
+
+00:07:45.180 --> 00:07:47.370
+SPECviewperf meanwhile shows massive gains
+
+00:07:47.370 --> 00:07:49.620
+across the board, with the
+most substantial improvements
+
+00:07:49.620 --> 00:07:53.040
+in 3ds Max, Maya, Medical, and Solidworks
+
+00:07:53.040 --> 00:07:55.170
+at nearly double the score.
+
+00:07:55.170 --> 00:07:57.600
+While Creo only saw modest
+performance improvement
+
+00:07:57.600 --> 00:07:59.220
+of around 10%.
+
+00:07:59.220 --> 00:08:02.250
+Still, this is like looking at
+a completely different class
+
+00:08:02.250 --> 00:08:05.760
+of GPU, not a typical
+generational improvement.
+
+00:08:05.760 --> 00:08:07.080
+With all of these performance gains,
+
+00:08:07.080 --> 00:08:09.660
+Maybe Nvidia had to price these at $1,600
+
+00:08:09.660 --> 00:08:11.580
+if they had any hope at all of selling
+
+00:08:11.580 --> 00:08:13.740
+through all of their mining surplus 3090s.
+
+00:08:13.740 --> 00:08:16.800
+Whew. And that's not everything either.
+
+00:08:16.800 --> 00:08:19.560
+Another big part of productivity
+that many companies,
+
+00:08:19.560 --> 00:08:22.500
+Intel and Apple included,
+are taking very seriously
+
+00:08:22.500 --> 00:08:24.000
+is video encoding,
+
+00:08:24.000 --> 00:08:25.260
+and Nvidia has had to prove that they're
+
+00:08:25.260 --> 00:08:26.820
+not sleeping on the job.
+
+00:08:26.820 --> 00:08:29.670
+Not only do you get the
+same high quality encoder
+
+00:08:29.670 --> 00:08:31.950
+that first debuted on the RTX 20-series
+
+00:08:31.950 --> 00:08:34.560
+as we saw in our DaVinci resolve test,
+
+00:08:34.560 --> 00:08:38.910
+but you get two of them, and
+they're both capable of AV1.
+
+00:08:38.910 --> 00:08:41.580
+AV1 is the new codec
+that's likely to take over
+
+00:08:41.580 --> 00:08:43.170
+for live and on-demand streaming
+
+00:08:43.170 --> 00:08:45.120
+on sites like YouTube and Twitch.
+
+00:08:45.120 --> 00:08:47.940
+And while it can produce
+significantly better video quality
+
+00:08:47.940 --> 00:08:49.380
+at the same bit rates,
+
+00:08:49.380 --> 00:08:51.600
+it's significantly more time consuming
+
+00:08:51.600 --> 00:08:53.610
+and difficult to encode,
+
+00:08:53.610 --> 00:08:56.820
+unless you have hardware dedicated for it.
+
+00:08:56.820 --> 00:08:59.610
+Intel Arc launched with
+it as a headline feature,
+
+00:08:59.610 --> 00:09:01.890
+and it's a safe bet that
+it'll become more important
+
+00:09:01.890 --> 00:09:03.300
+as time goes on.
+
+00:09:03.300 --> 00:09:06.480
+Unfortunately, we don't
+have the time right now
+
+00:09:06.480 --> 00:09:08.130
+to do a proper test of it for the review.
+
+00:09:08.130 --> 00:09:10.320
+So again, stay tuned for a future video
+
+00:09:10.320 --> 00:09:12.150
+comparing AV1 encoders.
+
+00:09:12.150 --> 00:09:13.530
+What I can tell you today is that
+
+00:09:13.530 --> 00:09:17.580
+it's nearly as fast as
+Nvidia's existing H.264
+
+00:09:17.580 --> 00:09:20.373
+and H.265 encoders, which
+is pretty impressive.
+
+00:09:21.240 --> 00:09:23.610
+Of course, all of these capabilities come
+
+00:09:23.610 --> 00:09:25.560
+with some drawbacks,
+
+00:09:25.560 --> 00:09:28.290
+the first of which being the power draw.
+
+00:09:28.290 --> 00:09:29.820
+In order to reach the power target
+
+00:09:29.820 --> 00:09:31.230
+that Nvidia set for it,
+
+00:09:31.230 --> 00:09:35.070
+the RTX 4090 universally
+requires an ATX 3.0 connector
+
+00:09:35.070 --> 00:09:37.890
+and comes with adapters for it in the box.
+
+00:09:37.890 --> 00:09:40.410
+As the specs indicated, our RTX 4090
+
+00:09:40.410 --> 00:09:43.110
+draws nearly as much
+power under gaming load
+
+00:09:43.110 --> 00:09:46.380
+as the RTX 3090 Ti,
+though it did stay closer
+
+00:09:46.380 --> 00:09:49.560
+to 425 watts than its rated 450.
+
+00:09:49.560 --> 00:09:53.640
+This is a sharp contrast against
+the RTX 3090 and 6950 XT,
+
+00:09:53.640 --> 00:09:57.180
+which consistently both pulled
+nearly a hundred watts less.
+
+00:09:57.180 --> 00:10:02.180
+This does not bode well for
+an eventual RTX 4090 Ti.
+
+00:10:02.310 --> 00:10:04.710
+At least the power targets
+on the 4080 series cards
+
+00:10:04.710 --> 00:10:08.550
+are lower, though we don't have
+any of those to test today.
+
+00:10:08.550 --> 00:10:11.610
+When we hit the RTX 4090 with
+a more demanding load via
+
+00:10:11.610 --> 00:10:15.330
+MSI Kombustor, power consumption
+skyrockets to the red line
+
+00:10:15.330 --> 00:10:18.690
+for both the RTX 4090 and the 3090 Ti.
+
+00:10:18.690 --> 00:10:20.970
+Though, curiously about
+halfway through it kind of dips
+
+00:10:20.970 --> 00:10:23.580
+down to about 440, which
+is kind of strange.
+
+00:10:23.580 --> 00:10:26.430
+Meanwhile, the RTX 3090
+once again doesn't cross
+
+00:10:26.430 --> 00:10:30.480
+that 350 watt threshold and
+neither did the 6950 XT.
+
+00:10:30.480 --> 00:10:32.280
+With great power of course comes
+
+00:10:32.280 --> 00:10:33.900
+great thermal output capacity
+
+00:10:33.900 --> 00:10:36.330
+and the RTX 4090 is no exception.
+
+00:10:36.330 --> 00:10:38.580
+With thermals while
+gaming tracking roughly
+
+00:10:38.580 --> 00:10:40.410
+in line with the power consumption.
+
+00:10:40.410 --> 00:10:43.230
+Its massive three and a half
+slot cooler keeps the hotspot
+
+00:10:43.230 --> 00:10:45.270
+at the 80 degree mark while gaming,
+
+00:10:45.270 --> 00:10:49.290
+placing it squarely between
+the RTX 3090 and the 6950 XT
+
+00:10:49.290 --> 00:10:50.820
+despite the power draw.
+
+00:10:50.820 --> 00:10:53.070
+A testament to Nvidia's cooler design.
+
+00:10:53.070 --> 00:10:55.200
+Core clocks were obviously way higher
+
+00:10:55.200 --> 00:10:56.550
+than any previous gen card,
+
+00:10:56.550 --> 00:10:58.560
+and crucially they remain just as stable
+
+00:10:58.560 --> 00:11:01.980
+throughout the run of
+about 2.6 to 2.7 gigahertz.
+
+00:11:01.980 --> 00:11:04.049
+When we look again at our
+combustor results though,
+
+00:11:04.049 --> 00:11:06.660
+the hotspot temperature
+crosses the 80 degree threshold
+
+00:11:06.660 --> 00:11:08.580
+along with the RTX 3090 Ti,
+
+00:11:08.580 --> 00:11:11.520
+and we again see that slight
+dip halfway into the run.
+
+00:11:11.520 --> 00:11:14.370
+While the 3090 sits below 70 degrees.
+
+00:11:14.370 --> 00:11:16.740
+Core clocks end up significantly lower
+
+00:11:16.740 --> 00:11:19.716
+at around 2.25 gigahertz for the 4090
+
+00:11:19.716 --> 00:11:22.260
+with the 3090 Ti throttling down to below
+
+00:11:22.260 --> 00:11:24.180
+its less power hungry sibling.
+
+00:11:24.180 --> 00:11:27.180
+Our AMD card meanwhile sort
+of did a heartbeat pattern
+
+00:11:27.180 --> 00:11:28.710
+of boosting and throttling
+
+00:11:28.710 --> 00:11:31.110
+that could result in uneven performance.
+
+00:11:31.110 --> 00:11:33.750
+It's worth noting that these
+tests were performed inside
+
+00:11:33.750 --> 00:11:36.990
+of a Corsair 5,000 D Airflow
+with a 360 millimeter rad
+
+00:11:36.990 --> 00:11:40.470
+up top and 3 120 millimeter
+fans drawing air up front.
+
+00:11:40.470 --> 00:11:43.650
+So it's not like we were
+starving the cards for oxygen
+
+00:11:43.650 --> 00:11:45.990
+or feeding them hot air from the CPU.
+
+00:11:45.990 --> 00:11:48.360
+In fact, in spite of all
+the airflow we gave them,
+
+00:11:48.360 --> 00:11:52.320
+the RTX 4090 and 3090 Ti
+both caused internal case
+
+00:11:52.320 --> 00:11:56.790
+air temperatures to hit
+highs of 39 to 40 degrees,
+
+00:11:56.790 --> 00:11:59.100
+with significantly higher
+minimum internal temperatures
+
+00:11:59.100 --> 00:12:02.010
+in the RTX 3090, all at
+an ambient temperature
+
+00:12:02.010 --> 00:12:04.830
+of around 21 degrees.
+
+00:12:04.830 --> 00:12:08.970
+That means that if your case
+can just barely handle a 3090,
+
+00:12:08.970 --> 00:12:11.520
+you won't be able to manage a 4090.
+
+00:12:11.520 --> 00:12:13.772
+Sorry, small form factor aficionados,
+
+00:12:13.772 --> 00:12:16.080
+this card is not for you.
+
+00:12:16.080 --> 00:12:18.810
+After all that, you might
+look at the specs sheet
+
+00:12:18.810 --> 00:12:21.007
+and have some lingering questions like
+
+00:12:21.007 --> 00:12:24.150
+"why isn't Nvidia supporting
+PCI Express Gen 5?"
+
+00:12:24.150 --> 00:12:26.940
+and, "where's DisplayPort 2.0?"
+
+00:12:26.940 --> 00:12:28.860
+And the answer to those
+questions, both of them,
+
+00:12:28.860 --> 00:12:29.790
+whether you like it or not,
+
+00:12:29.790 --> 00:12:32.190
+is that Nvidia doesn't think you need them
+
+00:12:32.190 --> 00:12:34.233
+on a $1,600 graphics card.
+
+00:12:35.494 --> 00:12:38.070
+(sniffing) You smell that?
+
+00:12:38.070 --> 00:12:41.370
+Yeah, that's the distinct scent of copium.
+
+00:12:41.370 --> 00:12:44.310
+While it's true that a GPU
+running a whole 16 lanes
+
+00:12:44.310 --> 00:12:48.390
+of PCI Express Gen 5 probably
+won't be super useful today,
+
+00:12:48.390 --> 00:12:51.810
+a GPU running eight lanes
+of Gen 5 certainly would be,
+
+00:12:51.810 --> 00:12:55.020
+especially for those who also
+want lots of NVMe storage.
+
+00:12:55.020 --> 00:12:57.120
+A good bet for a card of its class.
+
+00:12:57.120 --> 00:12:59.130
+Remember, the faster the PCI Express link,
+
+00:12:59.130 --> 00:13:00.600
+the fewer the lanes you need
+
+00:13:00.600 --> 00:13:02.550
+for the same bandwidth requirements.
+
+00:13:02.550 --> 00:13:04.350
+Nvidia should know this.
+
+00:13:04.350 --> 00:13:06.270
+As for DisplayPort 2.0,
+
+00:13:06.270 --> 00:13:07.657
+the official line is,
+
+00:13:07.657 --> 00:13:11.430
+"DisplayPort 1.0 already
+supports 8K at 60 hertz,
+
+00:13:11.430 --> 00:13:15.030
+and the consumer displays
+won't need more for while,"
+
+00:13:15.030 --> 00:13:17.400
+which might sound fair until you realize
+
+00:13:17.400 --> 00:13:21.523
+that you are also limited
+to 120 hertz at 4K,
+
+00:13:21.523 --> 00:13:26.340
+a performance level the RTX
+4090 can exceed, as we've seen.
+
+00:13:26.340 --> 00:13:28.350
+The only way to get higher refresh rates
+
+00:13:28.350 --> 00:13:32.010
+at DisplayPort 1.4 is to
+use Chroma subsampling
+
+00:13:32.010 --> 00:13:35.820
+which is, to put it mildly,
+a suboptimal experience
+
+00:13:35.820 --> 00:13:37.410
+on such premium hardware.
+
+00:13:37.410 --> 00:13:40.498
+240 hertz 4K displays exist today
+
+00:13:40.498 --> 00:13:44.190
+and will have DisplayPort
+2.0 support soon.
+
+00:13:44.190 --> 00:13:46.800
+Arc already supports it, and
+RDNA 3 has been confirmed
+
+00:13:46.800 --> 00:13:49.140
+to support DisplayPort 2.0 since May.
+
+00:13:49.140 --> 00:13:52.410
+Nvidia is clearly trying
+to save a buck again
+
+00:13:52.410 --> 00:13:55.740
+on a GPU that costs as
+much as a Series X, a PS5,
+
+00:13:55.740 --> 00:13:58.140
+a Switch and a Steam Deck, combined.
+
+00:13:58.140 --> 00:14:01.230
+Or maybe these cards were
+just ready and waiting
+
+00:14:01.230 --> 00:14:04.050
+in a warehouse for
+longer than we realized.
+
+00:14:04.050 --> 00:14:05.700
+It's incredibly amusing to me
+
+00:14:05.700 --> 00:14:09.270
+that the first GPU that
+might actually be capable
+
+00:14:09.270 --> 00:14:13.830
+of running 8K gaming without
+asterisks is being handled
+
+00:14:13.830 --> 00:14:17.040
+in such a lackadaisical
+fashion by Team Green.
+
+00:14:17.040 --> 00:14:18.900
+The days of generational performance
+
+00:14:18.900 --> 00:14:21.690
+for dollar gains are over, they say.
+
+00:14:21.690 --> 00:14:24.750
+Moore's law is dead, they say.
+
+00:14:24.750 --> 00:14:27.660
+And yet the competition
+doesn't seem to think so.
+
+00:14:27.660 --> 00:14:29.190
+While it's true that nobody can touch
+
+00:14:29.190 --> 00:14:32.160
+the 4090's mammoth performance right now,
+
+00:14:32.160 --> 00:14:35.910
+as we saw with the RTX 3090,
+that won't last forever.
+
+00:14:35.910 --> 00:14:37.830
+And that's where things get weird.
+
+00:14:37.830 --> 00:14:42.180
+As it exists right now,
+while the RTX 4090 chugs
+
+00:14:42.180 --> 00:14:44.910
+as much power as an RTX 3090 Ti,
+
+00:14:44.910 --> 00:14:48.300
+it is a massive upgrade
+over both that card
+
+00:14:48.300 --> 00:14:51.960
+and the vanilla 3090 in
+nearly every respect,
+
+00:14:51.960 --> 00:14:54.600
+well in excess of its price increase.
+
+00:14:54.600 --> 00:14:57.660
+For content creators,
+this is a no brainer.
+
+00:14:57.660 --> 00:15:00.210
+But I cannot in good
+conscience recommend gamers
+
+00:15:00.210 --> 00:15:01.980
+with more dollars than sense go out
+
+00:15:01.980 --> 00:15:04.200
+and purchase a piece of
+hardware that is incapable
+
+00:15:04.200 --> 00:15:07.170
+of driving the also very
+expensive displays that
+
+00:15:07.170 --> 00:15:09.840
+might actually be able
+to take advantage of it,
+
+00:15:09.840 --> 00:15:13.440
+especially when a less expensive
+and less power hungry card,
+
+00:15:13.440 --> 00:15:17.613
+perhaps even Nvidia's own RTX
+4080s, can do the same thing.
+
+00:15:19.020 --> 00:15:21.120
+Just like I can tell
+you about our sponsor.
+
+00:15:21.120 --> 00:15:22.230
+- Nord Security!
+
+00:15:22.230 --> 00:15:23.610
+If you keep up with the tech news,
+
+00:15:23.610 --> 00:15:25.230
+you know that hackers are always looking
+
+00:15:25.230 --> 00:15:27.060
+for new ways to compromise everything
+
+00:15:27.060 --> 00:15:29.820
+from tech giant servers
+to grandma's computer.
+
+00:15:29.820 --> 00:15:31.950
+Thankfully Nord Security's well-rounded
+
+00:15:31.950 --> 00:15:34.680
+protection package is there
+to help protect your files,
+
+00:15:34.680 --> 00:15:37.020
+devices, and personal data online.
+
+00:15:37.020 --> 00:15:38.970
+There's NordPass, a password manager
+
+00:15:38.970 --> 00:15:40.680
+that helps you generate unique passwords
+
+00:15:40.680 --> 00:15:42.270
+across your devices and browsers.
+
+00:15:42.270 --> 00:15:43.500
+And then there's NordLocker,
+
+00:15:43.500 --> 00:15:45.840
+a powerful file encryption
+and sharing service
+
+00:15:45.840 --> 00:15:47.850
+that's a great alternative
+to Google Drive.
+
+00:15:47.850 --> 00:15:49.500
+Cyber crime is everywhere these days,
+
+00:15:49.500 --> 00:15:51.000
+so make sure you're taking precautions
+
+00:15:51.000 --> 00:15:52.320
+when you surf the web.
+
+00:15:52.320 --> 00:15:54.540
+Right now, you can get four months free
+
+00:15:54.540 --> 00:15:56.160
+on all of Nord's products.
+
+00:15:56.160 --> 00:15:57.120
+So what are you waiting for?
+
+00:15:57.120 --> 00:15:59.940
+Head to nordsecurity.com/linus,
+
+00:15:59.940 --> 00:16:01.950
+or click the link in
+the description below.
+
+00:16:01.950 --> 00:16:03.420
+- Thanks for watching guys.
+
+00:16:03.420 --> 00:16:05.820
+This is, well, I guess a
+little bit more positive
+
+00:16:05.820 --> 00:16:07.860
+and also negative than
+the Intel Arc review.
+
+00:16:07.860 --> 00:16:09.990
+Go check that review out
+as well for a little bit
+
+00:16:09.990 --> 00:16:13.200
+on the increasing
+competition in the GPU space.
+
+00:16:13.200 --> 00:16:17.313
+I think we, we all think
+that it's long overdue.
+

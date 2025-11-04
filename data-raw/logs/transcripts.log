@@ -1,0 +1,1808 @@
+2025-11-03 23:52:58,868 INFO START transcripts yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-03 23:52:58,868 INFO yt-dlp transcripts for yU8W0v79MtE
+2025-11-03 23:53:01,815 WARNING yt-dlp transcripts failed for yU8W0v79MtE (rc=1)
+2025-11-03 23:53:01,815 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = iK5j-pnkOSNAvux-4dM ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] yU8W0v79MtE: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] yU8W0v79MtE: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 23:53:01,815 INFO END transcripts yU8W0v79MtE status=error duration=2.95s
+2025-11-03 23:53:03,093 INFO START transcripts mF4S5ZaXdgE (Nvidia GTX 1060 Review - RX 480 Killer?)
+2025-11-03 23:53:03,093 INFO yt-dlp transcripts for mF4S5ZaXdgE
+2025-11-03 23:53:05,716 WARNING yt-dlp transcripts failed for mF4S5ZaXdgE (rc=1)
+2025-11-03 23:53:05,716 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = 2HuUwumj_mJN7wpYwFP ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] mF4S5ZaXdgE: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] mF4S5ZaXdgE: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 23:53:05,717 INFO END transcripts mF4S5ZaXdgE status=error duration=2.62s
+2025-11-03 23:53:07,784 INFO START transcripts UIHduhKkt3U (No Founder's Editions... What now? - Gigabyte G1 Gaming GTX 1060 (6GB) Review)
+2025-11-03 23:53:07,784 INFO yt-dlp transcripts for UIHduhKkt3U
+2025-11-03 23:53:10,620 WARNING yt-dlp transcripts failed for UIHduhKkt3U (rc=1)
+2025-11-03 23:53:10,621 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = z9h-pO6unwTtnHNooQI ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] UIHduhKkt3U: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] UIHduhKkt3U: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 23:53:10,621 INFO END transcripts UIHduhKkt3U status=error duration=2.84s
+2025-11-03 23:53:12,083 INFO START transcripts WtWIuaGsrjg (Nvidia GeForce GTX 1060 Review: Faster Than RX 480 and GTX 980?)
+2025-11-03 23:53:12,083 INFO yt-dlp transcripts for WtWIuaGsrjg
+2025-11-03 23:53:14,684 WARNING yt-dlp transcripts failed for WtWIuaGsrjg (rc=1)
+2025-11-03 23:53:14,684 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = wIceiuBI8SgynqMC7wn ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] WtWIuaGsrjg: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] WtWIuaGsrjg: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 23:53:14,685 INFO END transcripts WtWIuaGsrjg status=error duration=2.60s
+2025-11-03 23:53:17,446 INFO START transcripts Kh0aK4q7Foo (GTX 1060 Review + Benchmarks vs RX 480!)
+2025-11-03 23:53:17,446 INFO yt-dlp transcripts for Kh0aK4q7Foo
+2025-11-03 23:53:20,271 WARNING yt-dlp transcripts failed for Kh0aK4q7Foo (rc=1)
+2025-11-03 23:53:20,271 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = snAgXyk7WnZH18syE3f ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] Kh0aK4q7Foo: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] Kh0aK4q7Foo: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-03 23:53:20,271 INFO END transcripts Kh0aK4q7Foo status=error duration=2.82s
+2025-11-04 00:28:09,528 INFO START transcripts yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-04 00:28:09,529 INFO yt-dlp transcripts for yU8W0v79MtE
+2025-11-04 00:28:12,157 WARNING yt-dlp transcripts failed for yU8W0v79MtE (rc=1)
+2025-11-04 00:28:12,157 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = v32igst2bBz66BTxhqR ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] yU8W0v79MtE: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] yU8W0v79MtE: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-04 00:28:12,157 INFO END transcripts yU8W0v79MtE status=error duration=2.63s
+2025-11-04 00:28:14,346 INFO START transcripts mF4S5ZaXdgE (Nvidia GTX 1060 Review - RX 480 Killer?)
+2025-11-04 00:28:14,346 INFO yt-dlp transcripts for mF4S5ZaXdgE
+2025-11-04 00:28:16,545 WARNING yt-dlp transcripts failed for mF4S5ZaXdgE (rc=1)
+2025-11-04 00:28:16,545 WARNING WARNING: [youtube] mF4S5ZaXdgE: Some tv client https formats have been skipped as they are missing a url. YouTube may have enabled the SABR-only or Server-Side Ad Placement experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] mF4S5ZaXdgE: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] mF4S5ZaXdgE: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-04 00:28:16,546 INFO END transcripts mF4S5ZaXdgE status=error duration=2.20s
+2025-11-04 00:28:19,546 INFO START transcripts UIHduhKkt3U (No Founder's Editions... What now? - Gigabyte G1 Gaming GTX 1060 (6GB) Review)
+2025-11-04 00:28:19,546 INFO yt-dlp transcripts for UIHduhKkt3U
+2025-11-04 00:28:22,143 WARNING yt-dlp transcripts failed for UIHduhKkt3U (rc=1)
+2025-11-04 00:28:22,143 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = KAV_t1W9Q_H4NyTodZT ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] UIHduhKkt3U: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] UIHduhKkt3U: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-04 00:28:22,144 INFO END transcripts UIHduhKkt3U status=error duration=2.60s
+2025-11-04 00:28:24,064 INFO START transcripts WtWIuaGsrjg (Nvidia GeForce GTX 1060 Review: Faster Than RX 480 and GTX 980?)
+2025-11-04 00:28:24,064 INFO yt-dlp transcripts for WtWIuaGsrjg
+2025-11-04 00:28:26,482 WARNING yt-dlp transcripts failed for WtWIuaGsrjg (rc=1)
+2025-11-04 00:28:26,483 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = Ekhylq_RJGuZ56V4olt ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] WtWIuaGsrjg: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] WtWIuaGsrjg: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-04 00:28:26,483 INFO END transcripts WtWIuaGsrjg status=error duration=2.42s
+2025-11-04 00:28:27,581 INFO START transcripts Kh0aK4q7Foo (GTX 1060 Review + Benchmarks vs RX 480!)
+2025-11-04 00:28:27,581 INFO yt-dlp transcripts for Kh0aK4q7Foo
+2025-11-04 00:28:30,249 WARNING yt-dlp transcripts failed for Kh0aK4q7Foo (rc=1)
+2025-11-04 00:28:30,250 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = hz6AjzQqq6L1DMEuPu4 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] Kh0aK4q7Foo: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: [youtube] Kh0aK4q7Foo: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'ab': HTTP Error 429: Too Many Requests
+2025-11-04 00:28:30,250 INFO END transcripts Kh0aK4q7Foo status=error duration=2.67s
+2025-11-04 00:28:30,264 INFO Summary: total=5, transcripts_ok=0, transcripts_none=0, transcripts_error=5
+2025-11-04 00:28:30,264 ERROR SMOKE TEST FAIL
+2025-11-04 00:28:30,265 ERROR  - No transcript files were created.
+2025-11-04 00:28:30,265 ERROR  - Manifest lacks transcript status rows (ok/none).
+2025-11-04 00:34:08,861 INFO START transcripts yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-04 00:34:08,862 INFO yt-dlp transcripts attempt 1 for yU8W0v79MtE
+2025-11-04 00:34:11,295 WARNING yt-dlp hit rate limit for yU8W0v79MtE (attempt 1)
+2025-11-04 00:34:11,296 INFO Sleeping 5s before retrying yU8W0v79MtE
+2025-11-04 00:34:16,304 INFO yt-dlp transcripts attempt 2 for yU8W0v79MtE
+2025-11-04 00:34:19,164 WARNING yt-dlp hit rate limit for yU8W0v79MtE (attempt 2)
+2025-11-04 00:34:19,164 INFO Sleeping 15s before retrying yU8W0v79MtE
+2025-11-04 00:34:34,179 INFO yt-dlp transcripts attempt 3 for yU8W0v79MtE
+2025-11-04 00:34:36,730 WARNING yt-dlp hit rate limit for yU8W0v79MtE (attempt 3)
+2025-11-04 00:34:36,731 WARNING yt-dlp transcripts exhausted retries for yU8W0v79MtE
+2025-11-04 00:34:36,731 INFO END transcripts yU8W0v79MtE status=error duration=27.87s
+2025-11-04 00:34:36,743 INFO Summary: total=1, transcripts_ok=0, transcripts_none=0, transcripts_error=1
+2025-11-04 00:34:36,743 ERROR SMOKE TEST FAIL
+2025-11-04 00:34:36,743 ERROR  - No transcript files were created.
+2025-11-04 00:34:36,744 ERROR  - Manifest lacks transcript status rows (ok/none).
+2025-11-04 00:38:44,507 INFO START transcripts yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-04 00:38:44,509 INFO yt-dlp transcripts attempt 1 for yU8W0v79MtE
+2025-11-04 00:38:47,028 WARNING yt-dlp transcripts failed for yU8W0v79MtE (attempt 1 rc=1)
+2025-11-04 00:38:47,028 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = s9bNUOneeV0wZYZ5O02 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = EMR2IY_FjIx3F5ZIJ11 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = 8grfk2YdgfZz8AJ2JV3 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:38:47,028 INFO Sleeping 5s before retrying yU8W0v79MtE
+2025-11-04 00:38:52,029 INFO yt-dlp transcripts attempt 2 for yU8W0v79MtE
+2025-11-04 00:38:54,643 WARNING yt-dlp transcripts failed for yU8W0v79MtE (attempt 2 rc=1)
+2025-11-04 00:38:54,643 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = T-Tb99rlTXA4o4jB4_t ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = zbIzc_jrP5WVnZD_k-5 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = JYK6iT9dLArCBn7Rb8D ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:38:54,643 INFO Sleeping 15s before retrying yU8W0v79MtE
+2025-11-04 00:39:09,645 INFO yt-dlp transcripts attempt 3 for yU8W0v79MtE
+2025-11-04 00:39:11,471 WARNING yt-dlp transcripts failed for yU8W0v79MtE (attempt 3 rc=1)
+2025-11-04 00:39:11,472 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] yU8W0v79MtE: nsig extraction failed: Some formats may be missing
+         n = -Q6BlOkkELWeZg0bMNO ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:39:11,472 INFO Final fallback: auto-subs only for yU8W0v79MtE
+2025-11-04 00:39:13,900 WARNING yt-dlp transcripts exhausted retries for yU8W0v79MtE
+2025-11-04 00:39:13,900 INFO END transcripts yU8W0v79MtE status=error duration=29.39s
+2025-11-04 00:39:56,301 INFO START transcripts yU8W0v79MtE (GTX 1060 Benchmarks and Review: Nvidia Strikes Back)
+2025-11-04 00:39:56,302 INFO yt-dlp transcripts attempt 1 for yU8W0v79MtE
+2025-11-04 00:39:59,094 INFO yt-dlp transcripts succeeded for yU8W0v79MtE on attempt 1
+2025-11-04 00:39:59,095 INFO END transcripts yU8W0v79MtE status=ok duration=2.79s
+2025-11-04 00:39:59,108 INFO Summary: total=1, transcripts_ok=1, transcripts_none=0, transcripts_error=0
+2025-11-04 00:39:59,108 INFO SMOKE TEST PASS
+2025-11-04 00:40:48,028 INFO START transcripts mF4S5ZaXdgE (Nvidia GTX 1060 Review - RX 480 Killer?)
+2025-11-04 00:40:48,029 INFO yt-dlp transcripts attempt 1 for mF4S5ZaXdgE
+2025-11-04 00:40:50,525 WARNING yt-dlp transcripts failed for mF4S5ZaXdgE (attempt 1 rc=1)
+2025-11-04 00:40:50,526 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = cWwclNUoOuXlbBFRq0j ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = 6--apS-EhLQui4-BMPD ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = EKaUO_w7lCqJiTBXvsp ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:40:50,526 INFO Sleeping 5s before retrying mF4S5ZaXdgE
+2025-11-04 00:40:55,527 INFO yt-dlp transcripts attempt 2 for mF4S5ZaXdgE
+2025-11-04 00:40:58,013 WARNING yt-dlp transcripts failed for mF4S5ZaXdgE (attempt 2 rc=1)
+2025-11-04 00:40:58,013 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = SAlq0SLOtthZS14EY5- ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = 7i6XZCAs-S1rMEPqifp ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = gREBj402Q0829nTGOkP ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:40:58,015 INFO Sleeping 15s before retrying mF4S5ZaXdgE
+2025-11-04 00:41:13,015 INFO yt-dlp transcripts attempt 3 for mF4S5ZaXdgE
+2025-11-04 00:41:15,529 WARNING yt-dlp transcripts failed for mF4S5ZaXdgE (attempt 3 rc=1)
+2025-11-04 00:41:15,529 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = qTI6Ur2vYgVLyJUFmuP ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = L-pB1ppP5Rs1vbXGXU3 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] mF4S5ZaXdgE: nsig extraction failed: Some formats may be missing
+         n = HPzpIyr2uxr34vAwr7e ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:41:15,529 INFO Final fallback: auto-subs only for mF4S5ZaXdgE
+2025-11-04 00:41:17,883 WARNING yt-dlp transcripts exhausted retries for mF4S5ZaXdgE
+2025-11-04 00:41:17,883 INFO END transcripts mF4S5ZaXdgE status=error duration=29.85s
+2025-11-04 00:41:25,045 INFO START transcripts UIHduhKkt3U (No Founder's Editions... What now? - Gigabyte G1 Gaming GTX 1060 (6GB) Review)
+2025-11-04 00:41:25,045 INFO yt-dlp transcripts attempt 1 for UIHduhKkt3U
+2025-11-04 00:41:27,501 WARNING yt-dlp transcripts failed for UIHduhKkt3U (attempt 1 rc=1)
+2025-11-04 00:41:27,501 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = _lS8OpnutSIYP5sAKAI ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = QXhWAu2BhF0OwqsFJaU ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = ImKn9JFceAGQyJDpoS7 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:41:27,501 INFO Sleeping 5s before retrying UIHduhKkt3U
+2025-11-04 00:41:32,502 INFO yt-dlp transcripts attempt 2 for UIHduhKkt3U
+2025-11-04 00:41:34,847 WARNING yt-dlp transcripts failed for UIHduhKkt3U (attempt 2 rc=1)
+2025-11-04 00:41:34,847 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = YnSMI-LLGefHoKdlx00 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = ALNjVc12ca39IFTCdTL ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = y3EIurOtC_uW0zc9CPZ ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:41:34,847 INFO Sleeping 15s before retrying UIHduhKkt3U
+2025-11-04 00:41:49,848 INFO yt-dlp transcripts attempt 3 for UIHduhKkt3U
+2025-11-04 00:41:52,185 WARNING yt-dlp transcripts failed for UIHduhKkt3U (attempt 3 rc=1)
+2025-11-04 00:41:52,185 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = oOZdbn1URPZ5vQTpfnI ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = WPjS6N_gGSbg4z647di ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] UIHduhKkt3U: nsig extraction failed: Some formats may be missing
+         n = 7LwtFtG6JVqhbW298wI ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:41:52,185 INFO Final fallback: auto-subs only for UIHduhKkt3U
+2025-11-04 00:41:54,434 WARNING yt-dlp transcripts exhausted retries for UIHduhKkt3U
+2025-11-04 00:41:54,434 INFO END transcripts UIHduhKkt3U status=error duration=29.39s
+2025-11-04 00:42:03,161 INFO START transcripts WtWIuaGsrjg (Nvidia GeForce GTX 1060 Review: Faster Than RX 480 and GTX 980?)
+2025-11-04 00:42:03,161 INFO yt-dlp transcripts attempt 1 for WtWIuaGsrjg
+2025-11-04 00:42:05,447 WARNING yt-dlp transcripts failed for WtWIuaGsrjg (attempt 1 rc=1)
+2025-11-04 00:42:05,447 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = lnRD3Fcp8SMrJCmW66y ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = uAw-wW7GVczr6iJdmYG ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = zU_JfQxkzgejgv08CR4 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:42:05,447 INFO Sleeping 5s before retrying WtWIuaGsrjg
+2025-11-04 00:42:10,448 INFO yt-dlp transcripts attempt 2 for WtWIuaGsrjg
+2025-11-04 00:42:12,160 WARNING yt-dlp transcripts failed for WtWIuaGsrjg (attempt 2 rc=1)
+2025-11-04 00:42:12,160 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = j207FmSfXWb-hVfl5VU ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:42:12,160 INFO Sleeping 15s before retrying WtWIuaGsrjg
+2025-11-04 00:42:27,161 INFO yt-dlp transcripts attempt 3 for WtWIuaGsrjg
+2025-11-04 00:42:29,547 WARNING yt-dlp transcripts failed for WtWIuaGsrjg (attempt 3 rc=1)
+2025-11-04 00:42:29,547 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = AiQUwJ-nv09jrcyxNGB ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = 0r7Ge0auGwvd1yJw3eH ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] WtWIuaGsrjg: nsig extraction failed: Some formats may be missing
+         n = vqIT69lebj9nv5533GA ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:42:29,547 INFO Final fallback: auto-subs only for WtWIuaGsrjg
+2025-11-04 00:42:31,894 WARNING yt-dlp transcripts exhausted retries for WtWIuaGsrjg
+2025-11-04 00:42:31,894 INFO END transcripts WtWIuaGsrjg status=error duration=28.73s
+2025-11-04 00:42:38,724 INFO START transcripts Kh0aK4q7Foo (GTX 1060 Review + Benchmarks vs RX 480!)
+2025-11-04 00:42:38,724 INFO yt-dlp transcripts attempt 1 for Kh0aK4q7Foo
+2025-11-04 00:42:41,128 WARNING yt-dlp transcripts failed for Kh0aK4q7Foo (attempt 1 rc=1)
+2025-11-04 00:42:41,128 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = sgwESU8vAbD3zlvDOTe ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = UgfhMzUbKeQoOSytJl8 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = Y30p__h5wbcSCx04SO_ ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:42:41,128 INFO Sleeping 5s before retrying Kh0aK4q7Foo
+2025-11-04 00:42:46,129 INFO yt-dlp transcripts attempt 2 for Kh0aK4q7Foo
+2025-11-04 00:42:48,505 WARNING yt-dlp transcripts failed for Kh0aK4q7Foo (attempt 2 rc=1)
+2025-11-04 00:42:48,505 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = SrCOdNgqYAy6sg3usfK ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = BqGPKYHERTBJIwb8FWR ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = vns-SO4O4MSg-NV53jl ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:42:48,505 INFO Sleeping 15s before retrying Kh0aK4q7Foo
+2025-11-04 00:43:03,506 INFO yt-dlp transcripts attempt 3 for Kh0aK4q7Foo
+2025-11-04 00:43:05,835 WARNING yt-dlp transcripts failed for Kh0aK4q7Foo (attempt 3 rc=1)
+2025-11-04 00:43:05,836 WARNING WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = oznTwnYl2nbzrIR6o0t ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = 9VvBbVxY8yv4hSpR6Pd ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+WARNING: [youtube] Kh0aK4q7Foo: nsig extraction failed: Some formats may be missing
+         n = GMLsvPLnD227GkCoiX9 ; player = https://www.youtube.com/s/player/e237d4c5/player_ias.vflset/en_US/base.js
+
+
+ERROR: Did not get any data blocks
+2025-11-04 00:43:05,836 INFO Final fallback: auto-subs only for Kh0aK4q7Foo
+2025-11-04 00:43:08,145 WARNING yt-dlp transcripts exhausted retries for Kh0aK4q7Foo
+2025-11-04 00:43:08,145 INFO END transcripts Kh0aK4q7Foo status=error duration=29.42s
+2025-11-04 00:51:56,988 INFO START transcripts mF4S5ZaXdgE (Nvidia GTX 1060 Review - RX 480 Killer?)
+2025-11-04 00:51:56,988 INFO yt-dlp transcripts attempt 1 for mF4S5ZaXdgE
+2025-11-04 00:51:59,301 INFO yt-dlp transcripts succeeded for mF4S5ZaXdgE on attempt 1
+2025-11-04 00:51:59,302 INFO END transcripts mF4S5ZaXdgE status=ok duration=2.31s
+2025-11-04 00:52:07,360 INFO START transcripts UIHduhKkt3U (No Founder's Editions... What now? - Gigabyte G1 Gaming GTX 1060 (6GB) Review)
+2025-11-04 00:52:07,360 INFO yt-dlp transcripts attempt 1 for UIHduhKkt3U
+2025-11-04 00:52:09,383 INFO yt-dlp transcripts succeeded for UIHduhKkt3U on attempt 1
+2025-11-04 00:52:09,384 INFO END transcripts UIHduhKkt3U status=ok duration=2.02s
+2025-11-04 00:52:17,212 INFO START transcripts WtWIuaGsrjg (Nvidia GeForce GTX 1060 Review: Faster Than RX 480 and GTX 980?)
+2025-11-04 00:52:17,212 INFO yt-dlp transcripts attempt 1 for WtWIuaGsrjg
+2025-11-04 00:52:19,527 INFO yt-dlp transcripts succeeded for WtWIuaGsrjg on attempt 1
+2025-11-04 00:52:19,527 INFO END transcripts WtWIuaGsrjg status=ok duration=2.32s
+2025-11-04 00:52:25,775 INFO START transcripts Kh0aK4q7Foo (GTX 1060 Review + Benchmarks vs RX 480!)
+2025-11-04 00:52:25,775 INFO yt-dlp transcripts attempt 1 for Kh0aK4q7Foo
+2025-11-04 00:52:28,148 INFO yt-dlp transcripts succeeded for Kh0aK4q7Foo on attempt 1
+2025-11-04 00:52:28,149 INFO END transcripts Kh0aK4q7Foo status=ok duration=2.37s
+2025-11-04 00:52:28,162 INFO Summary: total=4, transcripts_ok=4, transcripts_none=0, transcripts_error=0
+2025-11-04 00:52:28,163 INFO SMOKE TEST PASS
+2025-11-04 00:55:02,817 INFO No manifest rows need transcripts (use --force to re-download).
+2025-11-04 12:39:52,196 INFO START transcripts 697Fzb5ircM (EVGA GTX 1070 SC Review & Overclocking Benchmarks)
+2025-11-04 12:39:52,196 INFO yt-dlp transcripts attempt 1 for 697Fzb5ircM
+2025-11-04 12:39:55,044 INFO yt-dlp transcripts succeeded for 697Fzb5ircM on attempt 1
+2025-11-04 12:39:55,045 INFO END transcripts 697Fzb5ircM status=ok duration=2.85s
+2025-11-04 12:40:04,927 INFO START transcripts rfisvPuu8QU (MSI GTX 1070 GAMING X/Z Review - How GOOD is it??)
+2025-11-04 12:40:04,927 INFO yt-dlp transcripts attempt 1 for rfisvPuu8QU
+2025-11-04 12:40:07,441 INFO yt-dlp transcripts succeeded for rfisvPuu8QU on attempt 1
+2025-11-04 12:40:07,442 INFO END transcripts rfisvPuu8QU status=ok duration=2.51s
+2025-11-04 12:40:13,482 INFO START transcripts 4yq7VVW76VY (NVIDIA GeForce GTX 1070 Review vs. 1080, 970, 390X)
+2025-11-04 12:40:13,482 INFO yt-dlp transcripts attempt 1 for 4yq7VVW76VY
+2025-11-04 12:40:16,159 INFO yt-dlp transcripts succeeded for 4yq7VVW76VY on attempt 1
+2025-11-04 12:40:16,160 INFO END transcripts 4yq7VVW76VY status=ok duration=2.68s
+2025-11-04 12:40:25,162 INFO START transcripts epHr7Z_6nLo (Nvidia GeForce GTX 1070 Review: Can It Really Match Titan X?)
+2025-11-04 12:40:25,163 INFO yt-dlp transcripts attempt 1 for epHr7Z_6nLo
+2025-11-04 12:40:28,032 INFO yt-dlp transcripts succeeded for epHr7Z_6nLo on attempt 1
+2025-11-04 12:40:28,032 INFO END transcripts epHr7Z_6nLo status=ok duration=2.87s
+2025-11-04 12:40:36,600 INFO START transcripts rkiZdSBux9E (Nvidia GTX 1070 Performance Review - The new 1440p sweet spot?)
+2025-11-04 12:40:36,600 INFO yt-dlp transcripts attempt 1 for rkiZdSBux9E
+2025-11-04 12:40:39,140 INFO yt-dlp transcripts succeeded for rkiZdSBux9E on attempt 1
+2025-11-04 12:40:39,141 INFO END transcripts rkiZdSBux9E status=ok duration=2.54s
+2025-11-04 12:40:48,744 INFO START transcripts ZdfAo9p9Q2k (GTX 1080 Founders Edition Review & Benchmark)
+2025-11-04 12:40:48,744 INFO yt-dlp transcripts attempt 1 for ZdfAo9p9Q2k
+2025-11-04 12:40:51,499 INFO yt-dlp transcripts succeeded for ZdfAo9p9Q2k on attempt 1
+2025-11-04 12:40:51,501 INFO END transcripts ZdfAo9p9Q2k status=ok duration=2.76s
+2025-11-04 12:40:57,851 INFO START transcripts 2-61Zn4Sb8Q (Nvidia GTX 1080 Performance Review - The New King)
+2025-11-04 12:40:57,852 INFO yt-dlp transcripts attempt 1 for 2-61Zn4Sb8Q
+2025-11-04 12:41:00,712 INFO yt-dlp transcripts succeeded for 2-61Zn4Sb8Q on attempt 1
+2025-11-04 12:41:00,713 INFO END transcripts 2-61Zn4Sb8Q status=ok duration=2.86s
+2025-11-04 12:41:09,064 INFO START transcripts -ZG54Da2pMM (Nvidia GeForce GTX 1080 Review: The New GPU King)
+2025-11-04 12:41:09,064 INFO yt-dlp transcripts attempt 1 for -ZG54Da2pMM
+2025-11-04 12:41:11,470 INFO yt-dlp transcripts succeeded for -ZG54Da2pMM on attempt 1
+2025-11-04 12:41:11,472 INFO END transcripts -ZG54Da2pMM status=ok duration=2.41s
+2025-11-04 12:41:18,917 INFO START transcripts UVlT_VFI0VU (ASUS GTX 1080 Strix Review - "I wanna go fast!")
+2025-11-04 12:41:18,917 INFO yt-dlp transcripts attempt 1 for UVlT_VFI0VU
+2025-11-04 12:41:21,729 INFO yt-dlp transcripts succeeded for UVlT_VFI0VU on attempt 1
+2025-11-04 12:41:21,730 INFO END transcripts UVlT_VFI0VU status=ok duration=2.81s
+2025-11-04 12:41:28,389 INFO START transcripts ilArkYmDYEI (GIGABYTE G1 GAMING - GTX 1080 Review)
+2025-11-04 12:41:28,390 INFO yt-dlp transcripts attempt 1 for ilArkYmDYEI
+2025-11-04 12:41:31,314 INFO yt-dlp transcripts succeeded for ilArkYmDYEI on attempt 1
+2025-11-04 12:41:31,315 INFO END transcripts ilArkYmDYEI status=ok duration=2.93s
+2025-11-04 12:41:39,841 INFO Extended cooldown 74.6s after 10 videos
+2025-11-04 12:42:54,493 INFO START transcripts BipVR5-YM_Y (NVidia GTX 1080 Ti Founders Edition Review & Thermal Analysis)
+2025-11-04 12:42:54,493 INFO yt-dlp transcripts attempt 1 for BipVR5-YM_Y
+2025-11-04 12:42:57,324 INFO yt-dlp transcripts succeeded for BipVR5-YM_Y on attempt 1
+2025-11-04 12:42:57,325 INFO END transcripts BipVR5-YM_Y status=ok duration=2.83s
+2025-11-04 12:43:07,062 INFO START transcripts D5r7151k2S0 (Nvidia GeForce GTX 1080 Ti Review [20 games tested @ 1080p, 1440p & 4K])
+2025-11-04 12:43:07,063 INFO yt-dlp transcripts attempt 1 for D5r7151k2S0
+2025-11-04 12:43:10,002 INFO yt-dlp transcripts succeeded for D5r7151k2S0 on attempt 1
+2025-11-04 12:43:10,003 INFO END transcripts D5r7151k2S0 status=ok duration=2.94s
+2025-11-04 12:43:18,152 INFO START transcripts cmjnT0wmCBo (GTX 1080 Ti Review! The Best GPU for 4K 60fps Gaming!)
+2025-11-04 12:43:18,153 INFO yt-dlp transcripts attempt 1 for cmjnT0wmCBo
+2025-11-04 12:43:20,907 INFO yt-dlp transcripts succeeded for cmjnT0wmCBo on attempt 1
+2025-11-04 12:43:20,923 INFO END transcripts cmjnT0wmCBo status=ok duration=2.77s
+2025-11-04 12:43:29,580 INFO START transcripts ghT7G_9xyDU (The Greatest GPU of All Time: NVIDIA GTX 1080 Ti & GTX 1080 2024 Revisit & History)
+2025-11-04 12:43:29,581 INFO yt-dlp transcripts attempt 1 for ghT7G_9xyDU
+2025-11-04 12:43:32,633 INFO yt-dlp transcripts succeeded for ghT7G_9xyDU on attempt 1
+2025-11-04 12:43:32,634 INFO END transcripts ghT7G_9xyDU status=ok duration=3.05s
+2025-11-04 12:43:41,418 INFO START transcripts L34ZkAF9q9w (GTX 1080 Ti Review - AMAZING)
+2025-11-04 12:43:41,418 INFO yt-dlp transcripts attempt 1 for L34ZkAF9q9w
+2025-11-04 12:43:44,144 INFO yt-dlp transcripts succeeded for L34ZkAF9q9w on attempt 1
+2025-11-04 12:43:44,145 INFO END transcripts L34ZkAF9q9w status=ok duration=2.73s
+2025-11-04 12:43:52,193 INFO START transcripts 9mxjV3cuB-c (Nvidia GeForce RTX 2060 Review: Ray Tracing For The Masses?)
+2025-11-04 12:43:52,193 INFO yt-dlp transcripts attempt 1 for 9mxjV3cuB-c
+2025-11-04 12:43:55,085 INFO yt-dlp transcripts succeeded for 9mxjV3cuB-c on attempt 1
+2025-11-04 12:43:55,086 INFO END transcripts 9mxjV3cuB-c status=ok duration=2.89s
+2025-11-04 12:44:01,238 INFO START transcripts KPGYC6ndZZU (RTX 2060 Review - Finally A Reason to Buy RTX?)
+2025-11-04 12:44:01,238 INFO yt-dlp transcripts attempt 1 for KPGYC6ndZZU
+2025-11-04 12:44:04,221 INFO yt-dlp transcripts succeeded for KPGYC6ndZZU on attempt 1
+2025-11-04 12:44:04,222 INFO END transcripts KPGYC6ndZZU status=ok duration=2.98s
+2025-11-04 12:44:11,206 INFO START transcripts b4Kfrc3kk_c (NVIDIA RTX 2060 6GB Review: Overclocking, Ray-Tracing, Thermals)
+2025-11-04 12:44:11,206 INFO yt-dlp transcripts attempt 1 for b4Kfrc3kk_c
+2025-11-04 12:44:14,246 INFO yt-dlp transcripts succeeded for b4Kfrc3kk_c on attempt 1
+2025-11-04 12:44:14,247 INFO END transcripts b4Kfrc3kk_c status=ok duration=3.04s
+2025-11-04 12:44:22,458 INFO START transcripts fCTieiaSMYA (Why would you even…? - Nvidia GeForce RTX 2060 Review)
+2025-11-04 12:44:22,458 INFO yt-dlp transcripts attempt 1 for fCTieiaSMYA
+2025-11-04 12:44:25,181 INFO yt-dlp transcripts succeeded for fCTieiaSMYA on attempt 1
+2025-11-04 12:44:25,182 INFO END transcripts fCTieiaSMYA status=ok duration=2.72s
+2025-11-04 12:44:33,078 INFO START transcripts otvIXprL2LU (RTX 2060 Review, Did Nvidia Screw Us? The Possible End of Our GeForce Day One Coverage)
+2025-11-04 12:44:33,078 INFO yt-dlp transcripts attempt 1 for otvIXprL2LU
+2025-11-04 12:44:35,891 INFO yt-dlp transcripts succeeded for otvIXprL2LU on attempt 1
+2025-11-04 12:44:35,892 INFO END transcripts otvIXprL2LU status=ok duration=2.81s
+2025-11-04 12:44:42,711 INFO Extended cooldown 97.0s after 20 videos
+2025-11-04 12:46:19,672 INFO START transcripts dGpzf0uHuCc (Nvidia GeForce RTX 2070 Super & 2060 Super Review)
+2025-11-04 12:46:19,672 INFO yt-dlp transcripts attempt 1 for dGpzf0uHuCc
+2025-11-04 12:46:22,498 INFO yt-dlp transcripts succeeded for dGpzf0uHuCc on attempt 1
+2025-11-04 12:46:22,499 INFO END transcripts dGpzf0uHuCc status=ok duration=2.83s
+2025-11-04 12:46:31,950 INFO START transcripts a5-vCnUC7bM (NVIDIA RTX 2070 Super & 2060 Super Review: Killing Radeon VII)
+2025-11-04 12:46:31,950 INFO yt-dlp transcripts attempt 1 for a5-vCnUC7bM
+2025-11-04 12:46:35,130 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 1)
+2025-11-04 12:46:35,130 INFO Sleeping 5s before retrying a5-vCnUC7bM
+2025-11-04 12:46:40,144 INFO yt-dlp transcripts attempt 2 for a5-vCnUC7bM
+2025-11-04 12:46:43,030 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 2)
+2025-11-04 12:46:43,030 INFO Sleeping 15s before retrying a5-vCnUC7bM
+2025-11-04 12:46:58,036 INFO yt-dlp transcripts attempt 3 for a5-vCnUC7bM
+2025-11-04 12:47:00,966 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 3)
+2025-11-04 12:47:00,966 INFO Final fallback: auto-subs only for a5-vCnUC7bM
+2025-11-04 12:47:03,806 WARNING yt-dlp transcripts exhausted retries for a5-vCnUC7bM
+2025-11-04 12:47:03,806 INFO END transcripts a5-vCnUC7bM status=error duration=31.86s
+2025-11-04 12:47:12,324 INFO START transcripts hCSTAEG-_uI (Trouble For RX 5700? RTX 2060 Super & RTX 2070 Super Review)
+2025-11-04 12:47:12,324 INFO yt-dlp transcripts attempt 1 for hCSTAEG-_uI
+2025-11-04 12:47:15,178 INFO yt-dlp transcripts succeeded for hCSTAEG-_uI on attempt 1
+2025-11-04 12:47:15,179 INFO END transcripts hCSTAEG-_uI status=ok duration=2.86s
+2025-11-04 12:47:23,577 INFO START transcripts 5CbqEKWGblE (Buy THIS Instead - RTX 2070 Review)
+2025-11-04 12:47:23,577 INFO yt-dlp transcripts attempt 1 for 5CbqEKWGblE
+2025-11-04 12:47:26,286 INFO yt-dlp transcripts succeeded for 5CbqEKWGblE on attempt 1
+2025-11-04 12:47:26,287 INFO END transcripts 5CbqEKWGblE status=ok duration=2.71s
+2025-11-04 12:47:32,854 INFO START transcripts RAcsxZfROY8 (GeForce RTX 2070 Review, 20 Game Benchmark Breakdown)
+2025-11-04 12:47:32,854 INFO yt-dlp transcripts attempt 1 for RAcsxZfROY8
+2025-11-04 12:47:35,599 INFO yt-dlp transcripts succeeded for RAcsxZfROY8 on attempt 1
+2025-11-04 12:47:35,600 INFO END transcripts RAcsxZfROY8 status=ok duration=2.75s
+2025-11-04 12:47:43,637 INFO START transcripts FPombfzp7qw (EVGA RTX 2070 Review & Overclocking vs. GTX 970, 1070, & More)
+2025-11-04 12:47:43,637 INFO yt-dlp transcripts attempt 1 for FPombfzp7qw
+2025-11-04 12:47:46,275 INFO yt-dlp transcripts succeeded for FPombfzp7qw on attempt 1
+2025-11-04 12:47:46,277 INFO END transcripts FPombfzp7qw status=ok duration=2.64s
+2025-11-04 12:47:52,913 INFO START transcripts vMQK1YIbA7g (Nvidia GeForce RTX 2070 Review: The Digital Foundry Verdict)
+2025-11-04 12:47:52,913 INFO yt-dlp transcripts attempt 1 for vMQK1YIbA7g
+2025-11-04 12:47:55,488 INFO yt-dlp transcripts succeeded for vMQK1YIbA7g on attempt 1
+2025-11-04 12:47:55,490 INFO END transcripts vMQK1YIbA7g status=ok duration=2.58s
+2025-11-04 12:48:02,534 INFO START transcripts isdJJUmpNJ4 (NVIDIA RTX 2070 Review - One MESSED UP Launch!)
+2025-11-04 12:48:02,535 INFO yt-dlp transcripts attempt 1 for isdJJUmpNJ4
+2025-11-04 12:48:05,896 INFO yt-dlp transcripts succeeded for isdJJUmpNJ4 on attempt 1
+2025-11-04 12:48:05,896 INFO END transcripts isdJJUmpNJ4 status=ok duration=3.36s
+2025-11-04 12:48:13,850 INFO START transcripts bnEPBcCkM2Y (Nvidia’s New SUPER Cards! - RTX 2060 & 2070 SUPER Review)
+2025-11-04 12:48:13,850 INFO yt-dlp transcripts attempt 1 for bnEPBcCkM2Y
+2025-11-04 12:48:16,505 INFO yt-dlp transcripts succeeded for bnEPBcCkM2Y on attempt 1
+2025-11-04 12:48:16,505 INFO END transcripts bnEPBcCkM2Y status=none duration=2.66s
+2025-11-04 12:48:22,652 INFO START transcripts 9QSo2WH6Lm4 (PNY RTX 2070 Super Review - TechteamGB)
+2025-11-04 12:48:22,652 INFO yt-dlp transcripts attempt 1 for 9QSo2WH6Lm4
+2025-11-04 12:48:25,362 INFO yt-dlp transcripts succeeded for 9QSo2WH6Lm4 on attempt 1
+2025-11-04 12:48:25,363 INFO END transcripts 9QSo2WH6Lm4 status=ok duration=2.71s
+2025-11-04 12:48:34,395 INFO Extended cooldown 63.8s after 30 videos
+2025-11-04 12:49:38,172 INFO START transcripts qKzVZhfCkDU (We Need to Talk About the RTX 2070 Super)
+2025-11-04 12:49:38,173 INFO yt-dlp transcripts attempt 1 for qKzVZhfCkDU
+2025-11-04 12:49:41,284 INFO yt-dlp transcripts succeeded for qKzVZhfCkDU on attempt 1
+2025-11-04 12:49:41,285 INFO END transcripts qKzVZhfCkDU status=ok duration=3.11s
+2025-11-04 12:49:47,776 INFO START transcripts o1DoG6uTYBg (This Seems Rushed... - GeForce RTX Review)
+2025-11-04 12:49:47,776 INFO yt-dlp transcripts attempt 1 for o1DoG6uTYBg
+2025-11-04 12:49:50,331 INFO yt-dlp transcripts succeeded for o1DoG6uTYBg on attempt 1
+2025-11-04 12:49:50,331 INFO END transcripts o1DoG6uTYBg status=ok duration=2.55s
+2025-11-04 12:49:59,102 INFO START transcripts jUM_eINGUl4 (RTX 2080 Founders Edition Review, Overclocking, & Benchmarks)
+2025-11-04 12:49:59,102 INFO yt-dlp transcripts attempt 1 for jUM_eINGUl4
+2025-11-04 12:50:01,776 INFO yt-dlp transcripts succeeded for jUM_eINGUl4 on attempt 1
+2025-11-04 12:50:01,777 INFO END transcripts jUM_eINGUl4 status=ok duration=2.68s
+2025-11-04 12:50:09,688 INFO START transcripts cxuoDyjemdA (Nvidia GeForce RTX 2080 Super Review, We Miss The 1080 Ti)
+2025-11-04 12:50:09,688 INFO yt-dlp transcripts attempt 1 for cxuoDyjemdA
+2025-11-04 12:50:12,241 INFO yt-dlp transcripts succeeded for cxuoDyjemdA on attempt 1
+2025-11-04 12:50:12,242 INFO END transcripts cxuoDyjemdA status=ok duration=2.55s
+2025-11-04 12:50:21,355 INFO START transcripts lVfhtALejUQ (Too Good for Turing - MSI's RTX 2080 Gaming X Trio Tested!)
+2025-11-04 12:50:21,355 INFO yt-dlp transcripts attempt 1 for lVfhtALejUQ
+2025-11-04 12:50:24,185 INFO yt-dlp transcripts succeeded for lVfhtALejUQ on attempt 1
+2025-11-04 12:50:24,186 INFO END transcripts lVfhtALejUQ status=ok duration=2.83s
+2025-11-04 12:50:32,765 INFO START transcripts Ny4ksthFzpk (Nvidia's RTX 2080 Series Review Breakdown)
+2025-11-04 12:50:32,765 INFO yt-dlp transcripts attempt 1 for Ny4ksthFzpk
+2025-11-04 12:50:35,713 INFO yt-dlp transcripts succeeded for Ny4ksthFzpk on attempt 1
+2025-11-04 12:50:35,715 INFO END transcripts Ny4ksthFzpk status=ok duration=2.95s
+2025-11-04 12:50:42,795 INFO START transcripts kM4DIjEdGCE (AVOID This One? RTX 2080 Super Review & Gaming Benchmarks)
+2025-11-04 12:50:42,796 INFO yt-dlp transcripts attempt 1 for kM4DIjEdGCE
+2025-11-04 12:50:45,585 INFO yt-dlp transcripts succeeded for kM4DIjEdGCE on attempt 1
+2025-11-04 12:50:45,586 INFO END transcripts kM4DIjEdGCE status=ok duration=2.79s
+2025-11-04 12:50:53,370 INFO START transcripts Qeb3IhsZSCM (NVIDIA RTX 2080 Super Review: We Get It, NVIDIA, You Can Make a 1080 Ti)
+2025-11-04 12:50:53,370 INFO yt-dlp transcripts attempt 1 for Qeb3IhsZSCM
+2025-11-04 12:50:56,387 INFO yt-dlp transcripts succeeded for Qeb3IhsZSCM on attempt 1
+2025-11-04 12:50:56,390 INFO END transcripts Qeb3IhsZSCM status=ok duration=3.02s
+2025-11-04 12:51:04,910 INFO START transcripts XTmSP_DBopY (Nvidia RTX 2080 SUPER Review - with MSI's Gaming X Trio!)
+2025-11-04 12:51:04,910 INFO yt-dlp transcripts attempt 1 for XTmSP_DBopY
+2025-11-04 12:51:08,015 INFO yt-dlp transcripts succeeded for XTmSP_DBopY on attempt 1
+2025-11-04 12:51:08,016 INFO END transcripts XTmSP_DBopY status=ok duration=3.11s
+2025-11-04 12:51:15,343 INFO START transcripts pgEI4tzh0dc (Nvidia GeForce RTX 2080/ RTX 2080 Ti Review: True Next-Gen Graphics Architecture?)
+2025-11-04 12:51:15,344 INFO yt-dlp transcripts attempt 1 for pgEI4tzh0dc
+2025-11-04 12:51:18,411 INFO yt-dlp transcripts succeeded for pgEI4tzh0dc on attempt 1
+2025-11-04 12:51:18,412 INFO END transcripts pgEI4tzh0dc status=ok duration=3.07s
+2025-11-04 12:51:26,067 INFO Extended cooldown 112.6s after 40 videos
+2025-11-04 12:53:18,695 INFO START transcripts dLjQR0UFUd0 (GeForce RTX 2080 & 2080 Ti Review, I Was WRONG!)
+2025-11-04 12:53:18,695 INFO yt-dlp transcripts attempt 1 for dLjQR0UFUd0
+2025-11-04 12:53:21,661 INFO yt-dlp transcripts succeeded for dLjQR0UFUd0 on attempt 1
+2025-11-04 12:53:21,661 INFO END transcripts dLjQR0UFUd0 status=ok duration=2.97s
+2025-11-04 12:53:30,049 INFO START transcripts 4r8g1NaWDBQ (RTX 2080 Ti & RTX 2080 Review - Benchmarks & OVERCLOCKING!)
+2025-11-04 12:53:30,049 INFO yt-dlp transcripts attempt 1 for 4r8g1NaWDBQ
+2025-11-04 12:53:33,322 INFO yt-dlp transcripts succeeded for 4r8g1NaWDBQ on attempt 1
+2025-11-04 12:53:33,323 INFO END transcripts 4r8g1NaWDBQ status=ok duration=3.27s
+2025-11-04 12:53:39,444 INFO START transcripts LoPfkaSKIVo (NVIDIA Needs to STOP - RTX 3050 & Misleading Branding)
+2025-11-04 12:53:39,444 INFO yt-dlp transcripts attempt 1 for LoPfkaSKIVo
+2025-11-04 12:53:42,485 INFO yt-dlp transcripts succeeded for LoPfkaSKIVo on attempt 1
+2025-11-04 12:53:42,486 INFO END transcripts LoPfkaSKIVo status=ok duration=3.04s
+2025-11-04 12:53:49,806 INFO START transcripts eob0o3wUqIw (Is the Cheapest RTX GPU Worth It? RTX 3050 Review)
+2025-11-04 12:53:49,806 INFO yt-dlp transcripts attempt 1 for eob0o3wUqIw
+2025-11-04 12:53:52,552 INFO yt-dlp transcripts succeeded for eob0o3wUqIw on attempt 1
+2025-11-04 12:53:52,554 INFO END transcripts eob0o3wUqIw status=ok duration=2.75s
+2025-11-04 12:54:02,195 INFO START transcripts r2NNegA77uA (NVIDIA GeForce RTX 3050 GPU Review & Benchmarks)
+2025-11-04 12:54:02,195 INFO yt-dlp transcripts attempt 1 for r2NNegA77uA
+2025-11-04 12:54:04,842 INFO yt-dlp transcripts succeeded for r2NNegA77uA on attempt 1
+2025-11-04 12:54:04,844 INFO END transcripts r2NNegA77uA status=ok duration=2.65s
+2025-11-04 12:54:13,137 INFO START transcripts kXGnLjwbOBY (Nvidia GeForce RTX 3050 Review, The Bare Minimum Edition)
+2025-11-04 12:54:13,137 INFO yt-dlp transcripts attempt 1 for kXGnLjwbOBY
+2025-11-04 12:54:15,978 INFO yt-dlp transcripts succeeded for kXGnLjwbOBY on attempt 1
+2025-11-04 12:54:15,979 INFO END transcripts kXGnLjwbOBY status=ok duration=2.84s
+2025-11-04 12:54:25,815 INFO START transcripts SlobQZECwxE (Your next GPU - RTX 3050)
+2025-11-04 12:54:25,815 INFO yt-dlp transcripts attempt 1 for SlobQZECwxE
+2025-11-04 12:54:28,909 INFO yt-dlp transcripts succeeded for SlobQZECwxE on attempt 1
+2025-11-04 12:54:28,911 INFO END transcripts SlobQZECwxE status=ok duration=3.10s
+2025-11-04 12:54:36,698 INFO START transcripts 3C-RoDtqdJ8 (NVIDIA RTX 3060 GPU Review & Benchmarks: Aaand It's Gone)
+2025-11-04 12:54:36,698 INFO yt-dlp transcripts attempt 1 for 3C-RoDtqdJ8
+2025-11-04 12:54:39,564 INFO yt-dlp transcripts succeeded for 3C-RoDtqdJ8 on attempt 1
+2025-11-04 12:54:39,565 INFO END transcripts 3C-RoDtqdJ8 status=ok duration=2.87s
+2025-11-04 12:54:48,106 INFO START transcripts kAJAViPWR_8 (I'm still mad… but buy it anyway - RTX 3060 Review)
+2025-11-04 12:54:48,106 INFO yt-dlp transcripts attempt 1 for kAJAViPWR_8
+2025-11-04 12:54:51,218 INFO yt-dlp transcripts succeeded for kAJAViPWR_8 on attempt 1
+2025-11-04 12:54:51,220 INFO END transcripts kAJAViPWR_8 status=ok duration=3.11s
+2025-11-04 12:54:59,044 INFO START transcripts 8rz32GVndEM (Nvidia GeForce RTX 3060 Review, Better Late Than Never Right?)
+2025-11-04 12:54:59,045 INFO yt-dlp transcripts attempt 1 for 8rz32GVndEM
+2025-11-04 12:55:01,822 INFO yt-dlp transcripts succeeded for 8rz32GVndEM on attempt 1
+2025-11-04 12:55:01,823 INFO END transcripts 8rz32GVndEM status=ok duration=2.78s
+2025-11-04 12:55:08,896 INFO Extended cooldown 64.5s after 50 videos
+2025-11-04 12:56:13,369 INFO START transcripts H1DApIvOCMw (My SALTY Review of the NVIDIA RTX 3060…)
+2025-11-04 12:56:13,369 INFO yt-dlp transcripts attempt 1 for H1DApIvOCMw
+2025-11-04 12:56:16,054 INFO yt-dlp transcripts succeeded for H1DApIvOCMw on attempt 1
+2025-11-04 12:56:16,055 INFO END transcripts H1DApIvOCMw status=ok duration=2.69s
+2025-11-04 12:56:25,076 INFO START transcripts Ayge2grIeDE (NVIDIA RTX 3060 Review - Time to Upgrade GTX 1060 & GTX 960?)
+2025-11-04 12:56:25,076 INFO yt-dlp transcripts attempt 1 for Ayge2grIeDE
+2025-11-04 12:56:27,987 INFO yt-dlp transcripts succeeded for Ayge2grIeDE on attempt 1
+2025-11-04 12:56:27,988 INFO END transcripts Ayge2grIeDE status=ok duration=2.91s
+2025-11-04 12:56:36,598 INFO START transcripts JfASASNLgIk (Nvidia GeForce RTX 3060 Ti Review: Faster than 2080 Super, Easily Beats 1080 Ti)
+2025-11-04 12:56:36,598 INFO yt-dlp transcripts attempt 1 for JfASASNLgIk
+2025-11-04 12:56:39,653 INFO yt-dlp transcripts succeeded for JfASASNLgIk on attempt 1
+2025-11-04 12:56:39,654 INFO END transcripts JfASASNLgIk status=ok duration=3.06s
+2025-11-04 12:56:48,395 INFO START transcripts oGyWz866AoM (Merry Christmas, scalpers! - RTX 3060 Ti Review)
+2025-11-04 12:56:48,395 INFO yt-dlp transcripts attempt 1 for oGyWz866AoM
+2025-11-04 12:56:51,699 INFO yt-dlp transcripts succeeded for oGyWz866AoM on attempt 1
+2025-11-04 12:56:51,700 INFO END transcripts oGyWz866AoM status=ok duration=3.31s
+2025-11-04 12:57:00,462 INFO START transcripts t9H2PfYDFok (NVIDIA GeForce RTX 3060 Ti Founders Edition Review: Gaming, Thermals, Noise, & Power Benchmarks)
+2025-11-04 12:57:00,462 INFO yt-dlp transcripts attempt 1 for t9H2PfYDFok
+2025-11-04 12:57:03,347 INFO yt-dlp transcripts succeeded for t9H2PfYDFok on attempt 1
+2025-11-04 12:57:03,348 INFO END transcripts t9H2PfYDFok status=ok duration=2.89s
+2025-11-04 12:57:12,922 INFO START transcripts Mya3ZvVRTRg (RTX 3070 Review - Worth the $500?)
+2025-11-04 12:57:12,922 INFO yt-dlp transcripts attempt 1 for Mya3ZvVRTRg
+2025-11-04 12:57:15,635 INFO yt-dlp transcripts succeeded for Mya3ZvVRTRg on attempt 1
+2025-11-04 12:57:15,636 INFO END transcripts Mya3ZvVRTRg status=ok duration=2.71s
+2025-11-04 12:57:24,481 INFO START transcripts ul8F0MmRpmY (Nvidia GeForce RTX 3070 Review: Is It Really As Fast As 2080 Ti?)
+2025-11-04 12:57:24,482 INFO yt-dlp transcripts attempt 1 for ul8F0MmRpmY
+2025-11-04 12:57:27,147 INFO yt-dlp transcripts succeeded for ul8F0MmRpmY on attempt 1
+2025-11-04 12:57:27,148 INFO END transcripts ul8F0MmRpmY status=ok duration=2.67s
+2025-11-04 12:57:36,682 INFO START transcripts 3XaOeLPztN4 (I'm DONE covering for NVIDIA - RTX 3070 Review)
+2025-11-04 12:57:36,682 INFO yt-dlp transcripts attempt 1 for 3XaOeLPztN4
+2025-11-04 12:57:39,895 INFO yt-dlp transcripts succeeded for 3XaOeLPztN4 on attempt 1
+2025-11-04 12:57:39,897 INFO END transcripts 3XaOeLPztN4 status=ok duration=3.22s
+2025-11-04 12:57:48,139 INFO START transcripts NbZDERlshbQ (NVIDIA GeForce RTX 3070 Founders Edition Review: Gaming, Thermals, Noise, & Power Benchmarks)
+2025-11-04 12:57:48,140 INFO yt-dlp transcripts attempt 1 for NbZDERlshbQ
+2025-11-04 12:57:51,217 INFO yt-dlp transcripts succeeded for NbZDERlshbQ on attempt 1
+2025-11-04 12:57:51,218 INFO END transcripts NbZDERlshbQ status=ok duration=3.08s
+2025-11-04 12:58:00,027 INFO START transcripts UFAfOqTzc18 (GeForce RTX 3070 Benchmark Review)
+2025-11-04 12:58:00,028 INFO yt-dlp transcripts attempt 1 for UFAfOqTzc18
+2025-11-04 12:58:02,506 INFO yt-dlp transcripts succeeded for UFAfOqTzc18 on attempt 1
+2025-11-04 12:58:02,507 INFO END transcripts UFAfOqTzc18 status=ok duration=2.48s
+2025-11-04 12:58:08,763 INFO Extended cooldown 116.7s after 60 videos
+2025-11-04 13:00:05,452 INFO START transcripts ThfeEjogy4Y (PLEASE Don't Waste Your Money! - Nvidia RTX 3070 Review & Overclocking! (Gameplay Benchmarks))
+2025-11-04 13:00:05,453 INFO yt-dlp transcripts attempt 1 for ThfeEjogy4Y
+2025-11-04 13:00:08,401 INFO yt-dlp transcripts succeeded for ThfeEjogy4Y on attempt 1
+2025-11-04 13:00:08,403 INFO END transcripts ThfeEjogy4Y status=none duration=2.95s
+2025-11-04 13:00:18,302 INFO START transcripts zC0TbZq_oIU (People Will Literally Fight Over This - RTX 3070 Ti Review)
+2025-11-04 13:00:18,302 INFO yt-dlp transcripts attempt 1 for zC0TbZq_oIU
+2025-11-04 13:00:22,015 INFO yt-dlp transcripts succeeded for zC0TbZq_oIU on attempt 1
+2025-11-04 13:00:22,017 INFO END transcripts zC0TbZq_oIU status=ok duration=3.71s
+2025-11-04 13:00:30,220 INFO START transcripts dQJwjxUB0LU (Gaslighting GPU Buyers: NVIDIA RTX 3070 Ti Review & Benchmarks)
+2025-11-04 13:00:30,220 INFO yt-dlp transcripts attempt 1 for dQJwjxUB0LU
+2025-11-04 13:00:33,414 INFO yt-dlp transcripts succeeded for dQJwjxUB0LU on attempt 1
+2025-11-04 13:00:33,416 INFO END transcripts dQJwjxUB0LU status=ok duration=3.20s
+2025-11-04 13:00:41,436 INFO START transcripts csSmiaR3RVE (Nvidia GeForce RTX 3080 Review)
+2025-11-04 13:00:41,436 INFO yt-dlp transcripts attempt 1 for csSmiaR3RVE
+2025-11-04 13:00:44,363 INFO yt-dlp transcripts succeeded for csSmiaR3RVE on attempt 1
+2025-11-04 13:00:44,365 INFO END transcripts csSmiaR3RVE status=ok duration=2.93s
+2025-11-04 13:00:50,850 INFO START transcripts k7FlXu9dAMU (Nvidia GeForce RTX 3080 Review: Brute Force Power Delivers Huge Performance)
+2025-11-04 13:00:50,850 INFO yt-dlp transcripts attempt 1 for k7FlXu9dAMU
+2025-11-04 13:00:53,699 INFO yt-dlp transcripts succeeded for k7FlXu9dAMU on attempt 1
+2025-11-04 13:00:53,700 INFO END transcripts k7FlXu9dAMU status=ok duration=2.85s
+2025-11-04 13:01:02,332 INFO START transcripts HybxSfUtvgY (My Nvidia RTX 3080 Review!)
+2025-11-04 13:01:02,332 INFO yt-dlp transcripts attempt 1 for HybxSfUtvgY
+2025-11-04 13:01:04,998 INFO yt-dlp transcripts succeeded for HybxSfUtvgY on attempt 1
+2025-11-04 13:01:04,999 INFO END transcripts HybxSfUtvgY status=ok duration=2.67s
+2025-11-04 13:01:12,049 INFO START transcripts oTeXh9x0sUc (NVIDIA GeForce RTX 3080 Founders Edition Review: Gaming, Thermals, Noise, & Power Benchmarks)
+2025-11-04 13:01:12,049 INFO yt-dlp transcripts attempt 1 for oTeXh9x0sUc
+2025-11-04 13:01:14,980 INFO yt-dlp transcripts succeeded for oTeXh9x0sUc on attempt 1
+2025-11-04 13:01:14,982 INFO END transcripts oTeXh9x0sUc status=ok duration=2.93s
+2025-11-04 13:01:21,860 INFO START transcripts AG_ZHi3tuyk (Nvidia, you PROMISED! - RTX 3080 Review)
+2025-11-04 13:01:21,861 INFO yt-dlp transcripts attempt 1 for AG_ZHi3tuyk
+2025-11-04 13:01:24,519 INFO yt-dlp transcripts succeeded for AG_ZHi3tuyk on attempt 1
+2025-11-04 13:01:24,520 INFO END transcripts AG_ZHi3tuyk status=ok duration=2.66s
+2025-11-04 13:01:31,018 INFO START transcripts qHqesWMY9OU (NVIDIA RTX 3080 Ti Review - NOT a New Hope for Gamers)
+2025-11-04 13:01:31,019 INFO yt-dlp transcripts attempt 1 for qHqesWMY9OU
+2025-11-04 13:01:33,661 INFO yt-dlp transcripts succeeded for qHqesWMY9OU on attempt 1
+2025-11-04 13:01:33,662 INFO END transcripts qHqesWMY9OU status=ok duration=2.64s
+2025-11-04 13:01:42,046 INFO START transcripts HI7xjsX9o9M (Nvidia GeForce RTX 3080 Ti Review: Big Performance, Extreme Price Tag)
+2025-11-04 13:01:42,046 INFO yt-dlp transcripts attempt 1 for HI7xjsX9o9M
+2025-11-04 13:01:44,910 INFO yt-dlp transcripts succeeded for HI7xjsX9o9M on attempt 1
+2025-11-04 13:01:44,911 INFO END transcripts HI7xjsX9o9M status=ok duration=2.86s
+2025-11-04 13:01:52,979 INFO Extended cooldown 87.0s after 70 videos
+2025-11-04 13:03:20,027 INFO START transcripts n4_4SKtq_Gs (GeForce RTX 3080 Ti Review, Nvidia Fails to Read the Room)
+2025-11-04 13:03:20,027 INFO yt-dlp transcripts attempt 1 for n4_4SKtq_Gs
+2025-11-04 13:03:22,688 INFO yt-dlp transcripts succeeded for n4_4SKtq_Gs on attempt 1
+2025-11-04 13:03:22,689 INFO END transcripts n4_4SKtq_Gs status=ok duration=2.66s
+2025-11-04 13:03:31,762 INFO START transcripts jgLOfZaV3Ac (RTX 3090 Review - 33 Million Pixel Gaming)
+2025-11-04 13:03:31,762 INFO yt-dlp transcripts attempt 1 for jgLOfZaV3Ac
+2025-11-04 13:03:34,501 INFO yt-dlp transcripts succeeded for jgLOfZaV3Ac on attempt 1
+2025-11-04 13:03:34,502 INFO END transcripts jgLOfZaV3Ac status=ok duration=2.74s
+2025-11-04 13:03:43,108 INFO START transcripts PTs1gHqvcjs (GeForce RTX 3090 Review, Insert 8K Gaming Meme!)
+2025-11-04 13:03:43,108 INFO yt-dlp transcripts attempt 1 for PTs1gHqvcjs
+2025-11-04 13:03:45,894 INFO yt-dlp transcripts succeeded for PTs1gHqvcjs on attempt 1
+2025-11-04 13:03:45,895 INFO END transcripts PTs1gHqvcjs status=ok duration=2.79s
+2025-11-04 13:03:53,795 INFO START transcripts Xgs-VbqsuKo (NVIDIA RTX 3090 Founders Edition Review: How to Nuke Your Launch)
+2025-11-04 13:03:53,795 INFO yt-dlp transcripts attempt 1 for Xgs-VbqsuKo
+2025-11-04 13:03:56,891 INFO yt-dlp transcripts succeeded for Xgs-VbqsuKo on attempt 1
+2025-11-04 13:03:56,892 INFO END transcripts Xgs-VbqsuKo status=ok duration=3.10s
+2025-11-04 13:04:03,082 INFO START transcripts YjcxrfEVhc8 (Making Nvidia’s CEO mad - RTX 3090 Review)
+2025-11-04 13:04:03,082 INFO yt-dlp transcripts attempt 1 for YjcxrfEVhc8
+2025-11-04 13:04:06,165 INFO yt-dlp transcripts succeeded for YjcxrfEVhc8 on attempt 1
+2025-11-04 13:04:06,166 INFO END transcripts YjcxrfEVhc8 status=ok duration=3.08s
+2025-11-04 13:04:15,000 INFO START transcripts HeiPdaTQTfo (RTX 3090 Review – The 3080 is Too Fast?)
+2025-11-04 13:04:15,000 INFO yt-dlp transcripts attempt 1 for HeiPdaTQTfo
+2025-11-04 13:04:17,746 INFO yt-dlp transcripts succeeded for HeiPdaTQTfo on attempt 1
+2025-11-04 13:04:17,747 INFO END transcripts HeiPdaTQTfo status=ok duration=2.75s
+2025-11-04 13:04:24,037 INFO START transcripts DDcA0c-Ahq0 (Nvidia missed the memo - GeForce RTX 3090 Ti)
+2025-11-04 13:04:24,037 INFO yt-dlp transcripts attempt 1 for DDcA0c-Ahq0
+2025-11-04 13:04:27,113 INFO yt-dlp transcripts succeeded for DDcA0c-Ahq0 on attempt 1
+2025-11-04 13:04:27,114 INFO END transcripts DDcA0c-Ahq0 status=ok duration=3.08s
+2025-11-04 13:04:33,561 INFO START transcripts HWS9G2WT42Q (EVGA RTX 3090 Ti FTW3 Review & Benchmarks: Power, Thermals, & Overclocking)
+2025-11-04 13:04:33,561 INFO yt-dlp transcripts attempt 1 for HWS9G2WT42Q
+2025-11-04 13:04:36,738 INFO yt-dlp transcripts succeeded for HWS9G2WT42Q on attempt 1
+2025-11-04 13:04:36,739 INFO END transcripts HWS9G2WT42Q status=ok duration=3.18s
+2025-11-04 13:04:44,854 INFO START transcripts CE8ssnSqgZg (Milking Buyers' Wallets: Nvidia GeForce RTX 3090 Ti Review)
+2025-11-04 13:04:44,854 INFO yt-dlp transcripts attempt 1 for CE8ssnSqgZg
+2025-11-04 13:04:47,747 INFO yt-dlp transcripts succeeded for CE8ssnSqgZg on attempt 1
+2025-11-04 13:04:47,748 INFO END transcripts CE8ssnSqgZg status=ok duration=2.89s
+2025-11-04 13:04:56,633 INFO START transcripts SLm8qq9v8Q4 (FINALLY a CHEAP GPU for CREATORS, RIGHT?! | Zotac RTX 4060 vs RTX 3060 Review)
+2025-11-04 13:04:56,633 INFO yt-dlp transcripts attempt 1 for SLm8qq9v8Q4
+2025-11-04 13:04:59,640 INFO yt-dlp transcripts succeeded for SLm8qq9v8Q4 on attempt 1
+2025-11-04 13:04:59,641 INFO END transcripts SLm8qq9v8Q4 status=ok duration=3.01s
+2025-11-04 13:05:08,821 INFO Extended cooldown 83.2s after 80 videos
+2025-11-04 13:06:32,077 INFO START transcripts By7plJMS780 (The RTX 4060 Review is here!! - $299? (Should you buy?))
+2025-11-04 13:06:32,077 INFO yt-dlp transcripts attempt 1 for By7plJMS780
+2025-11-04 13:06:34,606 INFO yt-dlp transcripts succeeded for By7plJMS780 on attempt 1
+2025-11-04 13:06:34,607 INFO END transcripts By7plJMS780 status=ok duration=2.53s
+2025-11-04 13:06:43,956 INFO START transcripts 7ae7XrIbmao (Nvidia Clown Themselves… Again! GeForce RTX 4060 Review)
+2025-11-04 13:06:43,957 INFO yt-dlp transcripts attempt 1 for 7ae7XrIbmao
+2025-11-04 13:06:47,067 INFO yt-dlp transcripts succeeded for 7ae7XrIbmao on attempt 1
+2025-11-04 13:06:47,068 INFO END transcripts 7ae7XrIbmao status=ok duration=3.11s
+2025-11-04 13:06:55,903 INFO START transcripts WS0sfOb_sVM (NVIDIA GeForce RTX 4060 GPU Review & Benchmarks | Prices Keep Falling)
+2025-11-04 13:06:55,903 INFO yt-dlp transcripts attempt 1 for WS0sfOb_sVM
+2025-11-04 13:06:58,945 INFO yt-dlp transcripts succeeded for WS0sfOb_sVM on attempt 1
+2025-11-04 13:06:58,947 INFO END transcripts WS0sfOb_sVM status=ok duration=3.04s
+2025-11-04 13:07:05,184 INFO START transcripts O0srjKOOR4g (I’m actually getting MAD now. – RTX 4060 Review)
+2025-11-04 13:07:05,185 INFO yt-dlp transcripts attempt 1 for O0srjKOOR4g
+2025-11-04 13:07:08,853 INFO yt-dlp transcripts succeeded for O0srjKOOR4g on attempt 1
+2025-11-04 13:07:08,854 INFO END transcripts O0srjKOOR4g status=ok duration=3.67s
+2025-11-04 13:07:15,807 INFO START transcripts _B6vtMa-US4 (THANK YOU NVIDIA!! - RTX 4060 Ti Review)
+2025-11-04 13:07:15,808 INFO yt-dlp transcripts attempt 1 for _B6vtMa-US4
+2025-11-04 13:07:20,098 INFO yt-dlp transcripts succeeded for _B6vtMa-US4 on attempt 1
+2025-11-04 13:07:20,099 INFO END transcripts _B6vtMa-US4 status=ok duration=4.29s
+2025-11-04 13:07:29,500 INFO START transcripts WLk8xzePDg8 (Laughably Bad at $400: Nvidia GeForce RTX 4060 Ti Review)
+2025-11-04 13:07:29,500 INFO yt-dlp transcripts attempt 1 for WLk8xzePDg8
+2025-11-04 13:07:32,327 INFO yt-dlp transcripts succeeded for WLk8xzePDg8 on attempt 1
+2025-11-04 13:07:32,327 INFO END transcripts WLk8xzePDg8 status=ok duration=2.83s
+2025-11-04 13:07:38,776 INFO START transcripts Y2b0MWGwK_U (Do Not Buy: NVIDIA GeForce RTX 4060 Ti 8GB GPU Review & Benchmarks)
+2025-11-04 13:07:38,776 INFO yt-dlp transcripts attempt 1 for Y2b0MWGwK_U
+2025-11-04 13:07:41,564 INFO yt-dlp transcripts succeeded for Y2b0MWGwK_U on attempt 1
+2025-11-04 13:07:41,565 INFO END transcripts Y2b0MWGwK_U status=ok duration=2.79s
+2025-11-04 13:07:49,581 INFO START transcripts zIy1oYNv3mk (Is The RTX 4070 Worth It? 🤔 | Gigabyte Gaming OC Review & Gameplay Benchmarks)
+2025-11-04 13:07:49,581 INFO yt-dlp transcripts attempt 1 for zIy1oYNv3mk
+2025-11-04 13:07:52,671 INFO yt-dlp transcripts succeeded for zIy1oYNv3mk on attempt 1
+2025-11-04 13:07:52,673 INFO END transcripts zIy1oYNv3mk status=ok duration=3.09s
+2025-11-04 13:07:59,547 INFO START transcripts BQPiN_Cx0xU (RTX 4070 Review (Asus Dual) - Peak Mid at $599. Nuff said.)
+2025-11-04 13:07:59,547 INFO yt-dlp transcripts attempt 1 for BQPiN_Cx0xU
+2025-11-04 13:08:02,676 INFO yt-dlp transcripts succeeded for BQPiN_Cx0xU on attempt 1
+2025-11-04 13:08:02,677 INFO END transcripts BQPiN_Cx0xU status=ok duration=3.13s
+2025-11-04 13:08:11,307 INFO START transcripts GZIoWlGlH_M (So I tried the new RTX 4070..)
+2025-11-04 13:08:11,307 INFO yt-dlp transcripts attempt 1 for GZIoWlGlH_M
+2025-11-04 13:08:14,053 INFO yt-dlp transcripts succeeded for GZIoWlGlH_M on attempt 1
+2025-11-04 13:08:14,054 INFO END transcripts GZIoWlGlH_M status=ok duration=2.75s
+2025-11-04 13:08:22,552 INFO Extended cooldown 90.8s after 90 videos
+2025-11-04 13:09:53,371 INFO START transcripts uZHDq-LEGzw (NVIDIA RTX 4070 Founders Edition GPU Review & Benchmarks)
+2025-11-04 13:09:53,372 INFO yt-dlp transcripts attempt 1 for uZHDq-LEGzw
+2025-11-04 13:09:56,156 INFO yt-dlp transcripts succeeded for uZHDq-LEGzw on attempt 1
+2025-11-04 13:09:56,157 INFO END transcripts uZHDq-LEGzw status=ok duration=2.79s
+2025-11-04 13:10:03,699 INFO START transcripts nkh9VGCY8as (I’m Dreading this Review – RTX 4070)
+2025-11-04 13:10:03,699 INFO yt-dlp transcripts attempt 1 for nkh9VGCY8as
+2025-11-04 13:10:07,039 INFO yt-dlp transcripts succeeded for nkh9VGCY8as on attempt 1
+2025-11-04 13:10:07,041 INFO END transcripts nkh9VGCY8as status=ok duration=3.34s
+2025-11-04 13:10:14,763 INFO START transcripts 9GdmDvG_rQY (The RTX 4070 Super Review - Things are FINALLY looking Up!)
+2025-11-04 13:10:14,764 INFO yt-dlp transcripts attempt 1 for 9GdmDvG_rQY
+2025-11-04 13:10:17,593 INFO yt-dlp transcripts succeeded for 9GdmDvG_rQY on attempt 1
+2025-11-04 13:10:17,594 INFO END transcripts 9GdmDvG_rQY status=ok duration=2.83s
+2025-11-04 13:10:24,225 INFO START transcripts HT8UmPrQYvk (Nvidia GeForce RTX 4070 Super Review - Finally Good Value?)
+2025-11-04 13:10:24,225 INFO yt-dlp transcripts attempt 1 for HT8UmPrQYvk
+2025-11-04 13:10:26,679 INFO yt-dlp transcripts succeeded for HT8UmPrQYvk on attempt 1
+2025-11-04 13:10:26,680 INFO END transcripts HT8UmPrQYvk status=ok duration=2.45s
+2025-11-04 13:10:32,952 INFO START transcripts jKmmugnOEME (Nvidia is lying to you - RTX 4070 Ti Full Review)
+2025-11-04 13:10:32,952 INFO yt-dlp transcripts attempt 1 for jKmmugnOEME
+2025-11-04 13:10:35,920 INFO yt-dlp transcripts succeeded for jKmmugnOEME on attempt 1
+2025-11-04 13:10:35,939 INFO END transcripts jKmmugnOEME status=ok duration=2.99s
+2025-11-04 13:10:45,175 INFO START transcripts 1mE5aveN4Bo ($800 Meh, Nvidia GeForce RTX 4070 Ti Review & Benchmarks)
+2025-11-04 13:10:45,175 INFO yt-dlp transcripts attempt 1 for 1mE5aveN4Bo
+2025-11-04 13:10:47,853 INFO yt-dlp transcripts succeeded for 1mE5aveN4Bo on attempt 1
+2025-11-04 13:10:47,854 INFO END transcripts 1mE5aveN4Bo status=ok duration=2.68s
+2025-11-04 13:10:54,753 INFO START transcripts N-FMPbm5CNM (NVIDIA's Rip-Off - RTX 4070 Ti Review & Benchmarks)
+2025-11-04 13:10:54,753 INFO yt-dlp transcripts attempt 1 for N-FMPbm5CNM
+2025-11-04 13:10:57,749 INFO yt-dlp transcripts succeeded for N-FMPbm5CNM on attempt 1
+2025-11-04 13:10:57,750 INFO END transcripts N-FMPbm5CNM status=ok duration=3.00s
+2025-11-04 13:11:03,915 INFO START transcripts QruyaA0ZrLk (NVIDIA GeForce RTX 4070 Ti Super GPU Review & Benchmarks: Power Efficiency & Gaming)
+2025-11-04 13:11:03,915 INFO yt-dlp transcripts attempt 1 for QruyaA0ZrLk
+2025-11-04 13:11:08,450 INFO yt-dlp transcripts succeeded for QruyaA0ZrLk on attempt 1
+2025-11-04 13:11:08,452 INFO END transcripts QruyaA0ZrLk status=ok duration=4.54s
+2025-11-04 13:11:17,146 INFO START transcripts ePbKc6THvCM (Nvidia GeForce RTX 4070 Ti Super Review, Now With 16GB Of VRAM!)
+2025-11-04 13:11:17,146 INFO yt-dlp transcripts attempt 1 for ePbKc6THvCM
+2025-11-04 13:11:20,083 INFO yt-dlp transcripts succeeded for ePbKc6THvCM on attempt 1
+2025-11-04 13:11:20,084 INFO END transcripts ePbKc6THvCM status=ok duration=2.94s
+2025-11-04 13:11:29,554 INFO START transcripts T8lS4v3-Nyg (This is NOT OK, NVIDIA! RTX 4080 Review & Benchmarks)
+2025-11-04 13:11:29,554 INFO yt-dlp transcripts attempt 1 for T8lS4v3-Nyg
+2025-11-04 13:11:32,491 INFO yt-dlp transcripts succeeded for T8lS4v3-Nyg on attempt 1
+2025-11-04 13:11:32,492 INFO END transcripts T8lS4v3-Nyg status=ok duration=2.94s
+2025-11-04 13:11:42,404 INFO Extended cooldown 90.6s after 100 videos
+2025-11-04 13:13:13,016 INFO START transcripts dI7RbdwlhCU (NVIDIA RTX 4080 Review - Before You Buy..)
+2025-11-04 13:13:13,017 INFO yt-dlp transcripts attempt 1 for dI7RbdwlhCU
+2025-11-04 13:13:15,615 INFO yt-dlp transcripts succeeded for dI7RbdwlhCU on attempt 1
+2025-11-04 13:13:15,616 INFO END transcripts dI7RbdwlhCU status=ok duration=2.60s
+2025-11-04 13:13:22,193 INFO START transcripts l6vn6Cpd4Yc (RTX 4080 Is Here! Nvidia GeForce RTX 4080 Review & Benchmarks)
+2025-11-04 13:13:22,193 INFO yt-dlp transcripts attempt 1 for l6vn6Cpd4Yc
+2025-11-04 13:13:25,037 INFO yt-dlp transcripts succeeded for l6vn6Cpd4Yc on attempt 1
+2025-11-04 13:13:25,038 INFO END transcripts l6vn6Cpd4Yc status=ok duration=2.85s
+2025-11-04 13:13:32,910 INFO START transcripts 3bupXxjx0Js (Nvidia GeForce RTX 4080 Review: Great Performance, Poor Pricing)
+2025-11-04 13:13:32,910 INFO yt-dlp transcripts attempt 1 for 3bupXxjx0Js
+2025-11-04 13:13:35,698 INFO yt-dlp transcripts succeeded for 3bupXxjx0Js on attempt 1
+2025-11-04 13:13:35,699 INFO END transcripts 3bupXxjx0Js status=ok duration=2.79s
+2025-11-04 13:13:43,973 INFO START transcripts i2_xTUshy94 (NVIDIA’s Lost It: RTX 4080 16GB GPU Review & Benchmarks)
+2025-11-04 13:13:43,973 INFO yt-dlp transcripts attempt 1 for i2_xTUshy94
+2025-11-04 13:13:46,601 INFO yt-dlp transcripts succeeded for i2_xTUshy94 on attempt 1
+2025-11-04 13:13:46,602 INFO END transcripts i2_xTUshy94 status=ok duration=2.63s
+2025-11-04 13:13:52,774 INFO START transcripts fyUZ1cp4RnI ("New" But Not New - Nvidia GeForce RTX 4080 Super Review)
+2025-11-04 13:13:52,774 INFO yt-dlp transcripts attempt 1 for fyUZ1cp4RnI
+2025-11-04 13:13:55,680 INFO yt-dlp transcripts succeeded for fyUZ1cp4RnI on attempt 1
+2025-11-04 13:13:55,681 INFO END transcripts fyUZ1cp4RnI status=ok duration=2.91s
+2025-11-04 13:14:05,032 INFO START transcripts WCIEzrFwKzM (More Price Cut Than Upgrade: Nvidia GeForce RTX 4080 Super Review - Is The Price Finally Right?)
+2025-11-04 13:14:05,032 INFO yt-dlp transcripts attempt 1 for WCIEzrFwKzM
+2025-11-04 13:14:07,645 INFO yt-dlp transcripts succeeded for WCIEzrFwKzM on attempt 1
+2025-11-04 13:14:07,646 INFO END transcripts WCIEzrFwKzM status=ok duration=2.61s
+2025-11-04 13:14:16,956 INFO START transcripts 8p6FhTBol18 (Lame, But Cheaper: NVIDIA RTX 4080 Super Review, Benchmark Comparison, & Value Discussion)
+2025-11-04 13:14:16,957 INFO yt-dlp transcripts attempt 1 for 8p6FhTBol18
+2025-11-04 13:14:19,676 INFO yt-dlp transcripts succeeded for 8p6FhTBol18 on attempt 1
+2025-11-04 13:14:19,677 INFO END transcripts 8p6FhTBol18 status=ok duration=2.72s
+2025-11-04 13:14:27,478 INFO START transcripts kWGQ432O3Z4 (Beast Mode – NVIDIA RTX 4090 Review)
+2025-11-04 13:14:27,479 INFO yt-dlp transcripts attempt 1 for kWGQ432O3Z4
+2025-11-04 13:14:30,128 INFO yt-dlp transcripts succeeded for kWGQ432O3Z4 on attempt 1
+2025-11-04 13:14:30,129 INFO END transcripts kWGQ432O3Z4 status=ok duration=2.65s
+2025-11-04 13:14:36,443 INFO START transcripts j9vC9NBL8zo (NVIDIA GeForce RTX 4090 Founders Edition Review & Benchmarks: Gaming, Power, & Thermals)
+2025-11-04 13:14:36,443 INFO yt-dlp transcripts attempt 1 for j9vC9NBL8zo
+2025-11-04 13:14:39,439 INFO yt-dlp transcripts succeeded for j9vC9NBL8zo on attempt 1
+2025-11-04 13:14:39,440 INFO END transcripts j9vC9NBL8zo status=ok duration=3.00s
+2025-11-04 13:14:47,280 INFO START transcripts aQklDR8nv8U (GeForce RTX 4090 Review, Nvidia's Stupid Fast GPU!)
+2025-11-04 13:14:47,281 INFO yt-dlp transcripts attempt 1 for aQklDR8nv8U
+2025-11-04 13:14:50,094 INFO yt-dlp transcripts succeeded for aQklDR8nv8U on attempt 1
+2025-11-04 13:14:50,095 INFO END transcripts aQklDR8nv8U status=ok duration=2.82s
+2025-11-04 13:14:57,000 INFO Extended cooldown 76.3s after 110 videos
+2025-11-04 13:16:13,285 INFO START transcripts glz5B-4IlKE (Nvidia GeForce RTX 4090 Review: The Next Level In Graphics Performance)
+2025-11-04 13:16:13,286 INFO yt-dlp transcripts attempt 1 for glz5B-4IlKE
+2025-11-04 13:16:15,795 INFO yt-dlp transcripts succeeded for glz5B-4IlKE on attempt 1
+2025-11-04 13:16:15,796 INFO END transcripts glz5B-4IlKE status=ok duration=2.51s
+2025-11-04 13:16:24,491 INFO START transcripts THxkY59_xko (Is the fastest GPU ALWAYS the best? RTX 4090 Review)
+2025-11-04 13:16:24,492 INFO yt-dlp transcripts attempt 1 for THxkY59_xko
+2025-11-04 13:16:27,622 INFO yt-dlp transcripts succeeded for THxkY59_xko on attempt 1
+2025-11-04 13:16:27,624 INFO END transcripts THxkY59_xko status=ok duration=3.13s
+2025-11-04 13:16:33,999 INFO START transcripts p89yUxn1E6k (I Got Nvidia's Best New "Budget" GPU to See if it's Actually that Bad)
+2025-11-04 13:16:33,999 INFO yt-dlp transcripts attempt 1 for p89yUxn1E6k
+2025-11-04 13:16:36,987 INFO yt-dlp transcripts succeeded for p89yUxn1E6k on attempt 1
+2025-11-04 13:16:36,988 INFO END transcripts p89yUxn1E6k status=ok duration=2.99s
+2025-11-04 13:16:45,560 INFO START transcripts OibVY-q2SAw (Is NVIDIA Even Trying - GeForce RTX 5050 Gaming GPU Review)
+2025-11-04 13:16:45,560 INFO yt-dlp transcripts attempt 1 for OibVY-q2SAw
+2025-11-04 13:16:48,172 INFO yt-dlp transcripts succeeded for OibVY-q2SAw on attempt 1
+2025-11-04 13:16:48,173 INFO END transcripts OibVY-q2SAw status=ok duration=2.61s
+2025-11-04 13:16:57,692 INFO START transcripts caU0RG0mNHg (NVIDIA's Exploitation | Waste of Sand RTX "5050" for $250)
+2025-11-04 13:16:57,692 INFO yt-dlp transcripts attempt 1 for caU0RG0mNHg
+2025-11-04 13:17:00,518 INFO yt-dlp transcripts succeeded for caU0RG0mNHg on attempt 1
+2025-11-04 13:17:00,519 INFO END transcripts caU0RG0mNHg status=ok duration=2.83s
+2025-11-04 13:17:07,216 INFO START transcripts B93XAEHlGvI (Nvidia Did It Again…. RTX 5050 Review)
+2025-11-04 13:17:07,216 INFO yt-dlp transcripts attempt 1 for B93XAEHlGvI
+2025-11-04 13:17:10,083 INFO yt-dlp transcripts succeeded for B93XAEHlGvI on attempt 1
+2025-11-04 13:17:10,084 INFO END transcripts B93XAEHlGvI status=ok duration=2.87s
+2025-11-04 13:17:18,452 INFO START transcripts lf6dj9OYKE4 (RTX 5060 8GB - The Gameplay Review at 1080p!)
+2025-11-04 13:17:18,452 INFO yt-dlp transcripts attempt 1 for lf6dj9OYKE4
+2025-11-04 13:17:21,746 INFO yt-dlp transcripts succeeded for lf6dj9OYKE4 on attempt 1
+2025-11-04 13:17:21,747 INFO END transcripts lf6dj9OYKE4 status=ok duration=3.30s
+2025-11-04 13:17:29,550 INFO START transcripts fGn-_qj76sk (RTX 5060 Review... No wonder NVIDIA tried to stop us from talking about it!)
+2025-11-04 13:17:29,551 INFO yt-dlp transcripts attempt 1 for fGn-_qj76sk
+2025-11-04 13:17:32,165 INFO yt-dlp transcripts succeeded for fGn-_qj76sk on attempt 1
+2025-11-04 13:17:32,166 INFO END transcripts fGn-_qj76sk status=ok duration=2.62s
+2025-11-04 13:17:40,258 INFO START transcripts 2e1a2-VxxvQ (GeForce RTX 5060 Review - Nvidia Didn't Want You to See This)
+2025-11-04 13:17:40,258 INFO yt-dlp transcripts attempt 1 for 2e1a2-VxxvQ
+2025-11-04 13:17:43,055 INFO yt-dlp transcripts succeeded for 2e1a2-VxxvQ on attempt 1
+2025-11-04 13:17:43,057 INFO END transcripts 2e1a2-VxxvQ status=ok duration=2.80s
+2025-11-04 13:17:51,712 INFO START transcripts 9K6VIhA7atw (The RTX 5060 Is Better AND Worse Than You Think)
+2025-11-04 13:17:51,712 INFO yt-dlp transcripts attempt 1 for 9K6VIhA7atw
+2025-11-04 13:17:59,719 INFO yt-dlp transcripts succeeded for 9K6VIhA7atw on attempt 1
+2025-11-04 13:17:59,721 INFO END transcripts 9K6VIhA7atw status=ok duration=8.01s
+2025-11-04 13:18:08,150 INFO Extended cooldown 69.2s after 120 videos
+2025-11-04 13:19:17,403 INFO START transcripts Z0jjxWRcp_0 (Forbidden Review: NVIDIA RTX 5060 GPU Benchmarks)
+2025-11-04 13:19:17,404 INFO yt-dlp transcripts attempt 1 for Z0jjxWRcp_0
+2025-11-04 13:19:20,218 INFO yt-dlp transcripts succeeded for Z0jjxWRcp_0 on attempt 1
+2025-11-04 13:19:20,219 INFO END transcripts Z0jjxWRcp_0 status=ok duration=2.82s
+2025-11-04 13:19:27,245 INFO START transcripts B6qZwJsp5X4 (GeForce RTX 5060 Ti 16GB Review & Benchmarks - Not Great, Not Terrible)
+2025-11-04 13:19:27,245 INFO yt-dlp transcripts attempt 1 for B6qZwJsp5X4
+2025-11-04 13:19:30,080 INFO yt-dlp transcripts succeeded for B6qZwJsp5X4 on attempt 1
+2025-11-04 13:19:30,081 INFO END transcripts B6qZwJsp5X4 status=ok duration=2.84s
+2025-11-04 13:19:36,205 INFO START transcripts Cskegn1-D7s (More Marketing BS: NVIDIA GeForce RTX 5060 Ti Review & Benchmarks vs GTX 1060, 4060 Ti, & More)
+2025-11-04 13:19:36,205 INFO yt-dlp transcripts attempt 1 for Cskegn1-D7s
+2025-11-04 13:19:38,970 INFO yt-dlp transcripts succeeded for Cskegn1-D7s on attempt 1
+2025-11-04 13:19:38,971 INFO END transcripts Cskegn1-D7s status=ok duration=2.77s
+2025-11-04 13:19:47,027 INFO START transcripts vBVLnN5UGvk (I finally understand where we went wrong... 5060Ti Full Review!)
+2025-11-04 13:19:47,027 INFO yt-dlp transcripts attempt 1 for vBVLnN5UGvk
+2025-11-04 13:19:50,059 INFO yt-dlp transcripts succeeded for vBVLnN5UGvk on attempt 1
+2025-11-04 13:19:50,073 INFO END transcripts vBVLnN5UGvk status=ok duration=3.05s
+2025-11-04 13:19:56,398 INFO START transcripts IvzECuzFvp0 (If you came here for 50x better performance... - Nvidia RTX 5060Ti 16GB)
+2025-11-04 13:19:56,398 INFO yt-dlp transcripts attempt 1 for IvzECuzFvp0
+2025-11-04 13:19:59,207 INFO yt-dlp transcripts succeeded for IvzECuzFvp0 on attempt 1
+2025-11-04 13:19:59,207 INFO END transcripts IvzECuzFvp0 status=ok duration=2.81s
+2025-11-04 13:20:07,062 INFO START transcripts AdZoa6Gzl6s (RTX 5060 Ti 8GB - Instantly Obsolete, Nvidia Screws Gamers)
+2025-11-04 13:20:07,062 INFO yt-dlp transcripts attempt 1 for AdZoa6Gzl6s
+2025-11-04 13:20:09,937 INFO yt-dlp transcripts succeeded for AdZoa6Gzl6s on attempt 1
+2025-11-04 13:20:09,939 INFO END transcripts AdZoa6Gzl6s status=ok duration=2.88s
+2025-11-04 13:20:18,601 INFO START transcripts nldUI2yQomw (Nvidia RTX 5070 Review + Benchmarks: DLSS 4 Doesn't Deliver 4090 Performance)
+2025-11-04 13:20:18,602 INFO yt-dlp transcripts attempt 1 for nldUI2yQomw
+2025-11-04 13:20:21,242 INFO yt-dlp transcripts succeeded for nldUI2yQomw on attempt 1
+2025-11-04 13:20:21,243 INFO END transcripts nldUI2yQomw status=ok duration=2.64s
+2025-11-04 13:20:28,486 INFO START transcripts qPGDVh_cQb0 (Worst 70 Series Ever, GeForce RTX 5070 Review)
+2025-11-04 13:20:28,486 INFO yt-dlp transcripts attempt 1 for qPGDVh_cQb0
+2025-11-04 13:20:31,287 INFO yt-dlp transcripts succeeded for qPGDVh_cQb0 on attempt 1
+2025-11-04 13:20:31,288 INFO END transcripts qPGDVh_cQb0 status=ok duration=2.80s
+2025-11-04 13:20:38,883 INFO START transcripts rUaztYdgoj0 (This is a 4090 Killer… and I’m a Liar - RTX 5070 Review)
+2025-11-04 13:20:38,883 INFO yt-dlp transcripts attempt 1 for rUaztYdgoj0
+2025-11-04 13:20:41,719 INFO yt-dlp transcripts succeeded for rUaztYdgoj0 on attempt 1
+2025-11-04 13:20:41,720 INFO END transcripts rUaztYdgoj0 status=ok duration=2.84s
+2025-11-04 13:20:48,425 INFO START transcripts ntSylZ1Bp1Y (NVIDIA is Selling Lies | RTX 5070 Founders Edition Review & Benchmarks)
+2025-11-04 13:20:48,425 INFO yt-dlp transcripts attempt 1 for ntSylZ1Bp1Y
+2025-11-04 13:20:51,268 INFO yt-dlp transcripts succeeded for ntSylZ1Bp1Y on attempt 1
+2025-11-04 13:20:51,269 INFO END transcripts ntSylZ1Bp1Y status=ok duration=2.84s
+2025-11-04 13:21:00,214 INFO Extended cooldown 93.9s after 130 videos
+2025-11-04 13:22:34,167 INFO START transcripts UxvmfEZkvc8 (This isn't going to age well... RTX 5070 FE Review…)
+2025-11-04 13:22:34,167 INFO yt-dlp transcripts attempt 1 for UxvmfEZkvc8
+2025-11-04 13:22:37,151 INFO yt-dlp transcripts succeeded for UxvmfEZkvc8 on attempt 1
+2025-11-04 13:22:37,152 INFO END transcripts UxvmfEZkvc8 status=ok duration=2.98s
+2025-11-04 13:22:43,535 INFO START transcripts zhSA5LYA8XU (RTX 5070Ti - I don't trust what I am being told one bit!)
+2025-11-04 13:22:43,536 INFO yt-dlp transcripts attempt 1 for zhSA5LYA8XU
+2025-11-04 13:22:46,402 INFO yt-dlp transcripts succeeded for zhSA5LYA8XU on attempt 1
+2025-11-04 13:22:46,403 INFO END transcripts zhSA5LYA8XU status=ok duration=2.87s
+2025-11-04 13:22:54,586 INFO START transcripts wfy84tWnhS8 (RTX 5070 Ti - The GOOD and The BAD)
+2025-11-04 13:22:54,587 INFO yt-dlp transcripts attempt 1 for wfy84tWnhS8
+2025-11-04 13:22:57,474 INFO yt-dlp transcripts succeeded for wfy84tWnhS8 on attempt 1
+2025-11-04 13:22:57,475 INFO END transcripts wfy84tWnhS8 status=ok duration=2.89s
+2025-11-04 13:23:04,435 INFO START transcripts UMPK1SeMEZM (GeForce RTX 5070 Ti Review, If Only It Was Really $750…)
+2025-11-04 13:23:04,436 INFO yt-dlp transcripts attempt 1 for UMPK1SeMEZM
+2025-11-04 13:23:07,158 INFO yt-dlp transcripts succeeded for UMPK1SeMEZM on attempt 1
+2025-11-04 13:23:07,159 INFO END transcripts UMPK1SeMEZM status=ok duration=2.72s
+2025-11-04 13:23:13,462 INFO START transcripts PhtVic3Vm0Y (Do Not Buy: NVIDIA RTX 5070 Ti GPU Absurdity (Benchmarks & Review))
+2025-11-04 13:23:13,462 INFO yt-dlp transcripts attempt 1 for PhtVic3Vm0Y
+2025-11-04 13:23:16,374 INFO yt-dlp transcripts succeeded for PhtVic3Vm0Y on attempt 1
+2025-11-04 13:23:16,376 INFO END transcripts PhtVic3Vm0Y status=ok duration=2.91s
+2025-11-04 13:23:24,943 INFO START transcripts NnhU2ZvHb10 (Nvidia Didn’t Want to Make the RTX 5070 Ti - Full Review)
+2025-11-04 13:23:24,945 INFO yt-dlp transcripts attempt 1 for NnhU2ZvHb10
+2025-11-04 13:23:27,851 INFO yt-dlp transcripts succeeded for NnhU2ZvHb10 on attempt 1
+2025-11-04 13:23:27,852 INFO END transcripts NnhU2ZvHb10 status=ok duration=2.91s
+2025-11-04 13:23:34,340 INFO START transcripts 0L1Uyw22UAw (Why Does the RTX 5080 Suck?)
+2025-11-04 13:23:34,340 INFO yt-dlp transcripts attempt 1 for 0L1Uyw22UAw
+2025-11-04 13:23:37,176 INFO yt-dlp transcripts succeeded for 0L1Uyw22UAw on attempt 1
+2025-11-04 13:23:37,177 INFO END transcripts 0L1Uyw22UAw status=ok duration=2.84s
+2025-11-04 13:23:45,774 INFO START transcripts sEu6k-MdZgc (Nvidia GeForce RTX 5080 Review, 1440p & 4K Gaming Benchmarks)
+2025-11-04 13:23:45,775 INFO yt-dlp transcripts attempt 1 for sEu6k-MdZgc
+2025-11-04 13:23:48,256 INFO yt-dlp transcripts succeeded for sEu6k-MdZgc on attempt 1
+2025-11-04 13:23:48,257 INFO END transcripts sEu6k-MdZgc status=ok duration=2.48s
+2025-11-04 13:23:55,239 INFO START transcripts d7k4XWg-TcA (NVIDIA, this is a joke right? – RTX 5080.)
+2025-11-04 13:23:55,240 INFO yt-dlp transcripts attempt 1 for d7k4XWg-TcA
+2025-11-04 13:23:57,802 INFO yt-dlp transcripts succeeded for d7k4XWg-TcA on attempt 1
+2025-11-04 13:23:57,803 INFO END transcripts d7k4XWg-TcA status=ok duration=2.56s
+2025-11-04 13:24:06,180 INFO START transcripts nShh_j4s2YE (NVIDIA GeForce RTX 5080 Founders Edition Review & Benchmarks vs 5090, 7900 XTX, 4080, & More)
+2025-11-04 13:24:06,180 INFO yt-dlp transcripts attempt 1 for nShh_j4s2YE
+2025-11-04 13:24:08,936 INFO yt-dlp transcripts succeeded for nShh_j4s2YE on attempt 1
+2025-11-04 13:24:08,937 INFO END transcripts nShh_j4s2YE status=ok duration=2.76s
+2025-11-04 13:24:18,904 INFO Extended cooldown 67.2s after 140 videos
+2025-11-04 13:25:26,081 INFO START transcripts Fbg7ChsjmEA (I Can’t Put a Positive Spin on the RTX 5080 - Full Review)
+2025-11-04 13:25:26,082 INFO yt-dlp transcripts attempt 1 for Fbg7ChsjmEA
+2025-11-04 13:25:29,115 INFO yt-dlp transcripts succeeded for Fbg7ChsjmEA on attempt 1
+2025-11-04 13:25:29,116 INFO END transcripts Fbg7ChsjmEA status=ok duration=3.03s
+2025-11-04 13:25:38,092 INFO START transcripts nryZwnVYpns (NVIDIA is Taking a Risk with this Generation: The Blackwell GeForce RTX 5090 Review and Benchmarks)
+2025-11-04 13:25:38,092 INFO yt-dlp transcripts attempt 1 for nryZwnVYpns
+2025-11-04 13:25:41,109 INFO yt-dlp transcripts succeeded for nryZwnVYpns on attempt 1
+2025-11-04 13:25:41,110 INFO END transcripts nryZwnVYpns status=ok duration=3.02s
+2025-11-04 13:25:50,420 INFO START transcripts 5YJNFREQHiw (The RTX 5090 Experience.)
+2025-11-04 13:25:50,420 INFO yt-dlp transcripts attempt 1 for 5YJNFREQHiw
+2025-11-04 13:25:53,259 INFO yt-dlp transcripts succeeded for 5YJNFREQHiw on attempt 1
+2025-11-04 13:25:53,261 INFO END transcripts 5YJNFREQHiw status=ok duration=2.84s
+2025-11-04 13:26:00,946 INFO START transcripts ulUZ7bf_MXI (Full in-Depth RTX 5090 Review!)
+2025-11-04 13:26:00,947 INFO yt-dlp transcripts attempt 1 for ulUZ7bf_MXI
+2025-11-04 13:26:03,938 INFO yt-dlp transcripts succeeded for ulUZ7bf_MXI on attempt 1
+2025-11-04 13:26:03,939 INFO END transcripts ulUZ7bf_MXI status=ok duration=2.99s
+2025-11-04 13:26:12,615 INFO START transcripts eA5lFiP3mrs (Nvidia GeForce RTX 5090 Review, 1440p & 4K Gaming Benchmarks)
+2025-11-04 13:26:12,615 INFO yt-dlp transcripts attempt 1 for eA5lFiP3mrs
+2025-11-04 13:26:15,320 INFO yt-dlp transcripts succeeded for eA5lFiP3mrs on attempt 1
+2025-11-04 13:26:15,321 INFO END transcripts eA5lFiP3mrs status=ok duration=2.71s
+2025-11-04 13:26:23,399 INFO START transcripts VWSlOC_jiLQ (NVIDIA GeForce RTX 5090 Founders Edition Review & Benchmarks: Gaming, Thermals, & Power)
+2025-11-04 13:26:23,400 INFO yt-dlp transcripts attempt 1 for VWSlOC_jiLQ
+2025-11-04 13:26:26,008 INFO yt-dlp transcripts succeeded for VWSlOC_jiLQ on attempt 1
+2025-11-04 13:26:26,009 INFO END transcripts VWSlOC_jiLQ status=ok duration=2.61s
+2025-11-04 13:26:32,283 INFO START transcripts _HfizETJtsY (RX 460 Review: Polaris 11 Analysed In-Depth!)
+2025-11-04 13:26:32,284 INFO yt-dlp transcripts attempt 1 for _HfizETJtsY
+2025-11-04 13:26:35,088 INFO yt-dlp transcripts succeeded for _HfizETJtsY on attempt 1
+2025-11-04 13:26:35,089 INFO END transcripts _HfizETJtsY status=ok duration=2.81s
+2025-11-04 13:26:44,665 INFO START transcripts xeXGMkMCVzs (AMD RX 460 Review - Asus ROG Strix)
+2025-11-04 13:26:44,665 INFO yt-dlp transcripts attempt 1 for xeXGMkMCVzs
+2025-11-04 13:26:47,362 INFO yt-dlp transcripts succeeded for xeXGMkMCVzs on attempt 1
+2025-11-04 13:26:47,363 INFO END transcripts xeXGMkMCVzs status=ok duration=2.70s
+2025-11-04 13:26:54,107 INFO START transcripts b_ahq7GSfoY (RX 460)
+2025-11-04 13:26:54,107 INFO yt-dlp transcripts attempt 1 for b_ahq7GSfoY
+2025-11-04 13:26:56,941 INFO yt-dlp transcripts succeeded for b_ahq7GSfoY on attempt 1
+2025-11-04 13:26:56,942 INFO END transcripts b_ahq7GSfoY status=ok duration=2.83s
+2025-11-04 13:27:05,459 INFO START transcripts OnB4e4wk2CI (What the f*** is wrong with GPU pricing? - XFX RX 460 Review)
+2025-11-04 13:27:05,459 INFO yt-dlp transcripts attempt 1 for OnB4e4wk2CI
+2025-11-04 13:27:08,041 INFO yt-dlp transcripts succeeded for OnB4e4wk2CI on attempt 1
+2025-11-04 13:27:08,042 INFO END transcripts OnB4e4wk2CI status=ok duration=2.58s
+2025-11-04 13:27:14,596 INFO Extended cooldown 92.9s after 150 videos
+2025-11-04 13:28:47,505 INFO START transcripts 8I8MP8-Ipkg (Sapphire NITRO+ RX 470 Review - The 1080p Sweet Spot?)
+2025-11-04 13:28:47,505 INFO yt-dlp transcripts attempt 1 for 8I8MP8-Ipkg
+2025-11-04 13:28:50,424 INFO yt-dlp transcripts succeeded for 8I8MP8-Ipkg on attempt 1
+2025-11-04 13:28:50,425 INFO END transcripts 8I8MP8-Ipkg status=ok duration=2.92s
+2025-11-04 13:28:57,743 INFO START transcripts s7t6lN2-bK8 (AMD Radeon RX 470 Benchmarks Review - New Cost Per Frame King?)
+2025-11-04 13:28:57,743 INFO yt-dlp transcripts attempt 1 for s7t6lN2-bK8
+2025-11-04 13:29:00,516 INFO yt-dlp transcripts succeeded for s7t6lN2-bK8 on attempt 1
+2025-11-04 13:29:00,517 INFO END transcripts s7t6lN2-bK8 status=ok duration=2.77s
+2025-11-04 13:29:10,269 INFO START transcripts cWS02ajdR4Q (AMD Radeon RX 470 Review: It's Fast! But What About CrossFire?)
+2025-11-04 13:29:10,270 INFO yt-dlp transcripts attempt 1 for cWS02ajdR4Q
+2025-11-04 13:29:12,961 INFO yt-dlp transcripts succeeded for cWS02ajdR4Q on attempt 1
+2025-11-04 13:29:12,962 INFO END transcripts cWS02ajdR4Q status=ok duration=2.69s
+2025-11-04 13:29:21,515 INFO START transcripts PFSL3pzv82M (How Powerful is AMD's RX 470?)
+2025-11-04 13:29:21,516 INFO yt-dlp transcripts attempt 1 for PFSL3pzv82M
+2025-11-04 13:29:24,265 INFO yt-dlp transcripts succeeded for PFSL3pzv82M on attempt 1
+2025-11-04 13:29:24,266 INFO END transcripts PFSL3pzv82M status=ok duration=2.75s
+2025-11-04 13:29:33,235 INFO START transcripts lRDgiWBfs5I (Is the AMD RX 480 the new mid-range king??)
+2025-11-04 13:29:33,235 INFO yt-dlp transcripts attempt 1 for lRDgiWBfs5I
+2025-11-04 13:29:36,022 INFO yt-dlp transcripts succeeded for lRDgiWBfs5I on attempt 1
+2025-11-04 13:29:36,022 INFO END transcripts lRDgiWBfs5I status=ok duration=2.79s
+2025-11-04 13:29:42,506 INFO START transcripts -y6Ky_pCawQ (AMD RX 480 Review & Benchmarks)
+2025-11-04 13:29:42,507 INFO yt-dlp transcripts attempt 1 for -y6Ky_pCawQ
+2025-11-04 13:29:45,264 INFO yt-dlp transcripts succeeded for -y6Ky_pCawQ on attempt 1
+2025-11-04 13:29:45,265 INFO END transcripts -y6Ky_pCawQ status=ok duration=2.76s
+2025-11-04 13:29:53,329 INFO START transcripts YTku-GqDSWg (AMD Radeon RX 480 Review: The Best Value 1080p60 GPU?)
+2025-11-04 13:29:53,329 INFO yt-dlp transcripts attempt 1 for YTku-GqDSWg
+2025-11-04 13:29:56,143 INFO yt-dlp transcripts succeeded for YTku-GqDSWg on attempt 1
+2025-11-04 13:29:56,144 INFO END transcripts YTku-GqDSWg status=ok duration=2.82s
+2025-11-04 13:30:05,711 INFO START transcripts 2GdfDCq86Gk (RX 480 Review - The New Value King)
+2025-11-04 13:30:05,711 INFO yt-dlp transcripts attempt 1 for 2GdfDCq86Gk
+2025-11-04 13:30:08,538 INFO yt-dlp transcripts succeeded for 2GdfDCq86Gk on attempt 1
+2025-11-04 13:30:08,538 INFO END transcripts 2GdfDCq86Gk status=ok duration=2.83s
+2025-11-04 13:30:17,010 INFO START transcripts Nz5Mgim0Z80 (Dodgy Alert! AMD launches slower RX 560 with SAME NAME!)
+2025-11-04 13:30:17,011 INFO yt-dlp transcripts attempt 1 for Nz5Mgim0Z80
+2025-11-04 13:30:19,628 INFO yt-dlp transcripts succeeded for Nz5Mgim0Z80 on attempt 1
+2025-11-04 13:30:19,629 INFO END transcripts Nz5Mgim0Z80 status=ok duration=2.62s
+2025-11-04 13:30:29,162 INFO START transcripts 237L9UGQtGk (RX 560 - Which Card Should You Buy? - 8 Card Review - 2GB vs 4GB)
+2025-11-04 13:30:29,162 INFO yt-dlp transcripts attempt 1 for 237L9UGQtGk
+2025-11-04 13:30:32,110 INFO yt-dlp transcripts succeeded for 237L9UGQtGk on attempt 1
+2025-11-04 13:30:32,111 INFO END transcripts 237L9UGQtGk status=ok duration=2.95s
+2025-11-04 13:30:39,779 INFO Extended cooldown 83.2s after 160 videos
+2025-11-04 13:32:03,018 INFO START transcripts SKGDl_T0nJ4 (Should You Buy the RX 560?)
+2025-11-04 13:32:03,018 INFO yt-dlp transcripts attempt 1 for SKGDl_T0nJ4
+2025-11-04 13:32:05,802 INFO yt-dlp transcripts succeeded for SKGDl_T0nJ4 on attempt 1
+2025-11-04 13:32:05,816 INFO END transcripts SKGDl_T0nJ4 status=ok duration=2.80s
+2025-11-04 13:32:15,188 INFO START transcripts _fYtV67NPo8 (AMD Radeon RX 560 in 5 of the NEWEST games 2018 Review!)
+2025-11-04 13:32:15,203 INFO yt-dlp transcripts attempt 1 for _fYtV67NPo8
+2025-11-04 13:32:17,827 INFO yt-dlp transcripts succeeded for _fYtV67NPo8 on attempt 1
+2025-11-04 13:32:17,828 INFO END transcripts _fYtV67NPo8 status=ok duration=2.63s
+2025-11-04 13:32:27,221 INFO START transcripts xH37gHQEyVY (AMD’s RX570 4GB – Worth Buying in 2018?)
+2025-11-04 13:32:27,221 INFO yt-dlp transcripts attempt 1 for xH37gHQEyVY
+2025-11-04 13:32:30,433 INFO yt-dlp transcripts succeeded for xH37gHQEyVY on attempt 1
+2025-11-04 13:32:30,434 INFO END transcripts xH37gHQEyVY status=ok duration=3.21s
+2025-11-04 13:32:36,960 INFO START transcripts uHM4c22JJeI (The 1080p 60FPS PC Gaming Value KING - MSI Armor AMD Radeon RX 570 8GB Review)
+2025-11-04 13:32:36,961 INFO yt-dlp transcripts attempt 1 for uHM4c22JJeI
+2025-11-04 13:32:39,652 INFO yt-dlp transcripts succeeded for uHM4c22JJeI on attempt 1
+2025-11-04 13:32:39,653 INFO END transcripts uHM4c22JJeI status=ok duration=2.69s
+2025-11-04 13:32:46,650 INFO START transcripts VBHS6sLnwhg (AMD RX 570 Review - Sapphire Nitro+ Edition)
+2025-11-04 13:32:46,651 INFO yt-dlp transcripts attempt 1 for VBHS6sLnwhg
+2025-11-04 13:32:49,523 INFO yt-dlp transcripts succeeded for VBHS6sLnwhg on attempt 1
+2025-11-04 13:32:49,524 INFO END transcripts VBHS6sLnwhg status=ok duration=2.87s
+2025-11-04 13:32:58,682 INFO START transcripts Z-SmvMykfR4 (Radeon RX 570 Review: The Best Cheap GPU For 1080p60 Gaming?)
+2025-11-04 13:32:58,682 INFO yt-dlp transcripts attempt 1 for Z-SmvMykfR4
+2025-11-04 13:33:01,438 INFO yt-dlp transcripts succeeded for Z-SmvMykfR4 on attempt 1
+2025-11-04 13:33:01,439 INFO END transcripts Z-SmvMykfR4 status=ok duration=2.76s
+2025-11-04 13:33:07,860 INFO START transcripts vYQiVsvmvwc (Radeon RX 580, Worth Buying in 2018? Asrock's New Phantom Gaming RX 580)
+2025-11-04 13:33:07,860 INFO yt-dlp transcripts attempt 1 for vYQiVsvmvwc
+2025-11-04 13:33:10,301 INFO yt-dlp transcripts succeeded for vYQiVsvmvwc on attempt 1
+2025-11-04 13:33:10,301 INFO END transcripts vYQiVsvmvwc status=ok duration=2.44s
+2025-11-04 13:33:19,325 INFO START transcripts H6st6QZTDxE (Can the RX 580 Dethrone The GTX 1060? Yep, We're Doing It Again!)
+2025-11-04 13:33:19,325 INFO yt-dlp transcripts attempt 1 for H6st6QZTDxE
+2025-11-04 13:33:21,870 INFO yt-dlp transcripts succeeded for H6st6QZTDxE on attempt 1
+2025-11-04 13:33:21,871 INFO END transcripts H6st6QZTDxE status=ok duration=2.55s
+2025-11-04 13:33:28,168 INFO START transcripts BWqF5fDAZqA (RX 580 & 570 Review - AMD Strikes Back... at AMD???)
+2025-11-04 13:33:28,169 INFO yt-dlp transcripts attempt 1 for BWqF5fDAZqA
+2025-11-04 13:33:31,297 INFO yt-dlp transcripts succeeded for BWqF5fDAZqA on attempt 1
+2025-11-04 13:33:31,299 INFO END transcripts BWqF5fDAZqA status=ok duration=3.13s
+2025-11-04 13:33:40,653 INFO START transcripts hTnFKwK_DaQ (AMD Radeon RX 580 Review: How Much Faster Is 2nd Gen Polaris?)
+2025-11-04 13:33:40,653 INFO yt-dlp transcripts attempt 1 for hTnFKwK_DaQ
+2025-11-04 13:33:43,411 INFO yt-dlp transcripts succeeded for hTnFKwK_DaQ on attempt 1
+2025-11-04 13:33:43,412 INFO END transcripts hTnFKwK_DaQ status=ok duration=2.76s
+2025-11-04 13:33:52,377 INFO Extended cooldown 65.5s after 170 videos
+2025-11-04 13:34:57,914 INFO START transcripts JmfNtunmBsQ (AMD Sapphire Nitro+ RX590 Review - It's a CRACKING card!)
+2025-11-04 13:34:57,914 INFO yt-dlp transcripts attempt 1 for JmfNtunmBsQ
+2025-11-04 13:35:00,797 INFO yt-dlp transcripts succeeded for JmfNtunmBsQ on attempt 1
+2025-11-04 13:35:00,798 INFO END transcripts JmfNtunmBsQ status=ok duration=2.88s
+2025-11-04 13:35:07,804 INFO START transcripts BBN2KDiw-V8 (XFX RX 590 Fatboy Review: Competitive Silicon, Weak Cooler)
+2025-11-04 13:35:07,804 INFO yt-dlp transcripts attempt 1 for BBN2KDiw-V8
+2025-11-04 13:35:10,542 INFO yt-dlp transcripts succeeded for BBN2KDiw-V8 on attempt 1
+2025-11-04 13:35:10,543 INFO END transcripts BBN2KDiw-V8 status=ok duration=2.74s
+2025-11-04 13:35:17,295 INFO START transcripts xEileqxmags (I'm not reviewing this. - Radeon RX 590)
+2025-11-04 13:35:17,296 INFO yt-dlp transcripts attempt 1 for xEileqxmags
+2025-11-04 13:35:20,118 INFO yt-dlp transcripts succeeded for xEileqxmags on attempt 1
+2025-11-04 13:35:20,119 INFO END transcripts xEileqxmags status=ok duration=2.82s
+2025-11-04 13:35:26,438 INFO START transcripts utEpgpYywY0 (Radeon RX 590 Review - AMD Strikes BACK... Sort Of)
+2025-11-04 13:35:26,438 INFO yt-dlp transcripts attempt 1 for utEpgpYywY0
+2025-11-04 13:35:29,295 INFO yt-dlp transcripts succeeded for utEpgpYywY0 on attempt 1
+2025-11-04 13:35:29,296 INFO END transcripts utEpgpYywY0 status=ok duration=2.86s
+2025-11-04 13:35:35,776 INFO START transcripts 7pSPa0Q-ec8 (AMD RX 5500 XT Review - Budget 1080p Gaming Powerhouse?)
+2025-11-04 13:35:35,776 INFO yt-dlp transcripts attempt 1 for 7pSPa0Q-ec8
+2025-11-04 13:35:38,337 INFO yt-dlp transcripts succeeded for 7pSPa0Q-ec8 on attempt 1
+2025-11-04 13:35:38,338 INFO END transcripts 7pSPa0Q-ec8 status=ok duration=2.56s
+2025-11-04 13:35:44,923 INFO START transcripts TXSeVBCR6yg (Is the RX 5500 XT Worth it One Month Later...? (Sapphire Pulse 4GB and ASUS R.O.G 8GB Review))
+2025-11-04 13:35:44,923 INFO yt-dlp transcripts attempt 1 for TXSeVBCR6yg
+2025-11-04 13:35:48,087 INFO yt-dlp transcripts succeeded for TXSeVBCR6yg on attempt 1
+2025-11-04 13:35:48,088 INFO END transcripts TXSeVBCR6yg status=ok duration=3.17s
+2025-11-04 13:35:54,736 INFO START transcripts 04SwpnoCbnI (AMD Radeon RX 5500 XT 8GB Review, More Like 'RX 5500 Super')
+2025-11-04 13:35:54,737 INFO yt-dlp transcripts attempt 1 for 04SwpnoCbnI
+2025-11-04 13:35:57,509 INFO yt-dlp transcripts succeeded for 04SwpnoCbnI on attempt 1
+2025-11-04 13:35:57,510 INFO END transcripts 04SwpnoCbnI status=ok duration=2.77s
+2025-11-04 13:36:06,580 INFO START transcripts KH8jBffBOuE (AMD RX 5500 XT GPU Review: 4GB vs. 8GB Benchmarks, Thermals, & Noise)
+2025-11-04 13:36:06,581 INFO yt-dlp transcripts attempt 1 for KH8jBffBOuE
+2025-11-04 13:36:09,357 INFO yt-dlp transcripts succeeded for KH8jBffBOuE on attempt 1
+2025-11-04 13:36:09,359 INFO END transcripts KH8jBffBOuE status=ok duration=2.78s
+2025-11-04 13:36:17,139 INFO START transcripts r2d24PnqiOE (Is the RADEON 5500XT worth the price?)
+2025-11-04 13:36:17,139 INFO yt-dlp transcripts attempt 1 for r2d24PnqiOE
+2025-11-04 13:36:19,772 INFO yt-dlp transcripts succeeded for r2d24PnqiOE on attempt 1
+2025-11-04 13:36:19,773 INFO END transcripts r2d24PnqiOE status=ok duration=2.63s
+2025-11-04 13:36:28,204 INFO START transcripts e0RKu_gyKOA (Sapphire Pulse RX 5500 XT Review)
+2025-11-04 13:36:28,205 INFO yt-dlp transcripts attempt 1 for e0RKu_gyKOA
+2025-11-04 13:36:30,790 INFO yt-dlp transcripts succeeded for e0RKu_gyKOA on attempt 1
+2025-11-04 13:36:30,791 INFO END transcripts e0RKu_gyKOA status=ok duration=2.59s
+2025-11-04 13:36:39,546 INFO Extended cooldown 90.9s after 180 videos
+2025-11-04 13:38:10,442 INFO START transcripts uiKImSacj0o (The New Polaris | RX 5600 XT)
+2025-11-04 13:38:10,442 INFO yt-dlp transcripts attempt 1 for uiKImSacj0o
+2025-11-04 13:38:13,081 INFO yt-dlp transcripts succeeded for uiKImSacj0o on attempt 1
+2025-11-04 13:38:13,082 INFO END transcripts uiKImSacj0o status=ok duration=2.64s
+2025-11-04 13:38:21,881 INFO START transcripts -Lcyyl2kQL8 (AMD RX 5600 XT Review – Gaming & Overclocking)
+2025-11-04 13:38:21,881 INFO yt-dlp transcripts attempt 1 for -Lcyyl2kQL8
+2025-11-04 13:38:24,725 INFO yt-dlp transcripts succeeded for -Lcyyl2kQL8 on attempt 1
+2025-11-04 13:38:24,726 INFO END transcripts -Lcyyl2kQL8 status=ok duration=2.84s
+2025-11-04 13:38:34,430 INFO START transcripts rKn-vWDMkwQ (It’s time to upgrade your GPU - RX 5600 XT)
+2025-11-04 13:38:34,430 INFO yt-dlp transcripts attempt 1 for rKn-vWDMkwQ
+2025-11-04 13:38:37,002 INFO yt-dlp transcripts succeeded for rKn-vWDMkwQ on attempt 1
+2025-11-04 13:38:37,003 INFO END transcripts rKn-vWDMkwQ status=ok duration=2.57s
+2025-11-04 13:38:44,248 INFO START transcripts qcAwR49zRCg (AMD Radeon RX 5600 XT Review, Navi at $280, RTX 2060 down to $300)
+2025-11-04 13:38:44,248 INFO yt-dlp transcripts attempt 1 for qcAwR49zRCg
+2025-11-04 13:38:46,884 INFO yt-dlp transcripts succeeded for qcAwR49zRCg on attempt 1
+2025-11-04 13:38:46,884 INFO END transcripts qcAwR49zRCg status=ok duration=2.64s
+2025-11-04 13:38:53,929 INFO START transcripts P5MiBoPpCW4 (AMD Tricked Everyone! Radeon RX 5600 XT Review and Benchmarks)
+2025-11-04 13:38:53,929 INFO yt-dlp transcripts attempt 1 for P5MiBoPpCW4
+2025-11-04 13:38:56,719 INFO yt-dlp transcripts succeeded for P5MiBoPpCW4 on attempt 1
+2025-11-04 13:38:56,720 INFO END transcripts P5MiBoPpCW4 status=ok duration=2.79s
+2025-11-04 13:39:06,007 INFO START transcripts PCi9c8KqpNk (The Best Value Radeon RX 5600 XT, The Entry-Level Roundup)
+2025-11-04 13:39:06,008 INFO yt-dlp transcripts attempt 1 for PCi9c8KqpNk
+2025-11-04 13:39:08,458 INFO yt-dlp transcripts succeeded for PCi9c8KqpNk on attempt 1
+2025-11-04 13:39:08,459 INFO END transcripts PCi9c8KqpNk status=ok duration=2.45s
+2025-11-04 13:39:16,685 INFO START transcripts kh1DeO4yz2s (Sapphire RX 5700 XT Nitro+ Review: In-Depth Thermals, Noise, Overclocking, & Power)
+2025-11-04 13:39:16,685 INFO yt-dlp transcripts attempt 1 for kh1DeO4yz2s
+2025-11-04 13:39:19,382 INFO yt-dlp transcripts succeeded for kh1DeO4yz2s on attempt 1
+2025-11-04 13:39:19,383 INFO END transcripts kh1DeO4yz2s status=ok duration=2.70s
+2025-11-04 13:39:29,260 INFO START transcripts U1y-J0p-uJc (AMD RX 5700 XT & RX 5700 Review - Benchmarks Are Finally Here!)
+2025-11-04 13:39:29,260 INFO yt-dlp transcripts attempt 1 for U1y-J0p-uJc
+2025-11-04 13:39:31,990 INFO yt-dlp transcripts succeeded for U1y-J0p-uJc on attempt 1
+2025-11-04 13:39:31,991 INFO END transcripts U1y-J0p-uJc status=ok duration=2.73s
+2025-11-04 13:39:41,870 INFO START transcripts Fd7bTccL9fo (Asus ROG Strix RX 5700 XT Review, Is The Most Expensive 5700 XT The Best?)
+2025-11-04 13:39:41,871 INFO yt-dlp transcripts attempt 1 for Fd7bTccL9fo
+2025-11-04 13:39:44,715 INFO yt-dlp transcripts succeeded for Fd7bTccL9fo on attempt 1
+2025-11-04 13:39:44,716 INFO END transcripts Fd7bTccL9fo status=ok duration=2.85s
+2025-11-04 13:39:53,298 INFO START transcripts -SAWtKEIYbw (AMD Radeon RX 5700 XT Review: Thermals, Noise, Gaming, & Broken Drivers)
+2025-11-04 13:39:53,298 INFO yt-dlp transcripts attempt 1 for -SAWtKEIYbw
+2025-11-04 13:39:56,173 INFO yt-dlp transcripts succeeded for -SAWtKEIYbw on attempt 1
+2025-11-04 13:39:56,174 INFO END transcripts -SAWtKEIYbw status=ok duration=2.88s
+2025-11-04 13:40:02,589 INFO Extended cooldown 66.7s after 190 videos
+2025-11-04 13:41:09,310 INFO START transcripts 3bmQPx9EJLA (Why NOT to buy Radeon 5700 XT… Yet – Our Review)
+2025-11-04 13:41:09,311 INFO yt-dlp transcripts attempt 1 for 3bmQPx9EJLA
+2025-11-04 13:41:12,124 INFO yt-dlp transcripts succeeded for 3bmQPx9EJLA on attempt 1
+2025-11-04 13:41:12,126 INFO END transcripts 3bmQPx9EJLA status=ok duration=2.82s
+2025-11-04 13:41:21,872 INFO START transcripts rz47WqRDDK4 (AMD Radeon RX 5700 XT & RX 5700 Review, New Value Champions!)
+2025-11-04 13:41:21,872 INFO yt-dlp transcripts attempt 1 for rz47WqRDDK4
+2025-11-04 13:41:24,300 INFO yt-dlp transcripts succeeded for rz47WqRDDK4 on attempt 1
+2025-11-04 13:41:24,300 INFO END transcripts rz47WqRDDK4 status=ok duration=2.43s
+2025-11-04 13:41:33,834 INFO START transcripts GL5zY1DIrok (This RX 6500 XT Comparison Was A Terrible Idea…)
+2025-11-04 13:41:33,834 INFO yt-dlp transcripts attempt 1 for GL5zY1DIrok
+2025-11-04 13:41:36,676 INFO yt-dlp transcripts succeeded for GL5zY1DIrok on attempt 1
+2025-11-04 13:41:36,677 INFO END transcripts GL5zY1DIrok status=ok duration=2.84s
+2025-11-04 13:41:44,335 INFO START transcripts M5_oM3Ow_CI (Worst GPU: Radeon RX 6500 XT Review, Corner Cutting Edition)
+2025-11-04 13:41:44,335 INFO yt-dlp transcripts attempt 1 for M5_oM3Ow_CI
+2025-11-04 13:41:47,270 INFO yt-dlp transcripts succeeded for M5_oM3Ow_CI on attempt 1
+2025-11-04 13:41:47,271 INFO END transcripts M5_oM3Ow_CI status=ok duration=2.94s
+2025-11-04 13:41:54,921 INFO START transcripts ArW4-mkGHSw (WTF AMD!? RX 6500 XT Review)
+2025-11-04 13:41:54,922 INFO yt-dlp transcripts attempt 1 for ArW4-mkGHSw
+2025-11-04 13:41:57,854 INFO yt-dlp transcripts succeeded for ArW4-mkGHSw on attempt 1
+2025-11-04 13:41:57,855 INFO END transcripts ArW4-mkGHSw status=ok duration=2.93s
+2025-11-04 13:42:07,198 INFO START transcripts KYp6pEDm4E8 (A GPU you might be able to buy… But shouldn’t. - AMD Radeon RX 6500 XT)
+2025-11-04 13:42:07,198 INFO yt-dlp transcripts attempt 1 for KYp6pEDm4E8
+2025-11-04 13:42:09,692 INFO yt-dlp transcripts succeeded for KYp6pEDm4E8 on attempt 1
+2025-11-04 13:42:09,693 INFO END transcripts KYp6pEDm4E8 status=ok duration=2.49s
+2025-11-04 13:42:19,037 INFO START transcripts ICnz6E7vux0 (Why Everyone is WRONG About the RX 6500XT)
+2025-11-04 13:42:19,037 INFO yt-dlp transcripts attempt 1 for ICnz6E7vux0
+2025-11-04 13:42:21,845 INFO yt-dlp transcripts succeeded for ICnz6E7vux0 on attempt 1
+2025-11-04 13:42:21,846 INFO END transcripts ICnz6E7vux0 status=ok duration=2.81s
+2025-11-04 13:42:28,596 INFO START transcripts VFHOZN5AV6E (Mid-Range is Dead: AMD RX 6600 XT Review & Benchmarks (PowerColor Fighter))
+2025-11-04 13:42:28,598 INFO yt-dlp transcripts attempt 1 for VFHOZN5AV6E
+2025-11-04 13:42:31,496 INFO yt-dlp transcripts succeeded for VFHOZN5AV6E on attempt 1
+2025-11-04 13:42:31,497 INFO END transcripts VFHOZN5AV6E status=ok duration=2.90s
+2025-11-04 13:42:39,510 INFO START transcripts 8cTquLSUP18 (Is the 6600XT REALLY as bad as reviewers say??)
+2025-11-04 13:42:39,510 INFO yt-dlp transcripts attempt 1 for 8cTquLSUP18
+2025-11-04 13:42:42,440 INFO yt-dlp transcripts succeeded for 8cTquLSUP18 on attempt 1
+2025-11-04 13:42:42,441 INFO END transcripts 8cTquLSUP18 status=ok duration=2.93s
+2025-11-04 13:42:49,990 INFO START transcripts 5r67vt8-_Xg (AMD Radeon RX 6600 XT Review - The Little GPU that Couldn't)
+2025-11-04 13:42:49,991 INFO yt-dlp transcripts attempt 1 for 5r67vt8-_Xg
+2025-11-04 13:42:52,687 INFO yt-dlp transcripts succeeded for 5r67vt8-_Xg on attempt 1
+2025-11-04 13:42:52,688 INFO END transcripts 5r67vt8-_Xg status=ok duration=2.70s
+2025-11-04 13:42:59,691 INFO Extended cooldown 101.3s after 200 videos
+2025-11-04 13:44:40,974 INFO START transcripts _tDYu5sBtFs (AMD Radeon RX 6600 XT Review: Worse Than Expected, But Can It Be Saved?)
+2025-11-04 13:44:40,975 INFO yt-dlp transcripts attempt 1 for _tDYu5sBtFs
+2025-11-04 13:44:43,785 INFO yt-dlp transcripts succeeded for _tDYu5sBtFs on attempt 1
+2025-11-04 13:44:43,786 INFO END transcripts _tDYu5sBtFs status=ok duration=2.81s
+2025-11-04 13:44:50,217 INFO START transcripts v0HcvMoMjy8 (AMD wants HOW MUCH for 1080p Gaming?? - Radeon RX 6600 XT Review)
+2025-11-04 13:44:50,217 INFO yt-dlp transcripts attempt 1 for v0HcvMoMjy8
+2025-11-04 13:44:53,086 INFO yt-dlp transcripts succeeded for v0HcvMoMjy8 on attempt 1
+2025-11-04 13:44:53,087 INFO END transcripts v0HcvMoMjy8 status=ok duration=2.87s
+2025-11-04 13:45:00,960 INFO START transcripts zjohRuvXtLw (AMD Are In BIG Trouble 🤦‍♂️ RX 6700 XT Review - Powercolor Hellhound Gameplay Benchmarks Ray Tracing)
+2025-11-04 13:45:00,961 INFO yt-dlp transcripts attempt 1 for zjohRuvXtLw
+2025-11-04 13:45:03,945 INFO yt-dlp transcripts succeeded for zjohRuvXtLw on attempt 1
+2025-11-04 13:45:03,946 INFO END transcripts zjohRuvXtLw status=ok duration=2.99s
+2025-11-04 13:45:11,602 INFO START transcripts PJboWJJFk9I (AMD Radeon RX 6700 XT Review, A Worthy 5700 XT Successor?)
+2025-11-04 13:45:11,603 INFO yt-dlp transcripts attempt 1 for PJboWJJFk9I
+2025-11-04 13:45:14,214 INFO yt-dlp transcripts succeeded for PJboWJJFk9I on attempt 1
+2025-11-04 13:45:14,215 INFO END transcripts PJboWJJFk9I status=ok duration=2.61s
+2025-11-04 13:45:23,563 INFO START transcripts xs4wSysBDxM (Okay, Last Chance - AMD RX 6700 XT Review)
+2025-11-04 13:45:23,563 INFO yt-dlp transcripts attempt 1 for xs4wSysBDxM
+2025-11-04 13:45:26,313 INFO yt-dlp transcripts succeeded for xs4wSysBDxM on attempt 1
+2025-11-04 13:45:26,314 INFO END transcripts xs4wSysBDxM status=ok duration=2.75s
+2025-11-04 13:45:36,055 INFO START transcripts oj8SuJ2Mb6A (AMD Radeon RX 6700 XT GPU Review: Literally Anything Will Sell)
+2025-11-04 13:45:36,056 INFO yt-dlp transcripts attempt 1 for oj8SuJ2Mb6A
+2025-11-04 13:45:38,719 INFO yt-dlp transcripts succeeded for oj8SuJ2Mb6A on attempt 1
+2025-11-04 13:45:38,720 INFO END transcripts oj8SuJ2Mb6A status=ok duration=2.66s
+2025-11-04 13:45:46,627 INFO START transcripts 5wO2vUZv4zw (AMD has got to be kidding - Radeon 6700 XT Review)
+2025-11-04 13:45:46,627 INFO yt-dlp transcripts attempt 1 for 5wO2vUZv4zw
+2025-11-04 13:45:49,695 INFO yt-dlp transcripts succeeded for 5wO2vUZv4zw on attempt 1
+2025-11-04 13:45:49,696 INFO END transcripts 5wO2vUZv4zw status=ok duration=3.07s
+2025-11-04 13:45:56,150 INFO START transcripts LzjRPbSIW4I (Sapphire Radeon RX 6800 XT Nitro+ Review, Power, Thermals, Overclocking & Gaming)
+2025-11-04 13:45:56,151 INFO yt-dlp transcripts attempt 1 for LzjRPbSIW4I
+2025-11-04 13:45:59,217 INFO yt-dlp transcripts succeeded for LzjRPbSIW4I on attempt 1
+2025-11-04 13:45:59,218 INFO END transcripts LzjRPbSIW4I status=ok duration=3.07s
+2025-11-04 13:46:09,186 INFO START transcripts 5bKaJDbKVt0 (AMD RX 6800 XT Review - The RTX 3080 Killer?)
+2025-11-04 13:46:09,186 INFO yt-dlp transcripts attempt 1 for 5bKaJDbKVt0
+2025-11-04 13:46:11,900 INFO yt-dlp transcripts succeeded for 5bKaJDbKVt0 on attempt 1
+2025-11-04 13:46:11,902 INFO END transcripts 5bKaJDbKVt0 status=ok duration=2.72s
+2025-11-04 13:46:18,795 INFO START transcripts jLVGL7aAYgY (AMD Radeon RX 6800 XT GPU Review: Gaming, Thermals, Noise, & Smart Access Memory Benchmarks)
+2025-11-04 13:46:18,796 INFO yt-dlp transcripts attempt 1 for jLVGL7aAYgY
+2025-11-04 13:46:21,456 INFO yt-dlp transcripts succeeded for jLVGL7aAYgY on attempt 1
+2025-11-04 13:46:21,457 INFO END transcripts jLVGL7aAYgY status=ok duration=2.66s
+2025-11-04 13:46:29,332 INFO Extended cooldown 88.2s after 210 videos
+2025-11-04 13:47:57,499 INFO START transcripts ZtxrrrkkTjc (AMD Radeon RX 6800 XT Benchmark Review, Smart Access Memory, Thermals & Gaming)
+2025-11-04 13:47:57,499 INFO yt-dlp transcripts attempt 1 for ZtxrrrkkTjc
+2025-11-04 13:48:00,218 INFO yt-dlp transcripts succeeded for ZtxrrrkkTjc on attempt 1
+2025-11-04 13:48:00,219 INFO END transcripts ZtxrrrkkTjc status=ok duration=2.72s
+2025-11-04 13:48:06,758 INFO START transcripts oUzCn-ITJ_o (AMD did NOT disappoint me - RX 6800 Series Review)
+2025-11-04 13:48:06,759 INFO yt-dlp transcripts attempt 1 for oUzCn-ITJ_o
+2025-11-04 13:48:09,860 INFO yt-dlp transcripts succeeded for oUzCn-ITJ_o on attempt 1
+2025-11-04 13:48:09,861 INFO END transcripts oUzCn-ITJ_o status=ok duration=3.10s
+2025-11-04 13:48:19,715 INFO START transcripts -PtTUnj4od4 (AMD 6900XT... Something isn’t right…)
+2025-11-04 13:48:19,715 INFO yt-dlp transcripts attempt 1 for -PtTUnj4od4
+2025-11-04 13:48:22,218 INFO yt-dlp transcripts succeeded for -PtTUnj4od4 on attempt 1
+2025-11-04 13:48:22,218 INFO END transcripts -PtTUnj4od4 status=ok duration=2.50s
+2025-11-04 13:48:31,302 INFO START transcripts nxQ0-QtAtxA (Radeon RX 6900 XT Review, AMD's Fight For the Top)
+2025-11-04 13:48:31,303 INFO yt-dlp transcripts attempt 1 for nxQ0-QtAtxA
+2025-11-04 13:48:33,749 INFO yt-dlp transcripts succeeded for nxQ0-QtAtxA on attempt 1
+2025-11-04 13:48:33,750 INFO END transcripts nxQ0-QtAtxA status=ok duration=2.45s
+2025-11-04 13:48:41,248 INFO START transcripts 0LuIGI_9guQ (AMD RX 6900 XT Review - I Can't Recommend This.)
+2025-11-04 13:48:41,249 INFO yt-dlp transcripts attempt 1 for 0LuIGI_9guQ
+2025-11-04 13:48:44,332 INFO yt-dlp transcripts succeeded for 0LuIGI_9guQ on attempt 1
+2025-11-04 13:48:44,333 INFO END transcripts 0LuIGI_9guQ status=ok duration=3.09s
+2025-11-04 13:48:54,178 INFO START transcripts 1ITdex_JrBM (AMD Radeon RX 6900 XT GPU Review & Benchmarks: Undervolting, Gaming, Power, Noise)
+2025-11-04 13:48:54,179 INFO yt-dlp transcripts attempt 1 for 1ITdex_JrBM
+2025-11-04 13:48:57,006 INFO yt-dlp transcripts succeeded for 1ITdex_JrBM on attempt 1
+2025-11-04 13:48:57,007 INFO END transcripts 1ITdex_JrBM status=ok duration=2.83s
+2025-11-04 13:49:04,630 INFO START transcripts FxoPz1DO0Sg (Radeon RX 6900 XT Review & Benchmarks vs RTX 3090!)
+2025-11-04 13:49:04,631 INFO yt-dlp transcripts attempt 1 for FxoPz1DO0Sg
+2025-11-04 13:49:07,681 INFO yt-dlp transcripts succeeded for FxoPz1DO0Sg on attempt 1
+2025-11-04 13:49:07,682 INFO END transcripts FxoPz1DO0Sg status=ok duration=3.05s
+2025-11-04 13:49:14,942 INFO START transcripts GsY96xFWeN0 (AMD kept their best GPU a secret - 6950XT Review)
+2025-11-04 13:49:14,942 INFO yt-dlp transcripts attempt 1 for GsY96xFWeN0
+2025-11-04 13:49:17,783 INFO yt-dlp transcripts succeeded for GsY96xFWeN0 on attempt 1
+2025-11-04 13:49:17,785 INFO END transcripts GsY96xFWeN0 status=ok duration=2.84s
+2025-11-04 13:49:23,913 INFO START transcripts WSTmeZXHWyk ($1250 AMD Radeon RX 6950 XT GPU Review & Benchmarks (Sapphire Nitro+ Pure))
+2025-11-04 13:49:23,913 INFO yt-dlp transcripts attempt 1 for WSTmeZXHWyk
+2025-11-04 13:49:26,733 INFO yt-dlp transcripts succeeded for WSTmeZXHWyk on attempt 1
+2025-11-04 13:49:26,734 INFO END transcripts WSTmeZXHWyk status=ok duration=2.82s
+2025-11-04 13:49:35,057 INFO START transcripts XlT5WPP0o3Y (I Can't Figure Out What's Wrong With This Gigabyte RX 6950 XT)
+2025-11-04 13:49:35,058 INFO yt-dlp transcripts attempt 1 for XlT5WPP0o3Y
+2025-11-04 13:49:38,016 INFO yt-dlp transcripts succeeded for XlT5WPP0o3Y on attempt 1
+2025-11-04 13:49:38,016 INFO END transcripts XlT5WPP0o3Y status=ok duration=2.96s
+2025-11-04 13:49:44,331 INFO Extended cooldown 95.7s after 220 videos
+2025-11-04 13:51:20,040 INFO START transcripts KugxMJFhx7k (Radeon RX 6950 XT vs. GeForce RTX 3080 Ti, RTX 3090 & RTX 3090 Ti: Benchmarks, Power & Thermals)
+2025-11-04 13:51:20,040 INFO yt-dlp transcripts attempt 1 for KugxMJFhx7k
+2025-11-04 13:51:22,853 INFO yt-dlp transcripts succeeded for KugxMJFhx7k on attempt 1
+2025-11-04 13:51:22,854 INFO END transcripts KugxMJFhx7k status=ok duration=2.81s
+2025-11-04 13:51:29,513 INFO START transcripts BSaznwwRG-8 (Buying A New 6950 XT OC Formula for a Friend: Experiencing Wonder Once Again!)
+2025-11-04 13:51:29,513 INFO yt-dlp transcripts attempt 1 for BSaznwwRG-8
+2025-11-04 13:51:32,470 INFO yt-dlp transcripts succeeded for BSaznwwRG-8 on attempt 1
+2025-11-04 13:51:32,470 INFO END transcripts BSaznwwRG-8 status=ok duration=2.96s
+2025-11-04 13:51:39,317 INFO START transcripts 4Zsaj_9Zpjc (AMD, you NEED to hire me! - AMD Radeon RX 7600 Review)
+2025-11-04 13:51:39,318 INFO yt-dlp transcripts attempt 1 for 4Zsaj_9Zpjc
+2025-11-04 13:51:42,847 INFO yt-dlp transcripts succeeded for 4Zsaj_9Zpjc on attempt 1
+2025-11-04 13:51:42,850 INFO END transcripts 4Zsaj_9Zpjc status=ok duration=3.53s
+2025-11-04 13:51:51,194 INFO START transcripts 6UMFUqTUbEw (AMD cuts price of RX 7600... not because of NVIDIA but because of Intel! $270 GPU battle!)
+2025-11-04 13:51:51,194 INFO yt-dlp transcripts attempt 1 for 6UMFUqTUbEw
+2025-11-04 13:51:53,929 INFO yt-dlp transcripts succeeded for 6UMFUqTUbEw on attempt 1
+2025-11-04 13:51:53,930 INFO END transcripts 6UMFUqTUbEw status=ok duration=2.74s
+2025-11-04 13:52:00,260 INFO START transcripts sJCtMfKbsv8 (AMD has a new Graphics Card too!! - Radeon RX 7600 XT)
+2025-11-04 13:52:00,261 INFO yt-dlp transcripts attempt 1 for sJCtMfKbsv8
+2025-11-04 13:52:03,176 INFO yt-dlp transcripts succeeded for sJCtMfKbsv8 on attempt 1
+2025-11-04 13:52:03,178 INFO END transcripts sJCtMfKbsv8 status=ok duration=2.92s
+2025-11-04 13:52:09,214 INFO START transcripts Lcb1dpe2IhE (Radeon RX 7600 XT Review: Can AMD Eliminate The RTX 4060?)
+2025-11-04 13:52:09,215 INFO yt-dlp transcripts attempt 1 for Lcb1dpe2IhE
+2025-11-04 13:52:12,074 INFO yt-dlp transcripts succeeded for Lcb1dpe2IhE on attempt 1
+2025-11-04 13:52:12,075 INFO END transcripts Lcb1dpe2IhE status=ok duration=2.86s
+2025-11-04 13:52:19,825 INFO START transcripts 1aopp8XolXE (AMD Radeon RX 7600 XT GPU Benchmarks & Review: Power Efficiency & Gaming)
+2025-11-04 13:52:19,826 INFO yt-dlp transcripts attempt 1 for 1aopp8XolXE
+2025-11-04 13:52:22,406 INFO yt-dlp transcripts succeeded for 1aopp8XolXE on attempt 1
+2025-11-04 13:52:22,406 INFO END transcripts 1aopp8XolXE status=ok duration=2.58s
+2025-11-04 13:52:29,751 INFO START transcripts FI7xiNZLKTo (Already Below MSRP! But is That Enough? - AMD Radeon RX 7700 XT Review)
+2025-11-04 13:52:29,751 INFO yt-dlp transcripts attempt 1 for FI7xiNZLKTo
+2025-11-04 13:52:32,308 INFO yt-dlp transcripts succeeded for FI7xiNZLKTo on attempt 1
+2025-11-04 13:52:32,309 INFO END transcripts FI7xiNZLKTo status=ok duration=2.56s
+2025-11-04 13:52:42,151 INFO START transcripts cLHXXtUZBCo (PLEASE Don't Waste Your Money! - AMD RX 7700 XT Review & Gameplay Benchmarks)
+2025-11-04 13:52:42,152 INFO yt-dlp transcripts attempt 1 for cLHXXtUZBCo
+2025-11-04 13:52:45,173 INFO yt-dlp transcripts succeeded for cLHXXtUZBCo on attempt 1
+2025-11-04 13:52:45,174 INFO END transcripts cLHXXtUZBCo status=ok duration=3.02s
+2025-11-04 13:52:51,947 INFO START transcripts _LEBEqsCwiM (AMD Radeon RX 7700 XT Review, It's The 7900 XT All Over Again!)
+2025-11-04 13:52:51,948 INFO yt-dlp transcripts attempt 1 for _LEBEqsCwiM
+2025-11-04 13:52:55,098 INFO yt-dlp transcripts succeeded for _LEBEqsCwiM on attempt 1
+2025-11-04 13:52:55,099 INFO END transcripts _LEBEqsCwiM status=ok duration=3.15s
+2025-11-04 13:53:03,764 INFO Extended cooldown 96.0s after 230 videos
+2025-11-04 13:54:39,722 INFO START transcripts gggehz298L8 (Thank you for not spitting in my face – AMD Radeon RX 7700 XT & 7800 XT Review)
+2025-11-04 13:54:39,722 INFO yt-dlp transcripts attempt 1 for gggehz298L8
+2025-11-04 13:54:42,957 INFO yt-dlp transcripts succeeded for gggehz298L8 on attempt 1
+2025-11-04 13:54:42,958 INFO END transcripts gggehz298L8 status=ok duration=3.24s
+2025-11-04 13:54:52,033 INFO START transcripts PpxMKtbI8G8 (AMD RX 7700 XT GPU Review & Benchmarks vs. 7800 XT, 6800 XT, RTX 4060 Ti, & More)
+2025-11-04 13:54:52,033 INFO yt-dlp transcripts attempt 1 for PpxMKtbI8G8
+2025-11-04 13:54:54,748 INFO yt-dlp transcripts succeeded for PpxMKtbI8G8 on attempt 1
+2025-11-04 13:54:54,749 INFO END transcripts PpxMKtbI8G8 status=ok duration=2.72s
+2025-11-04 13:55:00,822 INFO START transcripts IJ_C7EZeWFY (Sapphire Nitro + 7800 XT Quick Review)
+2025-11-04 13:55:00,823 INFO yt-dlp transcripts attempt 1 for IJ_C7EZeWFY
+2025-11-04 13:55:03,321 INFO yt-dlp transcripts succeeded for IJ_C7EZeWFY on attempt 1
+2025-11-04 13:55:03,322 INFO END transcripts IJ_C7EZeWFY status=ok duration=2.50s
+2025-11-04 13:55:12,558 INFO START transcripts AdWv3GwS-kY (AMD 7800 XT: Your Next 5-year GPU!)
+2025-11-04 13:55:12,558 INFO yt-dlp transcripts attempt 1 for AdWv3GwS-kY
+2025-11-04 13:55:15,296 INFO yt-dlp transcripts succeeded for AdWv3GwS-kY on attempt 1
+2025-11-04 13:55:15,298 INFO END transcripts AdWv3GwS-kY status=ok duration=2.74s
+2025-11-04 13:55:21,946 INFO START transcripts G9XmJd6cGeA (AMD Radeon RX 7800 XT Review - 33 Games, 1080p, 1440p & 4K Tested)
+2025-11-04 13:55:21,946 INFO yt-dlp transcripts attempt 1 for G9XmJd6cGeA
+2025-11-04 13:55:24,881 INFO yt-dlp transcripts succeeded for G9XmJd6cGeA on attempt 1
+2025-11-04 13:55:24,882 INFO END transcripts G9XmJd6cGeA status=ok duration=2.94s
+2025-11-04 13:55:32,236 INFO START transcripts x4TW8fHVcxw (Radeon RX 7800 XT Review, AMD Finally Worked It Out!)
+2025-11-04 13:55:32,237 INFO yt-dlp transcripts attempt 1 for x4TW8fHVcxw
+2025-11-04 13:55:35,123 INFO yt-dlp transcripts succeeded for x4TW8fHVcxw on attempt 1
+2025-11-04 13:55:35,124 INFO END transcripts x4TW8fHVcxw status=ok duration=2.89s
+2025-11-04 13:55:44,570 INFO START transcripts 8qBQ0eZEnbY (AMD Radeon RX 7800 XT GPU Review & Benchmarks vs. RX 6800 XT, RTX 4070, & More)
+2025-11-04 13:55:44,571 INFO yt-dlp transcripts attempt 1 for 8qBQ0eZEnbY
+2025-11-04 13:55:47,569 INFO yt-dlp transcripts succeeded for 8qBQ0eZEnbY on attempt 1
+2025-11-04 13:55:47,569 INFO END transcripts 8qBQ0eZEnbY status=ok duration=3.00s
+2025-11-04 13:55:56,501 INFO START transcripts e7DjJR3zpCw (AMD's Greedy Upsell: RX 7900 XT Review & Benchmarks vs. XTX, 4080, & More)
+2025-11-04 13:55:56,502 INFO yt-dlp transcripts attempt 1 for e7DjJR3zpCw
+2025-11-04 13:55:59,326 INFO yt-dlp transcripts succeeded for e7DjJR3zpCw on attempt 1
+2025-11-04 13:55:59,327 INFO END transcripts e7DjJR3zpCw status=ok duration=2.82s
+2025-11-04 13:56:07,544 INFO START transcripts NFu7fhsGymY ($900 LOL, AMD Radeon RX 7900 XT Review & Benchmarks)
+2025-11-04 13:56:07,544 INFO yt-dlp transcripts attempt 1 for NFu7fhsGymY
+2025-11-04 13:56:10,255 INFO yt-dlp transcripts succeeded for NFu7fhsGymY on attempt 1
+2025-11-04 13:56:10,256 INFO END transcripts NFu7fhsGymY status=ok duration=2.71s
+2025-11-04 13:56:19,273 INFO START transcripts TBJ-vo6Ri9c (This video will not age well... - AMD Radeon RX 7900 Series Review)
+2025-11-04 13:56:19,274 INFO yt-dlp transcripts attempt 1 for TBJ-vo6Ri9c
+2025-11-04 13:56:22,648 INFO yt-dlp transcripts succeeded for TBJ-vo6Ri9c on attempt 1
+2025-11-04 13:56:22,649 INFO END transcripts TBJ-vo6Ri9c status=ok duration=3.38s
+2025-11-04 13:56:30,048 INFO Extended cooldown 69.4s after 240 videos
+2025-11-04 13:57:39,475 INFO START transcripts 23bVb1l6ZQo (Radeon RX 7900 XT Re-Review, What Should Have Been!)
+2025-11-04 13:57:39,476 INFO yt-dlp transcripts attempt 1 for 23bVb1l6ZQo
+2025-11-04 13:57:42,686 INFO yt-dlp transcripts succeeded for 23bVb1l6ZQo on attempt 1
+2025-11-04 13:57:42,687 INFO END transcripts 23bVb1l6ZQo status=ok duration=3.21s
+2025-11-04 13:57:51,778 INFO START transcripts 0XVdsKHBcPE (The Cheapest* AMD RX 7900 XT: Revisit Benchmarks, & Price Drops vs. 4070 Ti & More)
+2025-11-04 13:57:51,778 INFO yt-dlp transcripts attempt 1 for 0XVdsKHBcPE
+2025-11-04 13:57:54,508 INFO yt-dlp transcripts succeeded for 0XVdsKHBcPE on attempt 1
+2025-11-04 13:57:54,509 INFO END transcripts 0XVdsKHBcPE status=ok duration=2.73s
+2025-11-04 13:58:01,389 INFO START transcripts XaEWPgPDF7U (Sapphire RX 7900 XTX Nitro+... one heck of a card!)
+2025-11-04 13:58:01,390 INFO yt-dlp transcripts attempt 1 for XaEWPgPDF7U
+2025-11-04 13:58:04,255 INFO yt-dlp transcripts succeeded for XaEWPgPDF7U on attempt 1
+2025-11-04 13:58:04,257 INFO END transcripts XaEWPgPDF7U status=ok duration=2.87s
+2025-11-04 13:58:10,325 INFO START transcripts tMH9vfvos00 (Before you buy the AMD 7900 XTX..)
+2025-11-04 13:58:10,325 INFO yt-dlp transcripts attempt 1 for tMH9vfvos00
+2025-11-04 13:58:12,922 INFO yt-dlp transcripts succeeded for tMH9vfvos00 on attempt 1
+2025-11-04 13:58:12,922 INFO END transcripts tMH9vfvos00 status=ok duration=2.60s
+2025-11-04 13:58:19,871 INFO START transcripts OjaE2g4VOXI (Nvidia was clearly wrong - AMD RX 7900 XT and XTX)
+2025-11-04 13:58:19,871 INFO yt-dlp transcripts attempt 1 for OjaE2g4VOXI
+2025-11-04 13:58:22,671 INFO yt-dlp transcripts succeeded for OjaE2g4VOXI on attempt 1
+2025-11-04 13:58:22,672 INFO END transcripts OjaE2g4VOXI status=ok duration=2.80s
+2025-11-04 13:58:31,841 INFO START transcripts 4UFiG7CwpHk (RTX 4080 Killer? Radeon RX 7900 XTX Review & Benchmarks)
+2025-11-04 13:58:31,842 INFO yt-dlp transcripts attempt 1 for 4UFiG7CwpHk
+2025-11-04 13:58:34,624 INFO yt-dlp transcripts succeeded for 4UFiG7CwpHk on attempt 1
+2025-11-04 13:58:34,625 INFO END transcripts 4UFiG7CwpHk status=ok duration=2.78s
+2025-11-04 13:58:43,260 INFO START transcripts We71eXwKODw (AMD Radeon RX 7900 XTX Review & GPU Benchmarks: Gaming, Thermals, Power, & Noise)
+2025-11-04 13:58:43,260 INFO yt-dlp transcripts attempt 1 for We71eXwKODw
+2025-11-04 13:58:46,163 INFO yt-dlp transcripts succeeded for We71eXwKODw on attempt 1
+2025-11-04 13:58:46,164 INFO END transcripts We71eXwKODw status=ok duration=2.90s
+2025-11-04 13:58:54,420 INFO START transcripts MjKs8KjbTqQ (And just like that, the 5060 is irrelevant - 9060XT Review)
+2025-11-04 13:58:54,421 INFO yt-dlp transcripts attempt 1 for MjKs8KjbTqQ
+2025-11-04 13:58:57,155 INFO yt-dlp transcripts succeeded for MjKs8KjbTqQ on attempt 1
+2025-11-04 13:58:57,156 INFO END transcripts MjKs8KjbTqQ status=ok duration=2.73s
+2025-11-04 13:59:06,645 INFO START transcripts uCIcYgRJUtc (RX 9060 XT 16GB - The Gameplay Review at 1440p!)
+2025-11-04 13:59:06,645 INFO yt-dlp transcripts attempt 1 for uCIcYgRJUtc
+2025-11-04 13:59:10,115 INFO yt-dlp transcripts succeeded for uCIcYgRJUtc on attempt 1
+2025-11-04 13:59:10,116 INFO END transcripts uCIcYgRJUtc status=ok duration=3.47s
+2025-11-04 13:59:16,354 INFO START transcripts DJf0qCHZHs0 (AMD GPUs are Better at RTX Now.. — RX 9060 XT 16GB Review!)
+2025-11-04 13:59:16,355 INFO yt-dlp transcripts attempt 1 for DJf0qCHZHs0
+2025-11-04 13:59:19,077 INFO yt-dlp transcripts succeeded for DJf0qCHZHs0 on attempt 1
+2025-11-04 13:59:19,077 INFO END transcripts DJf0qCHZHs0 status=ok duration=2.72s
+2025-11-04 13:59:28,175 INFO Extended cooldown 61.6s after 250 videos
+2025-11-04 14:00:29,749 INFO START transcripts -LAH5vh-Cpg (AMD Radeon RX 9060 XT 16GB Review, Gaming Benchmarks!)
+2025-11-04 14:00:29,750 INFO yt-dlp transcripts attempt 1 for -LAH5vh-Cpg
+2025-11-04 14:00:32,868 INFO yt-dlp transcripts succeeded for -LAH5vh-Cpg on attempt 1
+2025-11-04 14:00:32,869 INFO END transcripts -LAH5vh-Cpg status=ok duration=3.12s
+2025-11-04 14:00:39,540 INFO START transcripts O9u3UPkqp_0 (AMD Needs to Just Shut Up: AMD Radeon RX 9060 XT 16GB GPU Review)
+2025-11-04 14:00:39,542 INFO yt-dlp transcripts attempt 1 for O9u3UPkqp_0
+2025-11-04 14:00:42,534 INFO yt-dlp transcripts succeeded for O9u3UPkqp_0 on attempt 1
+2025-11-04 14:00:42,535 INFO END transcripts O9u3UPkqp_0 status=ok duration=2.99s
+2025-11-04 14:00:49,264 INFO START transcripts j6yHMCTb-YA (This Was Supposed to be a Happy Day - AMD Radeon 9060XT Review)
+2025-11-04 14:00:49,265 INFO yt-dlp transcripts attempt 1 for j6yHMCTb-YA
+2025-11-04 14:00:52,503 INFO yt-dlp transcripts succeeded for j6yHMCTb-YA on attempt 1
+2025-11-04 14:00:52,504 INFO END transcripts j6yHMCTb-YA status=ok duration=3.24s
+2025-11-04 14:01:02,422 INFO START transcripts acE6VJ0ujA4 (AMD Radeon RX 9060 XT 16GB Review vs RTX 5060 Ti vs... PlayStation 5 Pro?)
+2025-11-04 14:01:02,423 INFO yt-dlp transcripts attempt 1 for acE6VJ0ujA4
+2025-11-04 14:01:05,632 INFO yt-dlp transcripts succeeded for acE6VJ0ujA4 on attempt 1
+2025-11-04 14:01:05,634 INFO END transcripts acE6VJ0ujA4 status=ok duration=3.21s
+2025-11-04 14:01:12,307 INFO START transcripts VciMks_Yd9k (RX 9060 XT 16GB Review - is it actually good value!?)
+2025-11-04 14:01:12,308 INFO yt-dlp transcripts attempt 1 for VciMks_Yd9k
+2025-11-04 14:01:15,392 INFO yt-dlp transcripts succeeded for VciMks_Yd9k on attempt 1
+2025-11-04 14:01:15,393 INFO END transcripts VciMks_Yd9k status=ok duration=3.09s
+2025-11-04 14:01:21,873 INFO START transcripts q0k6StODt7g (Should you buy RX 9060 XT 16GB?)
+2025-11-04 14:01:21,874 INFO yt-dlp transcripts attempt 1 for q0k6StODt7g
+2025-11-04 14:01:25,018 INFO yt-dlp transcripts succeeded for q0k6StODt7g on attempt 1
+2025-11-04 14:01:25,019 INFO END transcripts q0k6StODt7g status=ok duration=3.15s
+2025-11-04 14:01:31,600 INFO START transcripts 3oTMRmxeMMk (The RX 9060 XT 16GB - 20 Games Tested at 1440p!)
+2025-11-04 14:01:31,600 INFO yt-dlp transcripts attempt 1 for 3oTMRmxeMMk
+2025-11-04 14:01:34,426 INFO yt-dlp transcripts succeeded for 3oTMRmxeMMk on attempt 1
+2025-11-04 14:01:34,427 INFO END transcripts 3oTMRmxeMMk status=ok duration=2.83s
+2025-11-04 14:01:41,004 INFO START transcripts LhsvrhedA9E (Incredibly Efficient: AMD RX 9070 GPU Review & Benchmarks vs. 9070 XT, RTX 5070)
+2025-11-04 14:01:41,004 INFO yt-dlp transcripts attempt 1 for LhsvrhedA9E
+2025-11-04 14:01:44,028 INFO yt-dlp transcripts succeeded for LhsvrhedA9E on attempt 1
+2025-11-04 14:01:44,029 INFO END transcripts LhsvrhedA9E status=ok duration=3.03s
+2025-11-04 14:01:52,697 INFO START transcripts gWIIA-a9Q9A (AMD Swings and Misses: Radeon RX 9070 Review, Benchmarks vs. RTX 5070)
+2025-11-04 14:01:52,698 INFO yt-dlp transcripts attempt 1 for gWIIA-a9Q9A
+2025-11-04 14:01:55,572 INFO yt-dlp transcripts succeeded for gWIIA-a9Q9A on attempt 1
+2025-11-04 14:01:55,573 INFO END transcripts gWIIA-a9Q9A status=ok duration=2.88s
+2025-11-04 14:02:03,611 INFO START transcripts 01DEKGYiSTo (RX 9070 and 9070XT Details - this is actually BAD for NVIDIA!)
+2025-11-04 14:02:03,612 INFO yt-dlp transcripts attempt 1 for 01DEKGYiSTo
+2025-11-04 14:02:06,684 INFO yt-dlp transcripts succeeded for 01DEKGYiSTo on attempt 1
+2025-11-04 14:02:06,686 INFO END transcripts 01DEKGYiSTo status=ok duration=3.07s
+2025-11-04 14:02:15,213 INFO Extended cooldown 75.9s after 260 videos
+2025-11-04 14:03:31,100 INFO START transcripts 2fClSYjOKxM (RX 9070 16GB - The Gameplay Review at 1440p!)
+2025-11-04 14:03:31,101 INFO yt-dlp transcripts attempt 1 for 2fClSYjOKxM
+2025-11-04 14:03:34,413 INFO yt-dlp transcripts succeeded for 2fClSYjOKxM on attempt 1
+2025-11-04 14:03:34,414 INFO END transcripts 2fClSYjOKxM status=ok duration=3.31s
+2025-11-04 14:03:42,083 INFO START transcripts vfc3nhus12k (AMD Radeon RX 9070 XT/ RX 9070 Review vs RTX 5070 Ti/ RTX 5070 - Is RDNA 4 Truly Competitive?)
+2025-11-04 14:03:42,083 INFO yt-dlp transcripts attempt 1 for vfc3nhus12k
+2025-11-04 14:03:44,846 INFO yt-dlp transcripts succeeded for vfc3nhus12k on attempt 1
+2025-11-04 14:03:44,847 INFO END transcripts vfc3nhus12k status=ok duration=2.76s
+2025-11-04 14:03:52,731 INFO START transcripts W8OCZ7CT5Fo (RX 9070 XT vs RX 9070...A Budget Gamer's Perspective)
+2025-11-04 14:03:52,732 INFO yt-dlp transcripts attempt 1 for W8OCZ7CT5Fo
+2025-11-04 14:03:55,972 INFO yt-dlp transcripts succeeded for W8OCZ7CT5Fo on attempt 1
+2025-11-04 14:03:55,974 INFO END transcripts W8OCZ7CT5Fo status=ok duration=3.24s
+2025-11-04 14:04:05,635 INFO START transcripts yJXGGtIvFKM (Ok, Nvidia GPUs are kinda Pointless Now --- RX 9070 XT REVIEW!!)
+2025-11-04 14:04:05,636 INFO yt-dlp transcripts attempt 1 for yJXGGtIvFKM
+2025-11-04 14:04:08,488 INFO yt-dlp transcripts succeeded for yJXGGtIvFKM on attempt 1
+2025-11-04 14:04:08,489 INFO END transcripts yJXGGtIvFKM status=ok duration=2.85s
+2025-11-04 14:04:17,587 INFO START transcripts uDligqbbPGs (RTX 5070 Ti vs RX 9070 XT - DLSS 4 vs FSR 4 Performance Compared)
+2025-11-04 14:04:17,587 INFO yt-dlp transcripts attempt 1 for uDligqbbPGs
+2025-11-04 14:04:20,531 INFO yt-dlp transcripts succeeded for uDligqbbPGs on attempt 1
+2025-11-04 14:04:20,533 INFO END transcripts uDligqbbPGs status=ok duration=2.95s
+2025-11-04 14:04:29,100 INFO START transcripts aWfMibZ8t00 (The Radeon RX 9070 XT is Now Faster, AMD FineWine)
+2025-11-04 14:04:29,101 INFO yt-dlp transcripts attempt 1 for aWfMibZ8t00
+2025-11-04 14:04:32,064 INFO yt-dlp transcripts succeeded for aWfMibZ8t00 on attempt 1
+2025-11-04 14:04:32,065 INFO END transcripts aWfMibZ8t00 status=ok duration=2.96s
+2025-11-04 14:04:38,956 INFO START transcripts yP0axVHdP-U (AMD Radeon RX 9070 XT GPU Review & Benchmarks vs. 5070 Ti, 5070, 7900 XT (Sapphire Pulse))
+2025-11-04 14:04:38,956 INFO yt-dlp transcripts attempt 1 for yP0axVHdP-U
+2025-11-04 14:04:41,892 INFO yt-dlp transcripts succeeded for yP0axVHdP-U on attempt 1
+2025-11-04 14:04:41,893 INFO END transcripts yP0axVHdP-U status=ok duration=2.94s
+2025-11-04 14:04:51,547 INFO START transcripts VQB0i0v2mkg (AMD Radeon RX 9070 XT Review, Have They Finally Done It?)
+2025-11-04 14:04:51,547 INFO yt-dlp transcripts attempt 1 for VQB0i0v2mkg
+2025-11-04 14:04:54,518 INFO yt-dlp transcripts succeeded for VQB0i0v2mkg on attempt 1
+2025-11-04 14:04:54,520 INFO END transcripts VQB0i0v2mkg status=ok duration=2.97s
+2025-11-04 14:05:01,611 INFO START transcripts ptp5suRDdQQ (AMD, I Could Kiss You - 9070 and 9070 XT Review)
+2025-11-04 14:05:01,612 INFO yt-dlp transcripts attempt 1 for ptp5suRDdQQ
+2025-11-04 14:05:04,803 INFO yt-dlp transcripts succeeded for ptp5suRDdQQ on attempt 1
+2025-11-04 14:05:04,804 INFO END transcripts ptp5suRDdQQ status=ok duration=3.19s
+2025-11-04 14:05:12,403 INFO START transcripts AHpIGcABFbc (AMD 9070XT has entered the chat! Sorry NVIDIA)
+2025-11-04 14:05:12,403 INFO yt-dlp transcripts attempt 1 for AHpIGcABFbc
+2025-11-04 14:05:15,077 INFO yt-dlp transcripts succeeded for AHpIGcABFbc on attempt 1
+2025-11-04 14:05:15,078 INFO END transcripts AHpIGcABFbc status=ok duration=2.67s
+2025-11-04 14:05:25,076 INFO Extended cooldown 79.5s after 270 videos
+2025-11-04 14:06:44,573 INFO START transcripts 0eweKFJ-D7U (AMD Radeon RX 9070 XT Review! The BEST AMD Graphics Card?)
+2025-11-04 14:06:44,574 INFO yt-dlp transcripts attempt 1 for 0eweKFJ-D7U
+2025-11-04 14:06:48,082 INFO yt-dlp transcripts succeeded for 0eweKFJ-D7U on attempt 1
+2025-11-04 14:06:48,083 INFO END transcripts 0eweKFJ-D7U status=ok duration=3.51s
+2025-11-04 14:06:56,222 INFO START transcripts Rnc7uHs1tnw (RX 9070 XT vs RTX 5070 Ti - Big Comparison with New Drivers | 1440p & 4K)
+2025-11-04 14:06:56,222 INFO yt-dlp transcripts attempt 1 for Rnc7uHs1tnw
+2025-11-04 14:06:58,948 INFO yt-dlp transcripts succeeded for Rnc7uHs1tnw on attempt 1
+2025-11-04 14:06:58,948 INFO END transcripts Rnc7uHs1tnw status=none duration=2.73s
+2025-11-04 14:07:07,387 INFO START transcripts UjmvnuXxL5E (The Truth About the RX 9070 XT - One Month Later)
+2025-11-04 14:07:07,388 INFO yt-dlp transcripts attempt 1 for UjmvnuXxL5E
+2025-11-04 14:07:10,217 INFO yt-dlp transcripts succeeded for UjmvnuXxL5E on attempt 1
+2025-11-04 14:07:10,218 INFO END transcripts UjmvnuXxL5E status=ok duration=2.83s
+2025-11-04 14:07:19,879 INFO START transcripts mm_xyZ5OMOw (This New Single Slot LP ARC A310 Graphics Card Is Faster Than You Think!)
+2025-11-04 14:07:19,880 INFO yt-dlp transcripts attempt 1 for mm_xyZ5OMOw
+2025-11-04 14:07:22,650 INFO yt-dlp transcripts succeeded for mm_xyZ5OMOw on attempt 1
+2025-11-04 14:07:22,651 INFO END transcripts mm_xyZ5OMOw status=ok duration=2.77s
+2025-11-04 14:07:30,658 INFO START transcripts coqkIj0rnfA (The Intel Arc A310 is AMAZING - Perfect Plex GPU)
+2025-11-04 14:07:30,658 INFO yt-dlp transcripts attempt 1 for coqkIj0rnfA
+2025-11-04 14:07:33,836 INFO yt-dlp transcripts succeeded for coqkIj0rnfA on attempt 1
+2025-11-04 14:07:33,837 INFO END transcripts coqkIj0rnfA status=ok duration=3.18s
+2025-11-04 14:07:42,000 INFO START transcripts RPlxCEMtan8 (The Intel ARC A310 - Is The Cheapest ARC Graphics Card Worth It?)
+2025-11-04 14:07:42,001 INFO yt-dlp transcripts attempt 1 for RPlxCEMtan8
+2025-11-04 14:07:44,502 INFO yt-dlp transcripts succeeded for RPlxCEMtan8 on attempt 1
+2025-11-04 14:07:44,503 INFO END transcripts RPlxCEMtan8 status=ok duration=2.50s
+2025-11-04 14:07:52,950 INFO START transcripts 2k1Tqxtcu5c (Intel Arc-A310: Surprising performance in a small package.)
+2025-11-04 14:07:52,951 INFO yt-dlp transcripts attempt 1 for 2k1Tqxtcu5c
+2025-11-04 14:07:55,880 INFO yt-dlp transcripts succeeded for 2k1Tqxtcu5c on attempt 1
+2025-11-04 14:07:55,882 INFO END transcripts 2k1Tqxtcu5c status=ok duration=2.93s
+2025-11-04 14:08:05,137 INFO START transcripts zAWY1LjlYPc (Intel ARC A310 vs RX 6400 - Test in 7 Games)
+2025-11-04 14:08:05,137 INFO yt-dlp transcripts attempt 1 for zAWY1LjlYPc
+2025-11-04 14:08:07,522 INFO yt-dlp transcripts succeeded for zAWY1LjlYPc on attempt 1
+2025-11-04 14:08:07,523 INFO END transcripts zAWY1LjlYPc status=none duration=2.39s
+2025-11-04 14:08:15,973 INFO START transcripts zjGieJci3xE (AV1 On Linux With The Sparkle A310 ECO)
+2025-11-04 14:08:15,973 INFO yt-dlp transcripts attempt 1 for zjGieJci3xE
+2025-11-04 14:08:18,674 INFO yt-dlp transcripts succeeded for zjGieJci3xE on attempt 1
+2025-11-04 14:08:18,675 INFO END transcripts zjGieJci3xE status=ok duration=2.70s
+2025-11-04 14:08:26,240 INFO START transcripts La-dcK4h4ZU (Intel Arc A380 Gaming GPU Review & Benchmarks vs. AMD RX 6400, GTX 1650, & More)
+2025-11-04 14:08:26,241 INFO yt-dlp transcripts attempt 1 for La-dcK4h4ZU
+2025-11-04 14:08:29,184 INFO yt-dlp transcripts succeeded for La-dcK4h4ZU on attempt 1
+2025-11-04 14:08:29,185 INFO END transcripts La-dcK4h4ZU status=ok duration=2.94s
+2025-11-04 14:08:35,501 INFO Extended cooldown 85.9s after 280 videos
+2025-11-04 14:10:01,408 INFO START transcripts 2IWpF2-IUDI (Intel's Budget ARC A380 Graphics Card Keeps Getting Better (and Cheaper))
+2025-11-04 14:10:01,409 INFO yt-dlp transcripts attempt 1 for 2IWpF2-IUDI
+2025-11-04 14:10:04,512 INFO yt-dlp transcripts succeeded for 2IWpF2-IUDI on attempt 1
+2025-11-04 14:10:04,513 INFO END transcripts 2IWpF2-IUDI status=ok duration=3.10s
+2025-11-04 14:10:14,195 INFO START transcripts Gfur75VRLdc (The Worlds First Single Slot Low Profile ARC A380 GPU! Small Foot Print Power)
+2025-11-04 14:10:14,196 INFO yt-dlp transcripts attempt 1 for Gfur75VRLdc
+2025-11-04 14:10:17,040 INFO yt-dlp transcripts succeeded for Gfur75VRLdc on attempt 1
+2025-11-04 14:10:17,041 INFO END transcripts Gfur75VRLdc status=ok duration=2.85s
+2025-11-04 14:10:25,094 INFO START transcripts dRMxqMPeVLI (The Arc A380 Is Finally A Pretty Good Budget GPU!)
+2025-11-04 14:10:25,094 INFO yt-dlp transcripts attempt 1 for dRMxqMPeVLI
+2025-11-04 14:10:27,821 INFO yt-dlp transcripts succeeded for dRMxqMPeVLI on attempt 1
+2025-11-04 14:10:27,823 INFO END transcripts dRMxqMPeVLI status=ok duration=2.73s
+2025-11-04 14:10:35,544 INFO START transcripts DFzBPHpJYN0 (the little Arc A380 that couldn't.)
+2025-11-04 14:10:35,545 INFO yt-dlp transcripts attempt 1 for DFzBPHpJYN0
+2025-11-04 14:10:37,931 INFO yt-dlp transcripts succeeded for DFzBPHpJYN0 on attempt 1
+2025-11-04 14:10:37,931 INFO END transcripts DFzBPHpJYN0 status=ok duration=2.39s
+2025-11-04 14:10:47,875 INFO START transcripts Afqc1woq5Wc (Intel’s Arc A380 is full of surprises)
+2025-11-04 14:10:47,876 INFO yt-dlp transcripts attempt 1 for Afqc1woq5Wc
+2025-11-04 14:10:50,995 INFO yt-dlp transcripts succeeded for Afqc1woq5Wc on attempt 1
+2025-11-04 14:10:50,996 INFO END transcripts Afqc1woq5Wc status=ok duration=3.12s
+2025-11-04 14:10:57,760 INFO START transcripts e3o7tKRGcMY (Intel Arc A380 Gaming Graphics Card Review & Benchmarks)
+2025-11-04 14:10:57,761 INFO yt-dlp transcripts attempt 1 for e3o7tKRGcMY
+2025-11-04 14:11:00,493 INFO yt-dlp transcripts succeeded for e3o7tKRGcMY on attempt 1
+2025-11-04 14:11:00,494 INFO END transcripts e3o7tKRGcMY status=ok duration=2.73s
+2025-11-04 14:11:08,038 INFO START transcripts x_TTVfWuk6E (Intel Arc A580 ($180) vs RTX 3050 ($220) vs RX 7600 ($240))
+2025-11-04 14:11:08,039 INFO yt-dlp transcripts attempt 1 for x_TTVfWuk6E
+2025-11-04 14:11:11,629 INFO yt-dlp transcripts succeeded for x_TTVfWuk6E on attempt 1
+2025-11-04 14:11:11,630 INFO END transcripts x_TTVfWuk6E status=ok duration=3.59s
+2025-11-04 14:11:21,146 INFO START transcripts -M1bMzVzZF0 (The Intel Arc B580: Midrange GPU Magic!)
+2025-11-04 14:11:21,146 INFO yt-dlp transcripts attempt 1 for -M1bMzVzZF0
+2025-11-04 14:11:24,250 INFO yt-dlp transcripts succeeded for -M1bMzVzZF0 on attempt 1
+2025-11-04 14:11:24,251 INFO END transcripts -M1bMzVzZF0 status=ok duration=3.11s
+2025-11-04 14:11:30,501 INFO START transcripts WYY6d4Tq0go (Intel's ARC B580 Graphics Card Isn't What I Hoped…)
+2025-11-04 14:11:30,501 INFO yt-dlp transcripts attempt 1 for WYY6d4Tq0go
+2025-11-04 14:11:33,330 INFO yt-dlp transcripts succeeded for WYY6d4Tq0go on attempt 1
+2025-11-04 14:11:33,331 INFO END transcripts WYY6d4Tq0go status=ok duration=2.83s
+2025-11-04 14:11:40,936 INFO START transcripts Efy6WsgQAUk (Intel Arc A580 vs. Radeon RX 6600 vs. GeForce RTX 3050)
+2025-11-04 14:11:40,936 INFO yt-dlp transcripts attempt 1 for Efy6WsgQAUk
+2025-11-04 14:11:44,082 INFO yt-dlp transcripts succeeded for Efy6WsgQAUk on attempt 1
+2025-11-04 14:11:44,083 INFO END transcripts Efy6WsgQAUk status=ok duration=3.15s
+2025-11-04 14:11:53,574 INFO Extended cooldown 98.9s after 290 videos
+2025-11-04 14:13:32,467 INFO START transcripts dG8_00S85bA (They Forgot to Make Graphics Cards Affordable... Intel’s $180 Arc a580 is Different)
+2025-11-04 14:13:32,468 INFO yt-dlp transcripts attempt 1 for dG8_00S85bA
+2025-11-04 14:13:35,623 INFO yt-dlp transcripts succeeded for dG8_00S85bA on attempt 1
+2025-11-04 14:13:35,625 INFO END transcripts dG8_00S85bA status=ok duration=3.16s
+2025-11-04 14:13:45,395 INFO START transcripts vbaRTzyLIvA (Is It Worth Buying Intel Arc A580 ??? Review and Test in Games)
+2025-11-04 14:13:45,395 INFO yt-dlp transcripts attempt 1 for vbaRTzyLIvA
+2025-11-04 14:13:48,637 INFO yt-dlp transcripts succeeded for vbaRTzyLIvA on attempt 1
+2025-11-04 14:13:48,637 INFO END transcripts vbaRTzyLIvA status=ok duration=3.24s
+2025-11-04 14:13:57,959 INFO START transcripts XK6oVrm7Zg0 (REVEALED: BUDGET GPU for Video editing! | ASROCK Intel ARC A580 Review for Content Creators)
+2025-11-04 14:13:57,959 INFO yt-dlp transcripts attempt 1 for XK6oVrm7Zg0
+2025-11-04 14:14:01,300 INFO yt-dlp transcripts succeeded for XK6oVrm7Zg0 on attempt 1
+2025-11-04 14:14:01,302 INFO END transcripts XK6oVrm7Zg0 status=ok duration=3.34s
+2025-11-04 14:14:07,705 INFO START transcripts FT2yk9PL-t8 (Intel Arc Goes Where NVIDIA Won't: A580 GPU Benchmarks & Review vs. A750, RX 6600, & More)
+2025-11-04 14:14:07,705 INFO yt-dlp transcripts attempt 1 for FT2yk9PL-t8
+2025-11-04 14:14:10,884 INFO yt-dlp transcripts succeeded for FT2yk9PL-t8 on attempt 1
+2025-11-04 14:14:10,885 INFO END transcripts FT2yk9PL-t8 status=ok duration=3.18s
+2025-11-04 14:14:18,166 INFO START transcripts XTomqXuYK4s (Intel GPUs Are Here! ARC A770 & A750 Review & Benchmarks)
+2025-11-04 14:14:18,167 INFO yt-dlp transcripts attempt 1 for XTomqXuYK4s
+2025-11-04 14:14:21,042 INFO yt-dlp transcripts succeeded for XTomqXuYK4s on attempt 1
+2025-11-04 14:14:21,043 INFO END transcripts XTomqXuYK4s status=ok duration=2.88s
+2025-11-04 14:14:27,106 INFO START transcripts de51aJ33dMk (Intel Arc A750 Limited Edition GPU Review & Benchmarks vs. AMD RX 6600, A770, & More)
+2025-11-04 14:14:27,107 INFO yt-dlp transcripts attempt 1 for de51aJ33dMk
+2025-11-04 14:14:29,589 INFO yt-dlp transcripts succeeded for de51aJ33dMk on attempt 1
+2025-11-04 14:14:29,590 INFO END transcripts de51aJ33dMk status=ok duration=2.48s
+2025-11-04 14:14:36,934 INFO START transcripts dVX6odo-bJ8 (Intel Arc A750 vs. GeForce RTX 4060, 40+ Game Benchmark @ 1080p & 1440p)
+2025-11-04 14:14:36,934 INFO yt-dlp transcripts attempt 1 for dVX6odo-bJ8
+2025-11-04 14:14:39,782 INFO yt-dlp transcripts succeeded for dVX6odo-bJ8 on attempt 1
+2025-11-04 14:14:39,782 INFO END transcripts dVX6odo-bJ8 status=ok duration=2.85s
+2025-11-04 14:14:47,604 INFO START transcripts VhMZsD4v3CA (NVIDIA's in TROUBLE 👉 Now THAT's a BEST-BANG-FOR-BUCK GPU! | Sparkle Intel ARC A750 CREATOR Review)
+2025-11-04 14:14:47,605 INFO yt-dlp transcripts attempt 1 for VhMZsD4v3CA
+2025-11-04 14:14:50,675 INFO yt-dlp transcripts succeeded for VhMZsD4v3CA on attempt 1
+2025-11-04 14:14:50,676 INFO END transcripts VhMZsD4v3CA status=ok duration=3.07s
+2025-11-04 14:14:57,188 INFO START transcripts 6T9d9LM1TwY (Please Buy Intel GPUs. - Arc A750 & A770 Review)
+2025-11-04 14:14:57,188 INFO yt-dlp transcripts attempt 1 for 6T9d9LM1TwY
+2025-11-04 14:15:00,337 INFO yt-dlp transcripts succeeded for 6T9d9LM1TwY on attempt 1
+2025-11-04 14:15:00,338 INFO END transcripts 6T9d9LM1TwY status=ok duration=3.15s
+2025-11-04 14:15:06,754 INFO START transcripts w3WSqLEciEw (Intel Arc 2024 Revisit & Benchmarks (A750, A770, A580, A380 Updated GPU Tests))
+2025-11-04 14:15:06,755 INFO yt-dlp transcripts attempt 1 for w3WSqLEciEw
+2025-11-04 14:15:09,427 INFO yt-dlp transcripts succeeded for w3WSqLEciEw on attempt 1
+2025-11-04 14:15:09,441 INFO END transcripts w3WSqLEciEw status=ok duration=2.69s
+2025-11-04 14:15:18,490 INFO Extended cooldown 72.5s after 300 videos
+2025-11-04 14:16:31,028 INFO START transcripts FQFQoB_T3yg (Are Intel ARC Graphics Cards ACTUALLY Worth Buying? 🤔)
+2025-11-04 14:16:31,030 INFO yt-dlp transcripts attempt 1 for FQFQoB_T3yg
+2025-11-04 14:16:34,080 INFO yt-dlp transcripts succeeded for FQFQoB_T3yg on attempt 1
+2025-11-04 14:16:34,081 INFO END transcripts FQFQoB_T3yg status=ok duration=3.05s
+2025-11-04 14:16:42,790 INFO START transcripts Kluz0H38Wow (Intel ARC A770 / A750 Graphics Review: Here Comes A New Challenger)
+2025-11-04 14:16:42,790 INFO yt-dlp transcripts attempt 1 for Kluz0H38Wow
+2025-11-04 14:16:45,142 INFO yt-dlp transcripts succeeded for Kluz0H38Wow on attempt 1
+2025-11-04 14:16:45,143 INFO END transcripts Kluz0H38Wow status=ok duration=2.35s
+2025-11-04 14:16:53,808 INFO START transcripts nEvdrbxTtVo (Intel Arc A770 16GB Limited Edition GPU Review & Benchmarks)
+2025-11-04 14:16:53,810 INFO yt-dlp transcripts attempt 1 for nEvdrbxTtVo
+2025-11-04 14:16:56,612 INFO yt-dlp transcripts succeeded for nEvdrbxTtVo on attempt 1
+2025-11-04 14:16:56,614 INFO END transcripts nEvdrbxTtVo status=ok duration=2.80s
+2025-11-04 14:17:06,492 INFO START transcripts h6R92qyjGQ4 (Intel ARC A770 Review — The New $350 GPU King?)
+2025-11-04 14:17:06,493 INFO yt-dlp transcripts attempt 1 for h6R92qyjGQ4
+2025-11-04 14:17:09,724 INFO yt-dlp transcripts succeeded for h6R92qyjGQ4 on attempt 1
+2025-11-04 14:17:09,725 INFO END transcripts h6R92qyjGQ4 status=ok duration=3.23s
+2025-11-04 14:17:18,446 INFO START transcripts ltD4TVN9wAY (World's First Intel ARC PC Build! (A770))
+2025-11-04 14:17:18,446 INFO yt-dlp transcripts attempt 1 for ltD4TVN9wAY
+2025-11-04 14:17:21,772 INFO yt-dlp transcripts succeeded for ltD4TVN9wAY on attempt 1
+2025-11-04 14:17:21,773 INFO END transcripts ltD4TVN9wAY status=ok duration=3.33s
+2025-11-04 14:17:29,494 INFO START transcripts ylJC0C6zQ48 (I hope it's as good as it looks - Intel Arc A770)
+2025-11-04 14:17:29,494 INFO yt-dlp transcripts attempt 1 for ylJC0C6zQ48
+2025-11-04 14:17:32,455 INFO yt-dlp transcripts succeeded for ylJC0C6zQ48 on attempt 1
+2025-11-04 14:17:32,456 INFO END transcripts ylJC0C6zQ48 status=ok duration=2.96s
+2025-11-04 14:17:38,990 INFO START transcripts kHPYPZYqL6c (Look What This GPU Can Do Now! Intel ARC A770 Hands On)
+2025-11-04 14:17:38,991 INFO yt-dlp transcripts attempt 1 for kHPYPZYqL6c
+2025-11-04 14:17:41,558 INFO yt-dlp transcripts succeeded for kHPYPZYqL6c on attempt 1
+2025-11-04 14:17:41,559 INFO END transcripts kHPYPZYqL6c status=ok duration=2.57s
+2025-11-04 14:17:49,230 INFO START transcripts n55Ow3uEiZA (I Bought The Intel ARC B570, Here are my Honest Impressions.)
+2025-11-04 14:17:49,231 INFO yt-dlp transcripts attempt 1 for n55Ow3uEiZA
+2025-11-04 14:17:52,091 INFO yt-dlp transcripts succeeded for n55Ow3uEiZA on attempt 1
+2025-11-04 14:17:52,093 INFO END transcripts n55Ow3uEiZA status=ok duration=2.86s
+2025-11-04 14:18:00,557 INFO START transcripts wSQhoKvnt1g (GPUs have been SO BAD that Intel Caught Up --- Arc B570 Review)
+2025-11-04 14:18:00,558 INFO yt-dlp transcripts attempt 1 for wSQhoKvnt1g
+2025-11-04 14:18:03,501 INFO yt-dlp transcripts succeeded for wSQhoKvnt1g on attempt 1
+2025-11-04 14:18:03,503 INFO END transcripts wSQhoKvnt1g status=ok duration=2.95s
+2025-11-04 14:18:10,828 INFO START transcripts m9uK4D35FlM (Intel Arc B570 'Battlemage' GPU Review & Benchmarks, Low-End CPU Tests, & Efficiency)
+2025-11-04 14:18:10,829 INFO yt-dlp transcripts attempt 1 for m9uK4D35FlM
+2025-11-04 14:18:13,967 INFO yt-dlp transcripts succeeded for m9uK4D35FlM on attempt 1
+2025-11-04 14:18:13,968 INFO END transcripts m9uK4D35FlM status=ok duration=3.14s
+2025-11-04 14:18:21,283 INFO Extended cooldown 62.9s after 310 videos
+2025-11-04 14:19:24,205 INFO START transcripts EIiF2p7zf8E (Did Intel just dethrone AMD as the value GPU king? Arc B570 vs RX 6600- the Ultimate Comparison!!!)
+2025-11-04 14:19:24,206 INFO yt-dlp transcripts attempt 1 for EIiF2p7zf8E
+2025-11-04 14:19:27,344 INFO yt-dlp transcripts succeeded for EIiF2p7zf8E on attempt 1
+2025-11-04 14:19:27,345 INFO END transcripts EIiF2p7zf8E status=ok duration=3.14s
+2025-11-04 14:19:34,874 INFO START transcripts cgXFlaXeUlg (Intel Arc B570 is out! Reviewing the ASRock Challenger B570)
+2025-11-04 14:19:34,875 INFO yt-dlp transcripts attempt 1 for cgXFlaXeUlg
+2025-11-04 14:19:37,762 INFO yt-dlp transcripts succeeded for cgXFlaXeUlg on attempt 1
+2025-11-04 14:19:37,763 INFO END transcripts cgXFlaXeUlg status=ok duration=2.89s
+2025-11-04 14:19:45,761 INFO START transcripts 1VTQ_djJKv0 (Intel Arc B570 Review: A Budget GPU Bargain That's Too Good To Be True?)
+2025-11-04 14:19:45,761 INFO yt-dlp transcripts attempt 1 for 1VTQ_djJKv0
+2025-11-04 14:19:48,781 INFO yt-dlp transcripts succeeded for 1VTQ_djJKv0 on attempt 1
+2025-11-04 14:19:48,783 INFO END transcripts 1VTQ_djJKv0 status=ok duration=3.02s
+2025-11-04 14:19:55,623 INFO START transcripts SXGTu0EQMoA (Derailing the hype train - Intel Arc B570)
+2025-11-04 14:19:55,623 INFO yt-dlp transcripts attempt 1 for SXGTu0EQMoA
+2025-11-04 14:19:58,560 INFO yt-dlp transcripts succeeded for SXGTu0EQMoA on attempt 1
+2025-11-04 14:19:58,561 INFO END transcripts SXGTu0EQMoA status=ok duration=2.94s
+2025-11-04 14:20:08,417 INFO START transcripts buJSNbVYxVA (Intel Arc B570 Review, The New $220 GPU! 1440p Gaming Benchmarks)
+2025-11-04 14:20:08,418 INFO yt-dlp transcripts attempt 1 for buJSNbVYxVA
+2025-11-04 14:20:10,800 INFO yt-dlp transcripts succeeded for buJSNbVYxVA on attempt 1
+2025-11-04 14:20:10,801 INFO END transcripts buJSNbVYxVA status=ok duration=2.38s
+2025-11-04 14:20:20,673 INFO START transcripts pMlPZCgsRnA (Intel Arc B570 Review - SHOCKING UK price!)
+2025-11-04 14:20:20,675 INFO yt-dlp transcripts attempt 1 for pMlPZCgsRnA
+2025-11-04 14:20:24,172 INFO yt-dlp transcripts succeeded for pMlPZCgsRnA on attempt 1
+2025-11-04 14:20:24,173 INFO END transcripts pMlPZCgsRnA status=ok duration=3.50s
+2025-11-04 14:20:31,928 INFO START transcripts bjhSDXJkwUg (Is This Graphics Card The Hero We Need?)
+2025-11-04 14:20:31,930 INFO yt-dlp transcripts attempt 1 for bjhSDXJkwUg
+2025-11-04 14:20:34,894 INFO yt-dlp transcripts succeeded for bjhSDXJkwUg on attempt 1
+2025-11-04 14:20:34,896 INFO END transcripts bjhSDXJkwUg status=ok duration=2.97s
+2025-11-04 14:20:42,957 INFO START transcripts yKMigkGU8vI (Intel Arc B580 Review + Benchmarks: Great Performance + 12GB VRAM For $250!)
+2025-11-04 14:20:42,957 INFO yt-dlp transcripts attempt 1 for yKMigkGU8vI
+2025-11-04 14:20:46,022 INFO yt-dlp transcripts succeeded for yKMigkGU8vI on attempt 1
+2025-11-04 14:20:46,022 INFO END transcripts yKMigkGU8vI status=ok duration=3.07s
+2025-11-04 14:20:54,771 INFO START transcripts JjdCkSsLYLk (Intel Arc B580 'Battlemage' GPU Review & Benchmarks vs. NVIDIA RTX 4060, AMD RX 7600, & More)
+2025-11-04 14:20:54,772 INFO yt-dlp transcripts attempt 1 for JjdCkSsLYLk
+2025-11-04 14:20:57,981 INFO yt-dlp transcripts succeeded for JjdCkSsLYLk on attempt 1
+2025-11-04 14:20:57,981 INFO END transcripts JjdCkSsLYLk status=ok duration=3.21s
+2025-11-04 14:21:04,403 INFO START transcripts dvAVBZeNJZI (I Bought Intel's Fastest GPU to See if It's Better Than NVIDIA)
+2025-11-04 14:21:04,403 INFO yt-dlp transcripts attempt 1 for dvAVBZeNJZI
+2025-11-04 14:21:07,326 INFO yt-dlp transcripts succeeded for dvAVBZeNJZI on attempt 1
+2025-11-04 14:21:07,327 INFO END transcripts dvAVBZeNJZI status=ok duration=2.92s
+2025-11-04 14:21:14,999 INFO Extended cooldown 111.1s after 320 videos
+2025-11-04 14:23:06,147 INFO START transcripts aV_xL88vcAQ (Intel Arc B580 Review, The Best Value GPU! 1080P & 1440p Gaming Benchmarks)
+2025-11-04 14:23:06,148 INFO yt-dlp transcripts attempt 1 for aV_xL88vcAQ
+2025-11-04 14:23:09,326 INFO yt-dlp transcripts succeeded for aV_xL88vcAQ on attempt 1
+2025-11-04 14:23:09,326 INFO END transcripts aV_xL88vcAQ status=ok duration=3.18s
+2025-11-04 14:23:17,816 INFO START transcripts ovH5pZ-a0l4 (The Intel Arc B580 isn’t for budget gamers)
+2025-11-04 14:23:17,817 INFO yt-dlp transcripts attempt 1 for ovH5pZ-a0l4
+2025-11-04 14:23:20,698 INFO yt-dlp transcripts succeeded for ovH5pZ-a0l4 on attempt 1
+2025-11-04 14:23:20,699 INFO END transcripts ovH5pZ-a0l4 status=ok duration=2.88s
+2025-11-04 14:23:26,760 INFO START transcripts qvxS8EIYerE (Intel ARC B580 Founders Edition Review & Thoughts - Don't Buy It)
+2025-11-04 14:23:26,761 INFO yt-dlp transcripts attempt 1 for qvxS8EIYerE
+2025-11-04 14:23:30,583 INFO yt-dlp transcripts succeeded for qvxS8EIYerE on attempt 1
+2025-11-04 14:23:30,584 INFO END transcripts qvxS8EIYerE status=ok duration=3.82s
+2025-11-04 14:23:37,854 INFO START transcripts dboPZUcTAW4 (THE INTEL ARC B580 IS ACTUALLY GREAT & AFFORDABLE)
+2025-11-04 14:23:37,855 INFO yt-dlp transcripts attempt 1 for dboPZUcTAW4
+2025-11-04 14:23:40,770 INFO yt-dlp transcripts succeeded for dboPZUcTAW4 on attempt 1
+2025-11-04 14:23:40,771 INFO END transcripts dboPZUcTAW4 status=ok duration=2.92s
+2025-11-04 14:23:49,574 INFO START transcripts gHHP2lqqrkw (The Truth About the Intel Arc B580 - Six Months Later)
+2025-11-04 14:23:49,575 INFO yt-dlp transcripts attempt 1 for gHHP2lqqrkw
+2025-11-04 14:23:52,892 INFO yt-dlp transcripts succeeded for gHHP2lqqrkw on attempt 1
+2025-11-04 14:23:52,893 INFO END transcripts gHHP2lqqrkw status=ok duration=3.32s
+2025-11-04 14:23:53,000 INFO Summary: total=325, transcripts_ok=320, transcripts_none=4, transcripts_error=1
+2025-11-04 18:29:39,879 INFO START transcripts a5-vCnUC7bM (NVIDIA RTX 2070 Super & 2060 Super Review: Killing Radeon VII)
+2025-11-04 18:29:39,880 INFO yt-dlp transcripts attempt 1 for a5-vCnUC7bM
+2025-11-04 18:29:43,244 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 1)
+2025-11-04 18:29:43,244 INFO Sleeping 5s before retrying a5-vCnUC7bM
+2025-11-04 18:29:48,244 INFO yt-dlp transcripts attempt 2 for a5-vCnUC7bM
+2025-11-04 18:29:51,382 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 2)
+2025-11-04 18:29:51,382 INFO Sleeping 15s before retrying a5-vCnUC7bM
+2025-11-04 18:30:06,383 INFO yt-dlp transcripts attempt 3 for a5-vCnUC7bM
+2025-11-04 18:30:09,289 WARNING yt-dlp hit rate limit for a5-vCnUC7bM (attempt 3)
+2025-11-04 18:30:09,289 INFO Final fallback: auto-subs only for a5-vCnUC7bM
+2025-11-04 18:30:12,465 WARNING yt-dlp transcripts exhausted retries for a5-vCnUC7bM
+2025-11-04 18:30:12,465 INFO END transcripts a5-vCnUC7bM status=error duration=32.58s
+2025-11-04 18:30:20,391 INFO START transcripts bnEPBcCkM2Y (Nvidia’s New SUPER Cards! - RTX 2060 & 2070 SUPER Review)
+2025-11-04 18:30:20,392 INFO yt-dlp transcripts attempt 1 for bnEPBcCkM2Y
+2025-11-04 18:30:23,277 INFO yt-dlp transcripts succeeded for bnEPBcCkM2Y on attempt 1
+2025-11-04 18:30:23,277 INFO END transcripts bnEPBcCkM2Y status=none duration=2.89s
+2025-11-04 18:30:30,070 INFO START transcripts ThfeEjogy4Y (PLEASE Don't Waste Your Money! - Nvidia RTX 3070 Review & Overclocking! (Gameplay Benchmarks))
+2025-11-04 18:30:30,070 INFO yt-dlp transcripts attempt 1 for ThfeEjogy4Y
+2025-11-04 18:30:32,704 INFO yt-dlp transcripts succeeded for ThfeEjogy4Y on attempt 1
+2025-11-04 18:30:32,704 INFO END transcripts ThfeEjogy4Y status=none duration=2.63s
+2025-11-04 18:30:38,795 INFO START transcripts Rnc7uHs1tnw (RX 9070 XT vs RTX 5070 Ti - Big Comparison with New Drivers | 1440p & 4K)
+2025-11-04 18:30:38,795 INFO yt-dlp transcripts attempt 1 for Rnc7uHs1tnw
+2025-11-04 18:30:41,633 INFO yt-dlp transcripts succeeded for Rnc7uHs1tnw on attempt 1
+2025-11-04 18:30:41,634 INFO END transcripts Rnc7uHs1tnw status=none duration=2.84s
+2025-11-04 18:30:49,806 INFO START transcripts zAWY1LjlYPc (Intel ARC A310 vs RX 6400 - Test in 7 Games)
+2025-11-04 18:30:49,807 INFO yt-dlp transcripts attempt 1 for zAWY1LjlYPc
+2025-11-04 18:30:52,227 INFO yt-dlp transcripts succeeded for zAWY1LjlYPc on attempt 1
+2025-11-04 18:30:52,228 INFO END transcripts zAWY1LjlYPc status=none duration=2.42s

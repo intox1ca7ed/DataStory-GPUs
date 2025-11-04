@@ -1,0 +1,1752 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.150 --> 00:00:01.440
+- We did it, Reddit!
+
+00:00:01.440 --> 00:00:04.320
+Nvidia was so embarrassed by the specs
+
+00:00:04.320 --> 00:00:08.460
+of the RTX 4080 12 gig
+that they unlaunched it
+
+00:00:08.460 --> 00:00:12.960
+and now in its place
+we've got the RTX 4070 TI.
+
+00:00:12.960 --> 00:00:17.430
+It's the same GPU but
+with a different name.
+
+00:00:17.430 --> 00:00:18.330
+Oh.
+
+00:00:18.330 --> 00:00:20.792
+But it got a $100 price drop,
+
+00:00:20.792 --> 00:00:24.330
+which unfortunately isn't quite the W
+
+00:00:24.330 --> 00:00:26.010
+that you might think it is.
+
+00:00:26.010 --> 00:00:30.750
+While theoretically there
+will be 4070 TIs for $700,
+
+00:00:30.750 --> 00:00:34.320
+there are no first party
+founder's edition cards,
+
+00:00:34.320 --> 00:00:37.830
+meaning that that MSRP
+is really just that,
+
+00:00:37.830 --> 00:00:41.760
+a manufacturer's suggested retail price.
+
+00:00:41.760 --> 00:00:43.350
+And later we're gonna get into
+
+00:00:43.350 --> 00:00:46.544
+why no one really follows
+Nvidia's suggestions anymore.
+
+00:00:46.544 --> 00:00:49.230
+The card that we were sent
+for review, for example,
+
+00:00:49.230 --> 00:00:53.880
+is lightly overclocked
+and costs 850 US dollars,
+
+00:00:53.880 --> 00:00:56.430
+meaning that I kind of
+have to evaluate this
+
+00:00:56.430 --> 00:01:01.430
+as a 4080 12 gig with a name
+change and a 5.5% discount.
+
+00:01:02.114 --> 00:01:06.169
+This thing better be amazing.
+
+00:01:06.169 --> 00:01:08.310
+Amazing like our sponsor!
+
+00:01:08.310 --> 00:01:09.240
+- Ridge Wallet.
+
+00:01:09.240 --> 00:01:12.030
+Ridge Wallet has redefined
+the traditional wallet
+
+00:01:12.030 --> 00:01:15.180
+with its compact frame
+and RFID blocking plates.
+
+00:01:15.180 --> 00:01:18.510
+Keep your wallet bulged down
+and use our offer code Linus
+
+00:01:18.510 --> 00:01:21.520
+to save 10% and get
+free worldwide shipping.
+
+00:01:21.520 --> 00:01:25.020
+(upbeat electronic music)
+
+00:01:31.162 --> 00:01:33.900
+- Right outta the gate,
+the 4070 TI is in trouble
+
+00:01:33.900 --> 00:01:37.110
+with specs that I might
+have imagined on a 4070
+
+00:01:37.110 --> 00:01:41.040
+or even a 4060 Super that
+puts its total bandwidth
+
+00:01:41.040 --> 00:01:45.660
+somewhere in between the
+RTX 3070 and 3070 TI.
+
+00:01:45.660 --> 00:01:48.930
+So it's only chance is if it's other specs
+
+00:01:48.930 --> 00:01:50.138
+can pick up the slack.
+
+00:01:50.138 --> 00:01:54.360
+Fortunately on paper, the
+4070 TI's core performance
+
+00:01:54.360 --> 00:01:56.820
+should contribute to a sizable uplift.
+
+00:01:56.820 --> 00:01:59.940
+It has 25% more CUDA
+course than its predecessor
+
+00:01:59.940 --> 00:02:02.520
+and they're clocked substantially higher.
+
+00:02:02.520 --> 00:02:04.260
+That's a good sign even before
+
+00:02:04.260 --> 00:02:05.580
+the architectural improvements
+
+00:02:05.580 --> 00:02:07.800
+thanks to its Ada Lovelace cores.
+
+00:02:07.800 --> 00:02:10.620
+This means improved ray
+tracing and tensor cores
+
+00:02:10.620 --> 00:02:12.840
+and shader execution reordering,
+
+00:02:12.840 --> 00:02:14.839
+which optimizes the order of the data
+
+00:02:14.839 --> 00:02:17.160
+sent to the ray-tracing cores.
+
+00:02:17.160 --> 00:02:21.045
+Nvidia called this as big
+an innovation for GPUs
+
+00:02:21.045 --> 00:02:24.480
+as out of order execution was for CPUs,
+
+00:02:24.480 --> 00:02:27.090
+though if our recent
+poll is any indication,
+
+00:02:27.090 --> 00:02:30.210
+most of you won't be making
+use of it anytime soon.
+
+00:02:30.210 --> 00:02:31.200
+Of course, how would you,
+
+00:02:31.200 --> 00:02:33.779
+given the ongoing popularity
+of the 10 series GPUs,
+
+00:02:33.779 --> 00:02:37.650
+which are turning seven
+years old this year.
+
+00:02:37.650 --> 00:02:40.560
+Nvidia's marketing push for the 4070 TI
+
+00:02:40.560 --> 00:02:42.450
+is that it makes for a great upgrade
+
+00:02:42.450 --> 00:02:46.777
+from 10 and 20 series
+GPUs, which okay, Nvidia,
+
+00:02:46.777 --> 00:02:49.110
+let's play along with that for a moment.
+
+00:02:49.110 --> 00:02:52.158
+Compared to the GTX 1080 and 1080 TI 4K,
+
+00:02:52.158 --> 00:02:55.320
+we are looking at a
+staggering two to three times
+
+00:02:55.320 --> 00:02:57.030
+improvement in "Shadow of the Tomb Raider"
+
+00:02:57.030 --> 00:03:00.967
+taking us from sub 60-FPSs
+averages to over a hundred.
+
+00:03:00.967 --> 00:03:03.127
+"Modern Warfare 2" is even more impressive
+
+00:03:03.127 --> 00:03:06.240
+at up to four and a half
+times the performance.
+
+00:03:06.240 --> 00:03:09.934
+We're talking cinematic to
+playable (snaps) just like that.
+
+00:03:09.934 --> 00:03:13.584
+1440p does give our 10
+series cards a better chance,
+
+00:03:13.584 --> 00:03:17.070
+but we're still looking at two
+to four times the performance
+
+00:03:17.070 --> 00:03:18.450
+in both of these games,
+
+00:03:18.450 --> 00:03:20.610
+making this truly an incredible upgrade
+
+00:03:20.610 --> 00:03:22.140
+over the 10 series GPU.
+
+00:03:22.140 --> 00:03:23.898
+No, no, no, no, this is stupid.
+
+00:03:23.898 --> 00:03:28.898
+I don't need to spend $850 to
+upgrade a seven year old card.
+
+00:03:28.987 --> 00:03:30.834
+Ah, that's better.
+
+00:03:30.834 --> 00:03:33.150
+To see how it really competes,
+
+00:03:33.150 --> 00:03:37.140
+we tested the RTX 4070 TI,
+not against what Nvidia wants,
+
+00:03:37.140 --> 00:03:40.950
+but against a truly
+intimidating stack of GPUs.
+
+00:03:40.950 --> 00:03:43.590
+As an FYI, even though
+our review was so recent,
+
+00:03:43.590 --> 00:03:46.413
+we sanity checked our RX
+7000 series GPU results
+
+00:03:46.413 --> 00:03:48.907
+since driver updates have actually changed
+
+00:03:48.907 --> 00:03:51.600
+their performance
+characteristics since launch.
+
+00:03:51.600 --> 00:03:54.360
+We've also revalidated any of
+the numbers that we've reused
+
+00:03:54.360 --> 00:03:56.520
+and we'll talk a bit more about our plans
+
+00:03:56.520 --> 00:03:59.342
+for our GPU testing
+methodology in a future video.
+
+00:03:59.342 --> 00:04:01.860
+Even with the full lineup,
+"Shadow of the Tomb Raider"
+
+00:04:01.860 --> 00:04:06.223
+has the 4070 TI within
+about 8% of the RTX 3090 TI,
+
+00:04:06.223 --> 00:04:09.000
+which is a fairly impressive achievement
+
+00:04:09.000 --> 00:04:12.787
+considering that it is
+nominally a 70 series GPU.
+
+00:04:12.787 --> 00:04:16.039
+What's more impressive though
+is that it gets handily beat
+
+00:04:16.039 --> 00:04:18.600
+by the RX 7900 XT.
+
+00:04:18.600 --> 00:04:22.788
+Yes, yes, I'm aware that
+that GPU costs $50 more,
+
+00:04:22.788 --> 00:04:26.010
+but it's the beginning of a pattern
+
+00:04:26.010 --> 00:04:28.963
+that repeats itself first in "F1 2022,"
+
+00:04:28.963 --> 00:04:32.465
+where the 4070 TI gets stomped well beyond
+
+00:04:32.465 --> 00:04:35.250
+what that price difference would suggest.
+
+00:04:35.250 --> 00:04:38.511
+Starting the 4070 TI off
+on pretty rocky ground.
+
+00:04:38.511 --> 00:04:41.580
+"Hitman 3" continues this
+floundering performance
+
+00:04:41.580 --> 00:04:44.670
+with frame rates nearly
+on par with the 3090 TI,
+
+00:04:44.670 --> 00:04:48.180
+but well off of AMD and the RTX 4080
+
+00:04:48.180 --> 00:04:49.980
+that it used to share a name with,
+
+00:04:49.980 --> 00:04:51.510
+and it's really more of the same story
+
+00:04:51.510 --> 00:04:54.397
+with "Red Dead Redemption 2,"
+"Assassin's Creed: Valhalla,"
+
+00:04:54.397 --> 00:04:56.778
+"Modern Warfare 2," and "Cyberpunk,"
+
+00:04:56.778 --> 00:04:59.610
+though "Cyberpunk" is more of a beat down
+
+00:04:59.610 --> 00:05:02.970
+thanks to that game's memory
+hungry nature, we think.
+
+00:05:02.970 --> 00:05:05.490
+Thankfully for Nvidia, "Forza Horizon 5"
+
+00:05:05.490 --> 00:05:07.680
+gives the 4070 TI some breathing room
+
+00:05:07.680 --> 00:05:10.680
+as it meets or beats the 7900 XT
+
+00:05:10.680 --> 00:05:13.170
+and even beats the 3090 TI.
+
+00:05:13.170 --> 00:05:16.980
+Though it's still a good
+13% off of the real 4080.
+
+00:05:16.980 --> 00:05:20.918
+It's a really good thing that
+they changed that naming.
+
+00:05:20.918 --> 00:05:23.730
+For 4K gaming then, the RTX 4070 TI
+
+00:05:23.730 --> 00:05:26.941
+ends up firmly behind both
+of AMD's Radeon 7000 series
+
+00:05:26.941 --> 00:05:31.830
+and everything from Nvidia
+from the 3090 TI and up,
+
+00:05:31.830 --> 00:05:34.440
+which seems to suggest that
+Nvidia basically looked at
+
+00:05:34.440 --> 00:05:36.434
+3090 TI pricing on eBay and said,
+
+00:05:36.434 --> 00:05:39.270
+"hmm, about like that sounds good."
+
+00:05:39.270 --> 00:05:41.649
+Maybe things will look
+a bit better at 1440p.
+
+00:05:41.649 --> 00:05:42.482
+Eh?
+
+00:05:42.482 --> 00:05:44.070
+And they kind of do.
+
+00:05:44.070 --> 00:05:46.297
+Now that memory bandwidth
+is less of an issue,
+
+00:05:46.297 --> 00:05:48.720
+"Shadow of the Tomb
+Raider" sees the 4070 TI
+
+00:05:48.720 --> 00:05:50.553
+pull ahead of the 3090 TI
+
+00:05:50.553 --> 00:05:53.383
+and close the gap on its bigger siblings.
+
+00:05:53.383 --> 00:05:57.187
+Though it still falls behind
+AMD, if only slightly.
+
+00:05:57.187 --> 00:05:59.880
+"Hitman" sees the 4070
+TI backsliding a little
+
+00:05:59.880 --> 00:06:02.910
+in relation to the 7900
+XT while maintaining
+
+00:06:02.910 --> 00:06:05.194
+its performance improvement
+over the 3090 TI,
+
+00:06:05.194 --> 00:06:08.047
+but this doesn't carry
+over into "Cyberpunk,"
+
+00:06:08.047 --> 00:06:11.250
+"Modern Warfare 2," and
+"Assassin's Creed: Valhalla,"
+
+00:06:11.250 --> 00:06:12.660
+where we're looking at
+
+00:06:12.660 --> 00:06:16.597
+pretty much the same relative
+performance as our 4K tests.
+
+00:06:16.597 --> 00:06:18.960
+"Forza," however, picks up spectacularly
+
+00:06:18.960 --> 00:06:21.910
+with the 4070 TI sitting
+firmly in third place,
+
+00:06:21.910 --> 00:06:26.562
+contributing to a generally
+rosier picture at 1440p overall.
+
+00:06:26.562 --> 00:06:29.640
+With roughly equal
+performance to a 3090 TI then
+
+00:06:29.640 --> 00:06:32.703
+and a small enough gap from the 7900 XT,
+
+00:06:32.703 --> 00:06:36.720
+it looks almost compelling in
+this overpriced GPU hellscape.
+
+00:06:36.720 --> 00:06:39.810
+And that's before we turn on ray tracing,
+
+00:06:39.810 --> 00:06:42.608
+which works fine, right?
+
+00:06:42.608 --> 00:06:45.120
+I mean, we knew it would be superior
+
+00:06:45.120 --> 00:06:48.120
+to the 7,900 XT since that's a stronghold
+
+00:06:48.120 --> 00:06:51.360
+for Nvidia at this point,
+but what was surprising
+
+00:06:51.360 --> 00:06:54.360
+is that it wasn't by
+as much as we expected.
+
+00:06:54.360 --> 00:06:59.310
+I was shocked to see the 7900
+XTX actually outperform it
+
+00:06:59.310 --> 00:07:02.326
+at 4K in everything except for "Cyberpunk"
+
+00:07:02.326 --> 00:07:05.880
+where the ray tracing cores
+seemed to be doing a better job
+
+00:07:05.880 --> 00:07:06.870
+potentially thanks to SER.
+
+00:07:06.870 --> 00:07:10.620
+At 1440p, things, again, get a bit better,
+
+00:07:10.620 --> 00:07:13.170
+for the 4070 TI with only a mild loss
+
+00:07:13.170 --> 00:07:16.110
+against the 7900 XTX in
+"Shadow of the Tomb Raider"
+
+00:07:16.110 --> 00:07:19.027
+and overall better performance
+in the rest of the suite.
+
+00:07:19.027 --> 00:07:21.510
+"Cyberpunk" hits AMD even harder here,
+
+00:07:21.510 --> 00:07:25.290
+but that doesn't help the 4070
+TI against its own brothers
+
+00:07:25.290 --> 00:07:27.270
+who pull away significantly.
+
+00:07:27.270 --> 00:07:28.530
+That weak memory bandwidth
+
+00:07:28.530 --> 00:07:30.838
+seems to be really holding it back here.
+
+00:07:30.838 --> 00:07:34.260
+Interestingly, when we turned on DLSS 3.0
+
+00:07:34.260 --> 00:07:37.680
+to test if the 4070 TI's
+diminished tensor core count
+
+00:07:37.680 --> 00:07:39.210
+would prevent it from keeping up,
+
+00:07:39.210 --> 00:07:40.890
+it did just fine in cyberpunk
+
+00:07:40.890 --> 00:07:42.510
+with a similar performance uplift
+
+00:07:42.510 --> 00:07:44.910
+to the 4080 and the 4090,
+
+00:07:44.910 --> 00:07:48.450
+but then we did not see the
+same thing in "F1 2022."
+
+00:07:48.450 --> 00:07:50.190
+We tried a bunch of
+different settings here
+
+00:07:50.190 --> 00:07:52.650
+and nothing we did change
+to the outcome at all.
+
+00:07:52.650 --> 00:07:54.450
+We think this could be a driver issue
+
+00:07:54.450 --> 00:07:57.180
+considering that "Cyberpunk"
+of all games is fine.
+
+00:07:57.180 --> 00:07:58.770
+So we've reached out to Nvidia about it
+
+00:07:58.770 --> 00:08:00.210
+to see what they have to say.
+
+00:08:00.210 --> 00:08:01.740
+If they respond in time for this video,
+
+00:08:01.740 --> 00:08:03.930
+we'll have their response
+on screen right now,
+
+00:08:03.930 --> 00:08:06.648
+and I'll just use this
+time to tell you all about
+
+00:08:06.648 --> 00:08:08.280
+how delicious water tastes
+
+00:08:08.280 --> 00:08:10.230
+from your LTTstore.com water bottle.
+
+00:08:10.230 --> 00:08:11.400
+It's great.
+
+00:08:11.400 --> 00:08:13.380
+In ray tracing then, the 4070 TI
+
+00:08:13.380 --> 00:08:16.338
+is looking a lot like an RTX 3090 TI
+
+00:08:16.338 --> 00:08:19.786
+when we look at the overall
+picture and as expected,
+
+00:08:19.786 --> 00:08:22.050
+ray tracing performance for the price
+
+00:08:22.050 --> 00:08:24.206
+is superior to anything from Team Red.
+
+00:08:24.206 --> 00:08:26.220
+Unfortunately for Nvidia,
+
+00:08:26.220 --> 00:08:29.400
+the vast majority of our
+viewers have never once enabled
+
+00:08:29.400 --> 00:08:33.418
+ray tracing and under 15%
+of you actively use it.
+
+00:08:33.418 --> 00:08:37.530
+So at least for you guys, it
+might not be the trump card
+
+00:08:37.530 --> 00:08:39.600
+that they were hoping it would be.
+
+00:08:39.600 --> 00:08:41.730
+What might be though is productivity,
+
+00:08:41.730 --> 00:08:43.976
+because remember, as much as
+we like to talk about games,
+
+00:08:43.976 --> 00:08:48.302
+these GPUs for a lot of people,
+end up used for work too.
+
+00:08:48.302 --> 00:08:51.840
+Starting with Nvidia's current
+ave in the whole, Blender.
+
+00:08:51.840 --> 00:08:55.770
+The 4070 TI manages a
+solid 43% improvement
+
+00:08:55.770 --> 00:09:00.510
+over its predecessor, but
+falls behind the RTX 3090 TI
+
+00:09:00.510 --> 00:09:02.790
+and especially the RTX 4080,
+
+00:09:02.790 --> 00:09:04.290
+with performance against the latter
+
+00:09:04.290 --> 00:09:06.150
+being a mostly linear relationship
+
+00:09:06.150 --> 00:09:08.730
+with the difference in
+ray tracing core count.
+
+00:09:08.730 --> 00:09:10.680
+Things pick up a little with Procyon,
+
+00:09:10.680 --> 00:09:13.410
+with the video editing
+suite giving the 4070 TI
+
+00:09:13.410 --> 00:09:16.230
+very close performance
+against the 3090 TI,
+
+00:09:16.230 --> 00:09:17.520
+though still slightly behind
+
+00:09:17.520 --> 00:09:19.890
+both Radeon 7,000 series cards.
+
+00:09:19.890 --> 00:09:21.525
+Photo editing is interesting, however.
+
+00:09:21.525 --> 00:09:23.160
+Most of the results are within
+
+00:09:23.160 --> 00:09:25.920
+a couple of percentage
+points, which seems to suggest
+
+00:09:25.920 --> 00:09:27.727
+that any modern GPU will be sufficient,
+
+00:09:27.727 --> 00:09:30.190
+but this doesn't tell the whole story.
+
+00:09:30.190 --> 00:09:32.820
+As more machine learning
+effects and filters
+
+00:09:32.820 --> 00:09:34.230
+trickle into your workflow,
+
+00:09:34.230 --> 00:09:36.330
+you can expect to see
+these numbers change,
+
+00:09:36.330 --> 00:09:39.563
+and it could be a pretty
+solid advantage for Nvidia.
+
+00:09:39.563 --> 00:09:42.769
+Da Vinci Resolve gives the
+4070 TIs end bank encoders
+
+00:09:42.769 --> 00:09:45.240
+a run for their money
+with what looks to be
+
+00:09:45.240 --> 00:09:46.710
+a memory bandwidth bottleneck,
+
+00:09:46.710 --> 00:09:49.460
+slowing it down considerably
+next to its bigger siblings.
+
+00:09:49.460 --> 00:09:51.178
+It manages to be a little bit faster
+
+00:09:51.178 --> 00:09:53.110
+than its bandwidth
+difference would suggest,
+
+00:09:53.110 --> 00:09:56.146
+but this unfortunately means
+that out of our test suite
+
+00:09:56.146 --> 00:10:01.146
+it only really beats the
+RTX 3060 in export speed.
+
+00:10:01.210 --> 00:10:04.740
+Topaz AI though is a better
+story for the 4070 TI
+
+00:10:04.740 --> 00:10:06.300
+where it's enhanced core architecture
+
+00:10:06.300 --> 00:10:08.378
+makes shorter work of this GPGP workload
+
+00:10:08.378 --> 00:10:10.683
+than even the RTX 3090 TI,
+
+00:10:10.683 --> 00:10:14.153
+though AMD is the one who
+ends up stealing the show here
+
+00:10:14.153 --> 00:10:16.697
+with even the last gen 6900 XT
+
+00:10:16.697 --> 00:10:18.627
+putting up comparable numbers.
+
+00:10:18.627 --> 00:10:21.840
+The spec suites are another
+strong suit for Nvidia
+
+00:10:21.840 --> 00:10:23.550
+ever since the 20 series,
+
+00:10:23.550 --> 00:10:26.709
+and the RTX 4070 TI trades
+blows with the 3090 TI
+
+00:10:26.709 --> 00:10:29.736
+in a lot of these tests,
+which is a good thing.
+
+00:10:29.736 --> 00:10:33.270
+Unfortunately though there
+are cases like 3DS Max
+
+00:10:33.270 --> 00:10:36.780
+and SolidWorks that give
+the 4070 TI some trouble,
+
+00:10:36.780 --> 00:10:39.837
+likely again, thanks to its
+relative shortage of cores
+
+00:10:39.837 --> 00:10:41.880
+and limited memory bandwidth.
+
+00:10:41.880 --> 00:10:44.946
+However, energy and medical
+end up being standout wins
+
+00:10:44.946 --> 00:10:47.375
+for the 4070 TI and in all cases,
+
+00:10:47.375 --> 00:10:50.134
+it's substantially
+faster than the RTX 3080,
+
+00:10:50.134 --> 00:10:52.687
+let alone the 3070 TI.
+
+00:10:52.687 --> 00:10:54.810
+That ignores AMD, of course, though,
+
+00:10:54.810 --> 00:10:57.120
+whose cards all spank it across the board
+
+00:10:57.120 --> 00:10:59.220
+with the exception of 3DS Max.
+
+00:10:59.220 --> 00:11:01.580
+Siemens NX as usual will be ignored
+
+00:11:01.580 --> 00:11:03.420
+in our final performance tallies
+
+00:11:03.420 --> 00:11:04.800
+since this version is old enough
+
+00:11:04.800 --> 00:11:07.260
+to not have proper
+support for Nvidia GPUs,
+
+00:11:07.260 --> 00:11:08.359
+but we're putting the data in here
+
+00:11:08.359 --> 00:11:10.350
+in case you're interested.
+
+00:11:10.350 --> 00:11:13.329
+Finally, the 4070 TI
+outperforms the RTX 3090 TI
+
+00:11:13.329 --> 00:11:15.678
+in every part of SPECworkstation,
+
+00:11:15.678 --> 00:11:19.290
+although as with Viewperf,
+AMD maintains big wins
+
+00:11:19.290 --> 00:11:22.020
+over all of Nvidia's cards
+across most of the suite
+
+00:11:22.020 --> 00:11:24.060
+with the exceptions of
+media and entertainment
+
+00:11:24.060 --> 00:11:25.680
+and GPU compute.
+
+00:11:25.680 --> 00:11:27.041
+So much for that stronghold.
+
+00:11:27.041 --> 00:11:30.088
+Overall performance looks like a 3090 TI,
+
+00:11:30.088 --> 00:11:33.779
+but at a lower cost and
+hopefully a lower power draw,
+
+00:11:33.779 --> 00:11:36.270
+but it really does depend
+on what you're doing.
+
+00:11:36.270 --> 00:11:38.700
+If you're into 3D
+rendering or GPU compute,
+
+00:11:38.700 --> 00:11:41.550
+you're gonna get a lot
+more bang out of a 4070 TI
+
+00:11:41.550 --> 00:11:44.640
+than the 3090 TI, which could
+make it an attractive option
+
+00:11:44.640 --> 00:11:47.760
+for the price and
+hopefully the power draw.
+
+00:11:47.760 --> 00:11:49.500
+If you're into video editing however,
+
+00:11:49.500 --> 00:11:53.010
+it's not a worthy upgrade
+over even the 3070 TI
+
+00:11:53.010 --> 00:11:54.000
+and you might want to consider
+
+00:11:54.000 --> 00:11:57.631
+a 7,000 series Radeon instead
+if you need a new GP today,
+
+00:11:57.631 --> 00:12:00.748
+preferably one with hardware
+AV encoding support.
+
+00:12:00.748 --> 00:12:03.090
+So if we're looking at an RTX 3090
+
+00:12:03.090 --> 00:12:05.322
+or a 3090 TI equivalent here,
+
+00:12:05.322 --> 00:12:08.756
+surely at the 4070 TI should
+be more energy efficient too.
+
+00:12:08.756 --> 00:12:12.300
+Well, in MSI Kombustor,
+it pulled the lowest
+
+00:12:12.300 --> 00:12:13.783
+out of not only the 40 series family,
+
+00:12:13.783 --> 00:12:17.280
+but also when compared to
+AMD's price competitors,
+
+00:12:17.280 --> 00:12:19.639
+hovering at around 280
+watts most of the time
+
+00:12:19.639 --> 00:12:23.268
+and never breaking past
+its 285 watt rating.
+
+00:12:23.268 --> 00:12:26.970
+When we switch to a more
+real world test, "F1 22,"
+
+00:12:26.970 --> 00:12:28.770
+the story stays pretty much the same,
+
+00:12:28.770 --> 00:12:32.160
+this time with the card
+hovering at around 275 watts.
+
+00:12:32.160 --> 00:12:34.440
+That is well with in
+spec even though our card
+
+00:12:34.440 --> 00:12:36.677
+is a factory overclocked model.
+
+00:12:36.677 --> 00:12:38.700
+It's worth noting by the way guys,
+
+00:12:38.700 --> 00:12:41.153
+that in our Radiant RX
+7,900 series review,
+
+00:12:41.153 --> 00:12:43.620
+we made a mistake when we changed the way
+
+00:12:43.620 --> 00:12:44.820
+that we collected our data
+
+00:12:44.820 --> 00:12:47.550
+and we initially showed
+total graphics power
+
+00:12:47.550 --> 00:12:50.100
+and total board power in the same chart.
+
+00:12:50.100 --> 00:12:52.110
+Those measurements are not comparable.
+
+00:12:52.110 --> 00:12:54.832
+So this time we are strictly
+using total board power
+
+00:12:54.832 --> 00:12:56.760
+and in the future we're planning to use
+
+00:12:56.760 --> 00:12:58.620
+external equipment for better accuracy
+
+00:12:58.620 --> 00:13:01.350
+than board sensors or Nvidia's P-cap.
+
+00:13:01.350 --> 00:13:02.790
+Stay tuned for that.
+
+00:13:02.790 --> 00:13:04.431
+When we zoom in on our
+power consumption results
+
+00:13:04.431 --> 00:13:06.908
+for "Forza Horizon Five" at 1440p,
+
+00:13:06.908 --> 00:13:09.136
+the power consumption
+without a frame rate cap
+
+00:13:09.136 --> 00:13:11.808
+is pretty much in line with the RTX 4080,
+
+00:13:11.808 --> 00:13:13.968
+which actually is not a great thing
+
+00:13:13.968 --> 00:13:17.528
+considering that it ran
+about five to 10 FPSs slower.
+
+00:13:17.528 --> 00:13:20.670
+However, when we cap the
+frame rate to a hundred,
+
+00:13:20.670 --> 00:13:22.100
+it actually lines up so perfectly,
+
+00:13:22.100 --> 00:13:24.955
+I almost thought the graph
+only had three lines.
+
+00:13:24.955 --> 00:13:27.236
+AMD's cards by comparison ran about
+
+00:13:27.236 --> 00:13:30.028
+30 to 50 watts higher most of the time.
+
+00:13:30.028 --> 00:13:33.207
+That works out to about
+17 watts per frame less
+
+00:13:33.207 --> 00:13:36.313
+than the Radeon 7900 XT when it's uncapped
+
+00:13:36.313 --> 00:13:39.600
+and a good 35 watts when capped.
+
+00:13:39.600 --> 00:13:41.089
+Not a bad efficiency story,
+
+00:13:41.089 --> 00:13:44.940
+and no high idle power consumption bugs
+
+00:13:44.940 --> 00:13:46.590
+when connected to different monitors
+
+00:13:46.590 --> 00:13:49.740
+like we saw with AMD's 7000 series.
+
+00:13:49.740 --> 00:13:52.380
+Now thermals are gonna be
+a difficult conversation,
+
+00:13:52.380 --> 00:13:54.223
+since there isn't a like a reference
+
+00:13:54.223 --> 00:13:57.930
+or a founder's edition of the RTX 4070 TI
+
+00:13:57.930 --> 00:14:00.583
+with a standard cooler for us to test.
+
+00:14:00.583 --> 00:14:02.130
+With that in mind then,
+
+00:14:02.130 --> 00:14:03.960
+take these results with a grain of salt.
+
+00:14:03.960 --> 00:14:05.640
+Starting with Kombustor.
+
+00:14:05.640 --> 00:14:08.760
+It's not looking great
+for our tough OC edition
+
+00:14:08.760 --> 00:14:11.070
+of the 4070 TI, which quickly ramps up
+
+00:14:11.070 --> 00:14:14.430
+past 80 degrees and holds
+there throughout our run.
+
+00:14:14.430 --> 00:14:18.450
+This is well above the RTX
+4080 with its founders cooler
+
+00:14:18.450 --> 00:14:20.737
+and more in line with the 4090.
+
+00:14:20.737 --> 00:14:23.910
+"F1 22" pushes the 4070 TI even higher
+
+00:14:23.910 --> 00:14:26.024
+relative to the 4090, sticking again
+
+00:14:26.024 --> 00:14:28.125
+to around the 80 degree mark.
+
+00:14:28.125 --> 00:14:30.300
+To be clear, this isn't
+the end of the world,
+
+00:14:30.300 --> 00:14:33.000
+as long as the core
+clocks are high and stable
+
+00:14:33.000 --> 00:14:34.350
+at these temperatures.
+
+00:14:34.350 --> 00:14:36.900
+And high they probably will be.
+
+00:14:36.900 --> 00:14:39.420
+I suspect that the only 4070 TIs
+
+00:14:39.420 --> 00:14:41.340
+that you will find readily
+available at launch
+
+00:14:41.340 --> 00:14:43.650
+will be factory overclocked like ours,
+
+00:14:43.650 --> 00:14:45.450
+which managed among the highest clocks
+
+00:14:45.450 --> 00:14:47.490
+that we've ever seen on a GPU,
+
+00:14:47.490 --> 00:14:50.530
+even though it can't maintain
+full-boosting Kombustor
+
+00:14:50.530 --> 00:14:54.598
+and has a little bit more
+wobble than the RTX 4080.
+
+00:14:54.598 --> 00:14:58.320
+It's worth saying again though
+that your mileage will vary
+
+00:14:58.320 --> 00:15:02.017
+depending on a given card's
+cooling setup and B bios.
+
+00:15:02.017 --> 00:15:04.920
+"F1 22" is a more realistic load
+
+00:15:04.920 --> 00:15:07.200
+and sees that variation calm down a bit
+
+00:15:07.200 --> 00:15:09.780
+with the 4070 TI with it regularly hitting
+
+00:15:09.780 --> 00:15:13.500
+our factory overclocked cards
+2.7 gigahertz boost clock.
+
+00:15:13.500 --> 00:15:15.240
+But again, your mileage may vary
+
+00:15:15.240 --> 00:15:17.040
+once the first summer heat wave strikes,
+
+00:15:17.040 --> 00:15:18.510
+because as you guys saw,
+
+00:15:18.510 --> 00:15:21.000
+we're flying pretty close
+to the sun on our thermals,
+
+00:15:21.000 --> 00:15:24.300
+and that's in a temperature
+controlled room.
+
+00:15:24.300 --> 00:15:26.957
+As the saying goes, there's no
+such thing as a bad product,
+
+00:15:26.957 --> 00:15:28.890
+only a bad price.
+
+00:15:28.890 --> 00:15:30.771
+So it's time to talk about that.
+
+00:15:30.771 --> 00:15:33.660
+Originally announced at $900,
+
+00:15:33.660 --> 00:15:37.463
+as the RTX 4080 12 gig,
+the current starting price,
+
+00:15:37.463 --> 00:15:41.287
+now that it is the 4070 TI, is $800.
+
+00:15:41.287 --> 00:15:43.455
+That's a hundred dollars less.
+
+00:15:43.455 --> 00:15:47.130
+But not only is that $200 higher
+
+00:15:47.130 --> 00:15:50.281
+than the RTX 3070 TI MSRP was at launch,
+
+00:15:50.281 --> 00:15:54.291
+that price only barely puts
+it in a competitive position
+
+00:15:54.291 --> 00:15:58.443
+against the Radeon RX7900
+XT in typical raster gaming,
+
+00:15:58.443 --> 00:16:02.460
+and it's not even
+guaranteed to net you 60 FPS
+
+00:16:02.460 --> 00:16:04.109
+if you do turn on ray tracing,
+
+00:16:04.109 --> 00:16:07.230
+making some flavor of DLS a necessity
+
+00:16:07.230 --> 00:16:09.193
+unless you want dial back the settings.
+
+00:16:09.193 --> 00:16:14.193
+On an $850 card, it's still
+a lot for what, by its name,
+
+00:16:14.678 --> 00:16:17.097
+should be a high mid-range GPU,
+
+00:16:17.097 --> 00:16:20.970
+not a step-down enthusiast class one.
+
+00:16:20.970 --> 00:16:24.960
+So how does Nvidia justify
+its astronomical price tag
+
+00:16:24.960 --> 00:16:28.451
+for a 70 series GPU
+that as we said before,
+
+00:16:28.451 --> 00:16:31.309
+really seems more like a 60 super?
+
+00:16:31.309 --> 00:16:34.020
+To put it bluntly, they don't.
+
+00:16:34.020 --> 00:16:36.971
+And as far as they're concerned,
+they shouldn't have to.
+
+00:16:36.971 --> 00:16:40.080
+I mean, you think they
+renamed the RTX 4070 TI
+
+00:16:40.080 --> 00:16:41.310
+out of the goodness of their hearts
+
+00:16:41.310 --> 00:16:42.649
+and it was a big win?
+
+00:16:42.649 --> 00:16:43.950
+No!
+
+00:16:43.950 --> 00:16:45.842
+Up until literally just last week,
+
+00:16:45.842 --> 00:16:48.240
+it was still up in the air whether Nvidia
+
+00:16:48.240 --> 00:16:50.027
+would drop the price at all
+
+00:16:50.027 --> 00:16:52.898
+compared to the announced $900 price
+
+00:16:52.898 --> 00:16:55.410
+for the RTX 4080 12 gig.
+
+00:16:55.410 --> 00:16:58.350
+It took their business
+partners begging and pleading
+
+00:16:58.350 --> 00:17:01.260
+with them to make that
+happen, and that was in spite
+
+00:17:01.260 --> 00:17:04.755
+of the reportedly atrocious
+sales figures for the RTX 4080
+
+00:17:04.755 --> 00:17:07.946
+and the Radeon 7900 XT's existence
+
+00:17:07.946 --> 00:17:10.367
+at that very same price point.
+
+00:17:10.367 --> 00:17:14.670
+It's good they yielded, but
+they still have more work to do.
+
+00:17:14.670 --> 00:17:17.188
+Nvidia reportedly offered
+partners some compensation
+
+00:17:17.188 --> 00:17:19.349
+for the work involved in the rebranding,
+
+00:17:19.349 --> 00:17:21.810
+but at this point we
+haven't heard confirmation
+
+00:17:21.810 --> 00:17:24.814
+that they intend to do the
+same for this new MSRP.
+
+00:17:24.814 --> 00:17:26.913
+That means that if this chart
+
+00:17:26.913 --> 00:17:30.090
+showing the meager scraps of margin
+
+00:17:30.090 --> 00:17:32.438
+that Nvidia leads for its
+partners is to be believed,
+
+00:17:32.438 --> 00:17:36.360
+any MSRP cards that
+you see are going to be
+
+00:17:36.360 --> 00:17:39.933
+very limited in stock and
+essentially just for show
+
+00:17:39.933 --> 00:17:42.281
+so that media like us will be suckers
+
+00:17:42.281 --> 00:17:46.140
+and talk about how this card is 799.
+
+00:17:46.140 --> 00:17:48.120
+Board makers, like any other business,
+
+00:17:48.120 --> 00:17:50.070
+are not gonna go go out
+of their way to lose money
+
+00:17:50.070 --> 00:17:52.153
+if Nvidia hasn't adjusted the pricing.
+
+00:17:52.153 --> 00:17:55.296
+Asus's top end strict 4070 TI then
+
+00:17:55.296 --> 00:17:59.880
+is just $150 less than a
+4080 founder's edition,
+
+00:17:59.880 --> 00:18:02.881
+making even that card
+look good by comparison.
+
+00:18:02.881 --> 00:18:06.210
+Reports from ASUS
+suggest that the tough OC
+
+00:18:06.210 --> 00:18:08.138
+will be the most plentiful skew,
+
+00:18:08.138 --> 00:18:09.780
+but from conversations we've had
+
+00:18:09.780 --> 00:18:11.550
+with Memory Express here in Canada,
+
+00:18:11.550 --> 00:18:13.050
+that's actually been the opposite
+
+00:18:13.050 --> 00:18:14.940
+for the rest of the 40 series lineup
+
+00:18:14.940 --> 00:18:17.460
+where almost no tough cards exist.
+
+00:18:17.460 --> 00:18:19.920
+So what it looks like is Nvidia
+
+00:18:19.920 --> 00:18:22.770
+is pointing at the price saying,
+"but it can't be expensive.
+
+00:18:22.770 --> 00:18:24.090
+We set it at 799.
+
+00:18:24.090 --> 00:18:24.923
+See?"
+
+00:18:24.923 --> 00:18:27.390
+But the partners have absolutely no way
+
+00:18:27.390 --> 00:18:29.012
+of achieving that in the real world.
+
+00:18:29.012 --> 00:18:31.620
+I'm having a hard time
+figuring out Nvidia's game here
+
+00:18:31.620 --> 00:18:32.760
+to be honest with you.
+
+00:18:32.760 --> 00:18:35.910
+The GPU market has reportedly
+hit a 20 year sales low
+
+00:18:35.910 --> 00:18:38.073
+thanks to a combination of high prices,
+
+00:18:38.073 --> 00:18:42.180
+the mining crash, and extenuating
+economic circumstances,
+
+00:18:42.180 --> 00:18:45.263
+and yet Nvidia seems determined
+to pour water on the fire
+
+00:18:45.263 --> 00:18:48.810
+expecting a huge premium even on products
+
+00:18:48.810 --> 00:18:52.914
+in the high slash mid-tier
+of their product stack.
+
+00:18:52.914 --> 00:18:54.360
+I mean, don't forget.
+
+00:18:54.360 --> 00:18:56.670
+As much as we focus on desktop GPUs
+
+00:18:56.670 --> 00:18:58.140
+and PC gaming on this channel,
+
+00:18:58.140 --> 00:19:00.840
+the real competition for a card like this
+
+00:19:00.840 --> 00:19:04.282
+could easily be an Xbox or a PlayStation 5
+
+00:19:04.282 --> 00:19:06.390
+either of which would frankly be
+
+00:19:06.390 --> 00:19:09.720
+a much more compelling
+value to the average gamer.
+
+00:19:09.720 --> 00:19:12.810
+And I feel like Nvidia, if
+they don't turn things around,
+
+00:19:12.810 --> 00:19:15.572
+is at risk of losing PC gaming customers
+
+00:19:15.572 --> 00:19:18.044
+long term to the console side.
+
+00:19:18.044 --> 00:19:20.190
+It's starting to almost look like
+
+00:19:20.190 --> 00:19:23.850
+a Microsoftian good, bad, good cycle
+
+00:19:23.850 --> 00:19:26.520
+that they've been on for
+the last few years here.
+
+00:19:26.520 --> 00:19:29.154
+10 series is great, 20
+series was a wet fart,
+
+00:19:29.154 --> 00:19:32.193
+30 series kickstarted a whole
+new generation of PC gamers
+
+00:19:32.193 --> 00:19:34.896
+in spite of the pandemic price hikes,
+
+00:19:34.896 --> 00:19:38.471
+and as product development
+cycles run for longer and longer
+
+00:19:38.471 --> 00:19:40.380
+with each new generation,
+
+00:19:40.380 --> 00:19:44.115
+the impact of this kind of
+please people 50% of the time,
+
+00:19:44.115 --> 00:19:46.097
+piss them off 50% of the time
+
+00:19:46.097 --> 00:19:48.330
+starts to become more dramatic.
+
+00:19:48.330 --> 00:19:50.838
+And Nvidia clearly hasn't
+learned their lesson yet.
+
+00:19:50.838 --> 00:19:53.190
+I mean, Apple and Tesla have proven
+
+00:19:53.190 --> 00:19:54.780
+that people will still buy your product
+
+00:19:54.780 --> 00:19:58.200
+even if you treat them badly,
+but that only holds true
+
+00:19:58.200 --> 00:20:00.990
+if you have the absolute
+best products on the market.
+
+00:20:00.990 --> 00:20:02.395
+It doesn't build loyalty.
+
+00:20:02.395 --> 00:20:05.036
+So this strategy around the 4070 TI
+
+00:20:05.036 --> 00:20:10.036
+and especially the 4080 clearly
+isn't it for the long term.
+
+00:20:10.413 --> 00:20:15.210
+It is time for Nvidia to focus
+on squeezing out margins less
+
+00:20:15.210 --> 00:20:17.518
+and delighting customers more.
+
+00:20:17.518 --> 00:20:21.390
+Now, AMD is not innocent here to be clear.
+
+00:20:21.390 --> 00:20:25.697
+While the RX 7900 series is
+a better value than the 4080,
+
+00:20:25.697 --> 00:20:29.745
+the 4070 TI is content to
+price itself right in line
+
+00:20:29.745 --> 00:20:33.043
+with its performance against the 7900 XT,
+
+00:20:33.043 --> 00:20:35.580
+a card that also should probably be more
+
+00:20:35.580 --> 00:20:39.870
+like $700 considering its
+80 class performance level.
+
+00:20:39.870 --> 00:20:42.960
+Nvidia enabled AMD then
+to charge more themselves
+
+00:20:42.960 --> 00:20:44.970
+through their own astronomical pricing,
+
+00:20:44.970 --> 00:20:48.720
+and AMD is in turn enabling
+Nvidia to normalize those prices
+
+00:20:48.720 --> 00:20:51.243
+by providing a comparably fair price
+
+00:20:51.243 --> 00:20:53.400
+on this step down product,
+
+00:20:53.400 --> 00:20:55.830
+which Nvidia can then compete with
+
+00:20:55.830 --> 00:20:58.080
+as they both run down the stack.
+
+00:20:58.080 --> 00:21:00.420
+As long as this continues
+and as long as Nvidia
+
+00:21:00.420 --> 00:21:02.040
+keeps trying to kill Moore's law
+
+00:21:02.040 --> 00:21:03.600
+on the collective consciousness,
+
+00:21:03.600 --> 00:21:05.645
+things are never going to change.
+
+00:21:05.645 --> 00:21:07.590
+Nowhere is this attitude more apparent
+
+00:21:07.590 --> 00:21:10.800
+than Nvidia's positioning
+for the RTX 4070 TI,
+
+00:21:10.800 --> 00:21:13.351
+not as competition for AMD or even against
+
+00:21:13.351 --> 00:21:15.822
+a 30 series card, but as an upgrade
+
+00:21:15.822 --> 00:21:19.631
+from 20 series and 10 series GPUs.
+
+00:21:19.631 --> 00:21:23.220
+And I mean, yes, it is an upgrade,
+
+00:21:23.220 --> 00:21:24.690
+but it would also be an upgrade
+
+00:21:24.690 --> 00:21:27.051
+over a toaster or a literal potato,
+
+00:21:27.051 --> 00:21:29.700
+especially if that potato
+is seven years old.
+
+00:21:29.700 --> 00:21:32.370
+I mean, even an ARC
+GPU would be an upgrade
+
+00:21:32.370 --> 00:21:34.770
+over a 10 series most of the time.
+
+00:21:34.770 --> 00:21:37.169
+So what's your point, Nvidia?
+
+00:21:37.169 --> 00:21:38.924
+Final word then.
+
+00:21:38.924 --> 00:21:42.630
+It's a good product at a
+bad price from a company
+
+00:21:42.630 --> 00:21:46.290
+that is failing more and
+more to hide its ugly nature.
+
+00:21:46.290 --> 00:21:50.250
+You're gonna buy it, you
+always do, and you know what?
+
+00:21:50.250 --> 00:21:51.960
+You'll probably be happy with it,
+
+00:21:51.960 --> 00:21:53.820
+but I don't have to be happy about that.
+
+00:21:53.820 --> 00:21:55.849
+What I am happy to tell
+you about is our sponsor!
+
+00:21:55.849 --> 00:21:57.150
+- Jackery!
+
+00:21:57.150 --> 00:21:59.639
+Jackery makes solar-ready
+portable power stations
+
+00:21:59.639 --> 00:22:02.969
+designed to improve outdoor
+life by providing power outdoors
+
+00:22:02.969 --> 00:22:05.550
+whenever and wherever you need it.
+
+00:22:05.550 --> 00:22:07.788
+Before they used to use
+maple syrup for that.
+
+00:22:07.788 --> 00:22:10.230
+Their new solar generator 1000 Pro
+
+00:22:10.230 --> 00:22:13.560
+is their fastest solar and
+wall recharging generator yet,
+
+00:22:13.560 --> 00:22:15.300
+boasting three times faster charging
+
+00:22:15.300 --> 00:22:17.370
+than the normal SG 1000.
+
+00:22:17.370 --> 00:22:20.010
+It consists of a Jackery Explorer 1000 Pro
+
+00:22:20.010 --> 00:22:23.460
+portable power station
+and 80 watt solar panels.
+
+00:22:23.460 --> 00:22:25.230
+Plug it into the wall
+and get a full charge
+
+00:22:25.230 --> 00:22:26.730
+in under two hours and deliver
+
+00:22:26.730 --> 00:22:28.290
+up to a hundred watts of power
+
+00:22:28.290 --> 00:22:30.900
+thanks to the new 100
+watt power delivery ports!
+
+00:22:30.900 --> 00:22:33.464
+So check out the new Jackery
+Solar Generator 1000 Pro
+
+00:22:33.464 --> 00:22:34.930
+at the link below.
+
+00:22:34.930 --> 00:22:36.300
+- If you guys enjoyed this video,
+
+00:22:36.300 --> 00:22:39.060
+go check out our review
+of the Radeon 7000 series
+
+00:22:39.060 --> 00:22:40.890
+for a little more on what Nvidia
+
+00:22:40.890 --> 00:22:43.380
+is up against this generation.
+
+00:22:43.380 --> 00:22:47.460
+AMD seems to be catching
+up, slowly but surely,
+
+00:22:47.460 --> 00:22:50.133
+even if they too cost a fortune.
+

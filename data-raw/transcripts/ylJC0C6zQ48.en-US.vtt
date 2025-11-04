@@ -1,0 +1,797 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.120 --> 00:00:01.860
+- The only one more excited for this day
+
+00:00:01.860 --> 00:00:04.590
+to come than me has got to be Intel.
+
+00:00:04.590 --> 00:00:07.230
+They have been hard at
+work on their ARC series
+
+00:00:07.230 --> 00:00:11.670
+dedicated GPU's since at least 2017
+
+00:00:11.670 --> 00:00:14.215
+when they hired Raja Koduri from AMD
+
+00:00:14.215 --> 00:00:17.483
+who was leading up their
+Radeon Graphics division.
+
+00:00:17.483 --> 00:00:20.220
+And it's finally, freaking here.
+
+00:00:20.220 --> 00:00:24.840
+This is their Alchemist, code name,
+
+00:00:24.840 --> 00:00:29.550
+first generation ARC flagship, the A770.
+
+00:00:31.410 --> 00:00:35.160
+And ooh, it comes with important safety
+
+00:00:35.160 --> 00:00:37.246
+and regulatory information.
+
+00:00:37.246 --> 00:00:39.090
+Neat.
+
+00:00:39.090 --> 00:00:41.130
+Let's play, indeed.
+
+00:00:41.130 --> 00:00:42.783
+It's a cute case badge.
+
+00:00:43.620 --> 00:00:47.103
+Holy crap, this is it.
+
+00:00:47.103 --> 00:00:50.461
+You gotta give them full credit.
+
+00:00:50.461 --> 00:00:54.363
+It looks flipping sick.
+
+00:00:55.340 --> 00:00:56.790
+Hold on, this plugs into a USB header
+
+00:00:56.790 --> 00:00:58.440
+and this is going to handle the
+
+00:00:58.440 --> 00:01:00.390
+RGB lighting on your graphics card.
+
+00:01:00.390 --> 00:01:05.005
+That's right, a reference card with RGB.
+
+00:01:05.005 --> 00:01:06.003
+What is this?
+
+00:01:07.860 --> 00:01:09.573
+International power plugs.
+
+00:01:12.930 --> 00:01:15.960
+Is this seriously a stand for the card?
+
+00:01:15.960 --> 00:01:17.250
+Is that what it is, is it a sta-
+
+00:01:17.250 --> 00:01:19.710
+Oh. Oh, I see.
+
+00:01:19.710 --> 00:01:21.660
+Why does it come with two bases?
+
+00:01:21.660 --> 00:01:25.290
+Wait, shut up. That's their solution?
+
+00:01:25.290 --> 00:01:30.290
+To be able to wall mount it
+or wall mount it this way,
+
+00:01:30.420 --> 00:01:34.020
+is to have two completely separate bases
+
+00:01:34.020 --> 00:01:37.020
+with the power switch in a different spot.
+
+00:01:37.020 --> 00:01:40.112
+- [Andy] All the engineers
+were on the graphics cards.
+
+00:01:40.112 --> 00:01:41.026
+(exclaiming)
+
+00:01:41.026 --> 00:01:41.859
+(laughing)
+
+00:01:41.859 --> 00:01:42.692
+- Yeah.
+
+00:01:42.692 --> 00:01:43.680
+They couldn't engineer a better solution
+
+00:01:43.680 --> 00:01:44.730
+but you know what, fine.
+
+00:01:44.730 --> 00:01:47.340
+Oh, fatal flaw, we got the top down camera
+
+00:01:47.340 --> 00:01:50.643
+and I have no way of showing
+it to the top down, wait.
+
+00:01:54.210 --> 00:01:55.472
+A solution.
+
+00:01:55.472 --> 00:01:57.090
+(laughing)
+
+00:01:57.090 --> 00:02:00.540
+Now the performance
+embargo hasn't lifted yet
+
+00:02:00.540 --> 00:02:04.590
+but we can talk about all
+the detailed specs and Intel
+
+00:02:04.590 --> 00:02:07.803
+has released enough performance
+information about this GPU
+
+00:02:07.803 --> 00:02:11.190
+that we can make some
+pretty educated guesses.
+
+00:02:11.190 --> 00:02:13.456
+First the basics though,
+the ARC lineup is divided
+
+00:02:13.456 --> 00:02:17.160
+up into three, five, and
+seven series products
+
+00:02:17.160 --> 00:02:20.130
+just like you would see
+on their desktop CPU's.
+
+00:02:20.130 --> 00:02:23.190
+So this being an A770 makes it
+
+00:02:23.190 --> 00:02:25.680
+the top performer of their top series.
+
+00:02:25.680 --> 00:02:29.820
+It uses their DG2-512 processor,
+clocked at 2.1 gigahertz.
+
+00:02:29.820 --> 00:02:31.817
+That means it has 32 of their Xe cores
+
+00:02:31.817 --> 00:02:34.230
+and 32 ray-tracing units.
+
+00:02:34.230 --> 00:02:38.220
+It's equipped with eight or
+16 gigabytes of video memory.
+
+00:02:38.220 --> 00:02:40.050
+That's what makes this
+the limited edition.
+
+00:02:40.050 --> 00:02:43.200
+It has 16 gigs of memory
+and that's connected via
+
+00:02:43.200 --> 00:02:48.200
+a 256 bit bus and it's rated
+to draw 225 watts of power.
+
+00:02:49.170 --> 00:02:54.170
+Which is our first red
+flag because Intel says
+
+00:02:54.750 --> 00:02:57.240
+that this card is designed
+to compete against
+
+00:02:57.240 --> 00:03:01.750
+NVIDIA's RTX 3060 and
+AMD's Radeon RX 6650 XT,
+
+00:03:03.180 --> 00:03:07.150
+both of which draw in the
+neighborhood of 160 to 170 watts.
+
+00:03:09.000 --> 00:03:14.000
+Also, neither of which
+use a 256 bit memory bus.
+
+00:03:14.130 --> 00:03:17.070
+That means that, especially
+once we dig in a little deeper,
+
+00:03:17.070 --> 00:03:20.280
+and find the transistor
+count of this card that Intel
+
+00:03:20.280 --> 00:03:24.270
+was hoping for better
+performance out of this GPU.
+
+00:03:24.270 --> 00:03:29.270
+More along the lines of a
+3070 or a 6700 class card.
+
+00:03:29.580 --> 00:03:31.524
+Making matters more complicated for Intel,
+
+00:03:31.524 --> 00:03:35.723
+NVIDIA has already announced
+their RTX 40 Series of cards.
+
+00:03:35.723 --> 00:03:39.707
+However, NVIDIA's pricing
+is so far out to lunch
+
+00:03:39.707 --> 00:03:42.540
+that if, at the price Intel has announced,
+
+00:03:42.540 --> 00:03:45.870
+which is 330 dollars for
+this card, they do manage
+
+00:03:45.870 --> 00:03:49.860
+to be competitive with a 3060, 3060 Ti.
+
+00:03:49.860 --> 00:03:51.780
+And if the overclocking head room
+
+00:03:51.780 --> 00:03:53.848
+is anywhere near what
+they've talked about,
+
+00:03:53.848 --> 00:03:58.080
+ARC could actually end up
+being pretty competitive.
+
+00:03:58.080 --> 00:03:59.730
+I guess we should take a
+closer look at the card.
+
+00:03:59.730 --> 00:04:01.339
+Man, did they ever nail the aesthetics.
+
+00:04:01.339 --> 00:04:04.663
+You've got a diffused RGB strip down here.
+
+00:04:04.663 --> 00:04:07.860
+Diffused RGB lighting
+around both of the fans.
+
+00:04:07.860 --> 00:04:11.880
+Man, in real life, once
+it's lit, it looks amazing.
+
+00:04:11.880 --> 00:04:13.560
+Oh, do you have a test
+bench for me right there?
+
+00:04:13.560 --> 00:04:15.450
+Bella Mans has got a test bench for me.
+
+00:04:15.450 --> 00:04:16.283
+Hey, thank you.
+
+00:04:16.283 --> 00:04:17.163
+- [Bell] You're so welcome.
+
+00:04:17.163 --> 00:04:18.424
+- All right, let's just.
+
+00:04:18.424 --> 00:04:19.980
+Yeah, what could go wrong?
+
+00:04:19.980 --> 00:04:21.600
+Uh, that could go wrong.
+
+00:04:21.600 --> 00:04:22.489
+One thing to note is that,
+
+00:04:22.489 --> 00:04:25.140
+probably because it was intended
+to come out a lot sooner,
+
+00:04:25.140 --> 00:04:27.510
+the ARC series does
+not use any of the new,
+
+00:04:27.510 --> 00:04:30.030
+funky PCI-e power connectors,
+it just has a standard
+
+00:04:30.030 --> 00:04:31.530
+eight pin plus six pin.
+
+00:04:31.530 --> 00:04:34.295
+Oh, and that USB is right here.
+
+00:04:34.295 --> 00:04:37.147
+Is that what that USB connector is for?
+
+00:04:37.147 --> 00:04:40.440
+I thought I remember them
+telling me that it was for RGB,
+
+00:04:40.440 --> 00:04:41.970
+but like, you're connected via PCI-e,
+
+00:04:41.970 --> 00:04:43.470
+couldn't you just do it that way?
+
+00:04:43.470 --> 00:04:44.937
+Can't wait to show this to you guys.
+
+00:04:44.937 --> 00:04:47.610
+Oh, after this message from our sponsor.
+
+00:04:47.610 --> 00:04:50.160
+Thanks to Ifixit for
+sponsoring today's video.
+
+00:04:50.160 --> 00:04:52.320
+IFixit wants to help you skip your next
+
+00:04:52.320 --> 00:04:54.438
+phone upgrade helping you save money.
+
+00:04:54.438 --> 00:04:57.300
+If your battery life sucks,
+put in a new battery.
+
+00:04:57.300 --> 00:04:59.640
+If your screen is broken,
+replace it using one of
+
+00:04:59.640 --> 00:05:03.840
+IFixt's fix kits starting
+at just 10.99 US.
+
+00:05:03.840 --> 00:05:05.970
+You can repair everything
+from camera lenses,
+
+00:05:05.970 --> 00:05:08.370
+to screens, batteries and more.
+
+00:05:08.370 --> 00:05:10.590
+And their step by step guides
+are designed to help you
+
+00:05:10.590 --> 00:05:13.290
+along the way with photos
+and detailed instructions.
+
+00:05:13.290 --> 00:05:15.060
+You can visit the link
+in the video description
+
+00:05:15.060 --> 00:05:18.116
+to find the repair kit
+that's right for your phone.
+
+00:05:18.116 --> 00:05:20.043
+Hey, there we go.
+
+00:05:21.150 --> 00:05:22.948
+Does that look awesome, or what?
+
+00:05:22.948 --> 00:05:26.790
+Of course, there's more
+to a GPU than just looks.
+
+00:05:26.790 --> 00:05:29.190
+Starting with, is it even
+gonna fit in your case?
+
+00:05:29.190 --> 00:05:31.680
+So we grabbed a couple of objects
+
+00:05:31.680 --> 00:05:33.960
+that we can compare our A770 to.
+
+00:05:33.960 --> 00:05:35.280
+Starting, of course, with our classic
+
+00:05:35.280 --> 00:05:37.020
+short circuit banana for scale.
+
+00:05:37.020 --> 00:05:39.268
+Eh, little something
+like that. Lttstore.com.
+
+00:05:39.268 --> 00:05:41.463
+But, also some more useful things.
+
+00:05:41.463 --> 00:05:44.910
+For context, here is a 3080 Ti.
+
+00:05:44.910 --> 00:05:48.137
+It's the top tier flagship level card.
+
+00:05:48.137 --> 00:05:50.212
+Hmm, it's pretty big.
+
+00:05:50.212 --> 00:05:53.203
+It's almost as big as a 3080 Ti.
+
+00:05:53.203 --> 00:05:55.530
+Here's a 3060 Ti.
+
+00:05:55.530 --> 00:05:56.760
+This is more along the lines of
+
+00:05:56.760 --> 00:05:58.530
+the kind of founder's edition card
+
+00:05:58.530 --> 00:06:01.330
+that you might be competing
+with in terms of performance.
+
+00:06:01.330 --> 00:06:03.840
+It's a little on the long boy side.
+
+00:06:03.840 --> 00:06:07.080
+Here's our 6700 XT,
+which is actually, okay,
+
+00:06:07.080 --> 00:06:09.180
+higher tier card than this
+and it's about the same size,
+
+00:06:09.180 --> 00:06:12.870
+which, again, would give you some idea
+
+00:06:12.870 --> 00:06:14.370
+of what Intel was actually targeting.
+
+00:06:14.370 --> 00:06:16.590
+And you can see this in some
+of the other specs as well.
+
+00:06:16.590 --> 00:06:18.450
+When we compared the raw pixel rate
+
+00:06:18.450 --> 00:06:21.150
+and texture rate, memory
+bandwidth, with something
+
+00:06:21.150 --> 00:06:25.219
+like a 3060 Ti, the A770
+kind of craps all over it.
+
+00:06:25.219 --> 00:06:29.640
+But, because Intel is kind
+of new to the driver game
+
+00:06:29.640 --> 00:06:32.004
+when it comes to high
+performance dedicated GPU's,
+
+00:06:32.004 --> 00:06:37.004
+it's speculated that aside from
+any architectural oversights
+
+00:06:37.380 --> 00:06:39.420
+there might have been
+on a first gen product,
+
+00:06:39.420 --> 00:06:40.980
+they have a lot to learn.
+
+00:06:40.980 --> 00:06:43.377
+Especially when it comes
+to optimizing for older,
+
+00:06:43.377 --> 00:06:46.860
+especially DirectX 9 and earlier titles.
+
+00:06:46.860 --> 00:06:48.660
+And you can't not support them
+
+00:06:48.660 --> 00:06:50.626
+because that's part of
+the beauty of PC gaming
+
+00:06:50.626 --> 00:06:54.660
+is that you've got this
+incredible back catalog
+
+00:06:54.660 --> 00:06:56.274
+of games that you can go back and play,
+
+00:06:56.274 --> 00:06:57.780
+even on modern hardware.
+
+00:06:57.780 --> 00:07:00.360
+Though, sometimes does take
+a little bit of hackery.
+
+00:07:00.360 --> 00:07:02.970
+In spite of all the delays,
+one reassuringly modern thing
+
+00:07:02.970 --> 00:07:05.520
+about this card is its feature set.
+
+00:07:05.520 --> 00:07:07.380
+Intel is claiming that
+right out of the gate
+
+00:07:07.380 --> 00:07:09.900
+they're going to have
+Ray-tracing performance that is
+
+00:07:09.900 --> 00:07:13.860
+up to 65 percent stronger,
+peak, compared to their rivals.
+
+00:07:13.860 --> 00:07:16.260
+Okay, so up to, peak.
+
+00:07:16.260 --> 00:07:17.760
+That's a lot of qualifications, but,
+
+00:07:17.760 --> 00:07:19.350
+hey, at least they're
+gonna support ray-tracing
+
+00:07:19.350 --> 00:07:20.990
+right outta the gate and they're
+
+00:07:20.990 --> 00:07:23.610
+gonna have support for Xe Super Sampling.
+
+00:07:23.610 --> 00:07:25.530
+XESS, which is a competitor to
+
+00:07:25.530 --> 00:07:27.330
+NVIDIA's Deep Learning Super Sampling
+
+00:07:27.330 --> 00:07:30.210
+and AMD's Fidelity
+Effects Super Resolution.
+
+00:07:30.210 --> 00:07:33.537
+Using AI to boost frame
+rates at higher resolutions.
+
+00:07:33.537 --> 00:07:37.290
+How well it works though,
+remains to be seen
+
+00:07:37.290 --> 00:07:39.940
+and based on how much work NVIDIA and AMD
+
+00:07:40.818 --> 00:07:41.651
+have already put into this technology
+
+00:07:41.651 --> 00:07:44.448
+I would say Intel is going
+to be playing catch up.
+
+00:07:44.448 --> 00:07:46.590
+Where they won't be playing catch up
+
+00:07:46.590 --> 00:07:47.804
+is in their display interfaces.
+
+00:07:47.804 --> 00:07:51.480
+On the back here, we're
+going to find HDMI 2.1.
+
+00:07:51.480 --> 00:07:55.380
+So you'll be able to do up to 4K 120 Hertz
+
+00:07:55.380 --> 00:07:58.433
+or 8K 60 I believe, you
+can anything on 2.1.
+
+00:07:58.433 --> 00:08:01.110
+And this is where things get really cool.
+
+00:08:01.110 --> 00:08:05.332
+This is our first hands
+on with display Port 2.0.
+
+00:08:05.332 --> 00:08:09.170
+However, unlike previous
+version of display Port,
+
+00:08:09.170 --> 00:08:13.830
+DP 2.0 is not just a cut and
+dried, here's what you get.
+
+00:08:13.830 --> 00:08:17.010
+It's divided up into ultra high bit rate,
+
+00:08:17.010 --> 00:08:22.010
+UHBR 10, 13.5 I think, and 20.
+
+00:08:22.560 --> 00:08:27.270
+And what those numbers mean
+is the data rate times four.
+
+00:08:27.270 --> 00:08:32.270
+So these are DP 2.0 UHBR 10
+
+00:08:32.940 --> 00:08:36.704
+for a total of 40
+gigabit per second ports.
+
+00:08:36.704 --> 00:08:38.790
+Okay. It's a little confusing.
+
+00:08:38.790 --> 00:08:41.670
+Kind of wish it was just UHBR 40
+
+00:08:41.670 --> 00:08:44.790
+so that that would be a little
+more intuitive for normies.
+
+00:08:44.790 --> 00:08:46.440
+But, in a world where USB naming
+
+00:08:46.440 --> 00:08:48.811
+conventions exist I guess this is a win.
+
+00:08:48.811 --> 00:08:50.010
+(chuckling)
+
+00:08:50.010 --> 00:08:52.140
+Another win, and another modern feature
+
+00:08:52.140 --> 00:08:54.390
+is Intel Support for AV1 and coding.
+
+00:08:54.390 --> 00:08:57.900
+And, not on this GPU, but we
+have actually played around
+
+00:08:57.900 --> 00:08:59.490
+with it a fair bit in the last week
+
+00:08:59.490 --> 00:09:04.490
+on Intel ARC on the A380 and
+it's pretty freaking cool.
+
+00:09:05.010 --> 00:09:07.359
+At 3500 kilobit per second,
+
+00:09:07.359 --> 00:09:11.520
+our encoded game streaming
+footage looks about the same
+
+00:09:11.520 --> 00:09:16.410
+as NVIDIA's end bank at
+6,000 kilobit per second.
+
+00:09:16.410 --> 00:09:19.020
+So what this means is that
+once platforms like Twitch
+
+00:09:19.020 --> 00:09:21.780
+support it, you can expect
+to be able to stream
+
+00:09:21.780 --> 00:09:23.948
+at the same quality that people can today,
+
+00:09:23.948 --> 00:09:26.520
+on a much lesser internet connection
+
+00:09:26.520 --> 00:09:29.725
+or you can expect to see
+better quality Twitch streams.
+
+00:09:29.725 --> 00:09:31.380
+Pretty cool.
+
+00:09:31.380 --> 00:09:33.090
+For all my positivity, though.
+
+00:09:33.090 --> 00:09:36.090
+And as much as I would love
+for there to be a valid
+
+00:09:36.090 --> 00:09:38.957
+third competitor in the
+dedicated graphics card space,
+
+00:09:38.957 --> 00:09:42.390
+I do have to temper my
+enthusiasm a little bit
+
+00:09:42.390 --> 00:09:45.270
+because Intel is up
+against a lot of obstacles.
+
+00:09:45.270 --> 00:09:47.580
+They've gotta figure out
+that backwards compatibility
+
+00:09:47.580 --> 00:09:49.950
+game performance, they've
+gotta compete with
+
+00:09:49.950 --> 00:09:54.270
+AMD and NVIDIA both releasing
+new series of GPU's when
+
+00:09:54.270 --> 00:09:55.980
+ARC Alchemist was really supposed to be
+
+00:09:55.980 --> 00:09:58.764
+competing with the last series of GPU's.
+
+00:09:58.764 --> 00:10:01.980
+And another big one is that we talk about
+
+00:10:01.980 --> 00:10:05.245
+second hand GPU's a lot and
+given the recent crypto crash
+
+00:10:05.245 --> 00:10:08.910
+there's a lot of them out there
+at very aggressive pricing.
+
+00:10:08.910 --> 00:10:11.344
+And the reality of it is that
+Intel doesn't have any used
+
+00:10:11.344 --> 00:10:15.450
+GPU's and they certainly don't
+benefit from selling them.
+
+00:10:15.450 --> 00:10:17.910
+So it's going to be an
+extremely competitive market.
+
+00:10:17.910 --> 00:10:20.430
+They seem pretty confident
+in their 329 pricing
+
+00:10:20.430 --> 00:10:22.440
+and I certainly wish them luck.
+
+00:10:22.440 --> 00:10:25.410
+But, hey, if that doesn't
+work out for them,
+
+00:10:25.410 --> 00:10:27.270
+then it can only be a win for gamers
+
+00:10:27.270 --> 00:10:29.610
+because they've made them so now
+
+00:10:29.610 --> 00:10:31.440
+they definitely have to sell them.
+
+00:10:31.440 --> 00:10:34.364
+Just like I'm gonna
+sell you that you should
+
+00:10:34.364 --> 00:10:37.440
+go subscribe to LTT while
+you're subscribing to
+
+00:10:37.440 --> 00:10:39.750
+Short Circuit so you
+don't miss our full review
+
+00:10:39.750 --> 00:10:43.983
+of this and other ARC Alchemist cards.
+

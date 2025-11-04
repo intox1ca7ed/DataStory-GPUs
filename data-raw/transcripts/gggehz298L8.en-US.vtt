@@ -1,0 +1,661 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.000 --> 00:00:06.260
+Remember GPUs that had great price to performance and offered true generational leaps over their predecessors?
+
+00:00:06.260 --> 00:00:08.260
+Oh, what a time that was.
+
+00:00:08.620 --> 00:00:13.540
+But this is now, and AMD's new Radeon RX 7700 XT and
+
+00:00:13.540 --> 00:00:20.260
+7800 XT aren't going to make us relive those glory days. I can tell you that up front, but
+
+00:00:20.980 --> 00:00:26.240
+right now, maybe they don't have to. Maybe all they need to do is just
+
+00:00:26.240 --> 00:00:30.460
+just not give us a wedgie and shove our heads in the toilet. And
+
+00:00:31.180 --> 00:00:36.140
+you know what? I'm feeling pretty optimistic to the point where I'm even gonna preemptively
+
+00:00:36.260 --> 00:00:43.420
+thank AMD for not treating me like a high school bully, and I'm gonna hope that the final members of the RDNA 3
+
+00:00:43.500 --> 00:00:49.340
+desktop family don't let me down with any game-breaking bugs that wipe this smile off my face.
+
+00:00:50.100 --> 00:00:53.140
+Wipe, like this star wipe to our sponsor.
+
+00:00:53.140 --> 00:01:00.620
+Enlisted! Fight in iconic World War II campaigns in this immersive, free-to-play, first-person shooter with detailed era-accurate
+
+00:01:01.060 --> 00:01:03.020
+firearms. Show your dad!
+
+00:01:03.020 --> 00:01:06.260
+Statistically, he'll probably think it's cool. Get Enlisted at the link below.
+
+00:01:06.960 --> 00:01:13.260
+AMD is positioning their new hotness against Nvidia's RTX 4060 Ti and RTX 4070.
+
+00:01:13.260 --> 00:01:17.580
+And, at least from the preliminary numbers that they showed, it looks like Nvidia's
+
+00:01:17.580 --> 00:01:24.620
+preemptive price drop on the 16 gig version of the 4060 Ti may not be enough. All other things aside,
+
+00:01:24.860 --> 00:01:30.400
+both of these cards have more than 8 gigabytes of VRAM, which is a major advantage over the
+
+00:01:30.820 --> 00:01:36.580
+less overpriced 8 gig variant of the 4060 Ti in games that require it. And the
+
+00:01:37.000 --> 00:01:43.220
+7800 XT in particular looms very impressive, at least on paper. Compared to its little brother,
+
+00:01:43.220 --> 00:01:49.500
+it has six more compute units and only slightly lower clocks with 45 percent faster memory and a
+
+00:01:49.700 --> 00:01:52.840
+proportionally wider bus to go with it. All of that for just
+
+00:01:53.640 --> 00:01:57.020
+$50 more and an extra 18 watts of power consumption.
+
+00:01:57.780 --> 00:02:01.820
+Which actually raises a lot of questions for me. Can the RX
+
+00:02:02.260 --> 00:02:09.740
+7700 XT justify its existence at that price? Will Nvidia have to lower their prices even more than they already did a few days ago?
+
+00:02:09.740 --> 00:02:15.380
+Oh, and is FSR 3 coming? We can't answer that last one just yet,
+
+00:02:15.380 --> 00:02:22.100
+but we can address the first two with some benchmarks. Given this is our first post hiatus hardware review and we were working under a deadline,
+
+00:02:23.120 --> 00:02:27.260
+we had to make some tough choices on which GPUs to include in our roster.
+
+00:02:27.300 --> 00:02:29.320
+So we ended up with fewer cards,
+
+00:02:29.320 --> 00:02:33.880
+but more QC, which is going to be the path forward until some of our new automations come online.
+
+00:02:34.140 --> 00:02:39.540
+One final note, by the way, our RTX 3070 needed the resizable bar BIOS flash,
+
+00:02:39.540 --> 00:02:44.140
+so if you're playing along at home with a 30 series GPU and you're getting lower numbers than us,
+
+00:02:44.220 --> 00:02:50.780
+do make sure you check that. While you're waiting for your PC to restart, maybe check out our new screwdriver variants from lttstore.com.
+
+00:02:50.940 --> 00:02:57.420
+We're gonna start with 1080p and work our way up. The geometric mean of all of our testing puts the RX
+
+00:02:57.600 --> 00:03:04.900
+7800 XT at the top of the charts, which is great, except, you know, this is kind of awkward, the last-gen RX
+
+00:03:05.460 --> 00:03:07.460
+6800 XT comes in as a
+
+00:03:07.460 --> 00:03:12.100
+surprisingly close second, with the RTX 4070 picking up the bronze, though with
+
+00:03:12.500 --> 00:03:16.980
+silver tier 1% lows, which indicates a similarly smooth gameplay experience.
+
+00:03:18.020 --> 00:03:22.620
+Interestingly, Atomic Heart has the 4070 leading the pack by a fair margin,
+
+00:03:23.060 --> 00:03:28.480
+probably indicating poor optimization for AMD in that particular title given the rest of our results.
+
+00:03:28.780 --> 00:03:32.100
+The 7700 XT, meanwhile, works out to be about
+
+00:03:32.100 --> 00:03:39.580
+15% slower than its bigger brother and lives smack dab in the middle between Nvidia's current and previous 70 class cards.
+
+00:03:39.860 --> 00:03:46.740
+Pretty respectable and it puts these new cards in a really nice sweet spot for high refresh rate 1080p gaming in modern titles.
+
+00:03:47.100 --> 00:03:52.300
+Though, it is worth noting that the 6800 XT is just about on the
+
+00:03:52.420 --> 00:03:56.220
+7800 XT's level and you may be able to find it for cheap in the coming weeks.
+
+00:03:56.220 --> 00:04:02.140
+Also worth noting, the RTX 3070 is a fair bit cheaper than the 7700 XT right now,
+
+00:04:02.140 --> 00:04:05.140
+if you care about Nvidia's exclusive features, though
+
+00:04:05.140 --> 00:04:11.440
+it will be slower and offer slightly worse value for its performance, at least in terms of raw raster FPS.
+
+00:04:12.020 --> 00:04:17.140
+Needless to say, the 40 series isn't winning any value awards right now. So, let's move on.
+
+00:04:17.820 --> 00:04:25.220
+Many of the best gaming monitors these days are 1440p and AMD markets both of these new GPUs for driving these higher
+
+00:04:25.220 --> 00:04:31.100
+resolution displays. And this is where things get really spicy and also a little weird.
+
+00:04:31.580 --> 00:04:37.080
+While both cards still enjoy a nice lead over their green rivals, the RX
+
+00:04:37.800 --> 00:04:42.260
+6800 XT is once again pretty dang close to the
+
+00:04:42.820 --> 00:04:47.580
+7800 XT and that's despite being a last-gen card and pushing
+
+00:04:48.060 --> 00:04:51.860
+77% more pixels than 1080p. More on that later.
+
+00:04:51.860 --> 00:04:57.020
+The 7800 XT does still maintain its performance gap with its current-gen sibling,
+
+00:04:57.020 --> 00:05:03.660
+however, and it's looking at a geomean of about 8% faster than the RTX 4070 across all of our testing. The
+
+00:05:04.100 --> 00:05:08.580
+7700 XT for its part still slots in between the RTX 3070 and
+
+00:05:09.220 --> 00:05:14.340
+4070, though it skews a little closer to the 3070. As for the 4060 Ti,
+
+00:05:14.340 --> 00:05:20.740
+I don't really enter the equation at all, making AMD again the current-gen winner in terms of performance and
+
+00:05:20.740 --> 00:05:22.740
+value for modern titles at
+
+00:05:23.320 --> 00:05:24.960
+1440p
+
+00:05:24.960 --> 00:05:31.340
+until we turn on ray tracing, where of course the story changes dramatically in Nvidia's favor.
+
+00:05:31.840 --> 00:05:33.840
+Here, even the last-gen
+
+00:05:34.720 --> 00:05:36.720
+3070 beats the
+
+00:05:36.960 --> 00:05:43.120
+7800 XT. Now, I'm not going to tell you what to think about the importance of ray tracing. That's up to you,
+
+00:05:43.120 --> 00:05:49.020
+but it could have a significant impact on your evaluation of who is the better value here.
+
+00:05:49.020 --> 00:05:54.860
+Despite the inroads that AMD is making generation over generation, Nvidia simply has a more mature
+
+00:05:55.500 --> 00:06:00.800
+implementation of this next-gen lighting technology, both on the hardware side and in software.
+
+00:06:01.580 --> 00:06:07.580
+Speaking of software, while we were gathering this data, we noticed something really bizarre with The Last of Us Part 1.
+
+00:06:08.340 --> 00:06:15.260
+First of all, here's how the RX 6700 XT looks across all the runs we did. You can see that it's really consistent.
+
+00:06:15.260 --> 00:06:19.660
+The lines are mostly overlapping. That is a really good thing for smooth gameplay.
+
+00:06:20.380 --> 00:06:23.580
+Now, let's look at the 7700 XT and
+
+00:06:24.420 --> 00:06:27.380
+Wow, that is all over the place.
+
+00:06:27.380 --> 00:06:31.820
+In fact, this is how all of our 8 gig cards look.
+
+00:06:32.260 --> 00:06:38.780
+Except this isn't an 8 gig card and this shouldn't be happening given that it is a 12 gig card.
+
+00:06:38.980 --> 00:06:42.660
+But we reran the test 10 times to verify and
+
+00:06:42.660 --> 00:06:44.500
+unfortunately,
+
+00:06:44.500 --> 00:06:51.780
+it just didn't behave like the other higher memory cards, which look a lot more like the 6700 XT
+
+00:06:51.780 --> 00:06:53.220
+I showed you before.
+
+00:06:53.220 --> 00:06:55.140
+So what's going on here?
+
+00:06:55.140 --> 00:07:02.940
+Our best guess here is that either the graphics driver or the game are treating the 7700 XT as if it only had
+
+00:07:02.940 --> 00:07:09.300
+8 gigabytes of VRAM when in fact it has 12. What this implies is that it's actually possible for the
+
+00:07:09.300 --> 00:07:13.300
+7700 XT to gain some performance in The Last of Us Part 1 and
+
+00:07:14.020 --> 00:07:17.580
+there could be even more to the story that could push it higher still.
+
+00:07:17.980 --> 00:07:24.340
+You might notice that F123 wasn't in our test suite this time around despite AMD including it in theirs.
+
+00:07:24.820 --> 00:07:30.500
+This is because both of the new cards, and it should be noted, only the new cards
+
+00:07:31.220 --> 00:07:33.740
+consistently crashed the entire system during gameplay.
+
+00:07:33.740 --> 00:07:40.420
+We originally thought it might be the game, maybe a recent update, but then even non-game applications
+
+00:07:40.420 --> 00:07:42.780
+like hardware info began causing crashes.
+
+00:07:43.060 --> 00:07:46.820
+We are still talking to AMD about this and if we have an update from them,
+
+00:07:46.820 --> 00:07:48.820
+we're gonna have that posted in the video description,
+
+00:07:48.820 --> 00:07:56.760
+but Labs's preliminary investigation points to it being a driver bug that's caused by error handling code being called for erroneously,
+
+00:07:56.760 --> 00:08:03.600
+which is ironic. And if it happens enough, we'll lock up the driver entirely and crash the system.
+
+00:08:03.860 --> 00:08:09.620
+This could be impacting performance results across the board and we would have no way of knowing about it.
+
+00:08:09.620 --> 00:08:15.020
+But unfortunately, this is the sort of thing that happens often with product launches and launch day reviews.
+
+00:08:15.060 --> 00:08:17.480
+So just keep it in mind as we continue.
+
+00:08:18.080 --> 00:08:22.540
+Now this isn't a GPU tier that is normally associated with high-end productivity.
+
+00:08:22.540 --> 00:08:28.740
+So this section is gonna be pretty brief, but if Blender is your weapon of choice, AMD will get the job done,
+
+00:08:29.020 --> 00:08:29.980
+but
+
+00:08:29.980 --> 00:08:33.620
+Team Green is gonna be the way to go if you want the best performance because keep in mind,
+
+00:08:33.780 --> 00:08:39.260
+we're not even showing the ray accelerated optics renderer here, which is even faster on Nvidia.
+
+00:08:39.260 --> 00:08:45.720
+We're just looking at compute and even now, the lowly RTX 4060 Ti is out ahead of the
+
+00:08:45.980 --> 00:08:49.140
+800 class cards from AMD that... wait a second.
+
+00:08:49.140 --> 00:08:54.340
+Why is the 6800 XT also ahead of the 7800 XT?
+
+00:08:54.860 --> 00:09:02.240
+Okay, I said I would address this later and later is now. The RX 7800 XT is really more like this generation's
+
+00:09:02.440 --> 00:09:09.580
+RX 6800 non XT. I mean, I can kind of see AMD's justification. The
+
+00:09:10.140 --> 00:09:17.060
+7800 XT does bring some new stuff to the table. The RDNA 3 chiplet design, AI accelerators,
+
+00:09:17.060 --> 00:09:23.260
+higher core clocks, faster memory, and as we've seen, the whole package usually works out in gaming.
+
+00:09:23.460 --> 00:09:28.600
+But for compute performance, the 6800 XT still beats it.
+
+00:09:29.100 --> 00:09:34.880
+So I know this is a bit of an aside, but AMD, can you please settle on a coherent naming scheme already?
+
+00:09:35.140 --> 00:09:41.620
+Are we committed to XT and XTX? Are we gonna add more Xs for the 8000 series?
+
+00:09:41.620 --> 00:09:46.800
+Is this all part of a back-alley deal to make people think that XFX cards are faster?
+
+00:09:46.800 --> 00:09:53.660
+I mean, to AMD's credit, at least every 7000 series Radeon to date is RDNA 3,
+
+00:09:53.660 --> 00:09:59.600
+so that's something, but this inconsistency makes intergenerational comparisons
+
+00:10:00.180 --> 00:10:04.620
+extremely difficult for consumers. Even just looking at these two cards, the
+
+00:10:05.260 --> 00:10:13.220
+7700 XT really does look like a substantial upgrade from the 6700 XT. More compute units, extra memory bandwidth, and
+
+00:10:13.220 --> 00:10:18.460
+significantly better performance. I'm like, yeah, this is faster in games, but it's a less clear-cut picture.
+
+00:10:18.460 --> 00:10:25.580
+Sorry. Coming back to our testing, where AMD in general does have an advantage over Nvidia is in DaVinci Resolve, where the
+
+00:10:25.900 --> 00:10:29.540
+6800 XT still tops the charts for H.264, with the
+
+00:10:29.940 --> 00:10:37.060
+7800 XT trailing just behind the RTX 4070 and the 7700 XT rendering twice as fast as the
+
+00:10:37.060 --> 00:10:44.200
+4060 Ti, which languishes with the last-gen cards. We can say basically the same thing for H.265 performance,
+
+00:10:44.200 --> 00:10:49.800
+and in AV1 encoding, the 7800 XT pulls clearly ahead of the RTX 4070.
+
+00:10:50.200 --> 00:10:52.000
+Don't mind the 4060 Ti, though.
+
+00:10:52.000 --> 00:10:58.380
+It just likes to take its time. Keeping in mind that there are no first-party, built by AMD RX
+
+00:10:58.960 --> 00:11:06.600
+7700 XT cards, and ours is therefore a third-party design from XFX, your mileage may vary with respect to power consumption,
+
+00:11:06.600 --> 00:11:07.920
+but, um,
+
+00:11:07.920 --> 00:11:11.340
+we did see some weird stuff here, and we do need to tell you about it. And,
+
+00:11:11.980 --> 00:11:19.760
+yeah, that is not an error. Our 7700 XT reports higher power consumption than the built-by AMD
+
+00:11:20.640 --> 00:11:23.880
+7800 XT, with a peak of roughly 300 watts.
+
+00:11:24.600 --> 00:11:30.300
+Of course, they are so close that they might as well be drawing the same amount of power. Our best theory
+
+00:11:30.300 --> 00:11:36.440
+is that perhaps the lower compute unit count allows for more thermal headroom for it to boost under this power virus load.
+
+00:11:36.600 --> 00:11:41.040
+It also has a significantly beefier cooler. When we add NVIDIA to the mix, though,
+
+00:11:41.040 --> 00:11:47.360
+the hairs we're splitting between these cards start to feel a lot less important. Not only does the 4060 Ti
+
+00:11:48.240 --> 00:11:52.420
+significantly undercut the 7700 XT for power consumption, even the
+
+00:11:53.080 --> 00:11:57.560
+4070 draws less power. Maybe, though, this is just combustor...
+
+00:11:57.560 --> 00:12:03.820
+combusting things. Let's turn our attention, then, to our go-to real-world game for power testing,
+
+00:12:04.640 --> 00:12:10.820
+F123, for as long as we were able to run it anyway. Here, we see relative power consumption
+
+00:12:10.820 --> 00:12:16.680
+that is actually more in line with what we'd expect. They are less power hungry than the 6800 XT, thankfully,
+
+00:12:16.680 --> 00:12:19.920
+so that's one unambiguous generational improvement. Now,
+
+00:12:19.920 --> 00:12:26.800
+it's time to talk about AMD's software. And I do mean talk about it, since that's all that AMD has done so far,
+
+00:12:26.800 --> 00:12:28.860
+and that's all that they've enabled us to do.
+
+00:12:29.560 --> 00:12:32.640
+FidelityFX Super Resolution 3 is supposedly
+
+00:12:33.280 --> 00:12:41.200
+finally coming, and will contain AMD's implementation of fake frame generation, a la NVIDIA's DLSS3.
+
+00:12:41.540 --> 00:12:47.360
+We've been waiting nearly a year now for its release, and for NVIDIA's solution to mature to the point where
+
+00:12:47.600 --> 00:12:51.560
+I'm actually kind of worried about Team Red here. We weren't able to run it ourselves,
+
+00:12:51.680 --> 00:12:53.680
+but they did offer up an example,
+
+00:12:53.680 --> 00:13:00.120
+but the one they did was under very favorable conditions. A 4K 60 video on
+
+00:13:00.640 --> 00:13:05.440
+slow-paced gameplay that was already pretty close to running at 60 FPS, and
+
+00:13:05.900 --> 00:13:09.400
+despite that, the first impression looks pretty rough to us.
+
+00:13:09.960 --> 00:13:15.020
+It's too early to seriously pixel-peep and comment on the visual quality from this demo alone,
+
+00:13:15.020 --> 00:13:20.100
+and they say it will be available in early fall with Forspoken and Immortals of Avium,
+
+00:13:20.100 --> 00:13:25.440
+so hopefully we're gonna be able to test it for ourselves soon, and it will really impress us.
+
+00:13:25.560 --> 00:13:29.460
+What we know right now is that this flavor of Frame Gen, dubbed
+
+00:13:29.640 --> 00:13:36.640
+Fluid Motion Frames, is going to be open and available to run on GPUs that do not have machine learning or AI
+
+00:13:36.960 --> 00:13:39.320
+accelerators, with, AMD claims,
+
+00:13:39.780 --> 00:13:43.040
+performance that will supposedly be similar to DLSS3.
+
+00:13:43.320 --> 00:13:49.260
+So, in other words, when you're comparing native FPS to native with Frame Gen,
+
+00:13:49.260 --> 00:13:54.260
+you are going to be using your GPU compute, not the separate AI compute,
+
+00:13:54.260 --> 00:13:58.340
+so you will expect less than double the frame rate due to that processing overhead.
+
+00:13:58.920 --> 00:14:03.960
+Like DLSS3, then, AMD recommends that you enable it only to enhance
+
+00:14:04.380 --> 00:14:09.140
+60 FPS and higher gameplay, rather than to make up for very low FPS.
+
+00:14:09.420 --> 00:14:11.300
+We will, of course, be testing that as well.
+
+00:14:11.300 --> 00:14:16.640
+And we'll also be testing AMD's claims that the Radeon driver can enable Frame Gen on any
+
+00:14:16.640 --> 00:14:24.440
+DirectX 11 and DirectX 12 title via HyperRx, a one-click optimizer feature that was first announced last year.
+
+00:14:24.440 --> 00:14:29.900
+Now, you would think that this kind of thing would require at least some input from the game engine,
+
+00:14:30.040 --> 00:14:34.800
+but maybe AMD's onto something. We shall see. We can't try it yet.
+
+00:14:35.440 --> 00:14:41.360
+The other new major feature that's coming with FSR3 is something that AMD is calling native anti-aliasing,
+
+00:14:41.360 --> 00:14:44.680
+and this is a competitor to Nvidia's deep learning anti-aliasing.
+
+00:14:44.680 --> 00:14:51.540
+Both process the native image, like FSR or DLSS, but without adjusting the scale.
+
+00:14:52.200 --> 00:14:58.640
+And, as I understand it, that would pretty much boil AMD's version down to temporal anti-aliasing, as we know and love it,
+
+00:14:58.640 --> 00:15:04.640
+but then with a sharpening pass. And the comparison image doesn't do much to convince us that there's much else going on.
+
+00:15:04.640 --> 00:15:12.120
+Yes, there is more detail than native, but that's detail that used to be subtle and now kind of looks like noise.
+
+00:15:12.120 --> 00:15:16.160
+It is early though, and with the latest consoles being powered by AMD,
+
+00:15:16.160 --> 00:15:19.580
+I'm sure that game devs are gonna have some interest in helping to dial this in,
+
+00:15:19.700 --> 00:15:27.400
+but it really feels like AMD missed an opportunity to leverage their AI accelerators and create a true DLAA alternative.
+
+00:15:27.760 --> 00:15:30.440
+Maybe we'll just have to wait for Intel's XCAA.
+
+00:15:31.280 --> 00:15:37.840
+For now, all we can do is wait and see if these features are worth turning on, if we're ever allowed to.
+
+00:15:37.840 --> 00:15:43.780
+FSR3's requirements, for example, are a little weird, but here's the TLDR.
+
+00:15:44.240 --> 00:15:52.660
+Frame Gen is going to be supported on Radeon RX 5700 and higher, or, on the team green side, the RTX 20 series and higher.
+
+00:15:53.340 --> 00:16:00.600
+Users of RX 590s or GTX 10 series cards can still use the upscaling and native anti-aliasing modes though.
+
+00:16:00.600 --> 00:16:09.100
+Obviously, the Frame Gen in every title feature only works for Radeon cards, at least until modders get going with projects like CyberFSR.
+
+00:16:09.100 --> 00:16:11.100
+And then, perhaps most importantly,
+
+00:16:11.500 --> 00:16:17.940
+consoles should support all of the above, which could lead to some interesting times ahead if it makes game studios consider ray tracing or
+
+00:16:18.060 --> 00:16:20.220
+more complex visuals more often.
+
+00:16:20.380 --> 00:16:23.780
+Which is enough conversation about what could be coming in the future.
+
+00:16:24.120 --> 00:16:29.280
+Looking at it today, a clear winner emerges from the current gen competitors, the RX
+
+00:16:29.280 --> 00:16:35.900
+7800 XT. The 7700 XT already makes Nvidia's pricing look pants-on-head stupid, and the
+
+00:16:36.200 --> 00:16:41.240
+7800 XT is, on average, around 20% faster for just 11% more currency.
+
+00:16:41.760 --> 00:16:48.120
+No-brainer, go ahead and buy wise what I would say, if it weren't for the unfortunate reality that the RX
+
+00:16:48.680 --> 00:16:53.720
+6800 XT still exists. For now though, it's true, it lacks AI accelerators,
+
+00:16:53.720 --> 00:17:01.640
+it does have slower memory, but the performance is still there, especially in productivity, and they're currently priced about the same as the
+
+00:17:01.800 --> 00:17:03.100
+7800 XT.
+
+00:17:03.100 --> 00:17:08.640
+Which I wouldn't necessarily buy it at, even just for the longer driver support that you're gonna get out of a newer card,
+
+00:17:08.840 --> 00:17:14.680
+but you can expect them to go lower as they're cleared out, or if you get one secondhand, and they could be a great deal.
+
+00:17:14.800 --> 00:17:20.020
+Plus, if you want to get into Starfield, all AMD cards come with Starfield Premium Edition,
+
+00:17:20.020 --> 00:17:23.880
+which is a hundred dollars that you're not gonna have to spend on top of your new GPU.
+
+00:17:24.080 --> 00:17:30.960
+That makes Nvidia's comparative pricing even worse, since their bundle of in-game items for a free-to-play game is...
+
+00:17:32.440 --> 00:17:39.240
+significantly less valuable and less desirable, if the Steam reviews are any indication. With all that said, I
+
+00:17:39.720 --> 00:17:46.320
+don't hate this then. Don't get me wrong, while these launch prices are lower than last gen in a vacuum,
+
+00:17:46.320 --> 00:17:51.120
+they're still inflated for the performance level, so unless you really need the upgrade now,
+
+00:17:51.320 --> 00:17:57.320
+I'd still recommend sticking with what you've got, or checking out our recent guide on how to buy a secondhand GPU.
+
+00:17:57.880 --> 00:18:06.120
+But, unlike the transparently insulting 4060 series launch from Nvidia, at least this doesn't feel like AMD is just
+
+00:18:06.620 --> 00:18:11.360
+spitting in our collective faces. It's not AMD's gift to gamers either, it's just...
+
+00:18:11.360 --> 00:18:16.320
+fine. And I guess in times like these, that's refreshing?
+
+00:18:17.120 --> 00:18:20.640
+Just like I'm about to refresh your knowledge about our sponsor.
+
+00:18:21.280 --> 00:18:27.960
+Enlisted! Transport yourself into the battlefield of some of World War II's most iconic campaigns with Enlisted, the free-to-play
+
+00:18:28.400 --> 00:18:34.920
+first-person shooter that blends PvE and PvP elements to create a totally immersive combat experience.
+
+00:18:35.080 --> 00:18:37.380
+Command a squad of customizable AI
+
+00:18:37.380 --> 00:18:43.920
+soldiers that you can upgrade and equip to handle any engagement, and maybe even eventually feel remorse for their actions.
+
+00:18:43.980 --> 00:18:46.820
+With over a hundred weapons and vehicles at your disposal,
+
+00:18:46.820 --> 00:18:54.060
+you can choose precisely how to neutralize your enemies. M1 Carbine or Thompson? Panzer Tank or Tiger?
+
+00:18:56.540 --> 00:19:01.100
+The choice is yours, and with so much variety, no firefight will feel the same.
+
+00:19:01.100 --> 00:19:07.580
+Oh, you think you're hardcore? Then the realistic movement and damage models will make battles nail-bitingly intense.
+
+00:19:07.620 --> 00:19:09.620
+But if you prefer more casual gameplay,
+
+00:19:09.860 --> 00:19:15.980
+even the most laid-back recruits will still feel like they're playing an important role. And with cross-play between PC,
+
+00:19:16.180 --> 00:19:23.140
+PlayStation, and Xbox, even more players can take part in the action. Check out Enlisted using the link below and get an exclusive bonus pack.
+
+00:19:23.420 --> 00:19:27.260
+If you guys enjoyed this video, go check out our review on the RTX
+
+00:19:27.260 --> 00:19:32.820
+4060 Ti for a little bit more on why we've been ragging on that card during this entire video. It's
+
+00:19:32.820 --> 00:20:01.820
+not good.
+

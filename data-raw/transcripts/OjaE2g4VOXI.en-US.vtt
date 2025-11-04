@@ -1,0 +1,794 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.150 --> 00:00:02.947
+- Nvidia laid down some
+hard truths on the industry.
+
+00:00:02.947 --> 00:00:04.777
+"Moore's law is dead," they said.
+
+00:00:04.777 --> 00:00:07.200
+"GPUs just can't get faster and cheaper,
+
+00:00:07.200 --> 00:00:08.700
+the way they used to," they said.
+
+00:00:08.700 --> 00:00:12.240
+And then AMD was like, "Ha
+ha ha ha, aagh-ha ha ha.
+
+00:00:12.240 --> 00:00:13.440
+Oh, that's stupid.
+
+00:00:13.440 --> 00:00:16.952
+Here's faster GPUs, for cheaper
+than the last generation.
+
+00:00:16.952 --> 00:00:18.630
+(beep) Got 'em."
+
+00:00:18.630 --> 00:00:23.207
+Introducing the Radeon RX 7900 XT and XTX.
+
+00:00:24.990 --> 00:00:26.670
+I wanna make this very clear.
+
+00:00:26.670 --> 00:00:29.730
+These are not exactly value GPUs.
+
+00:00:29.730 --> 00:00:34.140
+They're still coming in at
+900 and a thousand US dollars
+
+00:00:34.140 --> 00:00:37.020
+for the XT and the XTX respectively,
+
+00:00:37.020 --> 00:00:41.760
+but they are significantly
+less expensive FPS per dollar,
+
+00:00:41.760 --> 00:00:44.490
+if AMD is to be believed, than Team Green.
+
+00:00:44.490 --> 00:00:48.390
+And they are a hundred
+dollars less expensive each
+
+00:00:48.390 --> 00:00:50.400
+than the last generation top
+
+00:00:50.400 --> 00:00:54.210
+and almost top cards from the 6000 series.
+
+00:00:54.210 --> 00:00:57.570
+So let's go ahead and take a
+closer look at these bad boys.
+
+00:00:57.570 --> 00:00:59.370
+It gets even better as we go.
+
+00:00:59.370 --> 00:01:02.760
+Not only are these cards delivering up to,
+
+00:01:02.760 --> 00:01:05.850
+in the range of 70% better performance
+
+00:01:05.850 --> 00:01:08.970
+than last time around, but look at this.
+
+00:01:08.970 --> 00:01:10.353
+They come in downright,
+
+00:01:11.610 --> 00:01:13.830
+if you can get them outta damn box.
+
+00:01:13.830 --> 00:01:17.340
+They come in downright
+reasonable form factors.
+
+00:01:17.340 --> 00:01:19.500
+Wait, is this, no, this is only the XT.
+
+00:01:19.500 --> 00:01:20.820
+This is only the XT.
+
+00:01:20.820 --> 00:01:23.550
+Maybe the XTX is an
+absolute changus monster,
+
+00:01:23.550 --> 00:01:26.280
+but this is totally fine.
+
+00:01:26.280 --> 00:01:27.480
+Here, hold on a second.
+
+00:01:27.480 --> 00:01:28.313
+Hold on a second.
+
+00:01:28.313 --> 00:01:29.550
+I'm gonna tell you more
+about it in a minute,
+
+00:01:29.550 --> 00:01:33.840
+but first, let's pull out
+an RTX 4080 for comparison.
+
+00:01:33.840 --> 00:01:35.940
+What the heck?
+
+00:01:35.940 --> 00:01:38.976
+I think it's fair to say that the 7900 XT
+
+00:01:38.976 --> 00:01:41.700
+has more in common physically
+
+00:01:41.700 --> 00:01:44.943
+with an RTX 2060 card than the 4080.
+
+00:01:44.943 --> 00:01:47.550
+Look at that, is that wild or what?
+
+00:01:47.550 --> 00:01:49.680
+How did they do that?
+
+00:01:49.680 --> 00:01:54.000
+Well, for one thing, it's rumored
+that the RTX 4080 and 4090
+
+00:01:54.000 --> 00:01:56.910
+were supposed to be even power hungrier
+
+00:01:56.910 --> 00:01:58.050
+than they ended up being,
+
+00:01:58.050 --> 00:02:00.780
+which might be why the coolers for them
+
+00:02:00.780 --> 00:02:04.200
+are so overbuilt for their final TDPs.
+
+00:02:04.200 --> 00:02:07.230
+The other reason is that,
+as I just alluded to,
+
+00:02:07.230 --> 00:02:09.900
+AMD's power consumption for these cards
+
+00:02:09.900 --> 00:02:12.420
+is, to be clear, very high
+
+00:02:12.420 --> 00:02:17.420
+at 300 and 355 watts for the
+XT and the XTX respectively,
+
+00:02:18.060 --> 00:02:19.740
+but that's still within the range
+
+00:02:19.740 --> 00:02:22.290
+of what you can do in a dual slot.
+
+00:02:22.290 --> 00:02:23.880
+Ooh, not quite dual slot.
+
+00:02:23.880 --> 00:02:28.470
+Almost dual slot, but only
+full height card design.
+
+00:02:28.470 --> 00:02:30.030
+That's one of the really big ones.
+
+00:02:30.030 --> 00:02:31.890
+How much taller cards have gotten
+
+00:02:31.890 --> 00:02:33.030
+over the last little while,
+
+00:02:33.030 --> 00:02:35.190
+especially if you wanna build
+a small form factor machine
+
+00:02:35.190 --> 00:02:36.023
+or something like that,
+
+00:02:36.023 --> 00:02:38.130
+you've really run out of
+high performance options.
+
+00:02:38.130 --> 00:02:39.870
+Another thing, aside from performance,
+
+00:02:39.870 --> 00:02:43.500
+that we can talk about here
+is the display outputs.
+
+00:02:43.500 --> 00:02:45.279
+We've got HDMI, DisplayPort,
+
+00:02:45.279 --> 00:02:48.990
+other more different
+DisplayPort, and USB Type-C,
+
+00:02:48.990 --> 00:02:50.490
+on the AMD reference cards.
+
+00:02:50.490 --> 00:02:52.260
+But the coolest thing about this
+
+00:02:52.260 --> 00:02:54.240
+is that these DisplayPort ports
+
+00:02:54.240 --> 00:02:59.240
+are the new UHBR 10,
+DisplayPort 2.1 standard.
+
+00:02:59.280 --> 00:03:01.290
+In practice,
+
+00:03:01.290 --> 00:03:03.810
+that may not end up meaning that much
+
+00:03:03.810 --> 00:03:06.780
+because, while AMD does
+advertise these cards
+
+00:03:06.780 --> 00:03:11.340
+as capable of high refresh
+rate 4K, and even 8K gaming,
+
+00:03:11.340 --> 00:03:15.270
+even AMD's most optimistic
+advertised numbers here
+
+00:03:15.270 --> 00:03:18.900
+are nowhere near what UHBR 10 can do.
+
+00:03:18.900 --> 00:03:23.900
+We're talking 4K at 480
+Hertz and 8K at 165 Hertz.
+
+00:03:25.770 --> 00:03:28.230
+Ugh, I mean, it's worth a try,
+
+00:03:28.230 --> 00:03:30.030
+but I don't think that's gonna happen.
+
+00:03:30.030 --> 00:03:32.790
+While we're going over the
+physical attributes of the cards,
+
+00:03:32.790 --> 00:03:34.500
+power, look at that.
+
+00:03:34.500 --> 00:03:37.200
+No controversial 12-pin power connector,
+
+00:03:37.200 --> 00:03:39.330
+dual 8-pin PCIe power connector.
+
+00:03:39.330 --> 00:03:40.800
+So you won't need an adapter
+
+00:03:40.800 --> 00:03:43.530
+or to change out the cables
+on your modular power supply.
+
+00:03:43.530 --> 00:03:45.960
+AMD, like Nvidia, has opted
+
+00:03:45.960 --> 00:03:49.800
+for a PCI Express Gen 4 x16 connector.
+
+00:03:49.800 --> 00:03:51.750
+So if you were hoping to take advantage
+
+00:03:51.750 --> 00:03:55.140
+of your PCIe Gen 5
+motherboard in some way,
+
+00:03:55.140 --> 00:03:58.200
+it will be through storage,
+not through your GPU.
+
+00:03:58.200 --> 00:04:01.860
+Oh, and I admit that
+having not actually paid
+
+00:04:01.860 --> 00:04:03.540
+that close attention to the presentations,
+
+00:04:03.540 --> 00:04:07.050
+because other people were
+working on the coverage.
+
+00:04:07.050 --> 00:04:12.050
+I do not know if the XTX is
+physically different or not.
+
+00:04:12.180 --> 00:04:13.666
+Is it a little taller?
+
+00:04:13.666 --> 00:04:15.060
+- It's a little bit, I think.
+- It's a little taller.
+
+00:04:15.060 --> 00:04:16.500
+It's a taller boy.
+
+00:04:16.500 --> 00:04:19.470
+If you wanted to know
+what 55 watts looks like,
+
+00:04:19.470 --> 00:04:23.010
+like that, not that much more.
+
+00:04:23.010 --> 00:04:26.040
+This unboxing is brought to
+you guys by Vessi Footwear.
+
+00:04:26.040 --> 00:04:27.060
+That's right.
+
+00:04:27.060 --> 00:04:28.530
+When you get your Vessi Footwear,
+
+00:04:28.530 --> 00:04:31.530
+it'll be a lot newer
+and cleaner than this.
+
+00:04:31.530 --> 00:04:33.510
+Ah, these are old, but that's good.
+
+00:04:33.510 --> 00:04:34.343
+That's good.
+
+00:04:34.343 --> 00:04:36.870
+That means they last, the
+Christmas season is upon us,
+
+00:04:36.870 --> 00:04:40.860
+which means that it's a great
+time to stay warm and dry.
+
+00:04:40.860 --> 00:04:43.290
+Vessi boasts that their
+sneakers are lightweight,
+
+00:04:43.290 --> 00:04:46.290
+easy to pack, and feature
+waterproof materials
+
+00:04:46.290 --> 00:04:49.290
+that offer you reassurance
+when the weather can't.
+
+00:04:49.290 --> 00:04:51.930
+Their Dyma-Tex layer will
+keep you warm in the winter
+
+00:04:51.930 --> 00:04:53.190
+and cool in the summer.
+
+00:04:53.190 --> 00:04:54.330
+They're comfy, breathable.
+
+00:04:54.330 --> 00:04:56.130
+And did I mention already
+that they're lightweight?
+
+00:04:56.130 --> 00:04:58.710
+Making Vessi the perfect gift for yourself
+
+00:04:58.710 --> 00:05:00.240
+or for someone else.
+
+00:05:00.240 --> 00:05:03.180
+Check out their holiday sale
+at vessi.com/shortcircuit,
+
+00:05:03.180 --> 00:05:06.570
+or use code shortcircuit at
+checkout if you just missed it,
+
+00:05:06.570 --> 00:05:10.170
+for 15% off, plus free
+shipping to select countries.
+
+00:05:10.170 --> 00:05:11.970
+Aside from their
+performance claims though,
+
+00:05:11.970 --> 00:05:15.660
+one of AMD's biggest marketing
+points for the 7000 series
+
+00:05:15.660 --> 00:05:18.060
+is the improvements to
+performance per watt
+
+00:05:18.060 --> 00:05:20.010
+that they've made with RDNA 3.
+
+00:05:20.010 --> 00:05:23.040
+And they've done this in a
+number of kind of cool ways.
+
+00:05:23.040 --> 00:05:25.590
+So first of all, they're
+using a combination
+
+00:05:25.590 --> 00:05:29.370
+of TSMC'S 5-nanometer
+and 6-nanometer processes
+
+00:05:29.370 --> 00:05:31.890
+to build the first ever chiplet GPU.
+
+00:05:31.890 --> 00:05:33.180
+There are some functions
+
+00:05:33.180 --> 00:05:35.190
+that they can't move off of the main dye
+
+00:05:35.190 --> 00:05:37.710
+like compute hardware, graphics hardware,
+
+00:05:37.710 --> 00:05:39.240
+and display and media engines.
+
+00:05:39.240 --> 00:05:42.750
+That main dye is built on
+TSMC'S 5-nanometer process
+
+00:05:42.750 --> 00:05:44.820
+so they can pack as much as possible in,
+
+00:05:44.820 --> 00:05:45.720
+and they really did.
+
+00:05:45.720 --> 00:05:46.553
+I mean,
+
+00:05:46.553 --> 00:05:49.050
+this thing's got literally
+twice as many stream processors
+
+00:05:49.050 --> 00:05:51.090
+as AMD's previous flagship card.
+
+00:05:51.090 --> 00:05:53.970
+But they were able to move
+their GDDR6 controllers
+
+00:05:53.970 --> 00:05:55.620
+and other IO functions
+
+00:05:55.620 --> 00:05:58.500
+onto these either five for the XT
+
+00:05:58.500 --> 00:06:02.280
+or six MCDs or memory cache dies.
+
+00:06:02.280 --> 00:06:04.470
+And the reasons for this are twofold.
+
+00:06:04.470 --> 00:06:06.480
+One is to save cost,
+
+00:06:06.480 --> 00:06:10.200
+and two is to, well, mostly save cost,
+
+00:06:10.200 --> 00:06:12.480
+because apparently these functions
+
+00:06:12.480 --> 00:06:14.850
+don't really shrink that well.
+
+00:06:14.850 --> 00:06:18.180
+So it just wasn't worth it
+from a cost perspective.
+
+00:06:18.180 --> 00:06:19.770
+So that's the main reason, I guess.
+
+00:06:19.770 --> 00:06:22.470
+Either way, the bandwidth
+between the GCDs,
+
+00:06:22.470 --> 00:06:23.303
+that's the main one,
+
+00:06:23.303 --> 00:06:26.400
+and the MCDs is a whopping, what is this?
+
+00:06:26.400 --> 00:06:29.220
+5.3 terabytes a second.
+
+00:06:29.220 --> 00:06:33.000
+So that's 900 gigs a second per MCD.
+
+00:06:33.000 --> 00:06:34.950
+Absolutely flippin' wild.
+
+00:06:34.950 --> 00:06:36.360
+One of the other big innovations
+
+00:06:36.360 --> 00:06:39.210
+that AMD has introduced to
+improve performance per watt
+
+00:06:39.210 --> 00:06:41.190
+is decoupled clock speeds.
+
+00:06:41.190 --> 00:06:43.860
+So they are apparently running the shaders
+
+00:06:43.860 --> 00:06:48.120
+and the front end on these
+GPUs at different speeds.
+
+00:06:48.120 --> 00:06:49.890
+So the shaders are advertised
+
+00:06:49.890 --> 00:06:52.410
+at a game clock of 2.3 gigahertz
+
+00:06:52.410 --> 00:06:53.370
+while the front end
+
+00:06:53.370 --> 00:06:55.670
+is expected to hit in
+the neighborhood of 2.5.
+
+00:06:56.580 --> 00:06:58.440
+Is that for both cards
+
+00:06:58.440 --> 00:07:00.810
+or are those clocks
+different between the two?
+
+00:07:00.810 --> 00:07:03.270
+Ah, yes, that's for the XTX.
+
+00:07:03.270 --> 00:07:07.560
+So the XT is in the 2
+to 2.4 gigahertz range.
+
+00:07:07.560 --> 00:07:09.300
+The reason for doing this is apparently
+
+00:07:09.300 --> 00:07:12.480
+that by backing off even
+just part of the card,
+
+00:07:12.480 --> 00:07:16.620
+a little bit off of that
+voltage per frequency curve,
+
+00:07:16.620 --> 00:07:18.270
+you can save a ton of power
+
+00:07:18.270 --> 00:07:21.360
+without giving up too much
+in terms of performance.
+
+00:07:21.360 --> 00:07:24.960
+AMD has also added dedicated
+AI accelerators to these cards.
+
+00:07:24.960 --> 00:07:28.500
+So we're looking at two AI
+accelerators per compute unit,
+
+00:07:28.500 --> 00:07:31.470
+but what exactly they're
+going to be using these for
+
+00:07:31.470 --> 00:07:33.780
+is not clear at this time.
+
+00:07:33.780 --> 00:07:34.613
+To date,
+
+00:07:34.613 --> 00:07:39.060
+AMD does not have an AI
+accelerated DLSS competitor,
+
+00:07:39.060 --> 00:07:41.070
+but I would imagine
+
+00:07:41.070 --> 00:07:43.380
+that something like that
+wouldn't be too far behind
+
+00:07:43.380 --> 00:07:45.030
+if they're putting the
+hardware out for them.
+
+00:07:45.030 --> 00:07:50.030
+AMD does have a pretty okay
+reputation for, well, hmm.
+
+00:07:50.130 --> 00:07:51.840
+There's sort of two ways to look at this,
+
+00:07:51.840 --> 00:07:54.420
+not having fully developed
+drivers at launch
+
+00:07:54.420 --> 00:07:57.690
+or, or, or glass-half-full
+way of looking at it,
+
+00:07:57.690 --> 00:08:00.270
+really squeezing extra out of their cards
+
+00:08:00.270 --> 00:08:01.410
+over their lifespan.
+
+00:08:01.410 --> 00:08:02.970
+So it's quite possible
+
+00:08:02.970 --> 00:08:05.070
+that we will see big
+improvements to these cards
+
+00:08:05.070 --> 00:08:07.593
+through AI accelerated rendering tricks
+
+00:08:07.593 --> 00:08:09.420
+over the next few years.
+
+00:08:09.420 --> 00:08:11.610
+One thing they're using AI
+for right out of the gate
+
+00:08:11.610 --> 00:08:12.660
+is apparently
+
+00:08:12.660 --> 00:08:15.330
+to help their encoding
+and decoding performance.
+
+00:08:15.330 --> 00:08:16.980
+This is something that's been a bit
+
+00:08:16.980 --> 00:08:19.380
+of a thorn in the side of AMD lovers
+
+00:08:19.380 --> 00:08:24.330
+for the last, well, I mean,
+yeah, many years actually.
+
+00:08:24.330 --> 00:08:28.050
+That NVIDIA's NVENC encoding
+engine is just a lot better
+
+00:08:28.050 --> 00:08:31.650
+for things like game streaming
+or even just screen capping,
+
+00:08:31.650 --> 00:08:34.860
+so that you can share a quick
+tutorial with your friends.
+
+00:08:34.860 --> 00:08:39.000
+I'm really hoping that
+AMD's H.264 and H.265
+
+00:08:39.000 --> 00:08:41.550
+are going to be much better
+performance than before.
+
+00:08:41.550 --> 00:08:42.840
+And more than that,
+
+00:08:42.840 --> 00:08:44.190
+I'm hoping that I don't have to worry
+
+00:08:44.190 --> 00:08:46.680
+about H.264 and H.265 for much longer,
+
+00:08:46.680 --> 00:08:48.540
+because AV1 will just take over
+
+00:08:48.540 --> 00:08:49.800
+and be the industry standard.
+
+00:08:49.800 --> 00:08:51.630
+And AMD's AV1 encoder will be great,
+
+00:08:51.630 --> 00:08:54.720
+and that's what I'm
+really rooting for here.
+
+00:08:54.720 --> 00:08:58.110
+The XT has 20 gigabytes of GDDR6,
+
+00:08:58.110 --> 00:09:01.590
+while the XTX has 24 gigabytes of GDDR6.
+
+00:09:01.590 --> 00:09:03.510
+And we're expecting a performance delta
+
+00:09:03.510 --> 00:09:04.830
+between the two of them
+
+00:09:04.830 --> 00:09:07.470
+of somewhere in the neighborhood of, wait,
+
+00:09:07.470 --> 00:09:09.150
+is AMD even talking about that yet?
+
+00:09:09.150 --> 00:09:10.167
+Damn it, AMD.
+
+00:09:10.167 --> 00:09:11.880
+The XT's gonna be slower though.
+
+00:09:11.880 --> 00:09:13.260
+I mean, look at it, it's smaller.
+
+00:09:13.260 --> 00:09:16.194
+If the volume is anything to go by,
+
+00:09:16.194 --> 00:09:19.650
+mm, probably be about say 20% slower,
+
+00:09:19.650 --> 00:09:21.240
+not how that works by the way.
+
+00:09:21.240 --> 00:09:23.010
+I think the last big thing
+you guys need to know
+
+00:09:23.010 --> 00:09:25.380
+is that these cards are
+coming December 13th.
+
+00:09:25.380 --> 00:09:27.930
+And we are expecting to have
+a full performance review
+
+00:09:27.930 --> 00:09:30.870
+with power consumption, clock speeds, FPS,
+
+00:09:30.870 --> 00:09:33.390
+all that good stuff, up at that time.
+
+00:09:33.390 --> 00:09:37.770
+So that you guys will know, has
+AMD dethroned Nvidia or not?
+
+00:09:37.770 --> 00:09:39.270
+Well, we all know the answer to that.
+
+00:09:39.270 --> 00:09:42.360
+Even AMD is not comparing
+these cards to the 4090,
+
+00:09:42.360 --> 00:09:44.790
+but come on, that's a $1,600 card.
+
+00:09:44.790 --> 00:09:45.630
+Who cares?
+
+00:09:45.630 --> 00:09:48.030
+If you could have for
+like 4080 performance
+
+00:09:48.030 --> 00:09:52.178
+for 900 or $1,000 instead of $1,200?
+
+00:09:52.178 --> 00:09:56.700
+Whew, I think you'd be, maybe
+not happy, but you'll take it.
+
+00:09:56.700 --> 00:09:58.080
+Just like you'll take
+the end of this video.
+
+00:09:58.080 --> 00:09:59.430
+Subscribe to Short Circuit.
+

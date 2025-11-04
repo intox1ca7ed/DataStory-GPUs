@@ -1,0 +1,1178 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.050 --> 00:00:00.883
+- I, for one,
+
+00:00:00.883 --> 00:00:02.640
+think we should be grateful to Nvidia
+
+00:00:02.640 --> 00:00:04.290
+for the 4660 Ti.
+
+00:00:04.290 --> 00:00:05.123
+I mean, sure,
+
+00:00:05.123 --> 00:00:06.900
+we've waited over a year for a card
+
+00:00:06.900 --> 00:00:09.750
+that's only 10% faster
+in rasterized games,
+
+00:00:09.750 --> 00:00:10.650
+and sure,
+
+00:00:10.650 --> 00:00:14.190
+they didn't upgrade the
+8GBs of VRAM from last gen,
+
+00:00:14.190 --> 00:00:16.050
+but at least they didn't downgrade it
+
+00:00:16.050 --> 00:00:17.940
+like they did with the memory bus.
+
+00:00:17.940 --> 00:00:18.870
+And besides,
+
+00:00:18.870 --> 00:00:20.550
+it's just $100 more
+
+00:00:20.550 --> 00:00:22.680
+if you want the other 8GBs.
+
+00:00:22.680 --> 00:00:24.030
+That seems totally reasonable
+
+00:00:24.030 --> 00:00:24.960
+when Nvidia's cost
+
+00:00:24.960 --> 00:00:28.050
+is somewhere between $20 and $35.
+
+00:00:28.050 --> 00:00:29.490
+At least you won't have to wait months
+
+00:00:29.490 --> 00:00:31.290
+for the drivers to get good.
+
+00:00:31.290 --> 00:00:33.090
+Okay, that last one
+wasn't sarcasm, though.
+
+00:00:33.090 --> 00:00:34.500
+There is legitimately
+
+00:00:34.500 --> 00:00:35.910
+a fair bit to like
+
+00:00:35.910 --> 00:00:38.100
+about the RTX 4060 Ti.
+
+00:00:38.100 --> 00:00:39.480
+It supports all of Nvidia's
+
+00:00:39.480 --> 00:00:41.760
+latest ray tracing and AI upscaling
+
+00:00:41.760 --> 00:00:42.810
+bells and whistles.
+
+00:00:42.810 --> 00:00:44.460
+It's much more power efficient
+
+00:00:44.460 --> 00:00:45.930
+than the card that it replaces,
+
+00:00:45.930 --> 00:00:48.060
+and it supports AV1 encoding,
+
+00:00:48.060 --> 00:00:49.320
+which is a huge deal
+
+00:00:49.320 --> 00:00:51.000
+if you stream to YouTube.
+
+00:00:51.000 --> 00:00:53.070
+But you also shouldn't pull the trigger
+
+00:00:53.070 --> 00:00:55.200
+without getting the full story here.
+
+00:00:55.200 --> 00:00:56.910
+There's been a lot of talk lately
+
+00:00:56.910 --> 00:00:58.560
+about how 8GBs of VRAM
+
+00:00:58.560 --> 00:01:00.570
+just isn't enough anymore,
+
+00:01:00.570 --> 00:01:02.550
+and I've got some bad news.
+
+00:01:02.550 --> 00:01:05.460
+It's not FHD at max settings,
+
+00:01:05.460 --> 00:01:07.267
+but only 1080p resolution.
+
+00:01:07.267 --> 00:01:08.550
+"The Last of Us Remake"
+
+00:01:08.550 --> 00:01:11.880
+gobbles up a whopping
+8.9GBs of video memory,
+
+00:01:11.880 --> 00:01:14.190
+meaning that with an 8GB card,
+
+00:01:14.190 --> 00:01:15.870
+some of that is gonna spill out
+
+00:01:15.870 --> 00:01:17.280
+into your system memory
+
+00:01:17.280 --> 00:01:19.590
+which significantly harms performance.
+
+00:01:19.590 --> 00:01:21.000
+Or even worse,
+
+00:01:21.000 --> 00:01:22.770
+if you have an older system,
+
+00:01:22.770 --> 00:01:24.510
+and not even that old,
+
+00:01:24.510 --> 00:01:26.970
+just one that doesn't
+support resizable bar,
+
+00:01:26.970 --> 00:01:28.320
+there is no overflow.
+
+00:01:28.320 --> 00:01:30.060
+You simply will need to turn down
+
+00:01:30.060 --> 00:01:31.560
+your graphical settings.
+
+00:01:31.560 --> 00:01:33.660
+And this isn't an isolated problem.
+
+00:01:33.660 --> 00:01:35.250
+We didn't test "Jedi Survivor"
+
+00:01:35.250 --> 00:01:36.660
+for our sweep today,
+
+00:01:36.660 --> 00:01:38.160
+but that's another recent game
+
+00:01:38.160 --> 00:01:41.400
+that is reportedly using
+up to 10GBs of VRAM
+
+00:01:41.400 --> 00:01:43.530
+at 1080p epic settings.
+
+00:01:43.530 --> 00:01:44.947
+Yikes.
+
+00:01:44.947 --> 00:01:47.257
+"But Linus," you might say,
+
+00:01:47.257 --> 00:01:49.860
+"I don't need epic or ultra settings.
+
+00:01:49.860 --> 00:01:51.960
+They don't even look that much better."
+
+00:01:51.960 --> 00:01:53.430
+And you are right.
+
+00:01:53.430 --> 00:01:54.810
+We've even got an entire video
+
+00:01:54.810 --> 00:01:56.310
+about why it's kind of pointless
+
+00:01:56.310 --> 00:01:58.650
+to turn the slider all the way to the max.
+
+00:01:58.650 --> 00:02:00.000
+But here's the thing.
+
+00:02:00.000 --> 00:02:03.660
+Even if trying to fully
+futureproof is foolish,
+
+00:02:03.660 --> 00:02:04.830
+I'm not talking about
+
+00:02:04.830 --> 00:02:07.410
+some hypothetical future need here.
+
+00:02:07.410 --> 00:02:11.070
+If your card isn't
+equipped for ultra today,
+
+00:02:11.070 --> 00:02:12.360
+how do you think it's gonna fare
+
+00:02:12.360 --> 00:02:13.770
+in two or three years
+
+00:02:13.770 --> 00:02:16.020
+when ultra is the new medium?
+
+00:02:16.020 --> 00:02:17.280
+Not good.
+
+00:02:17.280 --> 00:02:18.420
+You know what it is good, though?
+
+00:02:18.420 --> 00:02:20.460
+Our new Sticklocks joystick covers.
+
+00:02:20.460 --> 00:02:21.930
+Who needs your sticks
+getting knocked around
+
+00:02:21.930 --> 00:02:23.130
+when your console or your controller
+
+00:02:23.130 --> 00:02:24.030
+is in your bag?
+
+00:02:24.030 --> 00:02:26.340
+Check 'em out @lttstore.com.
+
+00:02:26.340 --> 00:02:27.270
+With that out of the way,
+
+00:02:27.270 --> 00:02:29.490
+if we look purely at today's performance
+
+00:02:29.490 --> 00:02:31.290
+compared to the rest of Nvidia's lineup,
+
+00:02:31.290 --> 00:02:35.820
+the 4060 Ti looks like
+a pretty decent buy.
+
+00:02:35.820 --> 00:02:39.030
+It costs 40% less than the RTX 4070,
+
+00:02:39.030 --> 00:02:41.640
+while being only about 20% slower,
+
+00:02:41.640 --> 00:02:42.900
+except in "The Last of Us,"
+
+00:02:42.900 --> 00:02:45.030
+probably because of that VRAM issue.
+
+00:02:45.030 --> 00:02:45.990
+With that said,
+
+00:02:45.990 --> 00:02:46.980
+that might be more to do
+
+00:02:46.980 --> 00:02:49.410
+with how bad the 4070 is.
+
+00:02:49.410 --> 00:02:51.450
+If we add some inconvenient truths
+
+00:02:51.450 --> 00:02:52.530
+to our numbers here,
+
+00:02:52.530 --> 00:02:54.900
+the picture gets a little less rosy.
+
+00:02:54.900 --> 00:02:57.390
+AMD has made some very
+aggressive price cuts
+
+00:02:57.390 --> 00:02:58.410
+to their last gen,
+
+00:02:58.410 --> 00:03:01.800
+and the 6700 XT performs nearly as well,
+
+00:03:01.800 --> 00:03:04.530
+sometimes even beating the 4060 Ti,
+
+00:03:04.530 --> 00:03:07.500
+all while costing about $50 less,
+
+00:03:07.500 --> 00:03:10.500
+and while including 12GBs of VRAM
+
+00:03:10.500 --> 00:03:12.750
+without $100 upcharge.
+
+00:03:12.750 --> 00:03:14.010
+So if all you care about
+
+00:03:14.010 --> 00:03:16.350
+is pure rasterized performance per dollar,
+
+00:03:16.350 --> 00:03:17.250
+you should probably
+
+00:03:17.250 --> 00:03:19.440
+be making the switch to Team Red.
+
+00:03:19.440 --> 00:03:20.610
+But with that being said,
+
+00:03:20.610 --> 00:03:22.200
+there is an efficiency story here
+
+00:03:22.200 --> 00:03:24.090
+that we're gonna get into later.
+
+00:03:24.090 --> 00:03:25.290
+First, I wanna talk about
+
+00:03:25.290 --> 00:03:26.730
+higher resolution gaming.
+
+00:03:26.730 --> 00:03:27.870
+Because even if Nvidia
+
+00:03:27.870 --> 00:03:28.980
+isn't talking about it,
+
+00:03:28.980 --> 00:03:31.290
+because only ray tracing
+exists for them now,
+
+00:03:31.290 --> 00:03:33.493
+this is a very solid 1440P
+
+00:03:33.493 --> 00:03:35.370
+rasterized gaming card.
+
+00:03:35.370 --> 00:03:37.350
+Most games had 1% lows
+
+00:03:37.350 --> 00:03:38.670
+that were either close to
+
+00:03:38.670 --> 00:03:41.370
+or above 60 FPS at ultra settings
+
+00:03:41.370 --> 00:03:43.890
+with ray racing and DLSS off.
+
+00:03:43.890 --> 00:03:45.570
+Meaning that on a 60 hertz monitor,
+
+00:03:45.570 --> 00:03:47.550
+you can expect a consistently smooth
+
+00:03:47.550 --> 00:03:48.990
+gaming experience.
+
+00:03:48.990 --> 00:03:50.310
+Want even more frames?
+
+00:03:50.310 --> 00:03:52.320
+Hey, just enable DLSS,
+
+00:03:52.320 --> 00:03:53.460
+or turn down your settings
+
+00:03:53.460 --> 00:03:54.780
+to a more modest preset,
+
+00:03:54.780 --> 00:03:56.250
+and you're off to the races.
+
+00:03:56.250 --> 00:03:59.130
+1440P is just such a great middle ground.
+
+00:03:59.130 --> 00:04:00.960
+It offers a much sharper image
+
+00:04:00.960 --> 00:04:02.160
+compared to 1080p,
+
+00:04:02.160 --> 00:04:03.750
+assuming the same screen size,
+
+00:04:03.750 --> 00:04:06.300
+but without the same major performance hit
+
+00:04:06.300 --> 00:04:07.920
+that comes with 4K.
+
+00:04:07.920 --> 00:04:09.450
+And it also comes with this message
+
+00:04:09.450 --> 00:04:10.590
+from our sponsor.
+
+00:04:10.590 --> 00:04:11.490
+Pulseway.
+
+00:04:11.490 --> 00:04:13.530
+Managing IT systems can be a pain,
+
+00:04:13.530 --> 00:04:15.120
+but with Pulseway's remote monitoring
+
+00:04:15.120 --> 00:04:16.020
+and management software,
+
+00:04:16.020 --> 00:04:17.010
+it's a breeze.
+
+00:04:17.010 --> 00:04:18.510
+You get real-time system monitoring,
+
+00:04:18.510 --> 00:04:19.343
+instant alerts,
+
+00:04:19.343 --> 00:04:20.760
+and audio remediation,
+
+00:04:20.760 --> 00:04:22.050
+all from one platform
+
+00:04:22.050 --> 00:04:24.210
+at any time using any device.
+
+00:04:24.210 --> 00:04:25.470
+Start your free trial today
+
+00:04:25.470 --> 00:04:26.910
+with the link down below.
+
+00:04:26.910 --> 00:04:28.350
+Speaking of 4K,
+
+00:04:28.350 --> 00:04:30.840
+you can, but shouldn't.
+
+00:04:30.840 --> 00:04:32.880
+Some of our results were okay.
+
+00:04:32.880 --> 00:04:35.340
+And if you've got a nice 4K TV nearby,
+
+00:04:35.340 --> 00:04:37.260
+or a secondary 4K monitor,
+
+00:04:37.260 --> 00:04:38.850
+depending on the game and settings,
+
+00:04:38.850 --> 00:04:40.350
+you could expect anywhere as high
+
+00:04:40.350 --> 00:04:43.680
+as 68 FPS average in "Forza Horizon 5,"
+
+00:04:43.680 --> 00:04:45.690
+with even ray tracing staying playable,
+
+00:04:45.690 --> 00:04:47.580
+to as low as 11 FPS
+
+00:04:47.580 --> 00:04:49.620
+in cranked out "Cyberpunk."
+
+00:04:49.620 --> 00:04:50.520
+Games, though,
+
+00:04:50.520 --> 00:04:51.720
+who needs them, right?
+
+00:04:51.720 --> 00:04:53.730
+Blender loves Nvidia,
+
+00:04:53.730 --> 00:04:54.840
+and if we only look
+
+00:04:54.840 --> 00:04:56.580
+at this productivity benchmark,
+
+00:04:56.580 --> 00:04:58.290
+the 4060 Ti slots in
+
+00:04:58.290 --> 00:05:00.102
+exactly where you'd expect,
+
+00:05:00.102 --> 00:05:02.340
+but if we take a close-lier look
+
+00:05:02.340 --> 00:05:03.990
+at, say, DaVinci Resolve
+
+00:05:03.990 --> 00:05:07.410
+with AV1, H.264 and H.265,
+
+00:05:07.410 --> 00:05:08.940
+well now we're losing
+
+00:05:08.940 --> 00:05:11.010
+to not only several AMD cards,
+
+00:05:11.010 --> 00:05:14.340
+but sometimes Intel's Arc A770 and,
+
+00:05:14.340 --> 00:05:15.660
+this one hurts the most,
+
+00:05:15.660 --> 00:05:17.880
+even the 3060 Ti.
+
+00:05:17.880 --> 00:05:18.750
+And the worst part,
+
+00:05:18.750 --> 00:05:20.430
+is this isn't isolated.
+
+00:05:20.430 --> 00:05:22.620
+Digging into our SPECviewperf benchmarks,
+
+00:05:22.620 --> 00:05:26.010
+the 6700 XT and the 3060 Ti
+
+00:05:26.010 --> 00:05:27.510
+often come out ahead,
+
+00:05:27.510 --> 00:05:29.430
+or basically on par,
+
+00:05:29.430 --> 00:05:31.500
+with Nvidia's new hotness.
+
+00:05:31.500 --> 00:05:32.634
+But why?
+
+00:05:32.634 --> 00:05:34.470
+Okay, while I often say
+
+00:05:34.470 --> 00:05:36.810
+that the specs for a GPU don't matter,
+
+00:05:36.810 --> 00:05:38.970
+what matters is the performance,
+
+00:05:38.970 --> 00:05:41.310
+sometimes the performance makes no sense
+
+00:05:41.310 --> 00:05:42.750
+and we've gotta dig into the specs
+
+00:05:42.750 --> 00:05:44.250
+to find out why.
+
+00:05:44.250 --> 00:05:47.010
+The 4060 Ti is based on an AD106 Die
+
+00:05:47.010 --> 00:05:48.690
+that boosts up to 2.5 gigahertz
+
+00:05:48.690 --> 00:05:50.430
+with 4352 CUDA cores,
+
+00:05:50.430 --> 00:05:52.770
+136 4th gen tensor cores,
+
+00:05:52.770 --> 00:05:55.350
+and 34 3rd gen ray tracing cores.
+
+00:05:55.350 --> 00:05:58.050
+All of which sounds sufficiently next gen.
+
+00:05:58.050 --> 00:05:59.280
+What doesn't,
+
+00:05:59.280 --> 00:06:01.050
+is that the 8GBs of VRAM,
+
+00:06:01.050 --> 00:06:02.790
+that we've talked about so much already,
+
+00:06:02.790 --> 00:06:05.790
+is on a 128-bit bus.
+
+00:06:05.790 --> 00:06:07.800
+Compared to the 3060 Ti,
+
+00:06:07.800 --> 00:06:09.300
+which had double that,
+
+00:06:09.300 --> 00:06:11.460
+that is a major cost cutting measure
+
+00:06:11.460 --> 00:06:13.020
+that seems to have significantly
+
+00:06:13.020 --> 00:06:14.700
+harmed the 4060 Ti
+
+00:06:14.700 --> 00:06:16.920
+in memory intensive applications.
+
+00:06:16.920 --> 00:06:18.210
+For context, guys,
+
+00:06:18.210 --> 00:06:20.220
+back in the 600 series days,
+
+00:06:20.220 --> 00:06:23.520
+you had to go all the
+way down to the 650 Ti,
+
+00:06:23.520 --> 00:06:25.290
+which cost $150,
+
+00:06:25.290 --> 00:06:28.560
+to find such a budget-conscious
+memory interface.
+
+00:06:28.560 --> 00:06:30.510
+But, to Nvidia's credit,
+
+00:06:30.510 --> 00:06:32.070
+cheap bastards that they are,
+
+00:06:32.070 --> 00:06:34.290
+you can't ignore how well it kept up
+
+00:06:34.290 --> 00:06:35.820
+the majority of the time.
+
+00:06:35.820 --> 00:06:36.960
+And according to Nvidia,
+
+00:06:36.960 --> 00:06:38.130
+this is largely thanks
+
+00:06:38.130 --> 00:06:41.850
+to the 4060 Ti's massively upgraded cache.
+
+00:06:41.850 --> 00:06:42.840
+They claim,
+
+00:06:42.840 --> 00:06:44.310
+and our numbers do bear this out,
+
+00:06:44.310 --> 00:06:45.750
+that it improves performance,
+
+00:06:45.750 --> 00:06:47.010
+reduces latency,
+
+00:06:47.010 --> 00:06:49.080
+and increases power efficiency.
+
+00:06:49.080 --> 00:06:51.240
+So yeah, a narrow bus
+
+00:06:51.240 --> 00:06:53.610
+does limit data transfer speeds to VRAM,
+
+00:06:53.610 --> 00:06:54.870
+and in a perfect world,
+
+00:06:54.870 --> 00:06:56.330
+we wouldn't have to give that up,
+
+00:06:56.330 --> 00:06:58.740
+but the more we can store in the cache
+
+00:06:58.740 --> 00:07:00.180
+instead of VRAM,
+
+00:07:00.180 --> 00:07:01.230
+the better.
+
+00:07:01.230 --> 00:07:02.670
+Now, I'm not a GPU architect,
+
+00:07:02.670 --> 00:07:04.260
+so I can't say this for certain,
+
+00:07:04.260 --> 00:07:05.970
+but it seems like this trade-off
+
+00:07:05.970 --> 00:07:08.220
+might be contributing
+to better performance
+
+00:07:08.220 --> 00:07:09.870
+in hybrid applications,
+
+00:07:09.870 --> 00:07:10.830
+like gaming
+
+00:07:10.830 --> 00:07:13.620
+while also taking
+advantage of the 4060 Ti's
+
+00:07:13.620 --> 00:07:16.320
+ray tracing cores and its AI engine.
+
+00:07:16.320 --> 00:07:17.610
+I mean, looking at performance
+
+00:07:17.610 --> 00:07:19.020
+in games with ray tracing,
+
+00:07:19.020 --> 00:07:20.691
+it's clear that this isn't some
+
+00:07:20.691 --> 00:07:22.920
+feature that's tacked on now.
+
+00:07:22.920 --> 00:07:24.420
+It's actually usable.
+
+00:07:24.420 --> 00:07:28.140
+And unless you have
+$600 to blow on a 4070,
+
+00:07:28.140 --> 00:07:30.930
+this is the best next
+next-gen gaming experience
+
+00:07:30.930 --> 00:07:31.980
+on the block.
+
+00:07:31.980 --> 00:07:32.813
+And the same goes
+
+00:07:32.813 --> 00:07:34.920
+for when we turn on DLSS AI upscaling,
+
+00:07:34.920 --> 00:07:36.270
+which, in general,
+
+00:07:36.270 --> 00:07:37.800
+turns playable into smooth
+
+00:07:37.800 --> 00:07:39.960
+and smooth into smooth-lier.
+
+00:07:39.960 --> 00:07:41.670
+It isn't perfect.
+
+00:07:41.670 --> 00:07:43.200
+There are still some visual anomalies
+
+00:07:43.200 --> 00:07:44.250
+from time to time,
+
+00:07:44.250 --> 00:07:45.750
+and we did find outliers
+
+00:07:45.750 --> 00:07:47.790
+where performance did not improve.
+
+00:07:47.790 --> 00:07:50.280
+For example, using DLSS 3 in "Returnal"
+
+00:07:50.280 --> 00:07:52.530
+resulted in a degraded experience,
+
+00:07:52.530 --> 00:07:54.990
+whether we had frame
+generation enabled or not.
+
+00:07:54.990 --> 00:07:56.520
+Super bizarre.
+
+00:07:56.520 --> 00:07:58.560
+But it has improved to the point
+
+00:07:58.560 --> 00:07:59.526
+where some games
+
+00:07:59.526 --> 00:08:02.670
+not only look the same and perform better,
+
+00:08:02.670 --> 00:08:05.430
+but will even look better with DLSS.
+
+00:08:05.430 --> 00:08:07.406
+It's definitely a nice-to-have.
+
+00:08:07.406 --> 00:08:09.090
+And what makes it even better,
+
+00:08:09.090 --> 00:08:10.350
+is that the 4060 Ti
+
+00:08:10.350 --> 00:08:12.030
+draws significantly less power
+
+00:08:12.030 --> 00:08:13.110
+than its predecessor,
+
+00:08:13.110 --> 00:08:16.020
+sometimes staying within 140 watts,
+
+00:08:16.020 --> 00:08:17.700
+depending on the game or workload.
+
+00:08:17.700 --> 00:08:19.800
+That is really impressive,
+
+00:08:19.800 --> 00:08:21.030
+and could even be the difference
+
+00:08:21.030 --> 00:08:23.160
+between needing to
+upgrade your power supply
+
+00:08:23.160 --> 00:08:25.500
+or not needing to upgrade
+your power supply.
+
+00:08:25.500 --> 00:08:26.610
+This part's anecdotal,
+
+00:08:26.610 --> 00:08:28.050
+we're still waiting on our sound chamber,
+
+00:08:28.050 --> 00:08:30.540
+but in terms of acoustics while gaming,
+
+00:08:30.540 --> 00:08:33.360
+it's no louder than really any other card,
+
+00:08:33.360 --> 00:08:34.710
+which is good, I guess,
+
+00:08:34.710 --> 00:08:35.970
+considering that it only reaches
+
+00:08:35.970 --> 00:08:37.590
+66 degrees on average
+
+00:08:37.590 --> 00:08:39.360
+during our "F1 22" loop
+
+00:08:39.360 --> 00:08:42.270
+with a max temp of 79 on the hotspot.
+
+00:08:42.270 --> 00:08:44.340
+We're gonna have way more concrete testing
+
+00:08:44.340 --> 00:08:45.930
+on GPU noise and thermals down the line,
+
+00:08:45.930 --> 00:08:47.100
+so make sure you stay tuned
+
+00:08:47.100 --> 00:08:49.050
+for more Labs updates.
+
+00:08:49.050 --> 00:08:50.280
+So, then.
+
+00:08:50.280 --> 00:08:51.660
+At $400,
+
+00:08:51.660 --> 00:08:54.060
+is it a good product at a good price?
+
+00:08:54.060 --> 00:08:55.470
+Let me put it this way.
+
+00:08:55.470 --> 00:08:57.000
+When Nvidia CEO, Jensen,
+
+00:08:57.000 --> 00:08:59.100
+told all of his Pascal gamer friends
+
+00:08:59.100 --> 00:09:01.110
+that it's safe to upgrade now,
+
+00:09:01.110 --> 00:09:02.250
+it wasn't.
+
+00:09:02.250 --> 00:09:04.740
+3060s and 3060 Ti's might as well
+
+00:09:04.740 --> 00:09:06.330
+have been made of unobtainium,
+
+00:09:06.330 --> 00:09:08.310
+but now, honestly,
+
+00:09:08.310 --> 00:09:09.930
+yeah, I agree.
+
+00:09:09.930 --> 00:09:10.920
+The only question,
+
+00:09:10.920 --> 00:09:13.830
+is whether it's safe to upgrade to Nvidia.
+
+00:09:13.830 --> 00:09:16.320
+The 40 series is already a mixed bag,
+
+00:09:16.320 --> 00:09:18.000
+and now the 4060 family
+
+00:09:18.000 --> 00:09:19.560
+looks like it's gonna be similarly
+
+00:09:19.560 --> 00:09:21.060
+all over the map.
+
+00:09:21.060 --> 00:09:25.260
+At $300, the non-Ti
+version could make sense,
+
+00:09:25.260 --> 00:09:26.093
+but then,
+
+00:09:26.093 --> 00:09:27.510
+if these specs are anything to go by,
+
+00:09:27.510 --> 00:09:28.343
+you're gonna be leaving
+
+00:09:28.343 --> 00:09:30.270
+a lot of performance on the table.
+
+00:09:30.270 --> 00:09:33.030
+Then at $400, we've got good performance,
+
+00:09:33.030 --> 00:09:34.710
+but do you really wanna hamstring yourself
+
+00:09:34.710 --> 00:09:36.240
+with only 8GBs of RAM?
+
+00:09:36.240 --> 00:09:38.282
+And then $500, I mean, gee,
+
+00:09:38.282 --> 00:09:40.050
+that's an awful lot of money
+
+00:09:40.050 --> 00:09:41.730
+to spend on an entry-class
+
+00:09:41.730 --> 00:09:44.340
+cheapo 128-bit GPU
+
+00:09:44.340 --> 00:09:45.173
+that's masquerading
+
+00:09:45.173 --> 00:09:47.070
+as a performance tier card.
+
+00:09:47.070 --> 00:09:48.210
+It seems like Nvidia
+
+00:09:48.210 --> 00:09:50.220
+has just completely decoupled
+
+00:09:50.220 --> 00:09:51.390
+their manufacturing cost
+
+00:09:51.390 --> 00:09:53.130
+from their retail price here.
+
+00:09:53.130 --> 00:09:55.920
+Look no further than the $100 upcharge
+
+00:09:55.920 --> 00:09:57.960
+for 20 bucks of memory.
+
+00:09:57.960 --> 00:10:00.630
+So, if I was a cynic,
+
+00:10:00.630 --> 00:10:01.770
+and I am,
+
+00:10:01.770 --> 00:10:03.690
+I would say that the
+pricing structure here
+
+00:10:03.690 --> 00:10:06.030
+is just a way of manufacturing FOMO
+
+00:10:06.030 --> 00:10:07.500
+so that you'll upsell yourself
+
+00:10:07.500 --> 00:10:09.660
+to spend more than maybe you should.
+
+00:10:09.660 --> 00:10:10.560
+Thankfully, though,
+
+00:10:10.560 --> 00:10:13.380
+we do still have some
+competition in the space.
+
+00:10:13.380 --> 00:10:14.640
+If power consumption,
+
+00:10:14.640 --> 00:10:16.230
+ray tracing and DLSS
+
+00:10:16.230 --> 00:10:17.820
+aren't major concerns for you,
+
+00:10:17.820 --> 00:10:20.070
+the 6700 XT from AMD
+
+00:10:20.070 --> 00:10:22.230
+is a compelling option,
+
+00:10:22.230 --> 00:10:24.120
+with more rumored to be coming.
+
+00:10:24.120 --> 00:10:26.250
+And, this one was a big shocker,
+
+00:10:26.250 --> 00:10:27.270
+ARC actually put up
+
+00:10:27.270 --> 00:10:28.890
+a pretty decent fight today,
+
+00:10:28.890 --> 00:10:32.040
+especially if you consider the $350 price.
+
+00:10:32.040 --> 00:10:35.025
+And especially-er if you
+consider our sponsor.
+
+00:10:35.025 --> 00:10:35.940
+Gorgias.
+
+00:10:35.940 --> 00:10:36.960
+Gorgias Help Desk
+
+00:10:36.960 --> 00:10:38.460
+is a customer support platform
+
+00:10:38.460 --> 00:10:39.930
+that aims to revolutionize the way
+
+00:10:39.930 --> 00:10:42.030
+that businesses interact
+with their customers.
+
+00:10:42.030 --> 00:10:43.890
+Their single, unified dashboard
+
+00:10:43.890 --> 00:10:46.440
+makes staying organized simpler than ever.
+
+00:10:46.440 --> 00:10:47.450
+We've even utilized Gorgias
+
+00:10:47.450 --> 00:10:48.720
+on lttstore.com
+
+00:10:48.720 --> 00:10:50.070
+to help with our customer support,
+
+00:10:50.070 --> 00:10:50.903
+which is a big part
+
+00:10:50.903 --> 00:10:52.200
+of why it's a lot better lately.
+
+00:10:52.200 --> 00:10:53.370
+A big part of that decision
+
+00:10:53.370 --> 00:10:54.420
+was how easy it is
+
+00:10:54.420 --> 00:10:56.310
+to integrate Gorgias with platforms
+
+00:10:56.310 --> 00:10:58.110
+like Shopify and Facebook.
+
+00:10:58.110 --> 00:10:59.250
+As a business grows,
+
+00:10:59.250 --> 00:11:00.083
+so does their need
+
+00:11:00.083 --> 00:11:02.130
+for efficient and
+effective customer support.
+
+00:11:02.130 --> 00:11:03.810
+And Gorgias can come in clutch
+
+00:11:03.810 --> 00:11:05.250
+with their automated systems,
+
+00:11:05.250 --> 00:11:06.390
+as well as their insight
+
+00:11:06.390 --> 00:11:07.680
+and analytics tools.
+
+00:11:07.680 --> 00:11:09.300
+And since everything is centralized,
+
+00:11:09.300 --> 00:11:10.950
+you can respond to customer inquiries
+
+00:11:10.950 --> 00:11:12.030
+via email, chat,
+
+00:11:12.030 --> 00:11:13.530
+and social media messages
+
+00:11:13.530 --> 00:11:15.990
+without drowning in a sea of Chrome tabs.
+
+00:11:15.990 --> 00:11:17.310
+Our switch to Gorgias Help Desk
+
+00:11:17.310 --> 00:11:18.960
+was simple, pain-free,
+
+00:11:18.960 --> 00:11:21.150
+and it fit our customer support needs.
+
+00:11:21.150 --> 00:11:22.350
+It's certainly been easier
+
+00:11:22.350 --> 00:11:23.700
+to provide customers with fast
+
+00:11:23.700 --> 00:11:25.110
+and personalized support.
+
+00:11:25.110 --> 00:11:26.310
+So see if they can help you, too,
+
+00:11:26.310 --> 00:11:28.830
+by checking out Gorgias
+at the link down below.
+
+00:11:28.830 --> 00:11:29.910
+If you guys liked this video,
+
+00:11:29.910 --> 00:11:31.950
+make sure to check out our 4090 coverage.
+
+00:11:31.950 --> 00:11:33.990
+It's super expensive,
+
+00:11:33.990 --> 00:11:35.973
+but it's a really impressive card.
+

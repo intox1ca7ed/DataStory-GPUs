@@ -1,0 +1,1640 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:04.320
+- AMD's RX 6950 XT is almost
+a totally different class
+
+00:00:04.320 --> 00:00:06.960
+of GPU compared to when it first launched
+
+00:00:06.960 --> 00:00:09.360
+to tepid reviews earlier this year.
+
+00:00:09.360 --> 00:00:11.130
+And with recent price adjustments,
+
+00:00:11.130 --> 00:00:12.870
+it is such a good deal now
+
+00:00:12.870 --> 00:00:15.570
+that its green opponent
+no longer makes any sense
+
+00:00:15.570 --> 00:00:19.320
+and neither does its
+predecessor, the 6900 XT.
+
+00:00:19.320 --> 00:00:21.960
+But why am I talking
+about the 6000 Series?
+
+00:00:21.960 --> 00:00:26.960
+Because however the RX
+7900 Series performs today,
+
+00:00:27.450 --> 00:00:28.500
+and it's good,
+
+00:00:28.500 --> 00:00:32.070
+I want you to also keep
+in mind AMD's track record
+
+00:00:32.070 --> 00:00:34.320
+for dramatically improving the performance
+
+00:00:34.320 --> 00:00:38.370
+of their GPUs through new
+features and driver optimizations.
+
+00:00:38.370 --> 00:00:40.470
+Personally, I'm counting on it
+
+00:00:40.470 --> 00:00:42.360
+because now that I have publicly committed
+
+00:00:42.360 --> 00:00:45.330
+to skipping NVIDIA's
+latest 40 series cards,
+
+00:00:45.330 --> 00:00:48.453
+AMD is my only hope for an
+upgrade this generation,
+
+00:00:49.410 --> 00:00:50.700
+just like my only hope of paying
+
+00:00:50.700 --> 00:00:52.800
+our production team is our sponsor.
+
+00:00:52.800 --> 00:00:54.840
+- PDQ. Automate patch management
+
+00:00:54.840 --> 00:00:56.610
+and software updates with PDQ.
+
+00:00:56.610 --> 00:00:58.680
+Search your library of over 200 ready
+
+00:00:58.680 --> 00:00:59.730
+to deploy applications
+
+00:00:59.730 --> 00:01:03.210
+and install software zero
+touch from your desk.
+
+00:01:03.210 --> 00:01:06.442
+Start your free trial at pdq.com/ltt.
+
+00:01:06.442 --> 00:01:09.025
+(upbeat music)
+
+00:01:15.240 --> 00:01:16.073
+- Right out of the gate,
+
+00:01:16.073 --> 00:01:19.200
+the 7900 Series is full of upgrades.
+
+00:01:19.200 --> 00:01:22.620
+It features AMD's brand
+new RDNA 3 architecture,
+
+00:01:22.620 --> 00:01:25.500
+up to 24 gigabytes of
+much higher bandwidth,
+
+00:01:25.500 --> 00:01:28.530
+GDDR6 memory, substantially
+boosted core clocks
+
+00:01:28.530 --> 00:01:30.780
+across the board, and this is great,
+
+00:01:30.780 --> 00:01:33.990
+the step down 7900 XT comes
+
+00:01:33.990 --> 00:01:37.500
+with as many compute units
+as AMD's previous flagship
+
+00:01:37.500 --> 00:01:41.070
+with the beefier XTX rocking even more.
+
+00:01:41.070 --> 00:01:43.637
+Despite having more and
+faster cores though,
+
+00:01:43.637 --> 00:01:45.750
+one of AMD's boldest claims is
+
+00:01:45.750 --> 00:01:49.920
+that they've managed to
+improve efficiency by 54%.
+
+00:01:49.920 --> 00:01:51.210
+This is thanks in large part
+
+00:01:51.210 --> 00:01:53.490
+to AMD's high bandwidth chiplets design,
+
+00:01:53.490 --> 00:01:55.980
+the first of its kind in a modern GPU.
+
+00:01:55.980 --> 00:01:58.770
+What's more, they've beefed
+up their ray accelerator cores
+
+00:01:58.770 --> 00:02:01.230
+for real-time raytrace
+lighting in supported games
+
+00:02:01.230 --> 00:02:05.130
+and finally included AI
+accelerator cores to bring Radeon
+
+00:02:05.130 --> 00:02:08.940
+to feature parity with
+NVIDIA and Intel's offerings.
+
+00:02:08.940 --> 00:02:10.440
+Unlike those offerings however,
+
+00:02:10.440 --> 00:02:12.870
+the Radeon RX 7900 Series
+cards we're looking
+
+00:02:12.870 --> 00:02:15.720
+at today come equipped
+with DisplayPort 2.1,
+
+00:02:15.720 --> 00:02:20.720
+which enables support for
+up to 8K 165 hertz displays.
+
+00:02:21.210 --> 00:02:22.830
+Is that even necessary?
+
+00:02:22.830 --> 00:02:23.820
+Who cares?
+
+00:02:23.820 --> 00:02:28.820
+It's awesome and it's something
+that NVIDIA's top end GPU,
+
+00:02:28.887 --> 00:02:31.590
+the RTX 4090 cannot do in spite
+
+00:02:31.590 --> 00:02:35.100
+of its staggering $1,600 sticker price.
+
+00:02:35.100 --> 00:02:38.460
+All of this is while
+actually fitting in your case
+
+00:02:38.460 --> 00:02:41.190
+and costing $900 and a $1,000
+
+00:02:41.190 --> 00:02:43.860
+for the XT and the XTX respectively.
+
+00:02:43.860 --> 00:02:48.860
+That is $200 to $300
+less than the RTX 4080
+
+00:02:48.870 --> 00:02:52.320
+that AMD says they should be
+able to compete with for speed.
+
+00:02:52.320 --> 00:02:54.690
+Of course we won't be
+taking their word for that.
+
+00:02:54.690 --> 00:02:56.414
+AMD has been known to be-
+
+00:02:56.414 --> 00:02:57.247
+(Linus coughing)
+
+00:02:57.247 --> 00:02:58.560
+optimistic.
+
+00:02:58.560 --> 00:03:00.630
+At 4K, it's clear out of the gate
+
+00:03:00.630 --> 00:03:01.680
+and Shadow of the Tomb Raider
+
+00:03:01.680 --> 00:03:04.350
+that whatever team red
+fans might have hoped for,
+
+00:03:04.350 --> 00:03:09.350
+the RX 7900 XTX is not AMD's
+answer to the RTX 4090.
+
+00:03:09.990 --> 00:03:12.390
+It's got performance that
+is realistically more
+
+00:03:12.390 --> 00:03:16.950
+in line with the 4080,
+though that is what AMD said.
+
+00:03:16.950 --> 00:03:19.560
+And this pattern continues in Hitman,
+
+00:03:19.560 --> 00:03:23.430
+Cyberpunk 2077, and Modern Warfare 2.
+
+00:03:23.430 --> 00:03:24.990
+Well, great, right?
+
+00:03:24.990 --> 00:03:27.510
+I mean, why did I spend
+all that time talking
+
+00:03:27.510 --> 00:03:30.390
+about the importance of AMD's
+ongoing driver developments?
+
+00:03:30.390 --> 00:03:31.860
+Keep that in mind.
+
+00:03:31.860 --> 00:03:33.990
+Well, there's this for one thing.
+
+00:03:33.990 --> 00:03:36.720
+Forza Horizon 5 is a clear loss
+
+00:03:36.720 --> 00:03:39.300
+for team red thanks to those subpar 1%
+
+00:03:39.300 --> 00:03:44.300
+and 5% low frame rates, but
+also this for another reason.
+
+00:03:44.820 --> 00:03:49.663
+That right there is a $1,000
+GPU beating a $1,600 GPU
+
+00:03:50.700 --> 00:03:53.760
+in F1 2022 and if the results I'm looking
+
+00:03:53.760 --> 00:03:56.130
+at right now are any
+indication of the kind
+
+00:03:56.130 --> 00:03:59.460
+of raw power that AMD's
+driver team has on tap here,
+
+00:03:59.460 --> 00:04:03.570
+there is some serious aging
+like fine wine potential
+
+00:04:03.570 --> 00:04:04.920
+on the table.
+
+00:04:04.920 --> 00:04:07.890
+Of course, you should
+never buy a promise though.
+
+00:04:07.890 --> 00:04:12.890
+And today AMD's best trails
+NVIDIA's best by about 17%,
+
+00:04:13.560 --> 00:04:16.650
+which sounds bad until you realize
+
+00:04:16.650 --> 00:04:20.370
+that NVIDIA's card costs 60% more.
+
+00:04:20.370 --> 00:04:23.460
+Compared to the 4080,
+the XTX is a no-brainer
+
+00:04:23.460 --> 00:04:26.970
+at 9% faster and 20% cheaper.
+
+00:04:26.970 --> 00:04:30.060
+And the 7900 XT does even better.
+
+00:04:30.060 --> 00:04:31.290
+I mean, sure.
+
+00:04:31.290 --> 00:04:36.180
+The 4080 is 7% faster but cost 33% more.
+
+00:04:36.180 --> 00:04:39.600
+1440p doesn't always show us
+a difference compared to 4K.
+
+00:04:39.600 --> 00:04:41.910
+But here, we do see some strange behavior
+
+00:04:41.910 --> 00:04:44.790
+in Forza that we retested several times.
+
+00:04:44.790 --> 00:04:48.000
+The 7000 Series is actually slower
+
+00:04:48.000 --> 00:04:51.510
+than AMD's older 6000 Series cards.
+
+00:04:51.510 --> 00:04:53.700
+We think this could be
+a problem with the game
+
+00:04:53.700 --> 00:04:56.280
+as it's the only one out
+of our suite that does it
+
+00:04:56.280 --> 00:04:58.800
+and when we went to test
+Forza's raytracing performance,
+
+00:04:58.800 --> 00:05:02.430
+we saw that it was in fact pretty broken.
+
+00:05:02.430 --> 00:05:06.390
+We also see the RTX 4080
+pull ahead of even the XTX
+
+00:05:06.390 --> 00:05:09.150
+in Shadow of the Tomb Raider
+and Red Dead Redemption,
+
+00:05:09.150 --> 00:05:11.130
+which is especially surprising considering
+
+00:05:11.130 --> 00:05:12.690
+that virtually every other game
+
+00:05:12.690 --> 00:05:15.270
+shows AMD closing the gap instead.
+
+00:05:15.270 --> 00:05:17.370
+The biggest example is in Modern Warfare 2
+
+00:05:17.370 --> 00:05:20.040
+where the minimum frame rates
+aren't quite up to the level
+
+00:05:20.040 --> 00:05:23.220
+of the RTX 4090, but the
+average frame rates are,
+
+00:05:23.220 --> 00:05:27.420
+which again can set some
+potential for optimization.
+
+00:05:27.420 --> 00:05:29.550
+In total, these numbers
+put the 7900 Series
+
+00:05:29.550 --> 00:05:31.440
+in a very good position to compete
+
+00:05:31.440 --> 00:05:33.870
+with NVIDIA's 40 series to the point where
+
+00:05:33.870 --> 00:05:36.630
+if traditional rasterized
+gaming was all that existed,
+
+00:05:36.630 --> 00:05:39.780
+NVIDIA would need to lower their prices.
+
+00:05:39.780 --> 00:05:41.730
+But it isn't all that exists.
+
+00:05:41.730 --> 00:05:46.380
+And raytracing is, sadly,
+still not AMD's strong suit.
+
+00:05:46.380 --> 00:05:48.630
+While substantially better in Cyberpunk
+
+00:05:48.630 --> 00:05:50.640
+than the RX 6000 Series,
+
+00:05:50.640 --> 00:05:53.460
+these 7000 Series GPUs are behind NVIDIA
+
+00:05:53.460 --> 00:05:56.580
+by at least a factor of 2 at 4K.
+
+00:05:56.580 --> 00:05:58.770
+At 1440p, AMD at least manages
+
+00:05:58.770 --> 00:06:00.930
+to break the 30 FPS minimum mark,
+
+00:06:00.930 --> 00:06:03.900
+making the game playable
+and you can use FSR
+
+00:06:03.900 --> 00:06:05.370
+to render at a lower resolution
+
+00:06:05.370 --> 00:06:07.380
+and upscale for smooth gameplay.
+
+00:06:07.380 --> 00:06:08.250
+But at that point,
+
+00:06:08.250 --> 00:06:10.680
+we could also do the same
+thing for team green,
+
+00:06:10.680 --> 00:06:13.710
+and the overall story
+would still be the same.
+
+00:06:13.710 --> 00:06:16.620
+F1 2022 fares slightly
+better for AMD at least,
+
+00:06:16.620 --> 00:06:21.120
+with the 7900 XTX pulling up
+to within 16% of the RTX 4080
+
+00:06:21.120 --> 00:06:24.420
+in minimum frame rates and
+actually near parity on average,
+
+00:06:24.420 --> 00:06:27.510
+which again gives me hope
+that some of AMD's woes
+
+00:06:27.510 --> 00:06:29.730
+with raytracing are a
+matter of optimization
+
+00:06:29.730 --> 00:06:32.490
+and that feeling only grows
+with Shadow of the Tomb Raider
+
+00:06:32.490 --> 00:06:35.480
+where even at 4K, it's within about 12%
+
+00:06:35.480 --> 00:06:39.180
+of the 4090 and turning out nearly 60 FPS.
+
+00:06:39.180 --> 00:06:42.060
+It is an older game, but that's not bad.
+
+00:06:42.060 --> 00:06:44.940
+It's just that a good race ran,
+
+00:06:44.940 --> 00:06:48.720
+when the other guy ran
+faster, is still an L.
+
+00:06:48.720 --> 00:06:52.470
+And ultimately, the RX
+7900 XTX just couldn't even
+
+00:06:52.470 --> 00:06:55.290
+come close to the RTX 4080's level
+
+00:06:55.290 --> 00:06:57.840
+of performance with raytracing enabled.
+
+00:06:57.840 --> 00:07:00.480
+I suspect that most
+people, myself included,
+
+00:07:00.480 --> 00:07:02.460
+still don't use raytracing often,
+
+00:07:02.460 --> 00:07:04.560
+and won't really be affected.
+
+00:07:04.560 --> 00:07:05.640
+But given that these things
+
+00:07:05.640 --> 00:07:08.610
+do still cost a thousand flipping dollars,
+
+00:07:08.610 --> 00:07:10.140
+it's definitely a skid mark
+
+00:07:10.140 --> 00:07:13.650
+on what has otherwise been a
+pretty good showing so far.
+
+00:07:13.650 --> 00:07:16.320
+And I'm afraid there's
+more where that came from.
+
+00:07:16.320 --> 00:07:17.850
+The professionals who have need
+
+00:07:17.850 --> 00:07:20.670
+of this kind of graphical
+horsepower will be, well,
+
+00:07:20.670 --> 00:07:22.860
+disappointed isn't quite the right word,
+
+00:07:22.860 --> 00:07:24.000
+but looking at these numbers,
+
+00:07:24.000 --> 00:07:26.490
+they're not gonna be excited either.
+
+00:07:26.490 --> 00:07:29.550
+Yes, Blender runs a good 8% to 20% faster
+
+00:07:29.550 --> 00:07:32.340
+on the 7000 versus the 6000 Series,
+
+00:07:32.340 --> 00:07:35.850
+but NVIDIA walks all
+over AMD's entire stack
+
+00:07:35.850 --> 00:07:39.630
+at between 3 to 4 times the performance.
+
+00:07:39.630 --> 00:07:42.540
+Thankfully, AMD's new encoding
+engine helps them push ahead
+
+00:07:42.540 --> 00:07:44.820
+of the RTX 4080 in DaVinci Resolve
+
+00:07:44.820 --> 00:07:47.910
+in both H.264 and especially H.265,
+
+00:07:47.910 --> 00:07:50.130
+which their encoding
+engine seems to favor.
+
+00:07:50.130 --> 00:07:52.860
+That's a good 20% more
+speed for the XTX there.
+
+00:07:52.860 --> 00:07:57.000
+Not bad, though the
+4090 does remain on top.
+
+00:07:57.000 --> 00:07:59.070
+Procyon video and photo
+are also pretty good
+
+00:07:59.070 --> 00:08:02.100
+for AMD with performance
+that I would call comparable.
+
+00:08:02.100 --> 00:08:03.570
+It's within a few percentage points
+
+00:08:03.570 --> 00:08:04.770
+either way you look at it
+
+00:08:04.770 --> 00:08:07.710
+and rounding out the video
+editing suite is Topaz AI,
+
+00:08:07.710 --> 00:08:11.010
+which despite the name,
+is using GPU compute here,
+
+00:08:11.010 --> 00:08:13.650
+rather than any AI cores.
+
+00:08:13.650 --> 00:08:18.650
+And wow, even the 7900 XT
+outperforms the RTX 4090 here.
+
+00:08:19.980 --> 00:08:23.340
+This workload seems to heavily
+favor AMD's Infinity Cache
+
+00:08:23.340 --> 00:08:27.300
+as the 6000 Series cards
+aren't too shabby either.
+
+00:08:27.300 --> 00:08:30.360
+SPECviewperf brings AMD
+about as many wins as losses,
+
+00:08:30.360 --> 00:08:33.510
+but the degree to which
+the 7000 Series wins
+
+00:08:33.510 --> 00:08:36.480
+over the competition is often much lower
+
+00:08:36.480 --> 00:08:38.460
+than the losses that they suffer
+
+00:08:38.460 --> 00:08:40.050
+with especially poor results
+
+00:08:40.050 --> 00:08:43.380
+in 3DS Max, Maya, and SolidWorks,
+
+00:08:43.380 --> 00:08:47.100
+which even dip under the
+performance of the 6000 Series.
+
+00:08:47.100 --> 00:08:47.933
+That's pretty rough.
+
+00:08:47.933 --> 00:08:50.670
+Those are kind of important applications.
+
+00:08:50.670 --> 00:08:54.240
+They pull off major wins in
+CATIA, Creo, Energy, Medical,
+
+00:08:54.240 --> 00:08:56.220
+and especially Siemens NX,
+
+00:08:56.220 --> 00:08:58.260
+though as we've said in the past,
+
+00:08:58.260 --> 00:09:00.570
+this is because the
+version in SPECviewperf
+
+00:09:00.570 --> 00:09:03.240
+doesn't support hardware
+acceleration on NVIDIA,
+
+00:09:03.240 --> 00:09:05.490
+and actually this is
+just gonna be excluded
+
+00:09:05.490 --> 00:09:08.190
+from our averages when
+we calculate it later on.
+
+00:09:08.190 --> 00:09:09.780
+SPECworkstation paints the Radeon
+
+00:09:09.780 --> 00:09:11.520
+in a significantly better light though,
+
+00:09:11.520 --> 00:09:13.470
+with product development, life sciences,
+
+00:09:13.470 --> 00:09:16.200
+and energy all pushing
+well past team green,
+
+00:09:16.200 --> 00:09:17.700
+but media and entertainment,
+
+00:09:17.700 --> 00:09:21.090
+as well as GPU compute
+still stay with NVIDIA,
+
+00:09:21.090 --> 00:09:25.350
+likely thanks to openCL's
+relative obscurity next to Cuda.
+
+00:09:25.350 --> 00:09:27.900
+Despite the blows the 7900
+Series cards took though,
+
+00:09:27.900 --> 00:09:29.250
+their beefed up media engines
+
+00:09:29.250 --> 00:09:31.200
+and GPU compute horsepower placed them
+
+00:09:31.200 --> 00:09:34.050
+within an average of 2%
+to 10% of team green.
+
+00:09:34.050 --> 00:09:35.730
+Given the wide performance spread we saw,
+
+00:09:35.730 --> 00:09:36.960
+depending on the workload,
+
+00:09:36.960 --> 00:09:39.000
+potential perspective
+professional people will want
+
+00:09:39.000 --> 00:09:40.200
+to think long and hard
+
+00:09:40.200 --> 00:09:42.930
+about which capabilities
+are most important
+
+00:09:42.930 --> 00:09:45.570
+to them before making a final decision.
+
+00:09:45.570 --> 00:09:46.470
+Changing gears a little,
+
+00:09:46.470 --> 00:09:47.670
+we found something interesting
+
+00:09:47.670 --> 00:09:49.440
+when we were testing Resizable BAR
+
+00:09:49.440 --> 00:09:52.200
+on both Intel and AMD platforms.
+
+00:09:52.200 --> 00:09:54.450
+It seems like the
+performance improvements,
+
+00:09:54.450 --> 00:09:56.310
+regardless of whether you have a team blue
+
+00:09:56.310 --> 00:09:59.550
+or team red CPU, can be
+expected to be pretty similar
+
+00:09:59.550 --> 00:10:02.400
+despite AMD heavily
+marketing Smart Access Memory
+
+00:10:02.400 --> 00:10:06.720
+as a selling point for the
+Ryzen plus Radeon ecosystem.
+
+00:10:06.720 --> 00:10:09.840
+Bear in mind that this is a
+sample size of just two games,
+
+00:10:09.840 --> 00:10:12.030
+but without Resizable BAR,
+
+00:10:12.030 --> 00:10:13.650
+we're figuring you can expect anywhere
+
+00:10:13.650 --> 00:10:16.830
+from a 10% to 35% reduction in performance
+
+00:10:16.830 --> 00:10:20.220
+regardless of which side you swing for.
+
+00:10:20.220 --> 00:10:22.200
+As for AMD's updated video encoder,
+
+00:10:22.200 --> 00:10:24.060
+there's a lot to be excited about here.
+
+00:10:24.060 --> 00:10:26.520
+AV1 support and baked in machine learning
+
+00:10:26.520 --> 00:10:28.860
+to improve quality at the top of my list.
+
+00:10:28.860 --> 00:10:30.780
+But despite receiving our cards early,
+
+00:10:30.780 --> 00:10:32.280
+we actually only had a few days
+
+00:10:32.280 --> 00:10:33.330
+to test these things prior
+
+00:10:33.330 --> 00:10:35.640
+to embargo because we
+didn't have a driver,
+
+00:10:35.640 --> 00:10:38.190
+so we were forced to push
+our image quality comparisons
+
+00:10:38.190 --> 00:10:39.023
+to a separate video
+
+00:10:39.023 --> 00:10:41.730
+that you can expect to see
+in the next couple of weeks.
+
+00:10:41.730 --> 00:10:43.920
+One of AMD's other selling points is
+
+00:10:43.920 --> 00:10:47.580
+its smaller footprint compared
+to NVIDIA's 40 Series GPUs.
+
+00:10:47.580 --> 00:10:49.170
+And I was concerned that this would come
+
+00:10:49.170 --> 00:10:50.400
+at the expense of thermals,
+
+00:10:50.400 --> 00:10:53.010
+so I was extremely pleased to see
+
+00:10:53.010 --> 00:10:56.190
+that AMD's new cooler
+design has the 7000 Series
+
+00:10:56.190 --> 00:10:59.670
+actually performing better
+than the 6000 Series.
+
+00:10:59.670 --> 00:11:02.310
+With that said though, AMD
+does not have the luxury
+
+00:11:02.310 --> 00:11:04.110
+of only competing with themselves
+
+00:11:04.110 --> 00:11:07.170
+and NVIDIA is clearly in
+the better position here.
+
+00:11:07.170 --> 00:11:08.670
+Though with that said,
+
+00:11:08.670 --> 00:11:11.550
+both of the NVIDIA cards we
+tested have substantially
+
+00:11:11.550 --> 00:11:14.400
+larger heat sinks with fan off modes,
+
+00:11:14.400 --> 00:11:17.430
+while AMD's new cards
+always ran their fans.
+
+00:11:17.430 --> 00:11:20.164
+It's probable that designs
+from the like of Asus
+
+00:11:20.164 --> 00:11:24.303
+or PowerColor will run much
+cooler and hopefully quieter.
+
+00:11:25.320 --> 00:11:27.630
+Now, we need to talk about core clocks
+
+00:11:27.630 --> 00:11:29.670
+because they're a little
+different this generation
+
+00:11:29.670 --> 00:11:31.650
+thanks to the decoupling of the front end
+
+00:11:31.650 --> 00:11:33.150
+and the shader clocks.
+
+00:11:33.150 --> 00:11:34.200
+The idea here is
+
+00:11:34.200 --> 00:11:37.260
+that the front end will benefit
+more from higher clocks,
+
+00:11:37.260 --> 00:11:39.720
+while the more numerous
+shader units crunch data
+
+00:11:39.720 --> 00:11:41.550
+in parallel at a lower clock speed,
+
+00:11:41.550 --> 00:11:44.400
+resulting in a better balance
+of performance and efficiency.
+
+00:11:44.400 --> 00:11:45.900
+And you can see that in action here
+
+00:11:45.900 --> 00:11:48.266
+where both the 7900 XTX
+
+00:11:48.266 --> 00:11:51.900
+and XT have a consistent 200 megahertz gap
+
+00:11:51.900 --> 00:11:53.370
+between the two clocks.
+
+00:11:53.370 --> 00:11:56.130
+And even in a power
+virus, like MSI Kombustor,
+
+00:11:56.130 --> 00:11:57.420
+these clocks remained higher
+
+00:11:57.420 --> 00:11:59.220
+than the previous generation.
+
+00:11:59.220 --> 00:12:02.580
+Clock stability in-game is
+similar to the 6000 Series cards,
+
+00:12:02.580 --> 00:12:05.400
+but NVIDIA's 40 Series
+manages flatter lines
+
+00:12:05.400 --> 00:12:06.233
+throughout the run,
+
+00:12:06.233 --> 00:12:08.880
+suggesting that AMD is trying
+to be pretty aggressive
+
+00:12:08.880 --> 00:12:10.980
+with managing power consumption,
+
+00:12:10.980 --> 00:12:13.650
+which makes sense because AMD talked a lot
+
+00:12:13.650 --> 00:12:15.660
+about performance per
+watt in their marketing.
+
+00:12:15.660 --> 00:12:17.700
+And looking at these in-game power graphs?
+
+00:12:17.700 --> 00:12:18.720
+No?
+
+00:12:18.720 --> 00:12:20.100
+Not seems to suggest
+
+00:12:20.100 --> 00:12:23.700
+that their self congratulations
+are well justified.
+
+00:12:23.700 --> 00:12:26.940
+The Radeon RX 7900 XTX
+drew comparable power
+
+00:12:26.940 --> 00:12:29.520
+to the 4080 and this
+held even when we hit it
+
+00:12:29.520 --> 00:12:30.960
+with MSI Kombustor.
+
+00:12:30.960 --> 00:12:32.970
+The XT was even better still,
+
+00:12:32.970 --> 00:12:35.160
+staying in line with its predecessor.
+
+00:12:35.160 --> 00:12:37.890
+But what's interesting is when
+we take a magnifying glass
+
+00:12:37.890 --> 00:12:41.220
+to how many watts the 7000
+Series pulls per frame.
+
+00:12:41.220 --> 00:12:44.910
+In this example, while the
+raw wattage drops much closer
+
+00:12:44.910 --> 00:12:48.870
+to the RTX 4080, when we cap
+the frame rate to a hundred,
+
+00:12:48.870 --> 00:12:52.350
+the total watts per frame
+increases substantially.
+
+00:12:52.350 --> 00:12:53.430
+This suggests that
+
+00:12:53.430 --> 00:12:57.210
+while the RTX 4080 is able to
+throttle itself effectively,
+
+00:12:57.210 --> 00:13:00.630
+AMD is actually having some
+trouble with power management.
+
+00:13:00.630 --> 00:13:03.330
+And AMD's idle power
+consumption numbers seem
+
+00:13:03.330 --> 00:13:04.890
+to corroborate this.
+
+00:13:04.890 --> 00:13:09.330
+Where the RTX 4080 idles
+at around 15 to 20 watts,
+
+00:13:09.330 --> 00:13:13.170
+the 7900 XTX regularly sucks back 40
+
+00:13:13.170 --> 00:13:17.880
+and sometimes over 50 watts,
+while doing nothing at all.
+
+00:13:17.880 --> 00:13:20.010
+What's even more baffling
+is that we noticed
+
+00:13:20.010 --> 00:13:22.860
+what seems like a major
+bug during our testing.
+
+00:13:22.860 --> 00:13:25.860
+Depending on the monitor
+that we plugged into the GPU,
+
+00:13:25.860 --> 00:13:29.640
+we saw wildly different total
+system power at the wall.
+
+00:13:29.640 --> 00:13:33.000
+From a respectable 52 watts
+with nothing plugged in
+
+00:13:33.000 --> 00:13:36.180
+to a whopping 171 watts
+
+00:13:36.180 --> 00:13:39.420
+with our 27 inch ROG Swift bench display.
+
+00:13:39.420 --> 00:13:43.650
+Using some other monitors even
+caused performance to drop.
+
+00:13:43.650 --> 00:13:46.470
+Now, given that I have a high-end display
+
+00:13:46.470 --> 00:13:48.030
+and I live in Vancouver, Canada
+
+00:13:48.030 --> 00:13:51.330
+where energy is the one
+thing that is still cheap,
+
+00:13:51.330 --> 00:13:52.920
+none of this is a deal breaker for me.
+
+00:13:52.920 --> 00:13:56.310
+But if I was in Europe where
+energy prices have surged,
+
+00:13:56.310 --> 00:13:59.130
+pun intended, it would give me pause
+
+00:13:59.130 --> 00:14:02.010
+before I was willing to look at team red.
+
+00:14:02.010 --> 00:14:03.450
+Adding insult to injury,
+
+00:14:03.450 --> 00:14:06.510
+this high idle power draw means
+that the fans are spinning
+
+00:14:06.510 --> 00:14:09.420
+at all times, kicking that
+heat out into your room
+
+00:14:09.420 --> 00:14:11.610
+even if you're just scrolling Reddit,
+
+00:14:11.610 --> 00:14:13.230
+meaning that the 7900 Series
+
+00:14:13.230 --> 00:14:16.140
+is gonna be a little less
+comfortable to live with.
+
+00:14:16.140 --> 00:14:18.840
+Maybe if you go team red,
+you could pick up a blank T,
+
+00:14:18.840 --> 00:14:21.960
+rather than a retro polar
+fleece from lttstore.com.
+
+00:14:21.960 --> 00:14:22.920
+Space heater.
+
+00:14:22.920 --> 00:14:24.150
+One possible explanation
+
+00:14:24.150 --> 00:14:26.250
+for this high idle power
+consumption could be
+
+00:14:26.250 --> 00:14:30.030
+that this is a similar situation
+to the Verizon 7 5800X3D.
+
+00:14:30.030 --> 00:14:33.990
+That CPU's use of 3D V-cache
+limited its stability
+
+00:14:33.990 --> 00:14:37.110
+if voltages weren't dialed in just right
+
+00:14:37.110 --> 00:14:39.600
+and we could be witnessing
+similar teething issues
+
+00:14:39.600 --> 00:14:41.820
+with this new chiplet architecture
+
+00:14:41.820 --> 00:14:43.650
+and supporting that theory is the fact
+
+00:14:43.650 --> 00:14:46.620
+that the driver straight up
+locks out power adjustments
+
+00:14:46.620 --> 00:14:49.140
+below 90% of total board power.
+
+00:14:49.140 --> 00:14:50.550
+When we asked them about this,
+
+00:14:50.550 --> 00:14:52.470
+AMD played pretty coy with us,
+
+00:14:52.470 --> 00:14:54.480
+which tells us either we're right
+
+00:14:54.480 --> 00:14:57.030
+or that they're not sure either.
+
+00:14:57.030 --> 00:14:58.050
+Now it's time to talk about
+
+00:14:58.050 --> 00:15:00.270
+what this data means for the GPU market.
+
+00:15:00.270 --> 00:15:02.070
+First of all, anyone who was hoping
+
+00:15:02.070 --> 00:15:03.990
+that the 7900 Series would come in
+
+00:15:03.990 --> 00:15:05.220
+and compete head-to-head
+
+00:15:05.220 --> 00:15:09.240
+against the RTX 4090 will
+be sorely disappointed,
+
+00:15:09.240 --> 00:15:10.560
+at least for today.
+
+00:15:10.560 --> 00:15:12.420
+We saw brief glimpses of glory,
+
+00:15:12.420 --> 00:15:15.030
+but the RTX 4090 remains on its throne,
+
+00:15:15.030 --> 00:15:16.980
+making it tough to dislodge its price
+
+00:15:16.980 --> 00:15:20.160
+from that TI Titan perch
+
+00:15:20.160 --> 00:15:23.040
+that it currently occupies
+as a Halo product.
+
+00:15:23.040 --> 00:15:25.980
+But while AMD doesn't have
+a direct competitor to it,
+
+00:15:25.980 --> 00:15:30.510
+I still think the 7900 XTX
+is a much better value.
+
+00:15:30.510 --> 00:15:32.940
+As for the RTX 4080, well,
+
+00:15:32.940 --> 00:15:35.460
+the comparison gets a
+little more complicated.
+
+00:15:35.460 --> 00:15:37.800
+Even the XT model comes really close
+
+00:15:37.800 --> 00:15:40.140
+in traditional rendering
+and the value proposition
+
+00:15:40.140 --> 00:15:43.980
+of either 7900 GPU is a damning indictment
+
+00:15:43.980 --> 00:15:45.240
+of NVIDIA's pricing.
+
+00:15:45.240 --> 00:15:48.120
+But AMD does remain on the back foot
+
+00:15:48.120 --> 00:15:49.650
+in raytracing performance
+
+00:15:49.650 --> 00:15:51.570
+and that's something
+that NVIDIA can point to
+
+00:15:51.570 --> 00:15:53.580
+and claim makes up the difference,
+
+00:15:53.580 --> 00:15:56.010
+even if nobody seriously cares.
+
+00:15:56.010 --> 00:15:58.290
+It'll take people like me running out
+
+00:15:58.290 --> 00:16:01.920
+and buying 7900 Series
+cards instead of 40 Series
+
+00:16:01.920 --> 00:16:04.620
+to make Nvidia realize
+that they're out to lunch.
+
+00:16:04.620 --> 00:16:08.010
+But wait, why are we saying
+this now, you might think.
+
+00:16:08.010 --> 00:16:10.320
+We took a lot of flack for covering
+
+00:16:10.320 --> 00:16:13.470
+for NVIDIA's pricing in the
+RTX 4080 review, didn't we?
+
+00:16:13.470 --> 00:16:15.300
+Well, not so much.
+
+00:16:15.300 --> 00:16:17.820
+First off, we compared it
+to cards that were available
+
+00:16:17.820 --> 00:16:19.980
+at the time it released
+and we ended the video
+
+00:16:19.980 --> 00:16:22.890
+with a message to wait for RDNA 3.
+
+00:16:22.890 --> 00:16:26.910
+And we are reviewing the 7900
+Series in much the same way.
+
+00:16:26.910 --> 00:16:29.130
+Second, it had already been made known
+
+00:16:29.130 --> 00:16:32.730
+that the RX 7900 XTX
+was not going to compete
+
+00:16:32.730 --> 00:16:35.550
+with the 4090, which depending
+on how you look at it,
+
+00:16:35.550 --> 00:16:40.470
+means that either the RTX 4080
+is actually a 90 class card
+
+00:16:40.470 --> 00:16:41.550
+and priced accordingly,
+
+00:16:41.550 --> 00:16:44.730
+with the 4090 being a TI or something,
+
+00:16:44.730 --> 00:16:49.110
+or the 7900 XT and XTX are
+the current gen equivalent
+
+00:16:49.110 --> 00:16:54.110
+of the 6800 and 6800 XT and
+are themselves overpriced.
+
+00:16:54.420 --> 00:16:56.640
+Basically, it's kind of a
+game of pick your villain
+
+00:16:56.640 --> 00:16:58.410
+at this point, cuz the reality is
+
+00:16:58.410 --> 00:17:02.400
+that $600 top of the line
+GPUs are a thing of the past
+
+00:17:02.400 --> 00:17:05.040
+and that was an assumption
+that our review made
+
+00:17:05.040 --> 00:17:07.230
+but did not fully explain.
+
+00:17:07.230 --> 00:17:08.670
+It's worth pointing out, by the way,
+
+00:17:08.670 --> 00:17:10.380
+since I'm being a downer right now anyway,
+
+00:17:10.380 --> 00:17:13.860
+that while AMD supports DisplayPort 2.1
+
+00:17:13.860 --> 00:17:15.990
+and NVIDIA's 40 Series does not,
+
+00:17:15.990 --> 00:17:17.640
+AMD went with a half measure
+
+00:17:17.640 --> 00:17:21.600
+by supporting only the UHBR 13.5 spec.
+
+00:17:21.600 --> 00:17:23.610
+What this means is that
+it can only achieve
+
+00:17:23.610 --> 00:17:25.860
+its lofty resolution
+and frame rate support
+
+00:17:25.860 --> 00:17:27.900
+through display stream compression.
+
+00:17:27.900 --> 00:17:30.270
+DSC allows up to three
+times more bandwidth
+
+00:17:30.270 --> 00:17:34.200
+that is both near zero
+latency and visually lossless,
+
+00:17:34.200 --> 00:17:37.980
+though that doesn't mean that
+there is no quality loss.
+
+00:17:37.980 --> 00:17:39.810
+Practically speaking, this
+won't be a problem even
+
+00:17:39.810 --> 00:17:40.980
+if it were noticeable given
+
+00:17:40.980 --> 00:17:42.780
+that these GPUS aren't really capable
+
+00:17:42.780 --> 00:17:45.330
+of pushing those resolutions
+and frame rates anyway,
+
+00:17:45.330 --> 00:17:47.490
+but we brought it up
+with the RTX 40 Series,
+
+00:17:47.490 --> 00:17:50.040
+so we're bringing it up here
+for the sake of completeness.
+
+00:17:50.040 --> 00:17:52.830
+It means that those new
+8K ultra-wide displays
+
+00:17:52.830 --> 00:17:55.410
+being shown up at CES
+will just barely be able
+
+00:17:55.410 --> 00:17:58.020
+to run at 85 Hertz without DSC.
+
+00:17:58.020 --> 00:17:59.130
+But I would never expect
+
+00:17:59.130 --> 00:18:01.350
+that to be a problem for an actual user.
+
+00:18:01.350 --> 00:18:04.020
+One slightly problematic thing
+that I do need to address is
+
+00:18:04.020 --> 00:18:07.650
+that we've taken a very glass
+half full approach today
+
+00:18:07.650 --> 00:18:08.880
+and I can understand why some
+
+00:18:08.880 --> 00:18:10.650
+of you might be frustrated by it.
+
+00:18:10.650 --> 00:18:11.483
+We've gone
+
+00:18:11.483 --> 00:18:15.390
+and spun AMD's potential
+future driver improvements
+
+00:18:15.390 --> 00:18:19.320
+as a good thing when
+actually they're kind of bad.
+
+00:18:19.320 --> 00:18:21.090
+Another perspective is that it means
+
+00:18:21.090 --> 00:18:23.400
+that AMD is releasing these products even
+
+00:18:23.400 --> 00:18:26.160
+though they haven't really
+finished optimizing them.
+
+00:18:26.160 --> 00:18:28.770
+And if you've kind of felt
+that way up to this point,
+
+00:18:28.770 --> 00:18:30.540
+I totally get where you're coming from.
+
+00:18:30.540 --> 00:18:33.270
+We ran into some kind of bizarre,
+
+00:18:33.270 --> 00:18:34.842
+no really bizarre crashes,
+
+00:18:34.842 --> 00:18:36.840
+and there are certainly features
+
+00:18:36.840 --> 00:18:38.850
+that could be added or refined.
+
+00:18:38.850 --> 00:18:42.600
+But in fairness to our
+charitable approach today,
+
+00:18:42.600 --> 00:18:44.700
+AMD is pricing these GPUs according
+
+00:18:44.700 --> 00:18:47.520
+to what they are now
+and their track record
+
+00:18:47.520 --> 00:18:50.190
+for fixing these things
+is actually pretty good
+
+00:18:50.190 --> 00:18:51.720
+even if sometimes it takes a while
+
+00:18:51.720 --> 00:18:54.227
+as they focus on new features like FSR 3.0
+
+00:18:55.338 --> 00:18:58.230
+and the Hyper-RX performance optimizer
+
+00:18:58.230 --> 00:18:59.970
+that have yet to launch.
+
+00:18:59.970 --> 00:19:02.130
+And if this is where performance is now,
+
+00:19:02.130 --> 00:19:06.510
+with some of what broken,
+certainly unoptimized drivers,
+
+00:19:06.510 --> 00:19:09.930
+AMD clearly has some great
+hardware on their hands here.
+
+00:19:09.930 --> 00:19:12.150
+They even brought back the USB-C port,
+
+00:19:12.150 --> 00:19:14.280
+something that is great
+for hooking up a monitor
+
+00:19:14.280 --> 00:19:16.980
+via a single cable and a godsend
+
+00:19:16.980 --> 00:19:18.540
+for enthusiasts like myself.
+
+00:19:18.540 --> 00:19:21.660
+I'm still mad that NVIDIA
+removed it after the 20 Series.
+
+00:19:21.660 --> 00:19:25.710
+so the RX 7900 XTX is
+going into my gaming rig
+
+00:19:25.710 --> 00:19:27.690
+and I'm officially switching to team red
+
+00:19:27.690 --> 00:19:32.690
+for the first time since the 3870.
+
+00:19:32.880 --> 00:19:33.713
+- [Anthony] Wow.
+
+00:19:33.713 --> 00:19:35.370
+- Goodness gracious.
+
+00:19:35.370 --> 00:19:37.080
+The performance is good enough.
+
+00:19:37.080 --> 00:19:38.610
+The price is good enough.
+
+00:19:38.610 --> 00:19:40.620
+Well, at least compared
+to the competition.
+
+00:19:40.620 --> 00:19:42.660
+And the downsides are small enough
+
+00:19:42.660 --> 00:19:45.390
+that I am comfortable making the leap.
+
+00:19:45.390 --> 00:19:46.800
+Just like I'm gonna comfortably leap
+
+00:19:46.800 --> 00:19:49.047
+to this segue from our sponsor.
+
+00:19:49.047 --> 00:19:50.490
+- MSI and their recently released
+
+00:19:50.490 --> 00:19:53.310
+MAG Z790 Tomahawk WIFI motherboard.
+
+00:19:53.310 --> 00:19:56.670
+The MAG Z790 Tomahawk is a
+gaming oriented ATX motherboard
+
+00:19:56.670 --> 00:19:59.130
+that balances value with premium hardware.
+
+00:19:59.130 --> 00:20:01.950
+It's built around the
+latest Intel Z790 chipset,
+
+00:20:01.950 --> 00:20:05.130
+which supports 12th and 13th
+gen Intel core processors
+
+00:20:05.130 --> 00:20:08.250
+with dual 8-pin power connectors
+and Core Boost Technology,
+
+00:20:08.250 --> 00:20:10.680
+it's able to sustain heavy CPU power loads
+
+00:20:10.680 --> 00:20:12.900
+to better support demanding game settings.
+
+00:20:12.900 --> 00:20:15.150
+It also features M.2 Shield Frozer,
+
+00:20:15.150 --> 00:20:16.740
+MSI's advanced thermal solution,
+
+00:20:16.740 --> 00:20:18.150
+which offers great protection
+
+00:20:18.150 --> 00:20:20.550
+for maximum SSD transfer
+speed performance.
+
+00:20:20.550 --> 00:20:23.040
+With integrating options for
+multiple cooling methods,
+
+00:20:23.040 --> 00:20:25.920
+the Z790 Tomahawk ensures
+optimal performance
+
+00:20:25.920 --> 00:20:27.180
+when you need it the most.
+
+00:20:27.180 --> 00:20:28.050
+Make sure to check it out
+
+00:20:28.050 --> 00:20:29.790
+at the link in the video description.
+
+00:20:29.790 --> 00:20:30.630
+- If you enjoyed this
+
+00:20:30.630 --> 00:20:31.860
+and you're looking for
+something else to watch,
+
+00:20:31.860 --> 00:20:32.693
+maybe go check out
+
+00:20:32.693 --> 00:20:34.980
+that ARC 30 day challenge
+video I mentioned.
+
+00:20:34.980 --> 00:20:36.660
+Intel's doing some really
+good things over there,
+
+00:20:36.660 --> 00:20:38.943
+but they also have a lot of work to do.
+

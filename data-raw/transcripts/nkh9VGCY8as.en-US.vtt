@@ -1,0 +1,772 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.000 --> 00:00:02.960
+Okay, let's do this.
+
+00:00:02.960 --> 00:00:07.220
+Reviewing the RTX 4070 is kind of a no win situation for me
+
+00:00:07.220 --> 00:00:10.720
+because on the one hand, everyone is furious
+
+00:00:10.720 --> 00:00:14.580
+about the unaffordability of modern GPUs and rightly so.
+
+00:00:14.580 --> 00:00:17.540
+But on the other hand, I have to acknowledge
+
+00:00:17.540 --> 00:00:20.180
+that this is the best value proposition
+
+00:00:20.180 --> 00:00:21.360
+that we've seen in years.
+
+00:00:21.360 --> 00:00:24.740
+Then on the other other hand, there's the fact
+
+00:00:24.740 --> 00:00:28.060
+that Nvidia who controls all of this appears
+
+00:00:28.060 --> 00:00:31.320
+to be making this product look like a good value
+
+00:00:31.320 --> 00:00:34.920
+by simply making all of their other ones a terrible value.
+
+00:00:34.920 --> 00:00:36.840
+I really do wish I could just sit this one out
+
+00:00:36.840 --> 00:00:39.480
+because by the time I'm done, at least some of you
+
+00:00:39.480 --> 00:00:43.300
+will have misdirected your anger toward me, the messenger.
+
+00:00:43.300 --> 00:00:47.640
+But here goes the segue to our sponsor.
+
+00:00:47.640 --> 00:00:50.720
+VideoCom, making a presentation for work or school?
+
+00:00:50.720 --> 00:00:53.880
+Let VideoCom help you spice it up by adding annotations,
+
+00:00:53.880 --> 00:00:56.300
+webcams, videos and images and much more
+
+00:00:56.300 --> 00:00:57.680
+with just a few simple clicks.
+
+00:00:57.680 --> 00:00:59.320
+Check them out at the link down below.
+
+00:00:59.320 --> 00:01:02.080
+Looking at the specs alone, the RTX 4070
+
+00:01:02.080 --> 00:01:04.000
+is pretty underwhelming.
+
+00:01:04.000 --> 00:01:06.480
+At just 295 millimeters squared,
+
+00:01:06.480 --> 00:01:09.720
+this is the smallest 70 class GPU that we've seen
+
+00:01:09.720 --> 00:01:14.280
+since the GTX 770 and with the same CUDA core count
+
+00:01:14.280 --> 00:01:18.620
+as the RTX 3070, this is the first time ever
+
+00:01:18.620 --> 00:01:20.800
+that Nvidia hasn't given us more shaders
+
+00:01:20.800 --> 00:01:22.520
+generation over generation.
+
+00:01:22.520 --> 00:01:25.840
+But wait, wait, no, no, there are some things
+
+00:01:25.840 --> 00:01:27.820
+to get excited about here.
+
+00:01:27.820 --> 00:01:31.160
+Boost clocks have risen a whopping 43%
+
+00:01:31.160 --> 00:01:35.440
+compared to the RTX 3070 and the change to 12 gigabytes
+
+00:01:35.440 --> 00:01:38.720
+of GDDR6X memory is a welcome upgrade
+
+00:01:38.720 --> 00:01:41.640
+as we continue to watch VRAM usage in modern games
+
+00:01:41.640 --> 00:01:45.100
+go from unreasonable to downright idiotic.
+
+00:01:45.100 --> 00:01:46.940
+To quantify our excitement then,
+
+00:01:46.940 --> 00:01:51.940
+the lab performed a whopping 984 tests across 11 GPUs
+
+00:01:52.040 --> 00:01:55.020
+with CPUs from both Intel and AMD.
+
+00:01:55.020 --> 00:01:56.600
+We're gonna have links down below.
+
+00:01:56.600 --> 00:01:59.920
+They even threw in the Intel RK 770 for funsies.
+
+00:01:59.920 --> 00:02:02.860
+Now, 1080p performance in rasterized games
+
+00:02:02.860 --> 00:02:04.880
+might seem kind of irrelevant
+
+00:02:04.880 --> 00:02:07.600
+for an enthusiast tier GPU these days,
+
+00:02:07.600 --> 00:02:09.520
+but for many competitive gamers,
+
+00:02:09.520 --> 00:02:12.040
+high frame rates are way more important
+
+00:02:12.040 --> 00:02:13.480
+than high resolution.
+
+00:02:13.480 --> 00:02:17.440
+And if you're one of them, the RTX 4070 is proper quick
+
+00:02:17.440 --> 00:02:21.920
+with performance landing within 2% of the RTX 3080.
+
+00:02:21.920 --> 00:02:24.060
+This might not be the leap forward
+
+00:02:24.060 --> 00:02:25.240
+that you were hoping for,
+
+00:02:25.240 --> 00:02:28.960
+but given the pricing of even secondhand 3080s,
+
+00:02:28.960 --> 00:02:33.960
+it's kind of looking like a W, kind of, give me a sec.
+
+00:02:33.960 --> 00:02:36.660
+At 1440p, the story remains the same
+
+00:02:36.660 --> 00:02:40.680
+with the 4070 neck and neck with the RTX 3080.
+
+00:02:40.680 --> 00:02:43.160
+But what really stood out to us here
+
+00:02:43.160 --> 00:02:44.780
+at both of these resolutions
+
+00:02:44.780 --> 00:02:48.560
+is how flipping fast AMD's last gen has gotten
+
+00:02:48.560 --> 00:02:50.900
+thanks to their ongoing software updates.
+
+00:02:50.900 --> 00:02:55.900
+The 6800 XT now enjoys a small lead over the 3080
+
+00:02:56.360 --> 00:03:00.440
+with the 7900 XT coming in a whole 40% faster
+
+00:03:00.440 --> 00:03:04.880
+than the 4070 and nearly matching the RTX 4080,
+
+00:03:04.880 --> 00:03:07.680
+a GPU that costs $400 more.
+
+00:03:07.680 --> 00:03:12.680
+Then at 4K, the 4070s W gets even more twisted and complex
+
+00:03:13.440 --> 00:03:15.280
+because outside of Forza,
+
+00:03:15.280 --> 00:03:18.160
+the RTX 3080 ends up outrunning it
+
+00:03:18.160 --> 00:03:22.520
+by anywhere from five to 19%,
+
+00:03:22.520 --> 00:03:25.400
+or at least it does until you turn on ray tracing
+
+00:03:25.400 --> 00:03:27.760
+where the gap narrows significantly.
+
+00:03:27.760 --> 00:03:30.160
+Now the story Nvidia wants to focus on here
+
+00:03:30.160 --> 00:03:35.160
+is not how the 4070 beats last gen by 25 to 30%,
+
+00:03:35.520 --> 00:03:40.520
+but rather on how it convincingly destroys the GTX 1080.
+
+00:03:40.640 --> 00:03:42.160
+From my point of view though,
+
+00:03:42.160 --> 00:03:43.700
+beating a seven-year-old card
+
+00:03:43.700 --> 00:03:46.640
+is not the most incredible of feats,
+
+00:03:46.640 --> 00:03:48.160
+unless your name is Intel.
+
+00:03:48.160 --> 00:03:50.500
+It's just obvious that Nvidia is bringing this up
+
+00:03:50.500 --> 00:03:52.640
+because they recognize the generation
+
+00:03:52.640 --> 00:03:55.240
+over generation upgrade is not that big
+
+00:03:55.240 --> 00:03:58.160
+and they hope that it's all you Pascal owners out there
+
+00:03:58.160 --> 00:04:00.880
+that are finally gonna bite the bullet and upgrade.
+
+00:04:00.880 --> 00:04:02.140
+Moving on to productivity.
+
+00:04:02.140 --> 00:04:04.880
+In our benchmarks, there was one standout.
+
+00:04:04.880 --> 00:04:09.380
+In Photoshop, the Intel ARC A770 was able to best
+
+00:04:09.380 --> 00:04:13.160
+not only the 4070, but also the 4070 Ti
+
+00:04:13.160 --> 00:04:16.440
+and was even within spinning distance of the RTX 4080.
+
+00:04:16.440 --> 00:04:18.160
+I mean, I'm not sure that the average user
+
+00:04:18.160 --> 00:04:20.080
+updating their Tinder profile is gonna notice,
+
+00:04:20.080 --> 00:04:23.520
+but whatever hardware acceleration Intel built for ARC
+
+00:04:23.520 --> 00:04:25.140
+definitely works.
+
+00:04:25.140 --> 00:04:26.760
+Then outside of Photoshop,
+
+00:04:26.760 --> 00:04:29.360
+ARC returns to its rightful place at the bottom of the stack
+
+00:04:29.360 --> 00:04:32.280
+and the rest of the story remains largely the same as gaming
+
+00:04:32.280 --> 00:04:35.660
+with the RTX 3080 and 4070 trading places
+
+00:04:35.660 --> 00:04:37.320
+depending on the exact workload
+
+00:04:37.320 --> 00:04:39.480
+and AMD once again showing off
+
+00:04:39.480 --> 00:04:42.700
+that fine line driver development.
+
+00:04:42.700 --> 00:04:45.480
+Outside of Blender, which remains a sore spot for Team Red,
+
+00:04:45.480 --> 00:04:48.240
+the 6800 XT put on an amazing show
+
+00:04:48.240 --> 00:04:52.280
+winning more titles than it lost at a lower price.
+
+00:04:52.280 --> 00:04:55.640
+So if we're looking at the performance of an RTX 3080,
+
+00:04:55.640 --> 00:04:58.800
+but at the price of an RTX 3070 Ti,
+
+00:04:58.800 --> 00:05:01.140
+given how crap GPU prices have been
+
+00:05:01.140 --> 00:05:04.800
+for the last couple of years, this is great, right?
+
+00:05:04.800 --> 00:05:09.800
+Well, yes, but saying an RTX 4070 for $600
+
+00:05:10.520 --> 00:05:14.040
+is better than an RTX 3080 for like, what did it peak at?
+
+00:05:14.040 --> 00:05:16.320
+$1,600 or something like that?
+
+00:05:16.320 --> 00:05:18.640
+That's like saying that a paddle to the ass
+
+00:05:18.640 --> 00:05:21.400
+is better than a slap to the face.
+
+00:05:21.400 --> 00:05:23.760
+Both can be fun when the kids are out of town
+
+00:05:23.760 --> 00:05:26.360
+and we do have matching couples undies on lttstore.com
+
+00:05:26.360 --> 00:05:28.120
+by the way to make this even more awkward,
+
+00:05:28.120 --> 00:05:29.440
+but none of that is the point.
+
+00:05:29.440 --> 00:05:33.120
+The point is that when compared to last gen, sure,
+
+00:05:33.120 --> 00:05:37.300
+Nvidia gave us a solid increase in performance,
+
+00:05:37.300 --> 00:05:41.680
+but they also gave us an equally solid increase in price
+
+00:05:41.680 --> 00:05:44.160
+and this is the second time in two generations
+
+00:05:44.160 --> 00:05:45.920
+that they've pulled this move.
+
+00:05:45.920 --> 00:05:49.240
+When we went from the 1000 series to the 2000 series,
+
+00:05:49.240 --> 00:05:50.560
+they did the same thing.
+
+00:05:50.560 --> 00:05:52.640
+We got a nearly proportional increase
+
+00:05:52.640 --> 00:05:56.160
+in both price and performance with Nvidia hoarding
+
+00:05:56.160 --> 00:05:58.240
+the benefits of their new architecture
+
+00:05:58.240 --> 00:06:00.400
+and using them to line their own pockets
+
+00:06:00.400 --> 00:06:03.080
+rather than passing them along to the consumer.
+
+00:06:03.080 --> 00:06:05.200
+You see, the industry norm has been
+
+00:06:05.200 --> 00:06:08.200
+that as our manufacturing technology improves,
+
+00:06:08.200 --> 00:06:12.600
+the same amount of compute becomes less expensive.
+
+00:06:12.600 --> 00:06:13.440
+In this case,
+
+00:06:13.440 --> 00:06:16.360
+Nvidia went from Samsung's eight nanometer node
+
+00:06:16.360 --> 00:06:18.600
+to TSMC and five.
+
+00:06:18.600 --> 00:06:21.480
+That's how they packed the same number of CUDA cores
+
+00:06:21.480 --> 00:06:24.680
+into just 295 millimeters squared
+
+00:06:24.680 --> 00:06:28.700
+compared to the 392 millimeter squared die of the 3070,
+
+00:06:28.700 --> 00:06:30.600
+which is super cool,
+
+00:06:30.600 --> 00:06:34.200
+but then if it supposedly didn't cost any less,
+
+00:06:34.200 --> 00:06:36.160
+why the heck did they even bother?
+
+00:06:36.160 --> 00:06:38.100
+Well, there are two reasons for that.
+
+00:06:38.100 --> 00:06:41.360
+Efficiency and then probably more importantly,
+
+00:06:41.360 --> 00:06:43.400
+the RTX 4090.
+
+00:06:43.400 --> 00:06:45.400
+But let's talk efficiency first.
+
+00:06:45.400 --> 00:06:49.080
+For the amount of performance that the RTX 4070 delivers,
+
+00:06:49.080 --> 00:06:51.240
+it sips power.
+
+00:06:51.240 --> 00:06:53.640
+It has a TGP of 200 Watts,
+
+00:06:53.640 --> 00:06:56.400
+but Nvidia says that the average gaming power draw
+
+00:06:56.400 --> 00:06:59.280
+is more like 184 and in our testing,
+
+00:06:59.280 --> 00:07:01.080
+that was basically bang on,
+
+00:07:01.080 --> 00:07:03.080
+which is darn impressive given
+
+00:07:03.080 --> 00:07:05.440
+that the performance comparable RTX 3080
+
+00:07:05.440 --> 00:07:09.960
+drew an average of 296 Watts during the same test.
+
+00:07:09.960 --> 00:07:12.720
+Also a good sign is that the maximum recorded wattage
+
+00:07:12.720 --> 00:07:15.880
+of the 4070 was just 233 Watts
+
+00:07:15.880 --> 00:07:19.420
+compared to a whopping 412 for the 3080.
+
+00:07:19.420 --> 00:07:20.920
+So not only will you be saving money
+
+00:07:20.920 --> 00:07:22.100
+on your monthly energy bill,
+
+00:07:22.100 --> 00:07:24.480
+but you also don't have to worry about a power spike
+
+00:07:24.480 --> 00:07:27.540
+sending your aging power supply into the shadow realm.
+
+00:07:27.540 --> 00:07:29.200
+Now you might be hoping that this means
+
+00:07:29.200 --> 00:07:31.540
+there's a lot of headroom for overclocking,
+
+00:07:31.540 --> 00:07:33.400
+but sadly it looks like Nvidia
+
+00:07:33.400 --> 00:07:35.500
+has really locked this card down
+
+00:07:35.500 --> 00:07:37.760
+and we weren't able to meaningfully improve performance
+
+00:07:37.760 --> 00:07:40.540
+by tinkering with any of the knobs and dials.
+
+00:07:40.540 --> 00:07:42.480
+I don't think that this efficiency gain
+
+00:07:42.480 --> 00:07:45.620
+is why Nvidia decided to go TSMC 5N though.
+
+00:07:45.620 --> 00:07:48.280
+And it might actually have been better for consumers
+
+00:07:48.280 --> 00:07:50.080
+if they just took everything they learned
+
+00:07:50.080 --> 00:07:52.760
+about the mature eight nanometer Samsung node
+
+00:07:52.760 --> 00:07:55.220
+and then made better GPUs with it.
+
+00:07:55.220 --> 00:07:57.280
+Kind of like what they did back in 2014
+
+00:07:57.280 --> 00:07:59.760
+using the same 28 nanometer node
+
+00:07:59.760 --> 00:08:03.360
+for both the GTX 770 and 970.
+
+00:08:03.360 --> 00:08:05.640
+The issue though is if they had done that
+
+00:08:05.640 --> 00:08:09.000
+the RTX 4090 simply wouldn't have been feasible.
+
+00:08:09.000 --> 00:08:10.820
+It would have drawn too much power
+
+00:08:10.820 --> 00:08:13.080
+and it would have given AMD an opportunity
+
+00:08:13.080 --> 00:08:14.840
+to have a competitive flagship
+
+00:08:14.840 --> 00:08:18.220
+which would be utterly unacceptable.
+
+00:08:18.220 --> 00:08:20.340
+The 4090 is a true generational leap
+
+00:08:20.340 --> 00:08:23.760
+coming in at just 7% more cost than the 3090
+
+00:08:23.760 --> 00:08:26.160
+while being over 50% faster.
+
+00:08:26.160 --> 00:08:29.040
+So then why the heck isn't that true
+
+00:08:29.040 --> 00:08:31.360
+of the rest of the lineup Nvidia?
+
+00:08:31.360 --> 00:08:34.040
+Well, because from their point of view
+
+00:08:34.040 --> 00:08:37.280
+they did give you a generational performance leap
+
+00:08:37.280 --> 00:08:40.140
+but through AI rather than raw grunt.
+
+00:08:40.140 --> 00:08:43.440
+And in fairness, they aren't entirely wrong here.
+
+00:08:43.440 --> 00:08:46.280
+By turning on DLSS3 frame generation
+
+00:08:46.280 --> 00:08:50.840
+the RTX 4070 is able to easily dispatch the RTX 3080
+
+00:08:50.840 --> 00:08:55.520
+and even deliver performance about on par with the 4080
+
+00:08:55.520 --> 00:08:58.880
+before its AI assistance is kicked in.
+
+00:08:58.880 --> 00:09:02.700
+Now frame generation may increase input latency
+
+00:09:02.700 --> 00:09:05.840
+but Nvidia Reflex does go a long way
+
+00:09:05.840 --> 00:09:07.600
+towards bringing it back down.
+
+00:09:07.600 --> 00:09:10.800
+Is it as good as simply having a faster GPU
+
+00:09:10.800 --> 00:09:13.360
+and not using any of these tricks?
+
+00:09:13.360 --> 00:09:15.440
+That's a topic for another video.
+
+00:09:15.440 --> 00:09:18.900
+Sadly our labs team really does need to do things like sleep
+
+00:09:18.900 --> 00:09:20.800
+even if it's in their tents.
+
+00:09:20.800 --> 00:09:22.200
+Adding to Nvidia's argument
+
+00:09:22.200 --> 00:09:25.760
+currently there are dozens of games that support DLSS3
+
+00:09:25.760 --> 00:09:27.560
+and the list is rapidly expanding
+
+00:09:27.560 --> 00:09:29.480
+so you might as well just turn it on.
+
+00:09:29.480 --> 00:09:31.640
+But detracting from Nvidia's argument
+
+00:09:31.640 --> 00:09:34.300
+there are also tens of thousands of games
+
+00:09:34.300 --> 00:09:36.780
+that do not support DLSS3
+
+00:09:36.780 --> 00:09:39.860
+and will perform better on the 6800 XT.
+
+00:09:39.860 --> 00:09:42.700
+Making the 4070s position more precarious
+
+00:09:42.700 --> 00:09:46.680
+is the fact that pricing of 3070s and 3080s on eBay
+
+00:09:46.680 --> 00:09:48.360
+has been in free fall.
+
+00:09:48.360 --> 00:09:50.280
+Pro tip by the way, don't use buy it now
+
+00:09:50.280 --> 00:09:51.680
+because auctions have been completing
+
+00:09:51.680 --> 00:09:53.920
+literally a hundred dollars lower.
+
+00:09:53.920 --> 00:09:55.960
+Now it's worth noting that the 4070
+
+00:09:55.960 --> 00:09:59.000
+has some non-gaming generational advantages.
+
+00:09:59.000 --> 00:10:02.280
+It's new so it'll have driver support for longer
+
+00:10:02.280 --> 00:10:03.720
+and it comes with a warranty
+
+00:10:03.720 --> 00:10:06.240
+and it features AV1 encoding and decoding
+
+00:10:06.240 --> 00:10:09.080
+which is genuinely great and as a bonus
+
+00:10:09.080 --> 00:10:10.840
+this thing has been shockingly stable
+
+00:10:10.840 --> 00:10:12.680
+for being so early in its life cycle.
+
+00:10:12.680 --> 00:10:14.120
+And you could learn a thing or two.
+
+00:10:14.120 --> 00:10:15.800
+This is a really good product
+
+00:10:15.800 --> 00:10:16.760
+but that doesn't mean
+
+00:10:16.760 --> 00:10:18.920
+that we are unreservedly happy about it.
+
+00:10:18.920 --> 00:10:22.720
+Nvidia's whining about how they simply can't pass along
+
+00:10:22.720 --> 00:10:27.280
+any silicon cost savings just doesn't hold a ton of water.
+
+00:10:27.280 --> 00:10:29.260
+Development costs for new process nodes
+
+00:10:29.260 --> 00:10:31.560
+have increased substantially
+
+00:10:31.560 --> 00:10:35.120
+but I also think that Nvidia does have some room to move here
+
+00:10:35.120 --> 00:10:38.200
+if everyone else's pricing is anything to go by.
+
+00:10:38.200 --> 00:10:39.980
+One day, Ark will save us.
+
+00:10:41.520 --> 00:10:43.520
+But it is not this day.
+
+00:10:43.520 --> 00:10:46.520
+This day, I'm going to tell you about our sponsor.
+
+00:10:46.520 --> 00:10:50.360
+Vessi, it's April and you know what that means, rain.
+
+00:10:50.360 --> 00:10:51.360
+That's where Vessi comes in.
+
+00:10:51.360 --> 00:10:53.800
+They claim their shoes are 100% waterproof
+
+00:10:53.800 --> 00:10:57.020
+keeping your feet dry during those unexpected downpours.
+
+00:10:57.020 --> 00:10:58.360
+Take them on and off with ease.
+
+00:10:58.360 --> 00:11:00.280
+Vessi has designed their shoes to be stretchy
+
+00:11:00.280 --> 00:11:02.980
+and convenient to wear their slip-ons, yes!
+
+00:11:02.980 --> 00:11:04.880
+With a wide range of styles available,
+
+00:11:04.880 --> 00:11:07.080
+you're sure to find a pair that fits your lifestyle.
+
+00:11:07.080 --> 00:11:08.500
+Even better, their shoes are made
+
+00:11:08.500 --> 00:11:11.740
+from cruelty-free products right down to the glue.
+
+00:11:11.740 --> 00:11:13.760
+No more checking the weather right before you head out.
+
+00:11:13.760 --> 00:11:15.200
+A pair of Vessi's will ensure your feet
+
+00:11:15.200 --> 00:11:17.800
+are taken care of, rain or shine, snow or grime.
+
+00:11:17.800 --> 00:11:19.880
+There's always an occasion to throw on a pair of Vessi's.
+
+00:11:19.880 --> 00:11:23.440
+Not to mention, their styles are modern and trendy AF.
+
+00:11:23.440 --> 00:11:24.280
+Treat your feet.
+
+00:11:24.280 --> 00:11:27.080
+Check out Vessi at vessi.com slash LinusTechTips
+
+00:11:27.080 --> 00:11:30.040
+and use code LinusTechTips for 15% off.
+
+00:11:30.040 --> 00:11:31.120
+If you guys enjoyed this video,
+
+00:11:31.120 --> 00:11:33.400
+you might enjoy our coverage of the CPU
+
+00:11:33.400 --> 00:11:36.240
+that you should pair with really any of these GPUs.
+
+00:11:36.240 --> 00:11:50.680
+The 7800X3D, it is flippin' unreal for gaming.
+
