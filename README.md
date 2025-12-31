@@ -1,13 +1,36 @@
-# Project Report
+# GPU Launch Reactions on YouTube — How to Read This Project
 
-*Note: Feel free to replace these instructions with  project description for publication.*
+This project is designed to be consumed as a **standalone data story**. The **presentation is the main reading source**. The notebook is included as supporting evidence and reproducibility.
 
-INSTRUCTIONS
+## 1) Start with the presentation (main source)
+Open the slide deck first. It is written to be **holistic and independent**, meaning you can understand the story without a live presenter.
 
-- Create your DataStory repository from this template. Call it "DataStory_KEYWORDorNAME.
+## 2) Use the notebook to verify and explore (supporting evidence)
+The Jupyter notebook contains the full analysis pipeline and all intermediate steps used to generate the figures and numbers shown in the presentation.
 
-- Clone your repository to your computer. (Open Folder from Git)
+Use the notebook when you want to:
+- Check exact calculations behind a chart or statistic
+- See additional plots that didn’t fit into the deck
+- Understand cleaning/normalization steps
+- Re-run the analysis
 
-- Render/Preview `index.qmd` and `presentation.qmd` with quarto to produce a website `index.html` with a standalone revealjs presentation `presentation.html` which is also embedded as an `iframe`.
+Important methodological note: YouTube comment timestamps were not available, so time-series plots use **video upload month as a proxy** for when comments occurred. This is acceptable for the launch-window design but should be interpreted accordingly.
 
-- From here you can later publish the website on GitHub pages using the `quarto publish gh-pages` strategy shown in the [quarto documentation](https://quarto.org/docs/publishing/github-pages.html#publish-command). For this the repository needs to be public. 
+## 3) Repository structure (what each file is for)
+- `presentation.pdf` the main narrative artifact
+- `01_gpu_eda_main-report.ipynb` (and/or cleaned version): analysis + figures + supporting outputs
+- `01_gpu_eda_main-report.pdf`: static snapshot of the notebook for quick viewing
+- `youtube_videos.csv`: list of videos included and their metadata
+- `yt_fetch_comments.py`, `yt_fetch_transcripts.py`: data collection scripts
+- `yt_normalize.py`: cleaning/normalization utilities
+- `yt_stats.py`: descriptive statistics / summary helpers
+- `figures/`: exported visuals used in slides
+
+## 4) What to pay attention to
+The core message is not “which GPU is objectively best,” but how the community behaves around launches:
+- Attention is highly skewed (a few videos/models dominate discussion)
+- Price/value dominates conversation across generations
+- Comments are consistently more positive than creator transcripts
+- External context (e.g., 2021–2022 crypto boom) visibly affects discussion topics
+
+---
